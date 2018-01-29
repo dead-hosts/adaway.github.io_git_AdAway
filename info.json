@@ -7,5 +7,13 @@
     "list_name": "adaway.github.io.list",
     "name": "adaway.github.io",
     "raw_link": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
-    "stable": "0"
+    "stable": "0",
+    "arguments": [
+        "--travis",
+        "-a",
+        "-ex",
+        "--plain",
+        "--split",
+        "-t 2"
+    ]
 }
