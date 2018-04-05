@@ -1,13 +1,16 @@
 {
-    "arguments": [],
+    "arguments": [
+        "--commit-autosave-message \"[Autosave] Test of the adaway.github.io\"",
+        "--commit-results-message \"[Results] Test of the adaway.github.io\""
+    ],
+    "clean_list_file": "clean.list",
+    "clean_original": "1",
     "commit_autosave_message": "Test of the adaway.github.io",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1522037106",
+    "last_test": "1522963329",
     "list_name": "adaway.github.io.list",
     "name": "adaway.github.io",
     "raw_link": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
-    "stable": "0",
-    "clean_original": "1",
-    "clean_list_file": "clean.list"
+    "stable": "0"
 }
