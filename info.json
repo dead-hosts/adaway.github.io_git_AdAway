@@ -47,6 +47,8 @@
         "--commit-autosave-message \"[Autosave] Test of the adaway.github.io\"",
         "--commit-results-message \"[Results] Test of the adaway.github.io\"",
         "--commit-autosave-message \"[Autosave] Test of the adaway.github.io\"",
+        "--commit-results-message \"[Results] Test of the adaway.github.io\"",
+        "--commit-autosave-message \"[Autosave] Test of the adaway.github.io\"",
         "--commit-results-message \"[Results] Test of the adaway.github.io\""
     ],
     "clean_list_file": "clean.list",
@@ -54,7 +56,7 @@
     "commit_autosave_message": "Test of the adaway.github.io",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1526422873",
+    "last_test": "1526509325",
     "list_name": "adaway.github.io.list",
     "name": "adaway.github.io",
     "raw_link": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
