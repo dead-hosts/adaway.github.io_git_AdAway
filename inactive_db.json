@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/adaway.github.io.list": {
-        "1533250604": [
+        "1533423472": [
             "ad.madvertise.de",
             "ad.parrot.mable-inc.com",
             "ad.where.com",
@@ -227,9 +227,10 @@
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
-            "wwww.adleads.com",
-            "a.admob.com"
+            "wwww.adleads.com"
         ],
-        "to_test": []
+        "to_test": [
+            "a.admob.com"
+        ]
     }
 }
