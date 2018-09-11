@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: wc4AZcpskIGP59wNvsYnUYyaKB3c+Xgai/2vjmrWXVFTMxH7zAdf1HOXHIAhWO8FzbyjSbcy1SFyj2S+whT7um1aP5IatceG97AuKP+pRMConW5hxLaJlM12bzm4IXnszw0dhXlBawiBiAlOHpJ2gXVaN5svtzwA/qTm9umaTWwXUGwvzvrpYYZeaHxmL0Ega/G1ScIeaONhyI95RpLRUBfREfz+mF8rbTvK7U8OJr5oNJc2ZRq/+bKzIW+1d7Hpep0ruVXR4NB1lUpwLkViGAFLojpPFq8PxxVjNZMpprC46YYV6oYtjiRchJ8De7c09aQh0GFS8e0KAU+jHIQUrh1dIoDMiI8Br7zjUQmoWth3KR5J6eItG8VQFiOeDNR9FFlceKb1JpynbvWu7955BoTxZk6beTdAKeae/UZx8CHoJdhK+K1FjECSvBAq6IVIiJB6cLbiS6EMVPFzOCxo8/O4sc+CMpIXhys1hZ/eEBBmYRVxzulBS1yjCxA1IBztzwm3vbKQQjEPi37uPGcgDeyf4kTUtLh6kbiGcuaIRw2Gj7DkiBL8rWSLXJGf3EumX736BUybEH/Ot0lh4JvrUokkGAYgipIkffvQzJTdbzo2LI+QCq7+Eb0Dx7btiltO2D/PA3ge8iP0QhoC98RyTfCf6tluE1CtvTKQohqfHZg=
+    - secure: B09kwiI5jAmyZxC/3WPHha3PGIBtAzpZcrO/Ws261GvMk9SojiyGGtN6Jq1eod42Dh/XdEUCVhqq0j1N86jrzq11HLKicwHSrBBq9qa/Hhq6zj6DcorB/0dUD2eNjn5L2fNQSVQ6Ap2fDkFEY4vTjNsPR6Dm1Y3DdpyGlkpvL5wREE2ep4wOAxnR0w2VZwApbQwGNhEL/O0HyFnH/yAdTP63gKHfav4j/NfIrw3LY4NWkgwtp2wKysl+8a3xbwQnj8dn3GvnF7viHLYO0HvfQDhww+LhsKwKL0JFmZXQ+o29BuXFImL8h+huo7A7DSwdKls/36E3luRwfS+1AvTa+2ZQDabFXl8eA+9sJT/y8a6d/jdw3ChuQjtACcVhPhTCDxUPRB99+yHAZ+rFptRgOeV0JB4el6J6h8xFVQ1Olk8/Cz5wvA61v4DTfxK1LQj/4bmLlFPrJfH4hBR0flTRXSKTyVH7jHnkLB1UXxDTzaDELQ/K2VjYmJryz+TPDcZuUZiTnWYFVw8Kmb/VeE1GHVdBT2nflyrFQb3Ft32NptmeBA++PK2OLH8hOwnrZeGdp6BbPrccW1c947gZDXtLxI8d1KOp4/6FKnGgB5tewQgFm4wRzWOdzxjmQzgKTK8eNeo2wTpQVm6MSdHj74uhJqn2PcNPaCncul5OawgACh4=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/adaway.github.io_git_AdAway
@@ -9,7 +9,7 @@ env:
 language: python
 
 python:
-  - "3.6"
+  - "3.6.6"
 
 matrix:
   fast_finish: true
