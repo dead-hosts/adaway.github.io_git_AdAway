@@ -1,6 +1,6 @@
 {
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/adaway.github.io.list": {
-        "1551401195": [
+        "1551561730": [
             "a.admob.com",
             "ad1.adinfuse.com",
             "ad2.adinfuse.com",
@@ -112,6 +112,7 @@
             "cdn.mdotm.com",
             "cdn.us.goldspotmedia.com",
             "d3anogn3pbtk4v.cloudfront.net",
+            "edge.reporo.net",
             "f03.smaato.net",
             "f04.smaato.net",
             "f05.smaato.net",
@@ -204,6 +205,7 @@
             "neptune2.appads.com",
             "neptune3.appads.com",
             "neptune.appads.com",
+            "netdna.reporo.net",
             "orange-fr.adinfuse.com",
             "orangeuk-mc.adinfuse.com",
             "p.admob.com",
@@ -230,9 +232,7 @@
             "web63.jumptap.com",
             "web64.jumptap.com",
             "web65.jumptap.com",
-            "wwww.adleads.com",
-            "edge.reporo.net",
-            "netdna.reporo.net"
+            "wwww.adleads.com"
         ],
         "to_test": []
     }
