@@ -280,18 +280,6 @@
         "1569794545": {},
         "1569924624": {},
         "1570070411": {
-            "medrx.sensis.com.au": "INACTIVE",
-            "met.adwhirl.com": "INACTIVE",
-            "mob.adwhirl.com": "INACTIVE",
-            "mobiledl.adobe.com": "INACTIVE",
-            "mwc.velti.com": "INACTIVE",
-            "neptune.appads.com": "INACTIVE",
-            "neptune1.appads.com": "INACTIVE",
-            "neptune2.appads.com": "INACTIVE",
-            "neptune3.appads.com": "INACTIVE",
-            "p.admob.com": "INACTIVE",
-            "pagead.googlesyndication.com": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE",
             "req.appads.com": "INACTIVE",
             "req1.appads.com": "INACTIVE",
             "req2.appads.com": "INACTIVE",
@@ -499,7 +487,19 @@
             "jupiter.appads.com": "INACTIVE",
             "jupiter1.appads.com": "INACTIVE",
             "jupiter2.appads.com": "INACTIVE",
-            "jupiter3.appads.com": "INACTIVE"
+            "jupiter3.appads.com": "INACTIVE",
+            "medrx.sensis.com.au": "INACTIVE",
+            "met.adwhirl.com": "INACTIVE",
+            "mob.adwhirl.com": "INACTIVE",
+            "mobiledl.adobe.com": "INACTIVE",
+            "mwc.velti.com": "INACTIVE",
+            "neptune.appads.com": "INACTIVE",
+            "neptune1.appads.com": "INACTIVE",
+            "neptune2.appads.com": "INACTIVE",
+            "neptune3.appads.com": "INACTIVE",
+            "p.admob.com": "INACTIVE",
+            "pagead.googlesyndication.com": "INACTIVE",
+            "pagead1.googlesyndication.com": "INACTIVE"
         }
     }
 }
