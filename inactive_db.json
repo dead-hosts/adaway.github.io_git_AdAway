@@ -281,10 +281,6 @@
         "1569924624": {},
         "1570070411": {},
         "1570186490": {
-            "a.admob.com": "INACTIVE",
-            "ad.madvertise.de": "INACTIVE",
-            "ad.parrot.mable-inc.com": "INACTIVE",
-            "admicro2.vcmedia.vn": "INACTIVE",
             "ads.adiquity.com": "INACTIVE",
             "ads.admoda.com": "INACTIVE",
             "ads.matomymobile.com": "INACTIVE",
@@ -294,7 +290,6 @@
             "ads.ookla.com": "INACTIVE",
             "ads.saymedia.com": "INACTIVE",
             "ads.smartdevicemedia.com": "INACTIVE",
-            "ads1.mojiva.com": "INACTIVE",
             "ads2.mojiva.com": "INACTIVE",
             "ads3.mojiva.com": "INACTIVE",
             "ads4.mojiva.com": "INACTIVE",
@@ -499,6 +494,13 @@
             "web64.jumptap.com": "INACTIVE",
             "web65.jumptap.com": "INACTIVE",
             "www.mmnetwork.mobi": "INACTIVE"
+        },
+        "1570316515": {
+            "a.admob.com": "INACTIVE",
+            "ad.madvertise.de": "INACTIVE",
+            "ad.parrot.mable-inc.com": "INACTIVE",
+            "admicro2.vcmedia.vn": "INACTIVE",
+            "ads1.mojiva.com": "INACTIVE"
         }
     }
 }
