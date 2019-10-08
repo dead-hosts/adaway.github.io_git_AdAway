@@ -281,22 +281,7 @@
         "1569924624": {},
         "1570070411": {},
         "1570186490": {},
-        "1570316515": {
-            "ru.velti.com": "INACTIVE",
-            "saturn.appads.com": "INACTIVE",
-            "saturn1.appads.com": "INACTIVE",
-            "saturn2.appads.com": "INACTIVE",
-            "saturn3.appads.com": "INACTIVE",
-            "static.cdn.gtsmobi.com": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE",
-            "t.medialytics.com": "INACTIVE",
-            "tcy.smartadserver.com": "INACTIVE",
-            "us0.adlibr.com": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE",
-            "www.mmnetwork.mobi": "INACTIVE"
-        },
+        "1570316515": {},
         "1570489166": {
             "a.admob.com": "INACTIVE",
             "ad.madvertise.de": "INACTIVE",
@@ -501,7 +486,21 @@
             "req.appads.com": "INACTIVE",
             "req1.appads.com": "INACTIVE",
             "req2.appads.com": "INACTIVE",
-            "req3.appads.com": "INACTIVE"
+            "req3.appads.com": "INACTIVE",
+            "ru.velti.com": "INACTIVE",
+            "saturn.appads.com": "INACTIVE",
+            "saturn1.appads.com": "INACTIVE",
+            "saturn2.appads.com": "INACTIVE",
+            "saturn3.appads.com": "INACTIVE",
+            "static.cdn.gtsmobi.com": "INACTIVE",
+            "swappit.tapad.com": "INACTIVE",
+            "t.medialytics.com": "INACTIVE",
+            "tcy.smartadserver.com": "INACTIVE",
+            "us0.adlibr.com": "INACTIVE",
+            "web63.jumptap.com": "INACTIVE",
+            "web64.jumptap.com": "INACTIVE",
+            "web65.jumptap.com": "INACTIVE",
+            "www.mmnetwork.mobi": "INACTIVE"
         }
     }
 }
