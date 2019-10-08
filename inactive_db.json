@@ -282,10 +282,6 @@
         "1570070411": {},
         "1570186490": {},
         "1570316515": {
-            "req.appads.com": "INACTIVE",
-            "req1.appads.com": "INACTIVE",
-            "req2.appads.com": "INACTIVE",
-            "req3.appads.com": "INACTIVE",
             "ru.velti.com": "INACTIVE",
             "saturn.appads.com": "INACTIVE",
             "saturn1.appads.com": "INACTIVE",
@@ -501,7 +497,11 @@
             "neptune3.appads.com": "INACTIVE",
             "p.admob.com": "INACTIVE",
             "pagead.googlesyndication.com": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE"
+            "pagead1.googlesyndication.com": "INACTIVE",
+            "req.appads.com": "INACTIVE",
+            "req1.appads.com": "INACTIVE",
+            "req2.appads.com": "INACTIVE",
+            "req3.appads.com": "INACTIVE"
         }
     }
 }
