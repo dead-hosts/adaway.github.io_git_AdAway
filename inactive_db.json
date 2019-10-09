@@ -250,38 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1565613538": {},
-        "1565748917": {},
-        "1565921656": {},
-        "1566094999": {},
-        "1566267848": {},
-        "1566440244": {},
-        "1566613576": {},
-        "1566786395": {},
-        "1566958872": {},
-        "1567131894": {},
-        "1567304978": {},
-        "1567477505": {},
-        "1567650668": {},
-        "1567823196": {},
-        "1567996071": {},
-        "1568110390": {},
-        "1568255786": {},
-        "1568369460": {},
-        "1568498916": {},
-        "1568687343": {},
-        "1568800943": {},
-        "1568930548": {},
-        "1569062221": {},
-        "1569189952": {},
-        "1569378817": {},
-        "1569535332": {},
-        "1569638167": {},
-        "1569794545": {},
-        "1569924624": {},
-        "1570070411": {},
-        "1570186490": {},
-        "1570316515": {},
         "1570489166": {
             "a.admob.com": "INACTIVE",
             "ad.madvertise.de": "INACTIVE",
@@ -501,6 +469,43 @@
             "web64.jumptap.com": "INACTIVE",
             "web65.jumptap.com": "INACTIVE",
             "www.mmnetwork.mobi": "INACTIVE"
+        },
+        "1570659456": {
+            "a.applovin.com": "INACTIVE"
+        },
+        "1570659720": {
+            "ads.adadapted.com": "INACTIVE",
+            "ads2.greystripe.com": "INACTIVE"
+        },
+        "1570659721": {
+            "ads.celtra.com": "INACTIVE",
+            "ads.flurry.com": "INACTIVE",
+            "ads.mobclix.com": "INACTIVE"
+        },
+        "1570659722": {
+            "a.glcdn.co": "INACTIVE"
+        },
+        "1570659723": {
+            "a.medialytics.com": "INACTIVE",
+            "aio.lp.mydas.mobi": "INACTIVE"
+        },
+        "1570659855": {
+            "android-sdk31.transpera.com": "INACTIVE"
+        },
+        "1570659856": {
+            "an.yandex.ru": "INACTIVE"
+        },
+        "1570659859": {
+            "asotrack1.fluentmobile.com": "INACTIVE"
+        },
+        "1570659990": {
+            "assets.cntdy.mobi": "INACTIVE"
+        },
+        "1570659992": {
+            "au.youmi.net": "INACTIVE"
+        },
+        "1570660123": {
+            "c60.smaato.net": "INACTIVE"
         }
     }
 }
