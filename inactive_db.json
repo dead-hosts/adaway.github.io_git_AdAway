@@ -250,78 +250,27 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1570659456": {
-            "a.applovin.com": "INACTIVE"
-        },
-        "1570659720": {
-            "ads.adadapted.com": "INACTIVE",
-            "ads2.greystripe.com": "INACTIVE"
-        },
-        "1570659721": {
-            "ads.celtra.com": "INACTIVE",
-            "ads.flurry.com": "INACTIVE",
-            "ads.mobclix.com": "INACTIVE"
-        },
-        "1570659722": {
-            "a.glcdn.co": "INACTIVE"
-        },
-        "1570659723": {
-            "a.medialytics.com": "INACTIVE",
-            "aio.lp.mydas.mobi": "INACTIVE"
-        },
         "1570659855": {
             "android-sdk31.transpera.com": "INACTIVE"
         },
         "1570659856": {
             "an.yandex.ru": "INACTIVE"
         },
-        "1570659859": {
-            "asotrack1.fluentmobile.com": "INACTIVE"
-        },
         "1570659990": {
             "assets.cntdy.mobi": "INACTIVE"
-        },
-        "1570659992": {
-            "au.youmi.net": "INACTIVE"
-        },
-        "1570660123": {
-            "c60.smaato.net": "INACTIVE"
         },
         "1570661677": {
             "c753738.r38.cf2.rackcdn.com": "INACTIVE"
         },
-        "1570661679": {
-            "c.admob.com": "INACTIVE"
-        },
         "1570661680": {
             "cdn1.smartadserver.com": "INACTIVE"
-        },
-        "1570661681": {
-            "cdn.creative.medialytics.com": "INACTIVE"
         },
         "1570661811": {
             "c.greystripe.com": "INACTIVE",
             "cdn.trafficforce.com": "INACTIVE"
         },
-        "1570661942": {
-            "c.medialytics.com": "INACTIVE"
-        },
-        "1570661944": {
-            "c.vrvm.com": "INACTIVE",
-            "cvt.mydas.mobi": "INACTIVE"
-        },
         "1570661945": {
-            "d.applovin.com": "INACTIVE",
-            "data.mobclix.com": "INACTIVE"
-        },
-        "1570661949": {
-            "dispatch.admixer.co.kr": "INACTIVE"
-        },
-        "1570661950": {
-            "ftpcontent.worldnow.com": "INACTIVE"
-        },
-        "1570661951": {
-            "golds.lp.mydas.mobi": "INACTIVE"
+            "d.applovin.com": "INACTIVE"
         },
         "1570662081": {
             "go.mobpartner.mobi": "INACTIVE"
@@ -677,6 +626,45 @@
             "adtracker.inmobi.com": "INACTIVE",
             "c33.smaato.net": "INACTIVE",
             "f26.smaato.net": "INACTIVE"
+        },
+        "1570748780": {
+            "asotrack1.fluentmobile.com": "INACTIVE",
+            "c.vrvm.com": "INACTIVE",
+            "cdn.creative.medialytics.com": "INACTIVE"
+        },
+        "1570748782": {
+            "au.youmi.net": "INACTIVE"
+        },
+        "1570748911": {
+            "c60.smaato.net": "INACTIVE"
+        },
+        "1570748912": {
+            "a.glcdn.co": "INACTIVE",
+            "ads.flurry.com": "INACTIVE",
+            "ads.mobclix.com": "INACTIVE",
+            "ads2.greystripe.com": "INACTIVE",
+            "c.admob.com": "INACTIVE",
+            "data.mobclix.com": "INACTIVE"
+        },
+        "1570748913": {
+            "aio.lp.mydas.mobi": "INACTIVE",
+            "ftpcontent.worldnow.com": "INACTIVE",
+            "golds.lp.mydas.mobi": "INACTIVE"
+        },
+        "1570748914": {
+            "ads.celtra.com": "INACTIVE"
+        },
+        "1570748916": {
+            "dispatch.admixer.co.kr": "INACTIVE"
+        },
+        "1570748917": {
+            "a.applovin.com": "INACTIVE",
+            "a.medialytics.com": "INACTIVE",
+            "ads.adadapted.com": "INACTIVE",
+            "cvt.mydas.mobi": "INACTIVE"
+        },
+        "1570749047": {
+            "c.medialytics.com": "INACTIVE"
         }
     }
 }
