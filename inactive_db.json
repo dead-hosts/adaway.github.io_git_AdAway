@@ -250,48 +250,14 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1570659855": {
-            "android-sdk31.transpera.com": "INACTIVE"
-        },
-        "1570659856": {
-            "an.yandex.ru": "INACTIVE"
-        },
-        "1570659990": {
-            "assets.cntdy.mobi": "INACTIVE"
-        },
         "1570661677": {
             "c753738.r38.cf2.rackcdn.com": "INACTIVE"
-        },
-        "1570661680": {
-            "cdn1.smartadserver.com": "INACTIVE"
-        },
-        "1570661811": {
-            "c.greystripe.com": "INACTIVE",
-            "cdn.trafficforce.com": "INACTIVE"
-        },
-        "1570661945": {
-            "d.applovin.com": "INACTIVE"
-        },
-        "1570662081": {
-            "go.mobpartner.mobi": "INACTIVE"
         },
         "1570662082": {
             "go.vrvm.com": "INACTIVE"
         },
         "1570662086": {
             "gts-ads.twistbox.com": "INACTIVE"
-        },
-        "1570662091": {
-            "i.w.inmobi.com": "INACTIVE"
-        },
-        "1570662092": {
-            "lp.mp.mydas.mobi": "INACTIVE",
-            "lp.mydas.mobi": "INACTIVE",
-            "m.adsymptotic.com": "INACTIVE",
-            "m2m1.inner-active.mobi": "INACTIVE"
-        },
-        "1570662257": {
-            "mdn3origin.phluantmobile.net": "INACTIVE"
         },
         "1570666849": {
             "media.mydas.mobi": "INACTIVE"
@@ -665,6 +631,34 @@
         },
         "1570749047": {
             "c.medialytics.com": "INACTIVE"
+        },
+        "1570752263": {
+            "i.w.inmobi.com": "INACTIVE",
+            "lp.mydas.mobi": "INACTIVE",
+            "m.adsymptotic.com": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1570752393": {
+            "assets.cntdy.mobi": "INACTIVE"
+        },
+        "1570752524": {
+            "c.greystripe.com": "INACTIVE",
+            "d.applovin.com": "INACTIVE",
+            "go.mobpartner.mobi": "INACTIVE",
+            "lp.mp.mydas.mobi": "INACTIVE"
+        },
+        "1570752655": {
+            "cdn.trafficforce.com": "INACTIVE",
+            "cdn1.smartadserver.com": "INACTIVE"
+        },
+        "1570752656": {
+            "an.yandex.ru": "INACTIVE"
+        },
+        "1570752786": {
+            "android-sdk31.transpera.com": "INACTIVE"
+        },
+        "1570752917": {
+            "mdn3origin.phluantmobile.net": "INACTIVE"
         }
     }
 }
