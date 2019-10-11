@@ -250,12 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1570661677": {
-            "c753738.r38.cf2.rackcdn.com": "INACTIVE"
-        },
-        "1570662082": {
-            "go.vrvm.com": "INACTIVE"
-        },
         "1570662086": {
             "gts-ads.twistbox.com": "INACTIVE"
         },
@@ -266,18 +260,10 @@
             "mobile.Banzai.it": "INVALID"
         },
         "1570666982": {
-            "pagead2.googlesyndication.com": "INACTIVE",
             "pdn.applovin.com": "INACTIVE"
         },
-        "1570667112": {
-            "plugin.2easydroid.com": "INACTIVE"
-        },
         "1570667243": {
-            "p.medialytics.com": "INACTIVE",
-            "px.cdn.creative.medialytics.com": "INACTIVE"
-        },
-        "1570667376": {
-            "r.mobpartner.mobi": "INACTIVE"
+            "p.medialytics.com": "INACTIVE"
         },
         "1570671045": {
             "s0.2mdn.net": "INACTIVE",
@@ -659,6 +645,20 @@
         },
         "1570752917": {
             "mdn3origin.phluantmobile.net": "INACTIVE"
+        },
+        "1570756138": {
+            "go.vrvm.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE",
+            "px.cdn.creative.medialytics.com": "INACTIVE"
+        },
+        "1570756269": {
+            "plugin.2easydroid.com": "INACTIVE"
+        },
+        "1570756270": {
+            "c753738.r38.cf2.rackcdn.com": "INACTIVE"
+        },
+        "1570756401": {
+            "r.mobpartner.mobi": "INACTIVE"
         }
     }
 }
