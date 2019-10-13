@@ -251,15 +251,8 @@
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
         "1570748780": {
-            "asotrack1.fluentmobile.com": "INACTIVE",
             "c.vrvm.com": "INACTIVE",
             "cdn.creative.medialytics.com": "INACTIVE"
-        },
-        "1570748914": {
-            "ads.celtra.com": "INACTIVE"
-        },
-        "1570748917": {
-            "a.medialytics.com": "INACTIVE"
         },
         "1570752263": {
             "m.adsymptotic.com": "INACTIVE",
@@ -267,13 +260,6 @@
         },
         "1570752393": {
             "assets.cntdy.mobi": "INACTIVE"
-        },
-        "1570752655": {
-            "cdn.trafficforce.com": "INACTIVE",
-            "cdn1.smartadserver.com": "INACTIVE"
-        },
-        "1570756269": {
-            "plugin.2easydroid.com": "INACTIVE"
         },
         "1570759498": {
             "c09.smaato.net": "INACTIVE"
@@ -290,12 +276,6 @@
         "1570759506": {
             "img.ads3.mocean.mobi": "INACTIVE"
         },
-        "1570759507": {
-            "img.ads2.mojiva.com": "INACTIVE"
-        },
-        "1570759508": {
-            "c33.smaato.net": "INACTIVE"
-        },
         "1570759510": {
             "c02.smaato.net": "INACTIVE",
             "c24.smaato.net": "INACTIVE"
@@ -305,9 +285,7 @@
         },
         "1570759512": {
             "admicro2.vcmedia.vn": "INACTIVE",
-            "ads.saymedia.com": "INACTIVE",
-            "mob.adwhirl.com": "INACTIVE",
-            "pagead.googlesyndication.com": "INACTIVE"
+            "mob.adwhirl.com": "INACTIVE"
         },
         "1570759645": {
             "p.medialytics.com": "INACTIVE"
@@ -315,7 +293,6 @@
         "1570759647": {
             "c11.smaato.net": "INACTIVE",
             "f37.smaato.net": "INACTIVE",
-            "met.adwhirl.com": "INACTIVE",
             "neptune.appads.com": "INACTIVE"
         },
         "1570759650": {
@@ -324,19 +301,11 @@
         "1570759651": {
             "ads.matomymobile.com": "INACTIVE"
         },
-        "1570759652": {
-            "img.ads4.mocean.mobi": "INACTIVE"
-        },
         "1570759655": {
-            "img.ads2.mocean.mobi": "INACTIVE",
             "jupiter3.appads.com": "INACTIVE"
         },
         "1570759656": {
-            "ads5.mojiva.com": "INACTIVE",
             "adserver.ubiyoo.com": "INACTIVE"
-        },
-        "1570759657": {
-            "c46.smaato.net": "INACTIVE"
         },
         "1570759661": {
             "f49.smaato.net": "INACTIVE"
@@ -358,9 +327,6 @@
             "f52.smaato.net": "INACTIVE",
             "soma.smaato.net": "INACTIVE"
         },
-        "1570759668": {
-            "c43.smaato.net": "INACTIVE"
-        },
         "1570759669": {
             "f54.smaato.net": "INACTIVE"
         },
@@ -369,9 +335,6 @@
         },
         "1570759671": {
             "c54.smaato.net": "INACTIVE"
-        },
-        "1570759672": {
-            "f31.smaato.net": "INACTIVE"
         },
         "1570759673": {
             "ads.mdotm.com": "INACTIVE"
@@ -386,15 +349,9 @@
             "neptune3.appads.com": "INACTIVE",
             "static.cdn.gtsmobi.com": "INACTIVE"
         },
-        "1570759681": {
-            "p.admob.com": "INACTIVE"
-        },
         "1570759682": {
             "f12.smaato.net": "INACTIVE",
             "images.millennialmedia.com": "INACTIVE"
-        },
-        "1570759683": {
-            "f45.smaato.net": "INACTIVE"
         },
         "1570759684": {
             "ads.n-ws.org": "INACTIVE",
@@ -705,6 +662,39 @@
         },
         "1570925603": {
             "mdn3origin.phluantmobile.net": "INACTIVE"
+        },
+        "1570929836": {
+            "f45.smaato.net": "INACTIVE"
+        },
+        "1570929837": {
+            "a.medialytics.com": "INACTIVE",
+            "ads.celtra.com": "INACTIVE",
+            "f31.smaato.net": "INACTIVE",
+            "img.ads4.mocean.mobi": "INACTIVE"
+        },
+        "1570929967": {
+            "ads.saymedia.com": "INACTIVE",
+            "c46.smaato.net": "INACTIVE",
+            "cdn.trafficforce.com": "INACTIVE",
+            "img.ads2.mojiva.com": "INACTIVE"
+        },
+        "1570929968": {
+            "asotrack1.fluentmobile.com": "INACTIVE",
+            "c33.smaato.net": "INACTIVE",
+            "c43.smaato.net": "INACTIVE",
+            "img.ads2.mocean.mobi": "INACTIVE",
+            "met.adwhirl.com": "INACTIVE",
+            "p.admob.com": "INACTIVE",
+            "pagead.googlesyndication.com": "INACTIVE"
+        },
+        "1570929969": {
+            "ads5.mojiva.com": "INACTIVE"
+        },
+        "1570929970": {
+            "cdn1.smartadserver.com": "INACTIVE"
+        },
+        "1570930100": {
+            "plugin.2easydroid.com": "INACTIVE"
         }
     }
 }
