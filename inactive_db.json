@@ -251,7 +251,6 @@
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
         "1571111804": {
-            "adserver.ubiyoo.com": "INACTIVE",
             "c06.smaato.net": "INACTIVE",
             "c21.smaato.net": "INACTIVE",
             "c48.smaato.net": "INACTIVE",
@@ -282,7 +281,6 @@
         },
         "1571111808": {
             "c14.smaato.net": "INACTIVE",
-            "c45.smaato.net": "INACTIVE",
             "jupiter1.appads.com": "INACTIVE",
             "mwc.velti.com": "INACTIVE"
         },
@@ -291,8 +289,7 @@
         },
         "1571111811": {
             "atti.velti.com": "INACTIVE",
-            "f34.smaato.net": "INACTIVE",
-            "ifc.inmobi.com": "INACTIVE"
+            "f34.smaato.net": "INACTIVE"
         },
         "1571111812": {
             "ads.n-ws.org": "INACTIVE",
@@ -362,9 +359,6 @@
         "1571115548": {
             "gts-ads.twistbox.com": "INACTIVE"
         },
-        "1571115678": {
-            "assets.cntdy.mobi": "INACTIVE"
-        },
         "1571115679": {
             "adsrv1.tapad.com": "INACTIVE",
             "c08.smaato.net": "INACTIVE",
@@ -375,8 +369,7 @@
             "img.ads2.mocean.mobi": "INACTIVE"
         },
         "1571115680": {
-            "f23.smaato.net": "INACTIVE",
-            "p.admob.com": "INACTIVE"
+            "f23.smaato.net": "INACTIVE"
         },
         "1571115681": {
             "ads.celtra.com": "INACTIVE",
@@ -418,7 +411,6 @@
             "c04.smaato.net": "INACTIVE",
             "c26.smaato.net": "INACTIVE",
             "f12.smaato.net": "INACTIVE",
-            "f45.smaato.net": "INACTIVE",
             "web63.jumptap.com": "INACTIVE"
         },
         "1571115947": {
@@ -522,7 +514,6 @@
             "c02.smaato.net": "INACTIVE",
             "f26.smaato.net": "INACTIVE",
             "f58.smaato.net": "INACTIVE",
-            "p.medialytics.com": "INACTIVE",
             "suo.lp.mydas.mobi": "INACTIVE"
         },
         "1571120152": {
@@ -554,15 +545,13 @@
             "bos-tapreq15.jumptap.com": "INACTIVE",
             "f35.smaato.net": "INACTIVE",
             "f36.smaato.net": "INACTIVE",
-            "mobile.Banzai.it": "INVALID",
             "web65.jumptap.com": "INACTIVE"
         },
         "1571120158": {
             "c31.smaato.net": "INACTIVE",
             "c50.smaato.net": "INACTIVE",
             "f05.smaato.net": "INACTIVE",
-            "f09.smaato.net": "INACTIVE",
-            "f21.smaato.net": "INACTIVE"
+            "f09.smaato.net": "INACTIVE"
         },
         "1571120288": {
             "android-sdk31.transpera.com": "INACTIVE"
@@ -636,7 +625,6 @@
         },
         "1571124082": {
             "analytics.admob.com": "INACTIVE",
-            "bos-tapreq18.jumptap.com": "INACTIVE",
             "c09.smaato.net": "INACTIVE",
             "i.jumptap.com": "INACTIVE",
             "us0.adlibr.com": "INACTIVE"
@@ -657,6 +645,26 @@
             "f49.smaato.net": "INACTIVE",
             "img.ads2.mojiva.com": "INACTIVE",
             "saturn2.appads.com": "INACTIVE"
+        },
+        "1571255028": {
+            "c45.smaato.net": "INACTIVE",
+            "f45.smaato.net": "INACTIVE",
+            "mobile.Banzai.it": "INVALID",
+            "p.admob.com": "INACTIVE"
+        },
+        "1571255158": {
+            "f21.smaato.net": "INACTIVE",
+            "p.medialytics.com": "INACTIVE"
+        },
+        "1571255159": {
+            "adserver.ubiyoo.com": "INACTIVE",
+            "ifc.inmobi.com": "INACTIVE"
+        },
+        "1571255160": {
+            "bos-tapreq18.jumptap.com": "INACTIVE"
+        },
+        "1571255289": {
+            "assets.cntdy.mobi": "INACTIVE"
         }
     }
 }
