@@ -250,421 +250,444 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1571255028": {
-            "c45.smaato.net": "INACTIVE",
-            "f45.smaato.net": "INACTIVE",
-            "mobile.Banzai.it": "INVALID",
-            "p.admob.com": "INACTIVE"
+        "1571393595": {
+            "a.admob.com": "INACTIVE",
+            "a.applovin.com": "INACTIVE"
         },
-        "1571255158": {
-            "f21.smaato.net": "INACTIVE",
-            "p.medialytics.com": "INACTIVE"
+        "1571393604": {
+            "ad.madvertise.de": "INACTIVE"
         },
-        "1571255159": {
-            "adserver.ubiyoo.com": "INACTIVE",
-            "ifc.inmobi.com": "INACTIVE"
+        "1571393605": {
+            "admicro2.vcmedia.vn": "INACTIVE"
         },
-        "1571255160": {
-            "bos-tapreq18.jumptap.com": "INACTIVE"
-        },
-        "1571255289": {
-            "assets.cntdy.mobi": "INACTIVE"
-        },
-        "1571259869": {
-            "f18.smaato.net": "INACTIVE",
-            "f43.smaato.net": "INACTIVE",
-            "img.ads1.mojiva.com": "INACTIVE",
-            "neptune1.appads.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE"
-        },
-        "1571259870": {
-            "bos-tapreq15.jumptap.com": "INACTIVE",
-            "c06.smaato.net": "INACTIVE",
-            "c39.smaato.net": "INACTIVE",
-            "f05.smaato.net": "INACTIVE"
-        },
-        "1571259871": {
-            "ads2.mojiva.com": "INACTIVE",
-            "bos-tapreq03.jumptap.com": "INACTIVE",
-            "bos-tapreq13.jumptap.com": "INACTIVE",
-            "f24.smaato.net": "INACTIVE",
-            "f31.smaato.net": "INACTIVE"
-        },
-        "1571259872": {
-            "bos-tapreq10.jumptap.com": "INACTIVE",
-            "c18.smaato.net": "INACTIVE",
-            "cdn.us.goldspotmedia.com": "INACTIVE",
-            "f17.smaato.net": "INACTIVE",
-            "f59.smaato.net": "INACTIVE",
-            "mobiledl.adobe.com": "INACTIVE"
-        },
-        "1571259873": {
-            "ads.adadapted.com": "INACTIVE",
-            "c07.smaato.net": "INACTIVE",
-            "c51.smaato.net": "INACTIVE",
-            "f39.smaato.net": "INACTIVE",
-            "f57.smaato.net": "INACTIVE",
-            "img.ads2.mojiva.com": "INACTIVE",
-            "mob.adwhirl.com": "INACTIVE"
-        },
-        "1571259874": {
-            "ads.mdotm.com": "INACTIVE",
-            "bos-tapreq11.jumptap.com": "INACTIVE",
-            "c38.smaato.net": "INACTIVE",
-            "f32.smaato.net": "INACTIVE",
-            "f35.smaato.net": "INACTIVE",
-            "f53.smaato.net": "INACTIVE"
-        },
-        "1571259875": {
-            "c23.smaato.net": "INACTIVE",
-            "c47.smaato.net": "INACTIVE",
-            "cdn.ajillionmax.com": "INACTIVE",
-            "data.mobclix.com": "INACTIVE",
-            "f30.smaato.net": "INACTIVE",
-            "f48.smaato.net": "INACTIVE",
-            "f55.smaato.net": "INACTIVE",
-            "f60.smaato.net": "INACTIVE"
-        },
-        "1571259876": {
-            "bos-tapreq01.jumptap.com": "INACTIVE",
-            "c04.smaato.net": "INACTIVE",
-            "c28.smaato.net": "INACTIVE",
-            "cvt.mydas.mobi": "INACTIVE",
-            "us0.adlibr.com": "INACTIVE"
-        },
-        "1571259877": {
-            "c.admob.com": "INACTIVE",
-            "img.ads1.mocean.mobi": "INACTIVE",
-            "soma.smaato.net": "INACTIVE"
-        },
-        "1571260007": {
-            "c43.smaato.net": "INACTIVE",
-            "f44.smaato.net": "INACTIVE",
-            "plugin.2easydroid.com": "INACTIVE"
-        },
-        "1571260008": {
-            "img.ads.mojiva.com": "INACTIVE"
-        },
-        "1571260138": {
-            "go.mobpartner.mobi": "INACTIVE"
-        },
-        "1571260139": {
-            "analytics.admob.com": "INACTIVE"
-        },
-        "1571260269": {
-            "c.medialytics.com": "INACTIVE",
-            "f56.smaato.net": "INACTIVE"
-        },
-        "1571260271": {
-            "au.youmi.net": "INACTIVE"
-        },
-        "1571260272": {
-            "aio.lp.mydas.mobi": "INACTIVE",
-            "bos-tapreq05.jumptap.com": "INACTIVE",
-            "c58.smaato.net": "INACTIVE",
-            "f26.smaato.net": "INACTIVE",
-            "f29.smaato.net": "INACTIVE",
-            "jupiter2.appads.com": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE"
-        },
-        "1571260273": {
-            "c12.smaato.net": "INACTIVE",
-            "c32.smaato.net": "INACTIVE",
-            "c54.smaato.net": "INACTIVE",
-            "f07.smaato.net": "INACTIVE",
-            "f47.smaato.net": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE",
-            "req3.appads.com": "INACTIVE",
-            "www.mmnetwork.mobi": "INACTIVE"
-        },
-        "1571260274": {
-            "ads.mobclix.com": "INACTIVE",
-            "c08.smaato.net": "INACTIVE",
-            "c26.smaato.net": "INACTIVE",
-            "c40.smaato.net": "INACTIVE",
-            "f08.smaato.net": "INACTIVE",
-            "lp.mydas.mobi": "INACTIVE",
-            "req1.appads.com": "INACTIVE"
-        },
-        "1571260275": {
-            "asotrack1.fluentmobile.com": "INACTIVE",
-            "bos-tapreq09.jumptap.com": "INACTIVE",
-            "f03.smaato.net": "INACTIVE"
-        },
-        "1571260276": {
-            "a.glcdn.co": "INACTIVE",
-            "c05.smaato.net": "INACTIVE",
-            "c49.smaato.net": "INACTIVE",
-            "f15.smaato.net": "INACTIVE",
-            "img.ads.huntmad.com": "INACTIVE"
-        },
-        "1571260277": {
-            "bos-tapreq19.jumptap.com": "INACTIVE",
-            "c.greystripe.com": "INACTIVE",
-            "c19.smaato.net": "INACTIVE",
-            "c22.smaato.net": "INACTIVE",
-            "f23.smaato.net": "INACTIVE"
-        },
-        "1571260278": {
-            "adsrv1.tapad.com": "INACTIVE",
-            "c11.smaato.net": "INACTIVE"
-        },
-        "1571260408": {
-            "mdn3origin.phluantmobile.net": "INACTIVE"
-        },
-        "1571260409": {
-            "ads5.mojiva.com": "INACTIVE",
-            "c33.smaato.net": "INACTIVE",
-            "static.cdn.gtsmobi.com": "INACTIVE"
-        },
-        "1571260410": {
-            "cdn.mdotm.com": "INACTIVE",
-            "f19.smaato.net": "INACTIVE",
-            "f36.smaato.net": "INACTIVE",
-            "f38.smaato.net": "INACTIVE"
-        },
-        "1571260540": {
-            "c60.smaato.net": "INACTIVE"
-        },
-        "1571264408": {
-            "f49.smaato.net": "INACTIVE",
-            "neptune.appads.com": "INACTIVE"
-        },
-        "1571264409": {
-            "ads.smartdevicemedia.com": "INACTIVE",
-            "c27.smaato.net": "INACTIVE",
-            "c37.smaato.net": "INACTIVE",
-            "c57.smaato.net": "INACTIVE",
-            "f10.smaato.net": "INACTIVE",
-            "lp.mp.mydas.mobi": "INACTIVE"
-        },
-        "1571264415": {
-            "bos-tapreq12.jumptap.com": "INACTIVE",
-            "gts-ads.twistbox.com": "INACTIVE"
-        },
-        "1571264416": {
-            "ads3.mojiva.com": "INACTIVE",
-            "tcy.smartadserver.com": "INACTIVE"
-        },
-        "1571264417": {
-            "adtracker.inmobi.com": "INACTIVE",
-            "c59.smaato.net": "INACTIVE",
-            "cdn.creative.medialytics.com": "INACTIVE",
-            "f12.smaato.net": "INACTIVE",
-            "go.vrvm.com": "INACTIVE",
-            "img.ads.mocean.mobi": "INACTIVE"
-        },
-        "1571264418": {
-            "bos-tapreq04.jumptap.com": "INACTIVE",
-            "c15.smaato.net": "INACTIVE",
-            "f13.smaato.net": "INACTIVE",
-            "img.ads3.mocean.mobi": "INACTIVE",
-            "saturn.appads.com": "INACTIVE"
-        },
-        "1571264419": {
-            "ads.matomymobile.com": "INACTIVE",
-            "ads.n-ws.org": "INACTIVE",
-            "ads.saymedia.com": "INACTIVE",
-            "c20.smaato.net": "INACTIVE",
-            "c53.smaato.net": "INACTIVE",
-            "m.adsymptotic.com": "INACTIVE",
-            "pdn.applovin.com": "INACTIVE"
-        },
-        "1571264550": {
+        "1571393607": {
+            "ad.parrot.mable-inc.com": "INACTIVE",
+            "ads1.mojiva.com": "INACTIVE",
             "ads2.greystripe.com": "INACTIVE"
         },
-        "1571264551": {
-            "c25.smaato.net": "INACTIVE",
-            "c42.smaato.net": "INACTIVE",
-            "c50.smaato.net": "INACTIVE",
-            "f16.smaato.net": "INACTIVE",
-            "pagead2.googlesyndication.com": "INACTIVE",
-            "px.cdn.creative.medialytics.com": "INACTIVE"
-        },
-        "1571264552": {
-            "cdn1.smartadserver.com": "INACTIVE",
-            "f22.smaato.net": "INACTIVE",
-            "img.ads3.mojiva.com": "INACTIVE"
-        },
-        "1571264553": {
-            "c16.smaato.net": "INACTIVE",
-            "i.tapit.com": "INACTIVE",
-            "ru.velti.com": "INACTIVE"
-        },
-        "1571264554": {
-            "admicro2.vcmedia.vn": "INACTIVE",
-            "c35.smaato.net": "INACTIVE",
-            "f06.smaato.net": "INACTIVE",
-            "f14.smaato.net": "INACTIVE",
-            "f33.smaato.net": "INACTIVE",
-            "suo.lp.mydas.mobi": "INACTIVE",
-            "t.medialytics.com": "INACTIVE"
-        },
-        "1571264555": {
-            "images.millennialmedia.com": "INACTIVE"
-        },
-        "1571264556": {
-            "bos-tapreq07.jumptap.com": "INACTIVE",
-            "c41.smaato.net": "INACTIVE",
-            "f40.smaato.net": "INACTIVE",
-            "img.ads4.mojiva.com": "INACTIVE",
-            "met.adwhirl.com": "INACTIVE"
-        },
-        "1571264557": {
-            "ads.admoda.com": "INACTIVE",
-            "bos-tapreq16.jumptap.com": "INACTIVE",
-            "c.vrvm.com": "INACTIVE",
-            "c46.smaato.net": "INACTIVE",
-            "req.appads.com": "INACTIVE"
-        },
-        "1571264558": {
-            "atti.velti.com": "INACTIVE",
-            "bos-tapreq20.jumptap.com": "INACTIVE"
-        },
-        "1571264559": {
-            "a.applovin.com": "INACTIVE",
-            "c36.smaato.net": "INACTIVE",
-            "c56.smaato.net": "INACTIVE",
-            "f20.smaato.net": "INACTIVE",
-            "img.ads4.mocean.mobi": "INACTIVE",
-            "pagead.googlesyndication.com": "INACTIVE",
-            "saturn3.appads.com": "INACTIVE"
-        },
-        "1571264560": {
-            "bos-tapreq02.jumptap.com": "INACTIVE",
-            "c03.smaato.net": "INACTIVE",
-            "c31.smaato.net": "INACTIVE"
-        },
-        "1571264561": {
+        "1571393608": {
+            "ads.adadapted.com": "INACTIVE",
+            "ads2.mojiva.com": "INACTIVE",
+            "ads3.mojiva.com": "INACTIVE",
             "ads4.mojiva.com": "INACTIVE",
-            "an.yandex.ru": "INACTIVE",
-            "c29.smaato.net": "INACTIVE",
-            "f09.smaato.net": "INACTIVE",
-            "i.w.inmobi.com": "INACTIVE"
+            "ads5.mojiva.com": "INACTIVE"
         },
-        "1571264562": {
-            "c13.smaato.net": "INACTIVE",
-            "c24.smaato.net": "INACTIVE",
-            "f41.smaato.net": "INACTIVE",
-            "img.ads.mobilefuse.net": "INACTIVE",
-            "saturn1.appads.com": "INACTIVE"
-        },
-        "1571264564": {
-            "ad.parrot.mable-inc.com": "INACTIVE"
-        },
-        "1571264565": {
-            "c29new.smaato.net": "INACTIVE",
-            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
-            "f51.smaato.net": "INACTIVE",
-            "img.ads2.mocean.mobi": "INACTIVE"
-        },
-        "1571264696": {
-            "cdn.trafficforce.com": "INACTIVE"
-        },
-        "1571268299": {
-            "ads.celtra.com": "INACTIVE",
-            "api.yp.com": "INACTIVE",
-            "c48.smaato.net": "INACTIVE"
-        },
-        "1571268300": {
+        "1571393609": {
             "ads.adiquity.com": "INACTIVE",
-            "c34.smaato.net": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE"
+            "ads.admoda.com": "INACTIVE",
+            "ads.celtra.com": "INACTIVE"
         },
-        "1571268301": {
-            "ads.ookla.com": "INACTIVE",
-            "f42.smaato.net": "INACTIVE",
-            "ftpcontent.worldnow.com": "INACTIVE",
-            "img.ads.taptapnetworks.com": "INACTIVE",
-            "jupiter.appads.com": "INACTIVE",
-            "sf.vserv.mobi": "INACTIVE"
+        "1571393610": {
+            "ads.flurry.com": "INACTIVE",
+            "adserver.ubiyoo.com": "INACTIVE"
         },
-        "1571268302": {
-            "c44.smaato.net": "INACTIVE",
-            "f58.smaato.net": "INACTIVE"
+        "1571393611": {
+            "ads.matomymobile.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "ads.mobclix.com": "INACTIVE"
         },
-        "1571268431": {
-            "android-sdk31.transpera.com": "INACTIVE",
+        "1571393612": {
+            "ads.mobgold.com": "INACTIVE",
+            "ads.n-ws.org": "INACTIVE",
+            "ads.ookla.com": "INACTIVE"
+        },
+        "1571393613": {
+            "ads.saymedia.com": "INACTIVE",
+            "ads.smartdevicemedia.com": "INACTIVE",
+            "adsrv1.tapad.com": "INACTIVE"
+        },
+        "1571393614": {
+            "a.glcdn.co": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
+            "aio.lp.mydas.mobi": "INACTIVE"
+        },
+        "1571393615": {
+            "a.medialytics.com": "INACTIVE",
+            "analytics.admob.com": "INACTIVE"
+        },
+        "1571393622": {
+            "an.yandex.ru": "INACTIVE",
+            "android-sdk31.transpera.com": "INACTIVE"
+        },
+        "1571393625": {
+            "api.yp.com": "INACTIVE"
+        },
+        "1571393626": {
+            "apps.buzzcity.net": "INACTIVE",
+            "asotrack1.fluentmobile.com": "INACTIVE"
+        },
+        "1571393632": {
+            "assets.cntdy.mobi": "INACTIVE"
+        },
+        "1571393633": {
+            "atti.velti.com": "INACTIVE"
+        },
+        "1571393635": {
+            "au.youmi.net": "INACTIVE"
+        },
+        "1571393636": {
+            "bo.jumptap.com": "INACTIVE"
+        },
+        "1571393637": {
+            "bos-tapreq01.jumptap.com": "INACTIVE",
+            "bos-tapreq02.jumptap.com": "INACTIVE"
+        },
+        "1571393638": {
+            "bos-tapreq03.jumptap.com": "INACTIVE",
+            "bos-tapreq04.jumptap.com": "INACTIVE",
+            "bos-tapreq05.jumptap.com": "INACTIVE"
+        },
+        "1571393639": {
+            "bos-tapreq06.jumptap.com": "INACTIVE",
+            "bos-tapreq07.jumptap.com": "INACTIVE"
+        },
+        "1571393640": {
+            "bos-tapreq08.jumptap.com": "INACTIVE",
+            "bos-tapreq09.jumptap.com": "INACTIVE"
+        },
+        "1571393641": {
+            "bos-tapreq10.jumptap.com": "INACTIVE",
+            "bos-tapreq11.jumptap.com": "INACTIVE",
+            "bos-tapreq12.jumptap.com": "INACTIVE"
+        },
+        "1571393642": {
+            "bos-tapreq13.jumptap.com": "INACTIVE",
+            "bos-tapreq14.jumptap.com": "INACTIVE",
+            "bos-tapreq15.jumptap.com": "INACTIVE"
+        },
+        "1571393643": {
+            "bos-tapreq16.jumptap.com": "INACTIVE",
+            "bos-tapreq17.jumptap.com": "INACTIVE"
+        },
+        "1571393644": {
+            "bos-tapreq18.jumptap.com": "INACTIVE",
+            "bos-tapreq19.jumptap.com": "INACTIVE",
+            "bos-tapreq20.jumptap.com": "INACTIVE",
+            "c01.smaato.net": "INACTIVE",
+            "c02.smaato.net": "INACTIVE"
+        },
+        "1571393645": {
+            "c03.smaato.net": "INACTIVE",
+            "c04.smaato.net": "INACTIVE",
+            "c05.smaato.net": "INACTIVE",
+            "c06.smaato.net": "INACTIVE",
+            "c07.smaato.net": "INACTIVE",
+            "c08.smaato.net": "INACTIVE",
             "c09.smaato.net": "INACTIVE",
-            "f27.smaato.net": "INACTIVE"
+            "c10.smaato.net": "INACTIVE",
+            "c11.smaato.net": "INACTIVE"
         },
-        "1571268434": {
+        "1571393646": {
+            "c12.smaato.net": "INACTIVE",
+            "c13.smaato.net": "INACTIVE",
+            "c14.smaato.net": "INACTIVE",
+            "c15.smaato.net": "INACTIVE",
+            "c16.smaato.net": "INACTIVE",
+            "c17.smaato.net": "INACTIVE",
+            "c18.smaato.net": "INACTIVE",
+            "c19.smaato.net": "INACTIVE"
+        },
+        "1571393647": {
+            "c20.smaato.net": "INACTIVE",
+            "c21.smaato.net": "INACTIVE",
+            "c22.smaato.net": "INACTIVE",
+            "c23.smaato.net": "INACTIVE",
+            "c24.smaato.net": "INACTIVE",
+            "c25.smaato.net": "INACTIVE",
+            "c26.smaato.net": "INACTIVE",
+            "c27.smaato.net": "INACTIVE",
+            "c28.smaato.net": "INACTIVE"
+        },
+        "1571393648": {
+            "c29.smaato.net": "INACTIVE",
+            "c29new.smaato.net": "INACTIVE",
+            "c30.smaato.net": "INACTIVE",
+            "c31.smaato.net": "INACTIVE",
+            "c32.smaato.net": "INACTIVE",
+            "c33.smaato.net": "INACTIVE",
+            "c34.smaato.net": "INACTIVE",
+            "c35.smaato.net": "INACTIVE"
+        },
+        "1571393649": {
+            "c36.smaato.net": "INACTIVE",
+            "c37.smaato.net": "INACTIVE",
+            "c38.smaato.net": "INACTIVE",
+            "c39.smaato.net": "INACTIVE",
+            "c40.smaato.net": "INACTIVE",
+            "c41.smaato.net": "INACTIVE",
+            "c42.smaato.net": "INACTIVE",
+            "c43.smaato.net": "INACTIVE"
+        },
+        "1571393650": {
+            "c44.smaato.net": "INACTIVE",
+            "c45.smaato.net": "INACTIVE",
+            "c46.smaato.net": "INACTIVE",
+            "c47.smaato.net": "INACTIVE",
+            "c48.smaato.net": "INACTIVE",
+            "c49.smaato.net": "INACTIVE",
+            "c50.smaato.net": "INACTIVE",
+            "c51.smaato.net": "INACTIVE",
+            "c52.smaato.net": "INACTIVE"
+        },
+        "1571393651": {
+            "c53.smaato.net": "INACTIVE",
+            "c54.smaato.net": "INACTIVE",
+            "c55.smaato.net": "INACTIVE",
+            "c56.smaato.net": "INACTIVE",
+            "c57.smaato.net": "INACTIVE",
+            "c58.smaato.net": "INACTIVE",
+            "c59.smaato.net": "INACTIVE"
+        },
+        "1571393657": {
+            "c60.smaato.net": "INACTIVE"
+        },
+        "1571393658": {
+            "c.admob.com": "INACTIVE",
+            "c753738.r38.cf2.rackcdn.com": "INACTIVE"
+        },
+        "1571393659": {
+            "cdn1.smartadserver.com": "INACTIVE"
+        },
+        "1571393660": {
+            "cdn.ajillionmax.com": "INACTIVE",
+            "cdn.creative.medialytics.com": "INACTIVE",
+            "cdn.mdotm.com": "INACTIVE"
+        },
+        "1571393667": {
+            "c.greystripe.com": "INACTIVE",
+            "cdn.trafficforce.com": "INACTIVE",
+            "cdn.us.goldspotmedia.com": "INACTIVE"
+        },
+        "1571393675": {
+            "c.medialytics.com": "INACTIVE"
+        },
+        "1571393676": {
+            "c.vrvm.com": "INACTIVE",
+            "cvt.mydas.mobi": "INACTIVE"
+        },
+        "1571393677": {
+            "d.applovin.com": "INACTIVE",
+            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
+            "data.mobclix.com": "INACTIVE"
+        },
+        "1571393682": {
             "dispatch.admixer.co.kr": "INACTIVE"
         },
-        "1571268435": {
-            "c01.smaato.net": "INACTIVE",
-            "c02.smaato.net": "INACTIVE",
-            "c14.smaato.net": "INACTIVE",
-            "c21.smaato.net": "INACTIVE",
-            "d.applovin.com": "INACTIVE"
-        },
-        "1571268436": {
-            "ads1.mojiva.com": "INACTIVE",
+        "1571393684": {
+            "f03.smaato.net": "INACTIVE",
             "f04.smaato.net": "INACTIVE",
-            "f37.smaato.net": "INACTIVE",
-            "f52.smaato.net": "INACTIVE",
-            "f54.smaato.net": "INACTIVE",
-            "mwc.velti.com": "INACTIVE"
+            "f05.smaato.net": "INACTIVE",
+            "f06.smaato.net": "INACTIVE",
+            "f07.smaato.net": "INACTIVE",
+            "f08.smaato.net": "INACTIVE",
+            "f09.smaato.net": "INACTIVE"
         },
-        "1571268437": {
-            "c30.smaato.net": "INACTIVE",
+        "1571393685": {
+            "f10.smaato.net": "INACTIVE",
             "f11.smaato.net": "INACTIVE",
-            "f46.smaato.net": "INACTIVE"
+            "f12.smaato.net": "INACTIVE",
+            "f13.smaato.net": "INACTIVE",
+            "f14.smaato.net": "INACTIVE",
+            "f15.smaato.net": "INACTIVE",
+            "f16.smaato.net": "INACTIVE",
+            "f17.smaato.net": "INACTIVE",
+            "f18.smaato.net": "INACTIVE"
         },
-        "1571268438": {
-            "bos-tapreq17.jumptap.com": "INACTIVE",
-            "c10.smaato.net": "INACTIVE",
-            "c52.smaato.net": "INACTIVE",
+        "1571393686": {
+            "f19.smaato.net": "INACTIVE",
+            "f20.smaato.net": "INACTIVE",
+            "f21.smaato.net": "INACTIVE",
+            "f22.smaato.net": "INACTIVE",
+            "f23.smaato.net": "INACTIVE",
+            "f24.smaato.net": "INACTIVE",
+            "f25.smaato.net": "INACTIVE",
+            "f26.smaato.net": "INACTIVE",
+            "f27.smaato.net": "INACTIVE"
+        },
+        "1571393687": {
             "f28.smaato.net": "INACTIVE",
-            "medrx.sensis.com.au": "INACTIVE",
-            "s.mobclix.com": "INACTIVE"
-        },
-        "1571268439": {
-            "ad.madvertise.de": "INACTIVE",
-            "saturn2.appads.com": "INACTIVE"
-        },
-        "1571268440": {
-            "bos-tapreq14.jumptap.com": "INACTIVE"
-        },
-        "1571268441": {
-            "a.medialytics.com": "INACTIVE",
-            "ads.flurry.com": "INACTIVE",
-            "c753738.r38.cf2.rackcdn.com": "INACTIVE",
-            "neptune3.appads.com": "INACTIVE",
-            "wv.inner-active.mobi": "INACTIVE"
-        },
-        "1571268442": {
+            "f29.smaato.net": "INACTIVE",
+            "f30.smaato.net": "INACTIVE",
+            "f31.smaato.net": "INACTIVE",
+            "f32.smaato.net": "INACTIVE",
+            "f33.smaato.net": "INACTIVE",
             "f34.smaato.net": "INACTIVE",
-            "i.jumptap.com": "INACTIVE",
-            "media.mydas.mobi": "INACTIVE",
-            "req2.appads.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE"
+            "f35.smaato.net": "INACTIVE"
         },
-        "1571268443": {
-            "ads.mobgold.com": "INACTIVE",
-            "c55.smaato.net": "INACTIVE",
-            "f25.smaato.net": "INACTIVE"
+        "1571393688": {
+            "f36.smaato.net": "INACTIVE",
+            "f37.smaato.net": "INACTIVE",
+            "f38.smaato.net": "INACTIVE",
+            "f39.smaato.net": "INACTIVE",
+            "f40.smaato.net": "INACTIVE",
+            "f41.smaato.net": "INACTIVE",
+            "f42.smaato.net": "INACTIVE",
+            "f43.smaato.net": "INACTIVE",
+            "f44.smaato.net": "INACTIVE"
         },
-        "1571268444": {
-            "bo.jumptap.com": "INACTIVE",
+        "1571393689": {
+            "f45.smaato.net": "INACTIVE",
+            "f46.smaato.net": "INACTIVE",
+            "f47.smaato.net": "INACTIVE",
+            "f48.smaato.net": "INACTIVE",
+            "f49.smaato.net": "INACTIVE",
+            "f50.smaato.net": "INACTIVE",
+            "f51.smaato.net": "INACTIVE",
+            "f52.smaato.net": "INACTIVE"
+        },
+        "1571393690": {
+            "f53.smaato.net": "INACTIVE",
+            "f54.smaato.net": "INACTIVE",
+            "f55.smaato.net": "INACTIVE",
+            "f56.smaato.net": "INACTIVE",
+            "f57.smaato.net": "INACTIVE",
+            "f58.smaato.net": "INACTIVE",
+            "f59.smaato.net": "INACTIVE",
+            "f60.smaato.net": "INACTIVE"
+        },
+        "1571393691": {
+            "ftpcontent.worldnow.com": "INACTIVE",
             "golds.lp.mydas.mobi": "INACTIVE"
         },
-        "1571268575": {
-            "a.admob.com": "INACTIVE",
-            "c17.smaato.net": "INACTIVE",
+        "1571393698": {
+            "go.mobpartner.mobi": "INACTIVE",
+            "go.vrvm.com": "INACTIVE"
+        },
+        "1571393702": {
+            "gts-ads.twistbox.com": "INACTIVE"
+        },
+        "1571393708": {
+            "i.jumptap.com": "INACTIVE",
+            "ifc.inmobi.com": "INACTIVE"
+        },
+        "1571393709": {
+            "images.millennialmedia.com": "INACTIVE"
+        },
+        "1571393711": {
+            "img.ads1.mocean.mobi": "INACTIVE",
+            "img.ads1.mojiva.com": "INACTIVE",
+            "img.ads2.mocean.mobi": "INACTIVE"
+        },
+        "1571393712": {
+            "img.ads2.mojiva.com": "INACTIVE",
+            "img.ads3.mocean.mobi": "INACTIVE",
+            "img.ads3.mojiva.com": "INACTIVE",
+            "img.ads4.mocean.mobi": "INACTIVE"
+        },
+        "1571393713": {
+            "img.ads.huntmad.com": "INACTIVE",
+            "img.ads.mobilefuse.net": "INACTIVE",
+            "img.ads4.mojiva.com": "INACTIVE"
+        },
+        "1571393714": {
+            "img.ads.mocean.mobi": "INACTIVE",
+            "img.ads.mojiva.com": "INACTIVE",
+            "img.ads.taptapnetworks.com": "INACTIVE"
+        },
+        "1571393715": {
+            "i.tapit.com": "INACTIVE"
+        },
+        "1571393716": {
+            "i.w.inmobi.com": "INACTIVE",
+            "jupiter.appads.com": "INACTIVE",
             "jupiter1.appads.com": "INACTIVE",
-            "jupiter3.appads.com": "INACTIVE",
+            "jupiter2.appads.com": "INACTIVE",
+            "jupiter3.appads.com": "INACTIVE"
+        },
+        "1571393717": {
+            "lp.mp.mydas.mobi": "INACTIVE",
+            "lp.mydas.mobi": "INACTIVE",
+            "m.adsymptotic.com": "INACTIVE",
+            "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1571393724": {
+            "mdn2.phluantmobile.net": "INACTIVE"
+        },
+        "1571393730": {
+            "mdn3origin.phluantmobile.net": "INACTIVE"
+        },
+        "1571393736": {
+            "mdn3.phluantmobile.net": "INACTIVE"
+        },
+        "1571393737": {
+            "media.mydas.mobi": "INACTIVE"
+        },
+        "1571393738": {
+            "medrx.sensis.com.au": "INACTIVE",
+            "met.adwhirl.com": "INACTIVE",
+            "mob.adwhirl.com": "INACTIVE",
+            "mobile.Banzai.it": "INVALID",
+            "mobiledl.adobe.com": "INACTIVE"
+        },
+        "1571393745": {
+            "mwc.velti.com": "INACTIVE"
+        },
+        "1571393746": {
+            "neptune.appads.com": "INACTIVE",
+            "neptune1.appads.com": "INACTIVE",
             "neptune2.appads.com": "INACTIVE",
-            "r.mobpartner.mobi": "INACTIVE"
+            "neptune3.appads.com": "INACTIVE"
         },
-        "1571268576": {
-            "bos-tapreq06.jumptap.com": "INACTIVE"
+        "1571393747": {
+            "p.admob.com": "INACTIVE",
+            "pagead.googlesyndication.com": "INACTIVE",
+            "pagead1.googlesyndication.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE"
         },
-        "1571268577": {
-            "bos-tapreq08.jumptap.com": "INACTIVE",
-            "f50.smaato.net": "INACTIVE",
-            "m2m1.inner-active.mobi": "INACTIVE",
-            "s0.2mdn.net": "INACTIVE"
+        "1571393748": {
+            "pdn.applovin.com": "INACTIVE"
+        },
+        "1571393754": {
+            "plugin.2easydroid.com": "INACTIVE"
+        },
+        "1571393760": {
+            "p.medialytics.com": "INACTIVE",
+            "px.cdn.creative.medialytics.com": "INACTIVE",
+            "req1.appads.com": "INACTIVE"
+        },
+        "1571393761": {
+            "req.appads.com": "INACTIVE",
+            "req2.appads.com": "INACTIVE",
+            "req3.appads.com": "INACTIVE"
+        },
+        "1571393768": {
+            "r.mobpartner.mobi": "INACTIVE",
+            "ru.velti.com": "INACTIVE"
+        },
+        "1571393769": {
+            "s0.2mdn.net": "INACTIVE",
+            "saturn.appads.com": "INACTIVE",
+            "saturn1.appads.com": "INACTIVE",
+            "saturn2.appads.com": "INACTIVE",
+            "saturn3.appads.com": "INACTIVE",
+            "sf.vserv.mobi": "INACTIVE"
+        },
+        "1571393770": {
+            "s.mobclix.com": "INACTIVE",
+            "soma.smaato.net": "INACTIVE"
+        },
+        "1571393772": {
+            "static.cdn.gtsmobi.com": "INACTIVE"
+        },
+        "1571393773": {
+            "suo.lp.mydas.mobi": "INACTIVE",
+            "swappit.tapad.com": "INACTIVE"
+        },
+        "1571393774": {
+            "t.medialytics.com": "INACTIVE",
+            "tcy.smartadserver.com": "INACTIVE"
+        },
+        "1571393775": {
+            "us0.adlibr.com": "INACTIVE",
+            "web63.jumptap.com": "INACTIVE"
+        },
+        "1571393776": {
+            "web64.jumptap.com": "INACTIVE",
+            "web65.jumptap.com": "INACTIVE",
+            "wv.inner-active.mobi": "INACTIVE"
+        },
+        "1571393786": {
+            "www.mmnetwork.mobi": "INACTIVE"
         }
     }
 }
