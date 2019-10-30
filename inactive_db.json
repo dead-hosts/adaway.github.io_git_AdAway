@@ -250,90 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1572317795": {
-            "mdn2.phluantmobile.net": "INACTIVE"
-        },
-        "1572317801": {
-            "mdn3origin.phluantmobile.net": "INACTIVE"
-        },
-        "1572317807": {
-            "mdn3.phluantmobile.net": "INACTIVE",
-            "media.mydas.mobi": "INACTIVE"
-        },
-        "1572317808": {
-            "medrx.sensis.com.au": "INACTIVE",
-            "met.adwhirl.com": "INACTIVE",
-            "mob.adwhirl.com": "INACTIVE",
-            "mobile.Banzai.it": "INVALID",
-            "mobiledl.adobe.com": "INACTIVE"
-        },
-        "1572317815": {
-            "mwc.velti.com": "INACTIVE",
-            "neptune.appads.com": "INACTIVE",
-            "neptune1.appads.com": "INACTIVE",
-            "neptune2.appads.com": "INACTIVE",
-            "neptune3.appads.com": "INACTIVE"
-        },
-        "1572317816": {
-            "p.admob.com": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE",
-            "pagead2.googlesyndication.com": "INACTIVE"
-        },
-        "1572317817": {
-            "pagead.googlesyndication.com": "INACTIVE",
-            "pdn.applovin.com": "INACTIVE"
-        },
-        "1572317823": {
-            "plugin.2easydroid.com": "INACTIVE"
-        },
-        "1572317829": {
-            "p.medialytics.com": "INACTIVE",
-            "px.cdn.creative.medialytics.com": "INACTIVE",
-            "req1.appads.com": "INACTIVE"
-        },
-        "1572317830": {
-            "req.appads.com": "INACTIVE",
-            "req2.appads.com": "INACTIVE",
-            "req3.appads.com": "INACTIVE"
-        },
-        "1572317836": {
-            "r.mobpartner.mobi": "INACTIVE"
-        },
-        "1572317837": {
-            "ru.velti.com": "INACTIVE",
-            "s0.2mdn.net": "INACTIVE",
-            "saturn1.appads.com": "INACTIVE",
-            "saturn2.appads.com": "INACTIVE",
-            "saturn3.appads.com": "INACTIVE"
-        },
-        "1572317838": {
-            "s.mobclix.com": "INACTIVE",
-            "saturn.appads.com": "INACTIVE",
-            "sf.vserv.mobi": "INACTIVE",
-            "soma.smaato.net": "INACTIVE"
-        },
-        "1572317840": {
-            "static.cdn.gtsmobi.com": "INACTIVE"
-        },
-        "1572317841": {
-            "suo.lp.mydas.mobi": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE",
-            "tcy.smartadserver.com": "INACTIVE"
-        },
-        "1572317842": {
-            "t.medialytics.com": "INACTIVE",
-            "tracking.klickthru.com": "INACTIVE"
-        },
-        "1572317843": {
-            "us0.adlibr.com": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE",
-            "wv.inner-active.mobi": "INACTIVE"
-        },
-        "1572317851": {
-            "www.mmnetwork.mobi": "INACTIVE"
-        },
         "1572404194": {
             "a.admob.com": "INACTIVE",
             "a.applovin.com": "INACTIVE"
@@ -662,6 +578,99 @@
             "lp.mydas.mobi": "INACTIVE",
             "m.adsymptotic.com": "INACTIVE",
             "m2m1.inner-active.mobi": "INACTIVE"
+        },
+        "1572472989": {
+            "click.buzzcity.net": "INACTIVE"
+        },
+        "1572473005": {
+            "mdn2.phluantmobile.net": "INACTIVE"
+        },
+        "1572473011": {
+            "mdn3origin.phluantmobile.net": "INACTIVE"
+        },
+        "1572473017": {
+            "mdn3.phluantmobile.net": "INACTIVE"
+        },
+        "1572473018": {
+            "media.mydas.mobi": "INACTIVE",
+            "medrx.sensis.com.au": "INACTIVE",
+            "met.adwhirl.com": "INACTIVE"
+        },
+        "1572473019": {
+            "mob.adwhirl.com": "INACTIVE",
+            "mobile.Banzai.it": "INVALID",
+            "mobiledl.adobe.com": "INACTIVE"
+        },
+        "1572473026": {
+            "mwc.velti.com": "INACTIVE",
+            "neptune1.appads.com": "INACTIVE",
+            "neptune2.appads.com": "INACTIVE"
+        },
+        "1572473027": {
+            "neptune.appads.com": "INACTIVE",
+            "neptune3.appads.com": "INACTIVE"
+        },
+        "1572473028": {
+            "p.admob.com": "INACTIVE",
+            "pagead.googlesyndication.com": "INACTIVE",
+            "pagead1.googlesyndication.com": "INACTIVE",
+            "pagead2.googlesyndication.com": "INACTIVE",
+            "pdn.applovin.com": "INACTIVE"
+        },
+        "1572473035": {
+            "plugin.2easydroid.com": "INACTIVE"
+        },
+        "1572473041": {
+            "p.medialytics.com": "INACTIVE",
+            "px.cdn.creative.medialytics.com": "INACTIVE",
+            "req1.appads.com": "INACTIVE"
+        },
+        "1572473042": {
+            "req.appads.com": "INACTIVE",
+            "req2.appads.com": "INACTIVE",
+            "req3.appads.com": "INACTIVE"
+        },
+        "1572473048": {
+            "r.mobpartner.mobi": "INACTIVE"
+        },
+        "1572473049": {
+            "ru.velti.com": "INACTIVE",
+            "s0.2mdn.net": "INACTIVE",
+            "saturn1.appads.com": "INACTIVE"
+        },
+        "1572473050": {
+            "s.mobclix.com": "INACTIVE",
+            "saturn.appads.com": "INACTIVE",
+            "saturn2.appads.com": "INACTIVE",
+            "saturn3.appads.com": "INACTIVE",
+            "sf.vserv.mobi": "INACTIVE",
+            "soma.smaato.net": "INACTIVE"
+        },
+        "1572473052": {
+            "static.cdn.gtsmobi.com": "INACTIVE"
+        },
+        "1572473053": {
+            "suo.lp.mydas.mobi": "INACTIVE",
+            "swappit.tapad.com": "INACTIVE"
+        },
+        "1572473054": {
+            "t.medialytics.com": "INACTIVE",
+            "tcy.smartadserver.com": "INACTIVE"
+        },
+        "1572473055": {
+            "tracking.klickthru.com": "INACTIVE"
+        },
+        "1572473056": {
+            "us0.adlibr.com": "INACTIVE",
+            "web63.jumptap.com": "INACTIVE",
+            "web64.jumptap.com": "INACTIVE"
+        },
+        "1572473059": {
+            "web65.jumptap.com": "INACTIVE",
+            "wv.inner-active.mobi": "INACTIVE"
+        },
+        "1572473065": {
+            "www.mmnetwork.mobi": "INACTIVE"
         }
     }
 }
