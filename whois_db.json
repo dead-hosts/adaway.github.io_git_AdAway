@@ -1,61 +1,61 @@
 {
     "adinfuse.com": {
-        "epoch": "1580169600",
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "adultmoda.com": {
-        "epoch": "1621123200",
+        "epoch": 1621123200.0,
         "expiration_date": "16-may-2021",
         "state": "future"
     },
     "applift.com": {
-        "epoch": "1583193600",
+        "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
         "state": "future"
     },
     "bigmobileads.com": {
-        "epoch": "1575417600",
+        "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
         "state": "future"
     },
     "do-not-tracker.org": {
-        "epoch": 1595808000,
+        "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
     "doubleclick.net": {
-        "epoch": "1579219200",
+        "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "eviltracker.net": {
-        "epoch": 1595203200,
+        "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
     "google-analytics.com": {
-        "epoch": 1595030400,
+        "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "googlesyndication.com": {
-        "epoch": "1579564800",
+        "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "gsmtop.net": {
-        "epoch": 1601510400,
+        "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "mobpartner.mobi": {
-        "epoch": "1574726400",
+        "epoch": 1574726400.0,
         "expiration_date": "26-nov-2019",
         "state": "future"
     },
     "trackersimulator.org": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     }
