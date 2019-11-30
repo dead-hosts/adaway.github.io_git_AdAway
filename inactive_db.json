@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1575065486": {
-            "adtracker.inmobi.com": "INACTIVE"
-        },
         "1575114625": {
             "ad.madvertise.de": "INACTIVE",
             "admicro2.vcmedia.vn": "INACTIVE",
@@ -451,6 +448,9 @@
             "t.medialytics.com": "INACTIVE",
             "tcy.smartadserver.com": "INACTIVE",
             "us0.adlibr.com": "INACTIVE"
+        },
+        "1575152018": {
+            "adtracker.inmobi.com": "INACTIVE"
         }
     }
 }
