@@ -250,7 +250,7 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1575114625": {
+        "1575256969": {
             "ad.madvertise.de": "INACTIVE",
             "admicro2.vcmedia.vn": "INACTIVE",
             "ads.adiquity.com": "INACTIVE",
@@ -263,9 +263,11 @@
             "ads1.mojiva.com": "INACTIVE",
             "ads2.mojiva.com": "INACTIVE",
             "ads3.mojiva.com": "INACTIVE",
+            "ads4.mojiva.com": "INACTIVE",
             "ads5.mojiva.com": "INACTIVE",
             "adserver.ubiyoo.com": "INACTIVE",
             "adsrv1.tapad.com": "INACTIVE",
+            "adtracker.inmobi.com": "INACTIVE",
             "api.yp.com": "INACTIVE",
             "atti.velti.com": "INACTIVE",
             "bo.jumptap.com": "INACTIVE",
@@ -289,30 +291,6 @@
             "bos-tapreq18.jumptap.com": "INACTIVE",
             "bos-tapreq19.jumptap.com": "INACTIVE",
             "bos-tapreq20.jumptap.com": "INACTIVE",
-            "cdn.us.goldspotmedia.com": "INACTIVE",
-            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
-            "i.jumptap.com": "INACTIVE",
-            "i.tapit.com": "INACTIVE",
-            "images.millennialmedia.com": "INACTIVE",
-            "img.ads.mocean.mobi": "INACTIVE",
-            "img.ads.mojiva.com": "INACTIVE",
-            "medrx.sensis.com.au": "INACTIVE",
-            "mobiledl.adobe.com": "INACTIVE",
-            "mwc.velti.com": "INACTIVE",
-            "ru.velti.com": "INACTIVE",
-            "static.cdn.gtsmobi.com": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE"
-        },
-        "1575114626": {
-            "a.admob.com": "INACTIVE",
-            "ad.parrot.mable-inc.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads4.mojiva.com": "INACTIVE",
-            "adsx.greystripe.com": "INACTIVE",
-            "analytics.admob.com": "INACTIVE",
             "c01.smaato.net": "INACTIVE",
             "c02.smaato.net": "INACTIVE",
             "c03.smaato.net": "INACTIVE",
@@ -339,10 +317,32 @@
             "c24.smaato.net": "INACTIVE",
             "c25.smaato.net": "INACTIVE",
             "c26.smaato.net": "INACTIVE",
+            "c29new.smaato.net": "INACTIVE",
+            "cdn.us.goldspotmedia.com": "INACTIVE",
+            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
+            "i.jumptap.com": "INACTIVE",
+            "i.tapit.com": "INACTIVE",
+            "images.millennialmedia.com": "INACTIVE",
+            "img.ads.mocean.mobi": "INACTIVE",
+            "img.ads.mojiva.com": "INACTIVE",
+            "medrx.sensis.com.au": "INACTIVE",
+            "mobiledl.adobe.com": "INACTIVE",
+            "mwc.velti.com": "INACTIVE",
+            "ru.velti.com": "INACTIVE",
+            "static.cdn.gtsmobi.com": "INACTIVE",
+            "swappit.tapad.com": "INACTIVE",
+            "web63.jumptap.com": "INACTIVE",
+            "web64.jumptap.com": "INACTIVE",
+            "web65.jumptap.com": "INACTIVE"
+        },
+        "1575256970": {
+            "a.admob.com": "INACTIVE",
+            "ad.parrot.mable-inc.com": "INACTIVE",
+            "ads.mdotm.com": "INACTIVE",
+            "analytics.admob.com": "INACTIVE",
             "c27.smaato.net": "INACTIVE",
             "c28.smaato.net": "INACTIVE",
             "c29.smaato.net": "INACTIVE",
-            "c29new.smaato.net": "INACTIVE",
             "c30.smaato.net": "INACTIVE",
             "c31.smaato.net": "INACTIVE",
             "c32.smaato.net": "INACTIVE",
@@ -448,9 +448,6 @@
             "t.medialytics.com": "INACTIVE",
             "tcy.smartadserver.com": "INACTIVE",
             "us0.adlibr.com": "INACTIVE"
-        },
-        "1575152018": {
-            "adtracker.inmobi.com": "INACTIVE"
         }
     }
 }
