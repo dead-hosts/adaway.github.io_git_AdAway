@@ -1529,6 +1529,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "apptera.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "state": "future"
+    },
     "apptornado.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
@@ -1675,9 +1680,9 @@
         "state": "future"
     },
     "bayctrk.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
-        "state": "past"
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
     },
     "bcfads.com": {
         "epoch": 1606003200.0,
