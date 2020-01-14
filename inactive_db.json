@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1578897184": {
-            "analytics.toast.com": "INACTIVE"
-        },
         "1578898529": {
             "ads5.mojiva.com": "INACTIVE",
             "atti.velti.com": "INACTIVE",
@@ -485,6 +482,9 @@
         },
         "1579026418": {
             "ping.xlmc.sandai.net": "INACTIVE"
+        },
+        "1579028035": {
+            "analytics.toast.com": "INACTIVE"
         }
     }
 }
