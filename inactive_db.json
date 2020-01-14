@@ -250,19 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1578890281": {
-            "collect10776gdsnd.deltadna.net": "INACTIVE"
-        },
-        "1578890282": {
-            "collect12678nmtnt.deltadna.net": "INACTIVE",
-            "collect13566brrtb.deltadna.net": "INACTIVE",
-            "engage12678nmtnt.deltadna.net": "INACTIVE",
-            "engage13494dvntr.deltadna.net": "INACTIVE",
-            "engage13551pcktp.deltadna.net": "INACTIVE",
-            "engage13566brrtb.deltadna.net": "INACTIVE",
-            "engage13617dvntr.deltadna.net": "INACTIVE",
-            "engage14052tnkrs.deltadna.net": "INACTIVE"
-        },
         "1578890970": {
             "mel-v4.pops.fastly-insights.com": "INACTIVE"
         },
@@ -484,6 +471,17 @@
         },
         "1579006948": {
             "api.ambelbet.com": "INACTIVE"
+        },
+        "1579012524": {
+            "collect10776gdsnd.deltadna.net": "INACTIVE",
+            "collect12678nmtnt.deltadna.net": "INACTIVE",
+            "collect13566brrtb.deltadna.net": "INACTIVE",
+            "engage12678nmtnt.deltadna.net": "INACTIVE",
+            "engage13494dvntr.deltadna.net": "INACTIVE",
+            "engage13551pcktp.deltadna.net": "INACTIVE",
+            "engage13566brrtb.deltadna.net": "INACTIVE",
+            "engage13617dvntr.deltadna.net": "INACTIVE",
+            "engage14052tnkrs.deltadna.net": "INACTIVE"
         }
     }
 }
