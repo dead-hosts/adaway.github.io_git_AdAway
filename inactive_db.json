@@ -250,13 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579006947": {
-            "setting.adzcore.com": "INACTIVE",
-            "tracker.airpush.com": "INACTIVE"
-        },
-        "1579006948": {
-            "api.ambelbet.com": "INACTIVE"
-        },
         "1579012524": {
             "collect10776gdsnd.deltadna.net": "INACTIVE",
             "collect12678nmtnt.deltadna.net": "INACTIVE",
@@ -487,6 +480,10 @@
         },
         "1579212836": {
             "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1579214219": {
+            "api.ambelbet.com": "INACTIVE",
+            "setting.adzcore.com": "INACTIVE"
         }
     }
 }
