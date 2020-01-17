@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579024775": {
-            "rtb.persona.ly": "INACTIVE"
-        },
         "1579026418": {
             "ping.xlmc.sandai.net": "INACTIVE"
         },
@@ -497,6 +494,10 @@
         "1579223389": {
             "adx.ads.oppomobile.com": "INACTIVE",
             "b1.ads.oppomobile.com": "INACTIVE"
+        },
+        "1579224077": {
+            "backend.passivemonetizer.com": "INACTIVE",
+            "rtb.persona.ly": "INACTIVE"
         }
     }
 }
