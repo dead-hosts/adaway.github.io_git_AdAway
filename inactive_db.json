@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579212836": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
         "1579214219": {
             "api.ambelbet.com": "INACTIVE",
             "setting.adzcore.com": "INACTIVE"
@@ -509,6 +506,9 @@
             "img.ads.mojiva.com": "INACTIVE",
             "img.ads1.mojiva.com": "INACTIVE",
             "us0.adlibr.com": "INACTIVE"
+        },
+        "1579299646": {
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
