@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579028035": {
-            "analytics.toast.com": "INACTIVE"
-        },
         "1579030815": {
             "ads.adiquity.com": "INACTIVE",
             "ads3.mojiva.com": "INACTIVE",
@@ -504,6 +501,16 @@
         },
         "1579224768": {
             "ping.xlmc.sandai.net": "INACTIVE"
+        },
+        "1579226148": {
+            "ads.tarrobads.com": "INACTIVE"
+        },
+        "1579226150": {
+            "analytics.toast.com": "INACTIVE",
+            "token.ad": "INACTIVE"
+        },
+        "1579226152": {
+            "stats.unity3d.com": "INACTIVE"
         }
     }
 }
