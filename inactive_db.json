@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579218356": {
-            "xclub.app.infinixmobility.com": "INACTIVE"
-        },
         "1579218358": {
             "joneself.com": "INACTIVE"
         },
@@ -514,6 +511,9 @@
             "engage13566brrtb.deltadna.net": "INACTIVE",
             "engage13617dvntr.deltadna.net": "INACTIVE",
             "engage14052tnkrs.deltadna.net": "INACTIVE"
+        },
+        "1579321034": {
+            "xclub.app.infinixmobility.com": "INACTIVE"
         }
     }
 }
