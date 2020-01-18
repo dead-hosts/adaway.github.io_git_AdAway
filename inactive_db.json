@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579299646": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
         "1579307136": {
             "setting.adzcore.com": "INACTIVE"
         },
@@ -510,6 +507,9 @@
         "1579386155": {
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
+        },
+        "1579389762": {
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
