@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579218358": {
-            "joneself.com": "INACTIVE"
-        },
         "1579222703": {
             "log4x.nixcdn.com": "INACTIVE",
             "lrc.nct.nixcdn.com": "INACTIVE",
@@ -514,6 +511,9 @@
         },
         "1579321034": {
             "xclub.app.infinixmobility.com": "INACTIVE"
+        },
+        "1579322599": {
+            "joneself.com": "INACTIVE"
         }
     }
 }
