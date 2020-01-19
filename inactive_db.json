@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579322599": {
-            "joneself.com": "INACTIVE"
-        },
         "1579328807": {
             "rtb.persona.ly": "INACTIVE"
         },
@@ -512,6 +509,9 @@
         },
         "1579408704": {
             "xclub.app.infinixmobility.com": "INACTIVE"
+        },
+        "1579410109": {
+            "joneself.com": "INACTIVE"
         }
     }
 }
