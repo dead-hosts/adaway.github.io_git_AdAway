@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579313033": {
-            "govtech-c.clickability.com": "INACTIVE"
-        },
         "1579315386": {
             "collect10776gdsnd.deltadna.net": "INACTIVE"
         },
@@ -508,6 +505,15 @@
         "1579396102": {
             "api.ambelbet.com": "INACTIVE",
             "setting.adzcore.com": "INACTIVE"
+        },
+        "1579400854": {
+            "govtech-c.clickability.com": "INACTIVE"
+        },
+        "1579400856": {
+            "engage12699lmmng.deltadna.net": "INACTIVE"
+        },
+        "1579400857": {
+            "sjc06-login-ds.dotomi.com": "INACTIVE"
         }
     }
 }
