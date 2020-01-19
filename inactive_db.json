@@ -250,20 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579315386": {
-            "collect10776gdsnd.deltadna.net": "INACTIVE"
-        },
-        "1579315387": {
-            "collect12678nmtnt.deltadna.net": "INACTIVE",
-            "collect13566brrtb.deltadna.net": "INACTIVE",
-            "collect13800frdyt.deltadna.net": "INACTIVE",
-            "engage12678nmtnt.deltadna.net": "INACTIVE",
-            "engage13494dvntr.deltadna.net": "INACTIVE",
-            "engage13551pcktp.deltadna.net": "INACTIVE",
-            "engage13566brrtb.deltadna.net": "INACTIVE",
-            "engage13617dvntr.deltadna.net": "INACTIVE",
-            "engage14052tnkrs.deltadna.net": "INACTIVE"
-        },
         "1579321034": {
             "xclub.app.infinixmobility.com": "INACTIVE"
         },
@@ -514,6 +500,18 @@
         },
         "1579400857": {
             "sjc06-login-ds.dotomi.com": "INACTIVE"
+        },
+        "1579402920": {
+            "collect10776gdsnd.deltadna.net": "INACTIVE",
+            "collect12678nmtnt.deltadna.net": "INACTIVE",
+            "collect13566brrtb.deltadna.net": "INACTIVE",
+            "engage12678nmtnt.deltadna.net": "INACTIVE",
+            "engage13494dvntr.deltadna.net": "INACTIVE",
+            "engage13551pcktp.deltadna.net": "INACTIVE",
+            "engage13566brrtb.deltadna.net": "INACTIVE",
+            "engage13617dvntr.deltadna.net": "INACTIVE",
+            "engage14052tnkrs.deltadna.net": "INACTIVE",
+            "mobile9897.drumteam99.live": "INACTIVE"
         }
     }
 }
