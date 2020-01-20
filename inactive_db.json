@@ -463,10 +463,6 @@
             "static.cdn.gtsmobi.com": "INACTIVE",
             "tcy.smartadserver.com": "INACTIVE"
         },
-        "1579396102": {
-            "api.ambelbet.com": "INACTIVE",
-            "setting.adzcore.com": "INACTIVE"
-        },
         "1579400854": {
             "govtech-c.clickability.com": "INACTIVE"
         },
@@ -504,6 +500,13 @@
         },
         "1579515129": {
             "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1579519855": {
+            "setting.adzcore.com": "INACTIVE"
+        },
+        "1579519856": {
+            "alivar.com.vn": "INACTIVE",
+            "api.ambelbet.com": "INACTIVE"
         }
     }
 }
