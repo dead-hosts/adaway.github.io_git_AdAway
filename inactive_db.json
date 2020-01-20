@@ -250,9 +250,6 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579333602": {
-            "ads.tarrobads.com": "INACTIVE"
-        },
         "1579333603": {
             "analytics.toast.com": "INACTIVE",
             "token.ad": "INACTIVE"
@@ -511,6 +508,9 @@
         },
         "1579537843": {
             "ping.xlmc.sandai.net": "INACTIVE"
+        },
+        "1579539238": {
+            "ads.tarrobads.com": "INACTIVE"
         }
     }
 }
