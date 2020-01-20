@@ -463,13 +463,6 @@
             "static.cdn.gtsmobi.com": "INACTIVE",
             "tcy.smartadserver.com": "INACTIVE"
         },
-        "1579386155": {
-            "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
-            "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
-        },
-        "1579389762": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
         "1579396102": {
             "api.ambelbet.com": "INACTIVE",
             "setting.adzcore.com": "INACTIVE"
@@ -508,6 +501,9 @@
             "creative-adchoices.advertise.quantcast.com": "INACTIVE",
             "mrp.rubiconproject.com": "INACTIVE",
             "ping.xlmc.sandai.net": "INACTIVE"
+        },
+        "1579515129": {
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
