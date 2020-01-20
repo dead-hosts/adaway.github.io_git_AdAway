@@ -463,11 +463,6 @@
             "static.cdn.gtsmobi.com": "INACTIVE",
             "tcy.smartadserver.com": "INACTIVE"
         },
-        "1579417800": {
-            "creative-adchoices.advertise.quantcast.com": "INACTIVE",
-            "mrp.rubiconproject.com": "INACTIVE",
-            "ping.xlmc.sandai.net": "INACTIVE"
-        },
         "1579515129": {
             "sdk.adbuddiz.com": "INACTIVE"
         },
@@ -507,6 +502,15 @@
         },
         "1579536073": {
             "rtb.persona.ly": "INACTIVE"
+        },
+        "1579537840": {
+            "creative-adchoices.advertise.quantcast.com": "INACTIVE"
+        },
+        "1579537842": {
+            "mrp.rubiconproject.com": "INACTIVE"
+        },
+        "1579537843": {
+            "ping.xlmc.sandai.net": "INACTIVE"
         }
     }
 }
