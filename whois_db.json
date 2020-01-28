@@ -895,8 +895,8 @@
         "state": "future"
     },
     "adsota.com": {
-        "epoch": 1579737600.0,
-        "expiration_date": "23-jan-2020",
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "adspeed.com": {
@@ -932,7 +932,7 @@
     "adstark.ru": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "adstune.com": {
         "epoch": 1589328000.0,
