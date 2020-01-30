@@ -510,12 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1580277092": {
-            "am.adlooxtracking.com": "INACTIVE",
-            "am01.adlooxtracking.com": "INACTIVE",
-            "am02.adlooxtracking.com": "INACTIVE",
-            "wall.adgaterewards.com": "INACTIVE"
-        },
         "1580326421": {
             "sdk.adbuddiz.com": "INACTIVE"
         },
@@ -538,6 +532,14 @@
             "sheknows-tagan.adlightning.com": "INACTIVE",
             "sinclair-tagan.adlightning.com": "INACTIVE",
             "slate-tagan.adlightning.com": "INACTIVE"
+        },
+        "1580364501": {
+            "datam22.adlooxtracking.com": "INACTIVE",
+            "datam23.adlooxtracking.com": "INACTIVE"
+        },
+        "1580364502": {
+            "secure-ams.adnxs.com": "INACTIVE",
+            "secure.adnxs.com": "INACTIVE"
         }
     }
 }
