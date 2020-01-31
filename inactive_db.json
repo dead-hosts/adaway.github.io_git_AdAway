@@ -510,14 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1580357025": {
-            "data22.adlooxtracking.com": "INACTIVE",
-            "data23.adlooxtracking.com": "INACTIVE"
-        },
-        "1580357026": {
-            "staging-console-cdn.adnxs.com": "INACTIVE",
-            "thunder.adnxs.com": "INACTIVE"
-        },
         "1580360654": {
             "js14.adlooxtracking.com": "INACTIVE",
             "sheknows-tagan.adlightning.com": "INACTIVE",
@@ -558,6 +550,12 @@
         "1580442392": {
             "data17.adlooxtracking.com": "INACTIVE",
             "data18.adlooxtracking.com": "INACTIVE"
+        },
+        "1580446285": {
+            "data23.adlooxtracking.com": "INACTIVE"
+        },
+        "1580446286": {
+            "dmp.adotmob.com": "INACTIVE"
         }
     }
 }
