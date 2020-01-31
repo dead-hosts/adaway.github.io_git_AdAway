@@ -510,9 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1580415257": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
         "1580438525": {
             "data08.adlooxtracking.com": "INACTIVE",
             "data09.adlooxtracking.com": "INACTIVE"
@@ -550,6 +547,13 @@
         "1580492764": {
             "secure-ams.adnxs.com": "INACTIVE",
             "t.update.ib.adnxs.com": "INACTIVE"
+        },
+        "1580504392": {
+            "api.addthis.com": "INACTIVE",
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1580504393": {
+            "omax.admarvel.com": "INACTIVE"
         }
     }
 }
