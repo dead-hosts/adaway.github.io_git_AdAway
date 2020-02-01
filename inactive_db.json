@@ -510,14 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1580438525": {
-            "data08.adlooxtracking.com": "INACTIVE",
-            "data09.adlooxtracking.com": "INACTIVE"
-        },
-        "1580438526": {
-            "adsame.cm.admaster.com.cn": "INACTIVE",
-            "cm.admaster.com.cn": "INACTIVE"
-        },
         "1580442392": {
             "data17.adlooxtracking.com": "INACTIVE",
             "data18.adlooxtracking.com": "INACTIVE"
@@ -576,6 +568,10 @@
         "1580524318": {
             "sin1-mobile.adnxs.com": "INACTIVE",
             "staging-console-cdn.adnxs.com": "INACTIVE"
+        },
+        "1580528288": {
+            "inspiredtaste-tagan.adlightning.com": "INACTIVE",
+            "legacy-tagan.adlightning.com": "INACTIVE"
         }
     }
 }
