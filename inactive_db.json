@@ -510,12 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1580593849": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
-        "1580593850": {
-            "t.update.ib.adnxs.com": "INACTIVE"
-        },
         "1580597763": {
             "data09.adlooxtracking.com": "INACTIVE",
             "data10.adlooxtracking.com": "INACTIVE"
@@ -549,6 +543,19 @@
         },
         "1580677853": {
             "data15.adlooxtracking.com": "INACTIVE"
+        },
+        "1580683230": {
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1580683231": {
+            "adsame.cm.admaster.com.cn": "INACTIVE",
+            "data06.adlooxtracking.com": "INACTIVE",
+            "data07.adlooxtracking.com": "INACTIVE",
+            "data08.adlooxtracking.com": "INACTIVE",
+            "iclick.cm.admaster.com.cn": "INACTIVE"
+        },
+        "1580683232": {
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
