@@ -510,9 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581068032": {
-            "t.update.ib.adnxs.com": "INACTIVE"
-        },
         "1581078603": {
             "data02.adlooxtracking.com": "INACTIVE"
         },
@@ -557,6 +554,18 @@
         "1581151143": {
             "adserver.adotmob.com": "INACTIVE",
             "dmp.adotmob.com": "INACTIVE"
+        },
+        "1581154652": {
+            "data10.adlooxtracking.com": "INACTIVE",
+            "data11.adlooxtracking.com": "INACTIVE",
+            "data12.adlooxtracking.com": "INACTIVE",
+            "ipinyou.cm.admaster.com.cn": "INACTIVE",
+            "mgtv.cm.admaster.com.cn": "INACTIVE"
+        },
+        "1581154653": {
+            "mp.adnxs.com": "INACTIVE",
+            "nym1.mobile.adnxs.com": "INACTIVE",
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
