@@ -510,10 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581129930": {
-            "data16.adlooxtracking.com": "INACTIVE",
-            "data17.adlooxtracking.com": "INACTIVE"
-        },
         "1581140686": {
             "static.ad.org.vn": "INACTIVE"
         },
@@ -567,6 +563,16 @@
         },
         "1581216100": {
             "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1581219819": {
+            "adpickup-east.adhaven.com": "INACTIVE",
+            "data14.adlooxtracking.com": "INACTIVE",
+            "data15.adlooxtracking.com": "INACTIVE",
+            "e.adhaven.com": "INACTIVE"
+        },
+        "1581219820": {
+            "sdk.adotmob.com": "INACTIVE",
+            "sync.adotmob.com": "INACTIVE"
         }
     }
 }
