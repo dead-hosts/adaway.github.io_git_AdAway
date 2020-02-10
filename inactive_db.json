@@ -510,15 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581266348": {
-            "data25.adlooxtracking.com": "INACTIVE",
-            "data26.adlooxtracking.com": "INACTIVE",
-            "data27.adlooxtracking.com": "INACTIVE"
-        },
-        "1581266349": {
-            "sin1-mobile.adnxs.com": "INACTIVE",
-            "t.update.ib.adnxs.com": "INACTIVE"
-        },
         "1581270488": {
             "bridge.lga1.admarketplace.net": "INACTIVE",
             "pca.admarketplace.net": "INACTIVE",
@@ -568,6 +559,9 @@
         "1581313176": {
             "dsp.adotmob.com": "INACTIVE",
             "dynadserver.adotmob.com": "INACTIVE"
+        },
+        "1581355613": {
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
