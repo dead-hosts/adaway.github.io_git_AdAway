@@ -510,9 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581216100": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
         "1581219819": {
             "adpickup-east.adhaven.com": "INACTIVE",
             "data14.adlooxtracking.com": "INACTIVE",
@@ -577,6 +574,13 @@
         "1581286238": {
             "js12.adlooxtracking.com": "INACTIVE",
             "profile.adkmob.com": "INACTIVE"
+        },
+        "1581305502": {
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1581305504": {
+            "vcdn.adnxs.com": "INACTIVE",
+            "ym.adnxs.com": "INACTIVE"
         }
     }
 }
