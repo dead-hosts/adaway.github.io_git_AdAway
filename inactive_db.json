@@ -510,10 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581219820": {
-            "sdk.adotmob.com": "INACTIVE",
-            "sync.adotmob.com": "INACTIVE"
-        },
         "1581227528": {
             "data02.adlooxtracking.com": "INACTIVE",
             "data03.adlooxtracking.com": "INACTIVE",
@@ -583,6 +579,14 @@
         },
         "1581309560": {
             "proxy.adnxs.com": "INACTIVE"
+        },
+        "1581313175": {
+            "data60.adlooxtracking.com": "INACTIVE",
+            "data61.adlooxtracking.com": "INACTIVE"
+        },
+        "1581313176": {
+            "dsp.adotmob.com": "INACTIVE",
+            "dynadserver.adotmob.com": "INACTIVE"
         }
     }
 }
