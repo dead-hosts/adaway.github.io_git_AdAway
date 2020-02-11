@@ -2296,11 +2296,9 @@ bitmovin-bitanalytics.appspot.com
 bugsense.appspot.com
 alt.bugsense.appspot.com
 caspionlog.appspot.com
-chrome-devtools-frontend.appspot.com
 chtatic.appspot.com
 crwscdn.appspot.com
 crwscdn9.appspot.com
-csp-collector.appspot.com
 8.dramafeverw2.appspot.com
 echofonads.appspot.com
 eqs-redserver.appspot.com
@@ -8174,9 +8172,11 @@ allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
 dsg.sc.omtrdc.net
 southwestairlines.sc.omtrdc.net
+allstate.tt.omtrdc.net
 audible.tt.omtrdc.net
 fcanafta.tt.omtrdc.net
 mboxedge17.tt.omtrdc.net
+mboxedge28.tt.omtrdc.net
 southwestairlines.tt.omtrdc.net
 on-mobi.com
 pixel.onaudience.com
@@ -11067,6 +11067,8 @@ metrics.ted.com
 api.videometrics.ted.com
 telemetryverification.net
 beacon.sparta.mig.tencent-cloud.net
+tend.io
+track.tend.io
 track.tenjin.com
 track.tenjin.io
 teracreative.com
@@ -11289,6 +11291,7 @@ ru.track.uc.cn
 dispatcher.upmc.uc.cn
 woodpecker.uc.cn
 app3.prd.telematics.uconnectcar.com
+app4.prd.telematics.uconnectcar.com
 gjtrack.ucweb.com
 insight.ucweb.com
 adn.insight.ucweb.com
@@ -11449,6 +11452,7 @@ upsnap.com
 sdk.upush.co
 analyze.urbanairship.com
 boxoffice.urbanairship.com
+c00162-dl.urbanairship.com
 combine.urbanairship.com
 connect.urbanairship.com
 connect-testing.urbanairship.com
