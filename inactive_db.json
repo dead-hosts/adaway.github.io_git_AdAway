@@ -510,13 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581305502": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
-        "1581305504": {
-            "vcdn.adnxs.com": "INACTIVE",
-            "ym.adnxs.com": "INACTIVE"
-        },
         "1581309559": {
             "data01.adlooxtracking.com": "INACTIVE",
             "data06.adlooxtracking.com": "INACTIVE",
@@ -545,6 +538,9 @@
         },
         "1581387577": {
             "cdn-otf-cas.adperfect.com": "INACTIVE"
+        },
+        "1581395427": {
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
