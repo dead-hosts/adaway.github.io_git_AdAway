@@ -510,19 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581571642": {
-            "static.ad.org.vn": "INACTIVE"
-        },
-        "1581571643": {
-            "arkadium-tagan.adlightning.com": "INACTIVE",
-            "bhmedia-tagan.adlightning.com": "INACTIVE",
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
-        "1581571644": {
-            "datas06.adlooxtracking.com": "INACTIVE",
-            "datas07.adlooxtracking.com": "INACTIVE",
-            "datas08.adlooxtracking.com": "INACTIVE"
-        },
         "1581575340": {
             "data10.adlooxtracking.com": "INACTIVE",
             "data11.adlooxtracking.com": "INACTIVE"
@@ -560,6 +547,9 @@
         },
         "1581649177": {
             "t.update.ib.adnxs.com": "INACTIVE"
+        },
+        "1581660741": {
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
