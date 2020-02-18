@@ -510,14 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1581920146": {
-            "datas06.adlooxtracking.com": "INACTIVE",
-            "datas07.adlooxtracking.com": "INACTIVE"
-        },
-        "1581920147": {
-            "cdn.oas-eu1.adnxs.com": "INACTIVE",
-            "oas-eu1.adnxs.com": "INACTIVE"
-        },
         "1581924169": {
             "adfox.vn": "INACTIVE",
             "banners.adfox.ru": "INACTIVE"
@@ -601,6 +593,10 @@
         "1582005983": {
             "ac.adpia.vn": "INACTIVE",
             "click.adpia.vn": "INACTIVE"
+        },
+        "1582009744": {
+            "data08.adlooxtracking.com": "INACTIVE",
+            "data09.adlooxtracking.com": "INACTIVE"
         }
     }
 }
