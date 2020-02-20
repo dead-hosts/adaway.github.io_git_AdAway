@@ -510,13 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582083549": {
-            "js07.adlooxtracking.com": "INACTIVE",
-            "profile.adkmob.com": "INACTIVE"
-        },
-        "1582083550": {
-            "secure-ams.adnxs.com": "INACTIVE"
-        },
         "1582087665": {
             "zam-tagan.adlightning.com": "INACTIVE"
         },
@@ -559,6 +552,13 @@
         },
         "1582126323": {
             "serving.ad.org.vn": "INACTIVE"
+        },
+        "1582171001": {
+            "data61.adlooxtracking.com": "INACTIVE",
+            "data63.adlooxtracking.com": "INACTIVE"
+        },
+        "1582171002": {
+            "adserver.adotmob.com": "INACTIVE"
         }
     }
 }
