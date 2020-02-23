@@ -510,17 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582347303": {
-            "ad.org.vn": "INACTIVE",
-            "sdk.adbuddiz.com": "INACTIVE",
-            "serving.ad.org.vn": "INACTIVE"
-        },
-        "1582347304": {
-            "ivid-f5-us-va.adhigh.net": "INACTIVE",
-            "js11.adlooxtracking.com": "INACTIVE",
-            "js13.adlooxtracking.com": "INACTIVE",
-            "realtor-tagan.adlightning.com": "INACTIVE"
-        },
         "1582350913": {
             "data18.adlooxtracking.com": "INACTIVE"
         },
@@ -584,6 +573,18 @@
         "1582428174": {
             "prebid.adnxs.com": "INACTIVE",
             "proxy.adnxs.com": "INACTIVE"
+        },
+        "1582436126": {
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1582436127": {
+            "data03.adlooxtracking.com": "INACTIVE",
+            "data04.adlooxtracking.com": "INACTIVE",
+            "ivid-f5-us-va.adhigh.net": "INACTIVE"
+        },
+        "1582436128": {
+            "front.adpia.vn": "INACTIVE",
+            "mc.adpia.vn": "INACTIVE"
         }
     }
 }
