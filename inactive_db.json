@@ -510,10 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582401576": {
-            "cdn.admarvel.com": "INACTIVE",
-            "rubicon-tagan.adlightning.com": "INACTIVE"
-        },
         "1582411428": {
             "ads.adfox.ru": "INACTIVE",
             "static.ad.org.vn": "INACTIVE"
@@ -602,6 +598,10 @@
         "1582487996": {
             "fancymedia-cm.admaster.com.cn": "INACTIVE",
             "youtu.cm.admaster.com.cn": "INACTIVE"
+        },
+        "1582492205": {
+            "async01.admantx.com": "INACTIVE",
+            "js15.adlooxtracking.com": "INACTIVE"
         }
     }
 }
