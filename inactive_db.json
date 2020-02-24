@@ -510,10 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582471930": {
-            "am01.adlooxtracking.com": "INACTIVE",
-            "am04.adlooxtracking.com": "INACTIVE"
-        },
         "1582487996": {
             "fancymedia-cm.admaster.com.cn": "INACTIVE",
             "youtu.cm.admaster.com.cn": "INACTIVE"
@@ -574,6 +570,9 @@
         },
         "1582553408": {
             "api.addthis.com": "INACTIVE"
+        },
+        "1582561353": {
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
