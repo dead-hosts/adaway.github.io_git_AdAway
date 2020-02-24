@@ -510,15 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582423928": {
-            "bridge.lga1.admarketplace.net": "INACTIVE",
-            "imp.admarketplace.net": "INACTIVE",
-            "sinclair-tagan.adlightning.com": "INACTIVE",
-            "slate-tagan.adlightning.com": "INACTIVE"
-        },
-        "1582423929": {
-            "sharethrough.adnxs.com": "INACTIVE"
-        },
         "1582428173": {
             "base-cdn.admarvel.com": "INACTIVE",
             "omax.admarvel.com": "INACTIVE",
@@ -620,6 +611,12 @@
             "b.adexchangemachine.com": "INACTIVE",
             "cdn.adligature.com": "INACTIVE",
             "trk.adlibr.com": "INACTIVE"
+        },
+        "1582512684": {
+            "am03.adlooxtracking.com": "INACTIVE"
+        },
+        "1582512685": {
+            "cdn-otf-cas.adperfect.com": "INACTIVE"
         }
     }
 }
