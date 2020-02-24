@@ -510,14 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582436126": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
-        "1582436127": {
-            "data03.adlooxtracking.com": "INACTIVE",
-            "data04.adlooxtracking.com": "INACTIVE",
-            "ivid-f5-us-va.adhigh.net": "INACTIVE"
-        },
         "1582436128": {
             "front.adpia.vn": "INACTIVE",
             "mc.adpia.vn": "INACTIVE"
@@ -607,6 +599,17 @@
         },
         "1582512685": {
             "cdn-otf-cas.adperfect.com": "INACTIVE"
+        },
+        "1582525103": {
+            "ivid-f5-us-va.adhigh.net": "INACTIVE",
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1582525104": {
+            "data29.adlooxtracking.com": "INACTIVE",
+            "data30.adlooxtracking.com": "INACTIVE"
+        },
+        "1582525105": {
+            "dmp.adotmob.com": "INACTIVE"
         }
     }
 }
