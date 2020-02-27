@@ -510,11 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582707411": {
-            "adserver.adotmob.com": "INACTIVE",
-            "datas03.adlooxtracking.com": "INACTIVE",
-            "dmp.adotmob.com": "INACTIVE"
-        },
         "1582710163": {
             "nativo.openadid.adnxs.com": "INACTIVE",
             "openadid.adnxs.com": "INACTIVE"
@@ -595,6 +590,9 @@
         "1582789284": {
             "ivid-f5-us-va.adhigh.net": "INACTIVE",
             "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1582796262": {
+            "static.ad.org.vn": "INACTIVE"
         }
     }
 }
