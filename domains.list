@@ -1769,6 +1769,7 @@ altrooz.com
 am15.net
 amazemobilemedia.com
 aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
 device-metrics-us.amazon.com
@@ -2720,6 +2721,7 @@ api.beaconstreetservices.com
 bead-ad.com
 t.beanstalkdata.com
 t2.beanstalkdata.com
+api.bee7.com
 behaviad.net
 bepolite.eu
 besguses.pro
@@ -3588,6 +3590,7 @@ txn.ingest.crittercism.com
 5-9-1-ios.userflows.ingest.crittercism.com
 crossboardmobile.com
 img.crossinstall.com
+rtb-east-wins.crossinstall.com
 creative-analytics.crossinstall.io
 creatives.crossinstall.io
 step-service.crossinstall.io
@@ -4619,7 +4622,10 @@ load.nrt1.exelator.com
 load.sjc1.exelator.com
 loadus.tm.ssl.exelator.com
 vdna.exelator.com
+ns.exitgames.com
 tags.experian.co.uk
+smetrics1.experian.com
+extreme-ip-lookup.com
 beacons.extremereach.io
 mcs.eyereturn.com
 orion.eyereturn.com
@@ -4993,6 +4999,8 @@ sdk-info.gimbal.com
 sightings.gimbal.com
 cdn.gimbal.tech
 stats.gioneemobile.net
+cdn-prod-defaulting-gamedev-ads.gismart.xyz
+prod-defaulting-subscriptiontool.gismart.xyz
 sidecar.gitter.im
 cdn.gladly.com
 production1.gladly.com
@@ -5201,6 +5209,8 @@ beacon-v2.helpscout.net
 beaconapi.helpscout.net
 mobilityware.helpshift.com
 bannerwall.herewetest.com
+adv.herocraft.com
+gamestats.herocraft.com
 adstage-analytics.herokuapp.com
 bundle-geoip.herokuapp.com
 collection-endpoint-prod.herokuapp.com
@@ -5253,6 +5263,7 @@ analytics.advocate.ly.herokudns.com
 hexagon-analytics.com
 sdk.hexia.io
 heywire.com
+ads.heyzap.com
 fyc.heyzap.com
 med.heyzap.com
 hfc195b.com
@@ -5865,6 +5876,7 @@ ips-post.iperceptions.com
 post.iperceptions.com
 sd.iperceptions.com
 universal.iperceptions.com
+api.ipify.org
 ipinyou.com
 cm.ipinyou.com
 fm.ipinyou.com
@@ -5967,6 +5979,8 @@ route.izooto.com
 sw.izooto.com
 i.mxplayer.j2inter.com
 analytics.jabong.com
+analytics-sdk.jamcity.com
+tongue.jamcity.com
 jaminfinity.tk
 jampp.com
 cdn.jampp.com
@@ -6469,6 +6483,7 @@ vap6ewr1.lijit.com
 res.limei.com
 ads.linkedin.com
 analytics.pointdrive.linkedin.com
+prod.linkitox.com
 ad.linkprice.com
 linkshighway.net
 ad.linksynergy.com
@@ -8130,9 +8145,11 @@ hulu.hb.omtrdc.net
 allstate.sc.omtrdc.net
 audible.sc.omtrdc.net
 dsg.sc.omtrdc.net
+equifaxps.sc.omtrdc.net
 southwestairlines.sc.omtrdc.net
 allstate.tt.omtrdc.net
 audible.tt.omtrdc.net
+consumerinfo.tt.omtrdc.net
 fcanafta.tt.omtrdc.net
 mboxedge17.tt.omtrdc.net
 mboxedge28.tt.omtrdc.net
@@ -8695,6 +8712,7 @@ apps2.outfit7.com
 cdn.outfit7.com
 cdn-o7.outfit7.com
 cdn-safe.outfit7.com
+events-api.outfit7.com
 match7-as-s1.outfit7.com
 match7-eu-w1.outfit7.com
 match7-so-e1.outfit7.com
@@ -8759,6 +8777,7 @@ tracking.performancerevenues.com
 collector-a.perimeterx.net
 collector-px8fcgygk4.perimeterx.net
 collector-pxhyx10rg3.perimeterx.net
+collector-pxuarm9b04.perimeterx.net
 px-conf.perimeterx.net
 ad.period-calendar.com
 permutive.com
@@ -8865,7 +8884,9 @@ api.placer.io
 conf.placer.io
 planetactive.com
 1cef.playfabapi.com
+4d83.playfabapi.com
 65c6.playfabapi.com
+96b6.playfabapi.com
 b343.playfabapi.com
 ca87.playfabapi.com
 playhaven.com
@@ -9812,6 +9833,8 @@ ads.sessiongames.com
 sessionm.com
 sezwho.com
 track.sgdmobile.com
+crm.sgn.com
+invenio.sgn.com
 analytics.shareaholic.com
 apps.shareaholic.com
 clickcdn.shareaholic.com
@@ -10023,6 +10046,7 @@ snapmobile.asia
 snap.snapmobile.asia
 static.snapmobile.asia
 vast.snapmobile.asia
+stats.snowtrial.co
 ca-lapresse-main.collector.snplow.net
 com-bvaauctions-main.collector.snplow.net
 com-codecombat-main.collector.snplow.net
@@ -10089,6 +10113,7 @@ medianet.sync.go.sonobi.com
 xcp.go.sonobi.com
 sharepoint.sonobi.com
 assets.soom.la
+highway2.soom.la
 teleport.soom.la
 lead.soperson.com
 yun-static.soperson.com
@@ -10115,6 +10140,7 @@ us5.splicky.com
 us6.splicky.com
 us7.splicky.com
 us8.splicky.com
+events.split.io
 sdk.split.io
 29627a66.api.splkmobile.com
 959cad30.api.splkmobile.com
@@ -11213,6 +11239,7 @@ srv2.tusdk.com
 asdkd.tutuapp.com
 log.tutuapp.com
 appwall.tv2phone.cn
+collector-6271.tvsquared.com
 sdkgw.us1.twilio.com
 gts-ads.twistbox.com
 deviceidshare.twitch.tv
@@ -11720,6 +11747,9 @@ wbn.su
 ads.wcond.site
 wda.com
 trk.wdacashtrk.com
+bcdn-god.we-stats.com
+cfr.us.v2.we-stats.com
+log-dbff2e04.us.v2.we-stats.com
 adstest.weather.com
 and-ads.pulse.weatherbug.net
 stats.web1tv.de

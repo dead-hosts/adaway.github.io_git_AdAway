@@ -790,8 +790,8 @@
         "state": "future"
     },
     "adsense.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "adsertor.co.uk": {
@@ -837,7 +837,7 @@
     "adsmart.co.uk": {
         "epoch": 1581984000.0,
         "expiration_date": "18-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "adsmart.com": {
         "epoch": 1586304000.0,
@@ -855,8 +855,8 @@
         "state": "future"
     },
     "adsmobi.com": {
-        "epoch": 1580428800.0,
-        "expiration_date": "31-jan-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "adsmogo.mobi": {
