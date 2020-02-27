@@ -510,19 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582702352": {
-            "sdk.adbuddiz.com": "INACTIVE",
-            "static.ad.org.vn": "INACTIVE"
-        },
-        "1582702353": {
-            "data04.adlooxtracking.com": "INACTIVE",
-            "data05.adlooxtracking.com": "INACTIVE",
-            "ivid-f5-us-va.adhigh.net": "INACTIVE"
-        },
-        "1582702354": {
-            "thunder.adnxs.com": "INACTIVE",
-            "ym-default.adnxs.com": "INACTIVE"
-        },
         "1582707411": {
             "adserver.adotmob.com": "INACTIVE",
             "datas03.adlooxtracking.com": "INACTIVE",
@@ -604,6 +591,10 @@
             "bevo.adsnative.com": "INACTIVE",
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
+        },
+        "1582789284": {
+            "ivid-f5-us-va.adhigh.net": "INACTIVE",
+            "sdk.adbuddiz.com": "INACTIVE"
         }
     }
 }
