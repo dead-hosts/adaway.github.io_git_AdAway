@@ -510,16 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582694978": {
-            "serving.ad.org.vn": "INACTIVE"
-        },
-        "1582694979": {
-            "data09.adlooxtracking.com": "INACTIVE"
-        },
-        "1582694980": {
-            "sin1-mobile.adnxs.com": "INACTIVE",
-            "staging-console-cdn.adnxs.com": "INACTIVE"
-        },
         "1582702352": {
             "sdk.adbuddiz.com": "INACTIVE",
             "static.ad.org.vn": "INACTIVE"
@@ -597,6 +587,16 @@
             "am05.adlooxtracking.com": "INACTIVE",
             "clickc.admaster.com.cn": "INACTIVE",
             "cm.admaster.com.cn": "INACTIVE"
+        },
+        "1582783548": {
+            "ad.org.vn": "INACTIVE",
+            "clk.adgaterewards.com": "INACTIVE",
+            "rebootv5.adfuture.cn": "INACTIVE",
+            "serving.ad.org.vn": "INACTIVE"
+        },
+        "1582783549": {
+            "datam01.adlooxtracking.com": "INACTIVE",
+            "datam02.adlooxtracking.com": "INACTIVE"
         }
     }
 }
