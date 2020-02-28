@@ -517,14 +517,6 @@
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
         },
-        "1582838994": {
-            "data35.adlooxtracking.com": "INACTIVE",
-            "data36.adlooxtracking.com": "INACTIVE"
-        },
-        "1582838996": {
-            "api.adsafeprotected.com": "INACTIVE",
-            "appvast.adsafeprotected.com": "INACTIVE"
-        },
         "1582857561": {
             "data02.adlooxtracking.com": "INACTIVE",
             "sdk01.adecosystems.tech": "INACTIVE",
@@ -568,6 +560,9 @@
         },
         "1582911368": {
             "serving.ad.org.vn": "INACTIVE"
+        },
+        "1582927569": {
+            "static.ad.org.vn": "INACTIVE"
         }
     }
 }
