@@ -510,10 +510,6 @@
             "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
             "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
         },
-        "1582772163": {
-            "data18.adlooxtracking.com": "INACTIVE",
-            "data19.adlooxtracking.com": "INACTIVE"
-        },
         "1582774887": {
             "api.adfurikun.jp": "INACTIVE",
             "ginf.adfurikun.jp": "INACTIVE"
@@ -611,6 +607,16 @@
         "1582857562": {
             "secure-lax.adnxs.com": "INACTIVE",
             "secure-nym.adnxs.com": "INACTIVE"
+        },
+        "1582860835": {
+            "consent.adincube.com": "INACTIVE",
+            "data81.adlooxtracking.com": "INACTIVE",
+            "datam03.adlooxtracking.com": "INACTIVE",
+            "datam04.adlooxtracking.com": "INACTIVE"
+        },
+        "1582860837": {
+            "police.adrizer.com": "INACTIVE",
+            "tags.adriver.ru": "INACTIVE"
         }
     }
 }
