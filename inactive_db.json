@@ -517,16 +517,6 @@
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
         },
-        "1582860835": {
-            "consent.adincube.com": "INACTIVE",
-            "data81.adlooxtracking.com": "INACTIVE",
-            "datam03.adlooxtracking.com": "INACTIVE",
-            "datam04.adlooxtracking.com": "INACTIVE"
-        },
-        "1582860837": {
-            "police.adrizer.com": "INACTIVE",
-            "tags.adriver.ru": "INACTIVE"
-        },
         "1582864018": {
             "datam11.adlooxtracking.com": "INACTIVE",
             "datam12.adlooxtracking.com": "INACTIVE",
@@ -554,6 +544,9 @@
         },
         "1582927569": {
             "static.ad.org.vn": "INACTIVE"
+        },
+        "1582948850": {
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
