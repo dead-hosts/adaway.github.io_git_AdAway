@@ -517,12 +517,6 @@
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
         },
-        "1584653803": {
-            "sdk.adbuddiz.com": "INACTIVE"
-        },
-        "1584653804": {
-            "ivid-f5-us-va.adhigh.net": "INACTIVE"
-        },
         "1584657617": {
             "static.ad.org.vn": "INACTIVE"
         },
@@ -537,6 +531,12 @@
         },
         "1584730523": {
             "t.update.ib.adnxs.com": "INACTIVE"
+        },
+        "1584742008": {
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1584742009": {
+            "ivid-f5-us-va.adhigh.net": "INACTIVE"
         }
     }
 }
