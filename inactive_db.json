@@ -517,13 +517,6 @@
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
         },
-        "1585187479": {
-            "sdk.adbuddiz.com": "INACTIVE",
-            "static.ad.org.vn": "INACTIVE"
-        },
-        "1585187480": {
-            "ivid-f5-us-va.adhigh.net": "INACTIVE"
-        },
         "1585227048": {
             "serving.ad.org.vn": "INACTIVE"
         },
@@ -533,6 +526,16 @@
         },
         "1585251444": {
             "ad.org.vn": "INACTIVE"
+        },
+        "1585275579": {
+            "static.ad.org.vn": "INACTIVE"
+        },
+        "1585275580": {
+            "ivid-f5-us-va.adhigh.net": "INACTIVE",
+            "sdk.adbuddiz.com": "INACTIVE"
+        },
+        "1585275581": {
+            "t.update.ib.adnxs.com": "INACTIVE"
         }
     }
 }
