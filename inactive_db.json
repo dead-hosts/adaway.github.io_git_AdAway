@@ -517,12 +517,6 @@
             "cdn.adsnative.com": "INACTIVE",
             "rudy.adsnative.com": "INACTIVE"
         },
-        "1586800587": {
-            "segments.adap.tv": "INACTIVE"
-        },
-        "1586800588": {
-            "adizer.ru": "INACTIVE"
-        },
         "1586827615": {
             "ivid-f5-us-va.adhigh.net": "INACTIVE",
             "tracking.admobsphere.com": "INACTIVE"
@@ -540,6 +534,9 @@
         },
         "1586862627": {
             "t.update.ib.adnxs.com": "INACTIVE"
+        },
+        "1586890351": {
+            "adizer.ru": "INACTIVE"
         }
     }
 }
