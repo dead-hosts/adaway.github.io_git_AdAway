@@ -1,541 +1,1630 @@
 {
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/adaway.github.io.list": {
-        "1560735560": {},
-        "1560736243": {},
-        "1560822861": {},
-        "1560994989": {},
-        "1561168188": {},
-        "1561341785": {},
-        "1561513708": {},
-        "1561687271": {},
-        "1561860424": {},
-        "1562033556": {},
-        "1562206284": {},
-        "1562377946": {},
-        "1562552052": {},
-        "1562724587": {},
-        "1562897026": {},
-        "1563069969": {},
-        "1563243242": {},
-        "1563415544": {},
-        "1563588029": {},
-        "1563760834": {},
-        "1563933726": {},
-        "1564193029": {},
-        "1564365866": {},
-        "1564625159": {},
-        "1564798058": {},
-        "1564970945": {},
-        "1565403085": {},
-        "1565575952": {
-            "a.admob.com": "INACTIVE",
-            "ad.madvertise.de": "INACTIVE",
-            "ad.parrot.mable-inc.com": "INACTIVE",
-            "admicro2.vcmedia.vn": "INACTIVE",
-            "ads.adiquity.com": "INACTIVE",
-            "ads.admoda.com": "INACTIVE",
-            "ads.matomymobile.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.mobgold.com": "INACTIVE",
-            "ads.n-ws.org": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads.saymedia.com": "INACTIVE",
-            "ads.smartdevicemedia.com": "INACTIVE",
-            "ads1.mojiva.com": "INACTIVE",
-            "ads2.mediaarmor.com": "INACTIVE",
-            "ads2.mojiva.com": "INACTIVE",
-            "ads3.mojiva.com": "INACTIVE",
-            "ads4.mojiva.com": "INACTIVE",
-            "ads5.mojiva.com": "INACTIVE",
-            "adserver.ubiyoo.com": "INACTIVE",
-            "adsrv1.tapad.com": "INACTIVE",
-            "adtracker.inmobi.com": "INACTIVE",
-            "analytics.admob.com": "INACTIVE",
-            "api.yp.com": "INACTIVE",
-            "atti.velti.com": "INACTIVE",
-            "bo.jumptap.com": "INACTIVE",
-            "bos-tapreq01.jumptap.com": "INACTIVE",
-            "bos-tapreq02.jumptap.com": "INACTIVE",
-            "bos-tapreq03.jumptap.com": "INACTIVE",
-            "bos-tapreq04.jumptap.com": "INACTIVE",
-            "bos-tapreq05.jumptap.com": "INACTIVE",
-            "bos-tapreq06.jumptap.com": "INACTIVE",
-            "bos-tapreq07.jumptap.com": "INACTIVE",
-            "bos-tapreq08.jumptap.com": "INACTIVE",
-            "bos-tapreq09.jumptap.com": "INACTIVE",
-            "bos-tapreq10.jumptap.com": "INACTIVE",
-            "bos-tapreq11.jumptap.com": "INACTIVE",
-            "bos-tapreq12.jumptap.com": "INACTIVE",
-            "bos-tapreq13.jumptap.com": "INACTIVE",
-            "bos-tapreq14.jumptap.com": "INACTIVE",
-            "bos-tapreq15.jumptap.com": "INACTIVE",
-            "bos-tapreq16.jumptap.com": "INACTIVE",
-            "bos-tapreq17.jumptap.com": "INACTIVE",
-            "bos-tapreq18.jumptap.com": "INACTIVE",
-            "bos-tapreq19.jumptap.com": "INACTIVE",
-            "bos-tapreq20.jumptap.com": "INACTIVE",
-            "c01.smaato.net": "INACTIVE",
-            "c02.smaato.net": "INACTIVE",
-            "c03.smaato.net": "INACTIVE",
-            "c04.smaato.net": "INACTIVE",
-            "c05.smaato.net": "INACTIVE",
-            "c06.smaato.net": "INACTIVE",
-            "c07.smaato.net": "INACTIVE",
-            "c08.smaato.net": "INACTIVE",
-            "c09.smaato.net": "INACTIVE",
-            "c10.smaato.net": "INACTIVE",
-            "c11.smaato.net": "INACTIVE",
-            "c12.smaato.net": "INACTIVE",
-            "c13.smaato.net": "INACTIVE",
-            "c14.smaato.net": "INACTIVE",
-            "c15.smaato.net": "INACTIVE",
-            "c16.smaato.net": "INACTIVE",
-            "c17.smaato.net": "INACTIVE",
-            "c18.smaato.net": "INACTIVE",
-            "c19.smaato.net": "INACTIVE",
-            "c20.smaato.net": "INACTIVE",
-            "c21.smaato.net": "INACTIVE",
-            "c22.smaato.net": "INACTIVE",
-            "c23.smaato.net": "INACTIVE",
-            "c24.smaato.net": "INACTIVE",
-            "c25.smaato.net": "INACTIVE",
-            "c26.smaato.net": "INACTIVE",
-            "c27.smaato.net": "INACTIVE",
-            "c28.smaato.net": "INACTIVE",
-            "c29.smaato.net": "INACTIVE",
-            "c29new.smaato.net": "INACTIVE",
-            "c30.smaato.net": "INACTIVE",
-            "c31.smaato.net": "INACTIVE",
-            "c32.smaato.net": "INACTIVE",
-            "c33.smaato.net": "INACTIVE",
-            "c34.smaato.net": "INACTIVE",
-            "c35.smaato.net": "INACTIVE",
-            "c36.smaato.net": "INACTIVE",
-            "c37.smaato.net": "INACTIVE",
-            "c38.smaato.net": "INACTIVE",
-            "c39.smaato.net": "INACTIVE",
-            "c40.smaato.net": "INACTIVE",
-            "c41.smaato.net": "INACTIVE",
-            "c42.smaato.net": "INACTIVE",
-            "c43.smaato.net": "INACTIVE",
-            "c44.smaato.net": "INACTIVE",
-            "c45.smaato.net": "INACTIVE",
-            "c46.smaato.net": "INACTIVE",
-            "c47.smaato.net": "INACTIVE",
-            "c48.smaato.net": "INACTIVE",
-            "c49.smaato.net": "INACTIVE",
-            "c50.smaato.net": "INACTIVE",
-            "c51.smaato.net": "INACTIVE",
-            "c52.smaato.net": "INACTIVE",
-            "c53.smaato.net": "INACTIVE",
-            "c54.smaato.net": "INACTIVE",
-            "c55.smaato.net": "INACTIVE",
-            "c56.smaato.net": "INACTIVE",
-            "c57.smaato.net": "INACTIVE",
-            "c58.smaato.net": "INACTIVE",
-            "c59.smaato.net": "INACTIVE",
-            "cdn.ajillionmax.com": "INACTIVE",
-            "cdn.mdotm.com": "INACTIVE",
-            "cdn.us.goldspotmedia.com": "INACTIVE",
-            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
-            "f03.smaato.net": "INACTIVE",
-            "f04.smaato.net": "INACTIVE",
-            "f05.smaato.net": "INACTIVE",
-            "f06.smaato.net": "INACTIVE",
-            "f07.smaato.net": "INACTIVE",
-            "f08.smaato.net": "INACTIVE",
-            "f09.smaato.net": "INACTIVE",
-            "f10.smaato.net": "INACTIVE",
-            "f11.smaato.net": "INACTIVE",
-            "f12.smaato.net": "INACTIVE",
-            "f13.smaato.net": "INACTIVE",
-            "f14.smaato.net": "INACTIVE",
-            "f15.smaato.net": "INACTIVE",
-            "f16.smaato.net": "INACTIVE",
-            "f17.smaato.net": "INACTIVE",
-            "f18.smaato.net": "INACTIVE",
-            "f19.smaato.net": "INACTIVE",
-            "f20.smaato.net": "INACTIVE",
-            "f21.smaato.net": "INACTIVE",
-            "f22.smaato.net": "INACTIVE",
-            "f23.smaato.net": "INACTIVE",
-            "f24.smaato.net": "INACTIVE",
-            "f25.smaato.net": "INACTIVE",
-            "f26.smaato.net": "INACTIVE",
-            "f27.smaato.net": "INACTIVE",
-            "f28.smaato.net": "INACTIVE",
-            "f29.smaato.net": "INACTIVE",
-            "f30.smaato.net": "INACTIVE",
-            "f31.smaato.net": "INACTIVE",
-            "f32.smaato.net": "INACTIVE",
-            "f33.smaato.net": "INACTIVE",
-            "f34.smaato.net": "INACTIVE",
-            "f35.smaato.net": "INACTIVE",
-            "f36.smaato.net": "INACTIVE",
-            "f37.smaato.net": "INACTIVE",
-            "f38.smaato.net": "INACTIVE",
-            "f39.smaato.net": "INACTIVE",
-            "f40.smaato.net": "INACTIVE",
-            "f41.smaato.net": "INACTIVE",
-            "f42.smaato.net": "INACTIVE",
-            "f43.smaato.net": "INACTIVE",
-            "f44.smaato.net": "INACTIVE",
-            "f45.smaato.net": "INACTIVE",
-            "f46.smaato.net": "INACTIVE",
-            "f47.smaato.net": "INACTIVE",
-            "f48.smaato.net": "INACTIVE",
-            "f49.smaato.net": "INACTIVE",
-            "f50.smaato.net": "INACTIVE",
-            "f51.smaato.net": "INACTIVE",
-            "f52.smaato.net": "INACTIVE",
-            "f53.smaato.net": "INACTIVE",
-            "f54.smaato.net": "INACTIVE",
-            "f55.smaato.net": "INACTIVE",
-            "f56.smaato.net": "INACTIVE",
-            "f57.smaato.net": "INACTIVE",
-            "f58.smaato.net": "INACTIVE",
-            "f59.smaato.net": "INACTIVE",
-            "f60.smaato.net": "INACTIVE",
-            "i.jumptap.com": "INACTIVE",
-            "i.tapit.com": "INACTIVE",
-            "ifc.inmobi.com": "INACTIVE",
-            "images.millennialmedia.com": "INACTIVE",
-            "img.ads.huntmad.com": "INACTIVE",
-            "img.ads.mobilefuse.net": "INACTIVE",
-            "img.ads.mocean.mobi": "INACTIVE",
-            "img.ads.mojiva.com": "INACTIVE",
-            "img.ads.taptapnetworks.com": "INACTIVE",
-            "img.ads1.mocean.mobi": "INACTIVE",
-            "img.ads1.mojiva.com": "INACTIVE",
-            "img.ads2.mocean.mobi": "INACTIVE",
-            "img.ads2.mojiva.com": "INACTIVE",
-            "img.ads3.mocean.mobi": "INACTIVE",
-            "img.ads3.mojiva.com": "INACTIVE",
-            "img.ads4.mocean.mobi": "INACTIVE",
-            "img.ads4.mojiva.com": "INACTIVE",
-            "jupiter.appads.com": "INACTIVE",
-            "jupiter1.appads.com": "INACTIVE",
-            "jupiter2.appads.com": "INACTIVE",
-            "jupiter3.appads.com": "INACTIVE",
-            "medrx.sensis.com.au": "INACTIVE",
-            "met.adwhirl.com": "INACTIVE",
-            "mob.adwhirl.com": "INACTIVE",
-            "mobiledl.adobe.com": "INACTIVE",
-            "mwc.velti.com": "INACTIVE",
-            "neptune.appads.com": "INACTIVE",
-            "neptune1.appads.com": "INACTIVE",
-            "neptune2.appads.com": "INACTIVE",
-            "neptune3.appads.com": "INACTIVE",
-            "p.admob.com": "INACTIVE",
-            "pagead.googlesyndication.com": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE",
-            "req.appads.com": "INACTIVE",
-            "req1.appads.com": "INACTIVE",
-            "req2.appads.com": "INACTIVE",
-            "req3.appads.com": "INACTIVE",
-            "ru.velti.com": "INACTIVE",
-            "saturn.appads.com": "INACTIVE",
-            "saturn1.appads.com": "INACTIVE",
-            "saturn2.appads.com": "INACTIVE",
-            "saturn3.appads.com": "INACTIVE",
-            "static.cdn.gtsmobi.com": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE",
-            "t.medialytics.com": "INACTIVE",
-            "tcy.smartadserver.com": "INACTIVE",
-            "us0.adlibr.com": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE",
-            "wwww.adleads.com": "INACTIVE"
+        "a.admob.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ad.madvertise.de": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ad.parrot.mable-inc.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "admicro2.vcmedia.vn": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.adiquity.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.admoda.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.matomymobile.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.mdotm.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.mobgold.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.n-ws.org": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.ookla.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.saymedia.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads.smartdevicemedia.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads1.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads2.mediaarmor.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads2.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads3.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads4.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ads5.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "adserver.ubiyoo.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "adsrv1.tapad.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "adtracker.inmobi.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "analytics.admob.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "api.yp.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "atti.velti.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bo.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq01.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq02.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq03.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq04.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq05.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq06.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq07.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq08.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq09.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq10.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq11.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq12.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq13.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq14.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq15.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq16.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq17.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq18.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq19.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "bos-tapreq20.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c01.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c02.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c03.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c04.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c05.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c06.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c07.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c08.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c09.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c10.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c11.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c12.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c13.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c14.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c15.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c16.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c17.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c18.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c19.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c20.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c21.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c22.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c23.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c24.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c25.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c26.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c27.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c28.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c29.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c29new.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c30.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c31.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c32.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c33.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c34.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c35.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c36.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c37.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c38.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c39.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c40.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c41.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c42.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c43.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c44.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c45.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c46.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c47.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c48.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c49.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c50.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c51.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c52.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c53.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c54.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c55.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c56.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c57.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c58.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "c59.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "cdn.ajillionmax.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "cdn.mdotm.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "cdn.us.goldspotmedia.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "d3anogn3pbtk4v.cloudfront.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f03.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f04.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f05.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f06.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f07.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f08.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f09.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f10.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f11.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f12.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f13.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f14.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f15.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f16.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f17.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f18.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f19.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f20.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f21.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f22.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f23.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f24.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f25.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f26.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f27.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f28.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f29.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f30.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f31.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f32.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f33.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f34.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f35.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f36.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f37.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f38.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f39.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f40.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f41.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f42.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f43.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f44.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f45.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f46.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f47.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f48.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f49.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f50.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f51.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f52.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f53.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f54.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f55.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f56.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f57.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f58.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f59.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "f60.smaato.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "i.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "i.tapit.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ifc.inmobi.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "images.millennialmedia.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads.huntmad.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads.mobilefuse.net": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads.mocean.mobi": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads.taptapnetworks.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads1.mocean.mobi": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads1.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads2.mocean.mobi": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads2.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads3.mocean.mobi": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads3.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads4.mocean.mobi": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "img.ads4.mojiva.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "jupiter.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "jupiter1.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "jupiter2.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "jupiter3.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "medrx.sensis.com.au": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "met.adwhirl.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "mob.adwhirl.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "mobiledl.adobe.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "mwc.velti.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "neptune.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "neptune1.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "neptune2.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "neptune3.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "p.admob.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "pagead.googlesyndication.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "pagead1.googlesyndication.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "req.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "req1.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "req2.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "req3.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "ru.velti.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "saturn.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "saturn1.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "saturn2.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "saturn3.appads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "static.cdn.gtsmobi.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "swappit.tapad.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "t.medialytics.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "tcy.smartadserver.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "us0.adlibr.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "web63.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "web64.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "web65.jumptap.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
+        },
+        "wwww.adleads.com": {
+            "included_at_epoch": 1565575952.0,
+            "included_at_iso": "2019-08-12T02:12:32",
+            "last_retested_at_epoch": 1565575952.0,
+            "last_retested_at_iso": "2019-08-12T02:12:32",
+            "status": "INACTIVE"
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
-        "1579519855": {
-            "setting.adzcore.com": "INACTIVE"
+        "adizer.ru": {
+            "included_at_epoch": 1587160848.0,
+            "included_at_iso": "2020-04-17T22:00:48",
+            "last_retested_at_epoch": 1587940382.827514,
+            "last_retested_at_iso": "2020-04-26T22:33:02.827514",
+            "status": "INACTIVE"
         },
-        "1579519856": {
-            "alivar.com.vn": "INACTIVE",
-            "api.ambelbet.com": "INACTIVE"
+        "api-cache.adsnative.com": {
+            "included_at_epoch": 1587940384.69548,
+            "included_at_iso": "2020-04-26T22:33:04.695480",
+            "last_retested_at_epoch": 1587940384.69548,
+            "last_retested_at_iso": "2020-04-26T22:33:04.695480",
+            "status": "INACTIVE"
         },
-        "1579523466": {
-            "govtech-c.clickability.com": "INACTIVE"
+        "api.adsnative.com": {
+            "included_at_epoch": 1587940384.691201,
+            "included_at_iso": "2020-04-26T22:33:04.691201",
+            "last_retested_at_epoch": 1587940384.691201,
+            "last_retested_at_iso": "2020-04-26T22:33:04.691201",
+            "status": "INACTIVE"
         },
-        "1579525347": {
-            "collect10776gdsnd.deltadna.net": "INACTIVE",
-            "collect12678nmtnt.deltadna.net": "INACTIVE",
-            "collect13566brrtb.deltadna.net": "INACTIVE",
-            "engage12678nmtnt.deltadna.net": "INACTIVE",
-            "engage13494dvntr.deltadna.net": "INACTIVE",
-            "engage13551pcktp.deltadna.net": "INACTIVE",
-            "engage13566brrtb.deltadna.net": "INACTIVE",
-            "engage13617dvntr.deltadna.net": "INACTIVE",
-            "engage14052tnkrs.deltadna.net": "INACTIVE"
+        "bevo.adsnative.com": {
+            "included_at_epoch": 1587940384.699987,
+            "included_at_iso": "2020-04-26T22:33:04.699987",
+            "last_retested_at_epoch": 1587940384.699987,
+            "last_retested_at_iso": "2020-04-26T22:33:04.699987",
+            "status": "INACTIVE"
         },
-        "1579525348": {
-            "mobile9897.drumteam99.live": "INACTIVE"
+        "cdn.adsnative.com": {
+            "included_at_epoch": 1587940384.704214,
+            "included_at_iso": "2020-04-26T22:33:04.704214",
+            "last_retested_at_epoch": 1587940384.704214,
+            "last_retested_at_iso": "2020-04-26T22:33:04.704214",
+            "status": "INACTIVE"
         },
-        "1579529396": {
-            "secure-eu.imrworldwide.com": "INACTIVE",
-            "xclub.app.infinixmobility.com": "INACTIVE"
+        "ivid-f5-us-va.adhigh.net": {
+            "included_at_epoch": 1587187200.0,
+            "included_at_iso": "2020-04-18T05:20:00",
+            "last_retested_at_epoch": 1587940382.73019,
+            "last_retested_at_iso": "2020-04-26T22:33:02.730190",
+            "status": "INACTIVE"
         },
-        "1579529398": {
-            "joneself.com": "INACTIVE"
+        "mam.ad-balancer.at": {
+            "included_at_epoch": 1587940381.847724,
+            "included_at_iso": "2020-04-26T22:33:01.847724",
+            "last_retested_at_epoch": 1587940381.847724,
+            "last_retested_at_iso": "2020-04-26T22:33:01.847724",
+            "status": "INACTIVE"
         },
-        "1579533804": {
-            "p.share.mob.com": "INACTIVE"
+        "mt.analytics.163.com": {
+            "included_at_epoch": 1587191595.0,
+            "included_at_iso": "2020-04-18T06:33:15",
+            "last_retested_at_epoch": 1587940381.384129,
+            "last_retested_at_iso": "2020-04-26T22:33:01.384129",
+            "status": "INACTIVE"
         },
-        "1579536073": {
-            "rtb.persona.ly": "INACTIVE"
+        "rubicon-tagan.adlightning.com": {
+            "included_at_epoch": 1587940382.954086,
+            "included_at_iso": "2020-04-26T22:33:02.954086",
+            "last_retested_at_epoch": 1587940382.954086,
+            "last_retested_at_iso": "2020-04-26T22:33:02.954086",
+            "status": "INACTIVE"
         },
-        "1579537840": {
-            "creative-adchoices.advertise.quantcast.com": "INACTIVE"
+        "rudy.adsnative.com": {
+            "included_at_epoch": 1587940384.708714,
+            "included_at_iso": "2020-04-26T22:33:04.708714",
+            "last_retested_at_epoch": 1587940384.708714,
+            "last_retested_at_iso": "2020-04-26T22:33:04.708714",
+            "status": "INACTIVE"
         },
-        "1579537842": {
-            "mrp.rubiconproject.com": "INACTIVE"
+        "sdk.adbuddiz.com": {
+            "included_at_epoch": 1587940382.209376,
+            "included_at_iso": "2020-04-26T22:33:02.209376",
+            "last_retested_at_epoch": 1587940382.209376,
+            "last_retested_at_iso": "2020-04-26T22:33:02.209376",
+            "status": "INACTIVE"
         },
-        "1579537843": {
-            "ping.xlmc.sandai.net": "INACTIVE"
+        "thales.adsrvr.org": {
+            "included_at_epoch": 1587940384.940188,
+            "included_at_iso": "2020-04-26T22:33:04.940188",
+            "last_retested_at_epoch": 1587940384.940188,
+            "last_retested_at_iso": "2020-04-26T22:33:04.940188",
+            "status": "INACTIVE"
         },
-        "1579539238": {
-            "ads.tarrobads.com": "INACTIVE"
-        },
-        "1579540791": {
-            "analytics.toast.com": "INACTIVE",
-            "token.ad": "INACTIVE"
-        },
-        "1579540794": {
-            "stats.unity3d.com": "INACTIVE"
-        },
-        "1579543404": {
-            "ads.adiquity.com": "INACTIVE",
-            "ads.admoda.com": "INACTIVE",
-            "ads.mdotm.com": "INACTIVE",
-            "ads.mobgold.com": "INACTIVE",
-            "ads.smartdevicemedia.com": "INACTIVE",
-            "ads1.mojiva.com": "INACTIVE",
-            "adsrv1.tapad.com": "INACTIVE",
-            "analytics.admob.com": "INACTIVE",
-            "atti.velti.com": "INACTIVE",
-            "bo.jumptap.com": "INACTIVE",
-            "bos-tapreq03.jumptap.com": "INACTIVE",
-            "bos-tapreq06.jumptap.com": "INACTIVE",
-            "bos-tapreq08.jumptap.com": "INACTIVE",
-            "bos-tapreq10.jumptap.com": "INACTIVE",
-            "bos-tapreq12.jumptap.com": "INACTIVE",
-            "bos-tapreq13.jumptap.com": "INACTIVE",
-            "bos-tapreq14.jumptap.com": "INACTIVE",
-            "bos-tapreq18.jumptap.com": "INACTIVE",
-            "bos-tapreq20.jumptap.com": "INACTIVE",
-            "c01.smaato.net": "INACTIVE",
-            "c02.smaato.net": "INACTIVE",
-            "c03.smaato.net": "INACTIVE",
-            "c04.smaato.net": "INACTIVE",
-            "c05.smaato.net": "INACTIVE",
-            "c06.smaato.net": "INACTIVE",
-            "c07.smaato.net": "INACTIVE",
-            "c09.smaato.net": "INACTIVE",
-            "c11.smaato.net": "INACTIVE",
-            "c12.smaato.net": "INACTIVE",
-            "c13.smaato.net": "INACTIVE",
-            "c14.smaato.net": "INACTIVE",
-            "c18.smaato.net": "INACTIVE",
-            "c20.smaato.net": "INACTIVE",
-            "c23.smaato.net": "INACTIVE",
-            "c24.smaato.net": "INACTIVE",
-            "c28.smaato.net": "INACTIVE",
-            "c30.smaato.net": "INACTIVE",
-            "c31.smaato.net": "INACTIVE",
-            "c32.smaato.net": "INACTIVE",
-            "c35.smaato.net": "INACTIVE",
-            "c36.smaato.net": "INACTIVE",
-            "c37.smaato.net": "INACTIVE",
-            "c38.smaato.net": "INACTIVE",
-            "c40.smaato.net": "INACTIVE",
-            "c46.smaato.net": "INACTIVE",
-            "c50.smaato.net": "INACTIVE",
-            "c55.smaato.net": "INACTIVE",
-            "c56.smaato.net": "INACTIVE",
-            "c57.smaato.net": "INACTIVE",
-            "cdn.us.goldspotmedia.com": "INACTIVE",
-            "d3anogn3pbtk4v.cloudfront.net": "INACTIVE",
-            "f03.smaato.net": "INACTIVE",
-            "f04.smaato.net": "INACTIVE",
-            "f05.smaato.net": "INACTIVE",
-            "f07.smaato.net": "INACTIVE",
-            "f09.smaato.net": "INACTIVE",
-            "f16.smaato.net": "INACTIVE",
-            "f17.smaato.net": "INACTIVE",
-            "f18.smaato.net": "INACTIVE",
-            "f21.smaato.net": "INACTIVE",
-            "f22.smaato.net": "INACTIVE",
-            "f25.smaato.net": "INACTIVE",
-            "f26.smaato.net": "INACTIVE",
-            "f31.smaato.net": "INACTIVE",
-            "f35.smaato.net": "INACTIVE",
-            "f37.smaato.net": "INACTIVE",
-            "f38.smaato.net": "INACTIVE",
-            "f40.smaato.net": "INACTIVE",
-            "f41.smaato.net": "INACTIVE",
-            "f46.smaato.net": "INACTIVE",
-            "f47.smaato.net": "INACTIVE",
-            "f53.smaato.net": "INACTIVE",
-            "f58.smaato.net": "INACTIVE",
-            "f60.smaato.net": "INACTIVE",
-            "i.jumptap.com": "INACTIVE",
-            "img.ads1.mocean.mobi": "INACTIVE",
-            "img.ads1.mojiva.com": "INACTIVE",
-            "img.ads2.mojiva.com": "INACTIVE",
-            "img.ads3.mocean.mobi": "INACTIVE",
-            "img.ads3.mojiva.com": "INACTIVE",
-            "img.ads4.mocean.mobi": "INACTIVE",
-            "img.ads4.mojiva.com": "INACTIVE",
-            "medrx.sensis.com.au": "INACTIVE",
-            "mobiledl.adobe.com": "INACTIVE",
-            "mwc.velti.com": "INACTIVE",
-            "web65.jumptap.com": "INACTIVE"
-        },
-        "1579543405": {
-            "a.admob.com": "INACTIVE",
-            "ad.madvertise.de": "INACTIVE",
-            "ad.parrot.mable-inc.com": "INACTIVE",
-            "admicro2.vcmedia.vn": "INACTIVE",
-            "ads.matomymobile.com": "INACTIVE",
-            "ads.n-ws.org": "INACTIVE",
-            "ads.ookla.com": "INACTIVE",
-            "ads3.mojiva.com": "INACTIVE",
-            "ads4.mojiva.com": "INACTIVE",
-            "ads5.mojiva.com": "INACTIVE",
-            "adtracker.inmobi.com": "INACTIVE",
-            "api.yp.com": "INACTIVE",
-            "bos-tapreq01.jumptap.com": "INACTIVE",
-            "bos-tapreq02.jumptap.com": "INACTIVE",
-            "bos-tapreq04.jumptap.com": "INACTIVE",
-            "bos-tapreq05.jumptap.com": "INACTIVE",
-            "bos-tapreq07.jumptap.com": "INACTIVE",
-            "bos-tapreq09.jumptap.com": "INACTIVE",
-            "bos-tapreq11.jumptap.com": "INACTIVE",
-            "bos-tapreq15.jumptap.com": "INACTIVE",
-            "bos-tapreq16.jumptap.com": "INACTIVE",
-            "bos-tapreq17.jumptap.com": "INACTIVE",
-            "bos-tapreq19.jumptap.com": "INACTIVE",
-            "c08.smaato.net": "INACTIVE",
-            "c10.smaato.net": "INACTIVE",
-            "c15.smaato.net": "INACTIVE",
-            "c16.smaato.net": "INACTIVE",
-            "c17.smaato.net": "INACTIVE",
-            "c21.smaato.net": "INACTIVE",
-            "c22.smaato.net": "INACTIVE",
-            "c25.smaato.net": "INACTIVE",
-            "c26.smaato.net": "INACTIVE",
-            "c27.smaato.net": "INACTIVE",
-            "c29.smaato.net": "INACTIVE",
-            "c29new.smaato.net": "INACTIVE",
-            "c34.smaato.net": "INACTIVE",
-            "c39.smaato.net": "INACTIVE",
-            "c41.smaato.net": "INACTIVE",
-            "c42.smaato.net": "INACTIVE",
-            "c43.smaato.net": "INACTIVE",
-            "c44.smaato.net": "INACTIVE",
-            "c47.smaato.net": "INACTIVE",
-            "c49.smaato.net": "INACTIVE",
-            "c51.smaato.net": "INACTIVE",
-            "c53.smaato.net": "INACTIVE",
-            "c54.smaato.net": "INACTIVE",
-            "c58.smaato.net": "INACTIVE",
-            "c59.smaato.net": "INACTIVE",
-            "cdn.ajillionmax.com": "INACTIVE",
-            "cdn.mdotm.com": "INACTIVE",
-            "f06.smaato.net": "INACTIVE",
-            "f08.smaato.net": "INACTIVE",
-            "f10.smaato.net": "INACTIVE",
-            "f11.smaato.net": "INACTIVE",
-            "f12.smaato.net": "INACTIVE",
-            "f13.smaato.net": "INACTIVE",
-            "f14.smaato.net": "INACTIVE",
-            "f15.smaato.net": "INACTIVE",
-            "f20.smaato.net": "INACTIVE",
-            "f23.smaato.net": "INACTIVE",
-            "f24.smaato.net": "INACTIVE",
-            "f27.smaato.net": "INACTIVE",
-            "f28.smaato.net": "INACTIVE",
-            "f29.smaato.net": "INACTIVE",
-            "f30.smaato.net": "INACTIVE",
-            "f32.smaato.net": "INACTIVE",
-            "f33.smaato.net": "INACTIVE",
-            "f34.smaato.net": "INACTIVE",
-            "f36.smaato.net": "INACTIVE",
-            "f39.smaato.net": "INACTIVE",
-            "f42.smaato.net": "INACTIVE",
-            "f43.smaato.net": "INACTIVE",
-            "f44.smaato.net": "INACTIVE",
-            "f48.smaato.net": "INACTIVE",
-            "f49.smaato.net": "INACTIVE",
-            "f50.smaato.net": "INACTIVE",
-            "f51.smaato.net": "INACTIVE",
-            "f52.smaato.net": "INACTIVE",
-            "f54.smaato.net": "INACTIVE",
-            "f55.smaato.net": "INACTIVE",
-            "f56.smaato.net": "INACTIVE",
-            "f57.smaato.net": "INACTIVE",
-            "f59.smaato.net": "INACTIVE",
-            "i.tapit.com": "INACTIVE",
-            "ifc.inmobi.com": "INACTIVE",
-            "images.millennialmedia.com": "INACTIVE",
-            "img.ads.mocean.mobi": "INACTIVE",
-            "img.ads.mojiva.com": "INACTIVE",
-            "img.ads2.mocean.mobi": "INACTIVE",
-            "p.admob.com": "INACTIVE",
-            "pagead.googlesyndication.com": "INACTIVE",
-            "pagead1.googlesyndication.com": "INACTIVE",
-            "ru.velti.com": "INACTIVE",
-            "swappit.tapad.com": "INACTIVE",
-            "t.medialytics.com": "INACTIVE",
-            "tcy.smartadserver.com": "INACTIVE",
-            "web64.jumptap.com": "INACTIVE"
-        },
-        "1579543406": {
-            "ads2.mojiva.com": "INACTIVE",
-            "c19.smaato.net": "INACTIVE",
-            "c33.smaato.net": "INACTIVE",
-            "c45.smaato.net": "INACTIVE",
-            "c48.smaato.net": "INACTIVE",
-            "c52.smaato.net": "INACTIVE",
-            "f19.smaato.net": "INACTIVE",
-            "f45.smaato.net": "INACTIVE",
-            "static.cdn.gtsmobi.com": "INACTIVE",
-            "us0.adlibr.com": "INACTIVE",
-            "web63.jumptap.com": "INACTIVE"
-        },
-        "1579700049": {
-            "a.2edd6c0fea91f88494d1cc37672db524.com": "INACTIVE",
-            "a.3fdf2a5f924760915ca68b5ad01cfdae.com": "INACTIVE"
-        },
-        "1582786407": {
-            "api-cache.adsnative.com": "INACTIVE",
-            "api.adsnative.com": "INACTIVE",
-            "bevo.adsnative.com": "INACTIVE",
-            "cdn.adsnative.com": "INACTIVE",
-            "rudy.adsnative.com": "INACTIVE"
-        },
-        "1587129121": {
-            "t.update.ib.adnxs.com": "INACTIVE"
-        },
-        "1587160848": {
-            "adizer.ru": "INACTIVE"
-        },
-        "1587187200": {
-            "ivid-f5-us-va.adhigh.net": "INACTIVE"
-        },
-        "1587187201": {
-            "tracking.admobsphere.com": "INACTIVE"
-        },
-        "1587191595": {
-            "mt.analytics.163.com": "INACTIVE"
-        },
-        "1587200498": {
-            "access.adblox.net": "INACTIVE",
-            "services.adblox.net": "INACTIVE",
-            "servs.adblox.net": "INACTIVE"
+        "tracking.admobsphere.com": {
+            "included_at_epoch": 1587187201.0,
+            "included_at_iso": "2020-04-18T05:20:01",
+            "last_retested_at_epoch": 1587940383.563842,
+            "last_retested_at_iso": "2020-04-26T22:33:03.563842",
+            "status": "INACTIVE"
         }
     }
 }
