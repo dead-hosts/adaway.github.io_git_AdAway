@@ -1570,6 +1570,13 @@
             "last_retested_at_iso": "2020-04-26T22:33:04.704214",
             "status": "INACTIVE"
         },
+        "d.adsplay.net": {
+            "included_at_epoch": 1588021377.611316,
+            "included_at_iso": "2020-04-27T21:02:57.611316",
+            "last_retested_at_epoch": 1588021377.611316,
+            "last_retested_at_iso": "2020-04-27T21:02:57.611316",
+            "status": "INACTIVE"
+        },
         "ivid-f5-us-va.adhigh.net": {
             "included_at_epoch": 1587187200.0,
             "included_at_iso": "2020-04-18T05:20:00",
