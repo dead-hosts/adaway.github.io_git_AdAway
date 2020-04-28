@@ -1612,6 +1612,13 @@
             "last_retested_at_iso": "2020-04-27T23:20:31.292837",
             "status": "INACTIVE"
         },
+        "retg.adnetwork.vn": {
+            "included_at_epoch": 1588095535.127838,
+            "included_at_iso": "2020-04-28T17:38:55.127838",
+            "last_retested_at_epoch": 1588095535.127838,
+            "last_retested_at_iso": "2020-04-28T17:38:55.127838",
+            "status": "INACTIVE"
+        },
         "rubicon-tagan.adlightning.com": {
             "included_at_epoch": 1587940382.954086,
             "included_at_iso": "2020-04-26T22:33:02.954086",
