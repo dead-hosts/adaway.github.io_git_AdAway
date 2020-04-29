@@ -1591,6 +1591,13 @@
             "last_retested_at_iso": "2020-04-28T23:31:02.608123",
             "status": "INACTIVE"
         },
+        "metrics.adnetwork.vn": {
+            "included_at_epoch": 1588165389.611957,
+            "included_at_iso": "2020-04-29T13:03:09.611957",
+            "last_retested_at_epoch": 1588165389.611957,
+            "last_retested_at_iso": "2020-04-29T13:03:09.611957",
+            "status": "INACTIVE"
+        },
         "mt.analytics.163.com": {
             "included_at_epoch": 1587191595.0,
             "included_at_iso": "2020-04-18T06:33:15",
