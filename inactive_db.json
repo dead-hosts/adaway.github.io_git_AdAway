@@ -1633,6 +1633,13 @@
             "last_retested_at_iso": "2020-04-28T23:31:02.970106",
             "status": "INACTIVE"
         },
+        "t.update.ib.adnxs.com": {
+            "included_at_epoch": 1588120751.854993,
+            "included_at_iso": "2020-04-29T00:39:11.854993",
+            "last_retested_at_epoch": 1588120751.854993,
+            "last_retested_at_iso": "2020-04-29T00:39:11.854993",
+            "status": "INACTIVE"
+        },
         "thales.adsrvr.org": {
             "included_at_epoch": 1587940384.940188,
             "included_at_iso": "2020-04-26T22:33:04.940188",
