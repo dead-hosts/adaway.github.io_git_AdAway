@@ -1577,6 +1577,13 @@
             "last_retested_at_iso": "2020-04-30T11:55:23.514050",
             "status": "INACTIVE"
         },
+        "imp.adnetwork.vn": {
+            "included_at_epoch": 1588283108.770992,
+            "included_at_iso": "2020-04-30T21:45:08.770992",
+            "last_retested_at_epoch": 1588283108.770992,
+            "last_retested_at_iso": "2020-04-30T21:45:08.770992",
+            "status": "INACTIVE"
+        },
         "ivid-f5-us-va.adhigh.net": {
             "included_at_epoch": 1587187200.0,
             "included_at_iso": "2020-04-18T05:20:00",
