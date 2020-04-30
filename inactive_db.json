@@ -1538,8 +1538,8 @@
         "adizer.ru": {
             "included_at_epoch": 1587160848.0,
             "included_at_iso": "2020-04-17T22:00:48",
-            "last_retested_at_epoch": 1588116663.61524,
-            "last_retested_at_iso": "2020-04-28T23:31:03.615240",
+            "last_retested_at_epoch": 1588246294.682552,
+            "last_retested_at_iso": "2020-04-30T11:31:34.682552",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -1573,15 +1573,15 @@
         "ivid-f5-us-va.adhigh.net": {
             "included_at_epoch": 1587187200.0,
             "included_at_iso": "2020-04-18T05:20:00",
-            "last_retested_at_epoch": 1588116663.511377,
-            "last_retested_at_iso": "2020-04-28T23:31:03.511377",
+            "last_retested_at_epoch": 1588246294.563686,
+            "last_retested_at_iso": "2020-04-30T11:31:34.563686",
             "status": "INACTIVE"
         },
         "mam.ad-balancer.at": {
             "included_at_epoch": 1587940381.847724,
             "included_at_iso": "2020-04-26T22:33:01.847724",
-            "last_retested_at_epoch": 1588116662.608123,
-            "last_retested_at_iso": "2020-04-28T23:31:02.608123",
+            "last_retested_at_epoch": 1588246293.66452,
+            "last_retested_at_iso": "2020-04-30T11:31:33.664520",
             "status": "INACTIVE"
         },
         "metrics.adnetwork.vn": {
@@ -1594,22 +1594,15 @@
         "mt.analytics.163.com": {
             "included_at_epoch": 1587191595.0,
             "included_at_iso": "2020-04-18T06:33:15",
-            "last_retested_at_epoch": 1588116662.146099,
-            "last_retested_at_iso": "2020-04-28T23:31:02.146099",
-            "status": "INACTIVE"
-        },
-        "retg.adnetwork.vn": {
-            "included_at_epoch": 1588095535.127838,
-            "included_at_iso": "2020-04-28T17:38:55.127838",
-            "last_retested_at_epoch": 1588095535.127838,
-            "last_retested_at_iso": "2020-04-28T17:38:55.127838",
+            "last_retested_at_epoch": 1588246293.203328,
+            "last_retested_at_iso": "2020-04-30T11:31:33.203328",
             "status": "INACTIVE"
         },
         "rubicon-tagan.adlightning.com": {
             "included_at_epoch": 1587940382.954086,
             "included_at_iso": "2020-04-26T22:33:02.954086",
-            "last_retested_at_epoch": 1588116663.749411,
-            "last_retested_at_iso": "2020-04-28T23:31:03.749411",
+            "last_retested_at_epoch": 1588246294.838316,
+            "last_retested_at_iso": "2020-04-30T11:31:34.838316",
             "status": "INACTIVE"
         },
         "rudy.adsnative.com": {
@@ -1622,15 +1615,8 @@
         "sdk.adbuddiz.com": {
             "included_at_epoch": 1587940382.209376,
             "included_at_iso": "2020-04-26T22:33:02.209376",
-            "last_retested_at_epoch": 1588116662.970106,
-            "last_retested_at_iso": "2020-04-28T23:31:02.970106",
-            "status": "INACTIVE"
-        },
-        "t.update.ib.adnxs.com": {
-            "included_at_epoch": 1588120751.854993,
-            "included_at_iso": "2020-04-29T00:39:11.854993",
-            "last_retested_at_epoch": 1588120751.854993,
-            "last_retested_at_iso": "2020-04-29T00:39:11.854993",
+            "last_retested_at_epoch": 1588246294.028634,
+            "last_retested_at_iso": "2020-04-30T11:31:34.028634",
             "status": "INACTIVE"
         },
         "thales.adsrvr.org": {
@@ -1643,8 +1629,8 @@
         "tracking.admobsphere.com": {
             "included_at_epoch": 1587187201.0,
             "included_at_iso": "2020-04-18T05:20:01",
-            "last_retested_at_epoch": 1588116664.381861,
-            "last_retested_at_iso": "2020-04-28T23:31:04.381861",
+            "last_retested_at_epoch": 1588246295.528634,
+            "last_retested_at_iso": "2020-04-30T11:31:35.528634",
             "status": "INACTIVE"
         }
     }
