@@ -1696,6 +1696,13 @@
             "last_retested_at_iso": "2020-05-01T20:38:34.900820",
             "status": "INACTIVE"
         },
+        "analytics.toast.com": {
+            "included_at_epoch": 1588370869.937471,
+            "included_at_iso": "2020-05-01T22:07:49.937471",
+            "last_retested_at_epoch": 1588370869.937471,
+            "last_retested_at_iso": "2020-05-01T22:07:49.937471",
+            "status": "INACTIVE"
+        },
         "api-cache.adsnative.com": {
             "included_at_epoch": 1587940384.69548,
             "included_at_iso": "2020-04-26T22:33:04.695480",
@@ -2165,6 +2172,13 @@
             "last_retested_at_iso": "2020-05-01T17:10:08.227396",
             "status": "INACTIVE"
         },
+        "gts-ads.twistbox.com": {
+            "included_at_epoch": 1588370871.073094,
+            "included_at_iso": "2020-05-01T22:07:51.073094",
+            "last_retested_at_epoch": 1588370871.073094,
+            "last_retested_at_iso": "2020-05-01T22:07:51.073094",
+            "status": "INACTIVE"
+        },
         "i.po.st": {
             "included_at_epoch": 1588365515.551269,
             "included_at_iso": "2020-05-01T20:38:35.551269",
@@ -2200,13 +2214,6 @@
             "last_retested_at_iso": "2020-05-01T18:09:42.543518",
             "status": "INACTIVE"
         },
-        "imp.adnetwork.vn": {
-            "included_at_epoch": 1588283108.770992,
-            "included_at_iso": "2020-04-30T21:45:08.770992",
-            "last_retested_at_epoch": 1588283108.770992,
-            "last_retested_at_iso": "2020-04-30T21:45:08.770992",
-            "status": "INACTIVE"
-        },
         "in.appserver-ap.com": {
             "included_at_epoch": 1588349171.610804,
             "included_at_iso": "2020-05-01T16:06:11.610804",
@@ -2219,6 +2226,13 @@
             "included_at_iso": "2020-05-01T16:06:11.641597",
             "last_retested_at_epoch": 1588349171.641597,
             "last_retested_at_iso": "2020-05-01T16:06:11.641597",
+            "status": "INACTIVE"
+        },
+        "influencers.tapinfluence.com": {
+            "included_at_epoch": 1588370868.008178,
+            "included_at_iso": "2020-05-01T22:07:48.008178",
+            "last_retested_at_epoch": 1588370868.008178,
+            "last_retested_at_iso": "2020-05-01T22:07:48.008178",
             "status": "INACTIVE"
         },
         "ivid-f5-us-va.adhigh.net": {
@@ -2324,6 +2338,13 @@
             "included_at_iso": "2020-05-01T18:09:40.645500",
             "last_retested_at_epoch": 1588356580.6455,
             "last_retested_at_iso": "2020-05-01T18:09:40.645500",
+            "status": "INACTIVE"
+        },
+        "metrics.tbliab.net": {
+            "included_at_epoch": 1588370868.687849,
+            "included_at_iso": "2020-05-01T22:07:48.687849",
+            "last_retested_at_epoch": 1588370868.687849,
+            "last_retested_at_iso": "2020-05-01T22:07:48.687849",
             "status": "INACTIVE"
         },
         "mobiletracker-env.us-east-1.elasticbeanstalk.com": {
@@ -2599,6 +2620,13 @@
             "last_retested_at_iso": "2020-05-01T16:06:13.113364",
             "status": "INACTIVE"
         },
+        "stats.unity3d.com": {
+            "included_at_epoch": 1588370872.263636,
+            "included_at_iso": "2020-05-01T22:07:52.263636",
+            "last_retested_at_epoch": 1588370872.263636,
+            "last_retested_at_iso": "2020-05-01T22:07:52.263636",
+            "status": "INACTIVE"
+        },
         "sysco-appstore2.madmobile.com": {
             "included_at_epoch": 1588362489.366223,
             "included_at_iso": "2020-05-01T19:48:09.366223",
@@ -2611,6 +2639,27 @@
             "included_at_iso": "2020-05-01T19:48:09.392992",
             "last_retested_at_epoch": 1588362489.392992,
             "last_retested_at_iso": "2020-05-01T19:48:09.392992",
+            "status": "INACTIVE"
+        },
+        "t3q7af0z.com": {
+            "included_at_epoch": 1588370866.595205,
+            "included_at_iso": "2020-05-01T22:07:46.595205",
+            "last_retested_at_epoch": 1588370866.595205,
+            "last_retested_at_iso": "2020-05-01T22:07:46.595205",
+            "status": "INACTIVE"
+        },
+        "tag-mediation.supersonic.com": {
+            "included_at_epoch": 1588370862.944834,
+            "included_at_iso": "2020-05-01T22:07:42.944834",
+            "last_retested_at_epoch": 1588370862.944834,
+            "last_retested_at_iso": "2020-05-01T22:07:42.944834",
+            "status": "INACTIVE"
+        },
+        "tck.synerise.com": {
+            "included_at_epoch": 1588370866.606946,
+            "included_at_iso": "2020-05-01T22:07:46.606946",
+            "last_retested_at_epoch": 1588370866.606946,
+            "last_retested_at_iso": "2020-05-01T22:07:46.606946",
             "status": "INACTIVE"
         },
         "thales.adsrvr.org": {
@@ -2627,11 +2676,25 @@
             "last_retested_at_iso": "2020-05-01T20:38:26.742981",
             "status": "INACTIVE"
         },
+        "token.ad": {
+            "included_at_epoch": 1588370870.001194,
+            "included_at_iso": "2020-05-01T22:07:50.001194",
+            "last_retested_at_epoch": 1588370870.001194,
+            "last_retested_at_iso": "2020-05-01T22:07:50.001194",
+            "status": "INACTIVE"
+        },
         "track.mobfox.com": {
             "included_at_epoch": 1588362493.850526,
             "included_at_iso": "2020-05-01T19:48:13.850526",
             "last_retested_at_epoch": 1588362493.850526,
             "last_retested_at_iso": "2020-05-01T19:48:13.850526",
+            "status": "INACTIVE"
+        },
+        "trackers.voodoo-analytics.io": {
+            "included_at_epoch": 1588370875.242316,
+            "included_at_iso": "2020-05-01T22:07:55.242316",
+            "last_retested_at_epoch": 1588370875.242316,
+            "last_retested_at_iso": "2020-05-01T22:07:55.242316",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -2653,6 +2716,13 @@
             "included_at_iso": "2020-05-01T19:48:15.324573",
             "last_retested_at_epoch": 1588362495.324573,
             "last_retested_at_iso": "2020-05-01T19:48:15.324573",
+            "status": "INACTIVE"
+        },
+        "tracking.tapinfluence.com": {
+            "included_at_epoch": 1588370868.021092,
+            "included_at_iso": "2020-05-01T22:07:48.021092",
+            "last_retested_at_epoch": 1588370868.021092,
+            "last_retested_at_iso": "2020-05-01T22:07:48.021092",
             "status": "INACTIVE"
         },
         "ulml.mob.com": {
