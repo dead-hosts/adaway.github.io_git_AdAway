@@ -5259,6 +5259,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "pubnative.info": {
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
+        "state": "future"
+    },
     "pubnative.net": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
@@ -5270,8 +5275,8 @@
         "state": "future"
     },
     "puhtml.com": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "pulse360.com": {
@@ -5280,13 +5285,13 @@
         "state": "future"
     },
     "pushnative.com": {
-        "epoch": 1585612800.0,
-        "expiration_date": "31-mar-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
         "state": "future"
     },
     "qgss8.com": {
-        "epoch": 1584662400.0,
-        "expiration_date": "20-mar-2020",
+        "epoch": 1616198400.0,
+        "expiration_date": "20-mar-2021",
         "state": "future"
     },
     "qservz.com": {
@@ -5295,8 +5300,8 @@
         "state": "future"
     },
     "quakemarketing.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
+        "epoch": 1647302400.0,
+        "expiration_date": "15-mar-2022",
         "state": "future"
     },
     "quantcount.com": {
@@ -5335,8 +5340,8 @@
         "state": "future"
     },
     "rbnt.org": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1650672000.0,
+        "expiration_date": "23-apr-2022",
         "state": "future"
     },
     "realclever.com": {
@@ -5370,8 +5375,8 @@
         "state": "future"
     },
     "redirectnative.com": {
-        "epoch": 1581206400.0,
-        "expiration_date": "09-feb-2020",
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "redirectpopads.com": {
@@ -5400,8 +5405,8 @@
         "state": "future"
     },
     "registeridm.com": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1678752000.0,
+        "expiration_date": "14-mar-2023",
         "state": "future"
     },
     "rek.mobi": {
@@ -5475,8 +5480,8 @@
         "state": "future"
     },
     "reward2spot.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "rfihub.com": {
@@ -5500,8 +5505,8 @@
         "state": "future"
     },
     "rightmedia.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "rightmoveanalytics.co.uk": {
@@ -5530,8 +5535,8 @@
         "state": "future"
     },
     "roosterfirework.com": {
-        "epoch": 1579996800.0,
-        "expiration_date": "26-jan-2020",
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "rotaban.ru": {
@@ -5545,8 +5550,8 @@
         "state": "future"
     },
     "rtbidder.net": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "run-syndicate.com": {
@@ -5565,14 +5570,14 @@
         "state": "future"
     },
     "safegraph.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "safelyawake.com": {
-        "epoch": 1573948800.0,
-        "expiration_date": "17-nov-2019",
-        "state": "past"
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
     },
     "sageanalyst.net": {
         "epoch": 1609632000.0,
@@ -5590,8 +5595,8 @@
         "state": "future"
     },
     "samsungacr.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "samsungads.com": {
@@ -5615,8 +5620,8 @@
         "state": "future"
     },
     "sbbanner.com": {
-        "epoch": 1583971200.0,
-        "expiration_date": "12-mar-2020",
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "sbs-ad.com": {
@@ -5635,8 +5640,8 @@
         "state": "future"
     },
     "scopelight.com": {
-        "epoch": 1587945600.0,
-        "expiration_date": "27-apr-2020",
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "scorecardresearch.com": {
@@ -5660,8 +5665,8 @@
         "state": "future"
     },
     "senddroid.com": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
         "state": "future"
     },
     "sendmepixel.com": {
@@ -5670,8 +5675,8 @@
         "state": "future"
     },
     "serv0.com": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "serve-sys.com": {
@@ -5685,8 +5690,8 @@
         "state": "future"
     },
     "serving-sys.com": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1650067200.0,
+        "expiration_date": "16-apr-2022",
         "state": "future"
     },
     "sessionm.com": {
@@ -5710,8 +5715,8 @@
         "state": "future"
     },
     "simplesharebuttons.com": {
-        "epoch": 1585180800.0,
-        "expiration_date": "26-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "simpletexting.com": {
@@ -5740,8 +5745,8 @@
         "state": "future"
     },
     "sitemaji.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
+        "epoch": 1743292800.0,
+        "expiration_date": "30-mar-2025",
         "state": "future"
     },
     "sitescout.com": {
@@ -5775,13 +5780,13 @@
         "state": "future"
     },
     "smart4ads.com": {
-        "epoch": 1583193600.0,
-        "expiration_date": "03-mar-2020",
+        "epoch": 1677801600.0,
+        "expiration_date": "03-mar-2023",
         "state": "future"
     },
     "smartadserver.ru": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
         "state": "future"
     },
     "smartclip.net": {
@@ -5790,8 +5795,8 @@
         "state": "future"
     },
     "smartdevicemedia.com": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "smartmad.com": {
@@ -5815,8 +5820,8 @@
         "state": "future"
     },
     "snapgiant.com": {
-        "epoch": 1581724800.0,
-        "expiration_date": "15-feb-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "snapmobile.asia": {
@@ -5835,13 +5840,13 @@
         "state": "future"
     },
     "sociaplus.com": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "sociomantic.com": {
-        "epoch": 1584576000.0,
-        "expiration_date": "19-mar-2020",
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
         "state": "future"
     },
     "solocpm.com": {
@@ -5885,9 +5890,9 @@
         "state": "future"
     },
     "spykemediatrack.com": {
-        "epoch": 1579478400.0,
-        "expiration_date": "20-jan-2020",
-        "state": "past"
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
     },
     "srbijacafe.org": {
         "epoch": 1599868800.0,
@@ -5900,8 +5905,8 @@
         "state": "future"
     },
     "ssphwy.com": {
-        "epoch": 1580774400.0,
-        "expiration_date": "04-feb-2020",
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
         "state": "future"
     },
     "sspintrafmsmt.com": {
@@ -5915,8 +5920,8 @@
         "state": "future"
     },
     "starffa.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "startapp.com": {
@@ -5940,8 +5945,8 @@
         "state": "future"
     },
     "steelhousemedia.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1650499200.0,
+        "expiration_date": "21-apr-2022",
         "state": "future"
     },
     "strikead.com": {
@@ -5955,8 +5960,8 @@
         "state": "future"
     },
     "sumatoad.com": {
-        "epoch": 1586217600.0,
-        "expiration_date": "07-apr-2020",
+        "epoch": 1649289600.0,
+        "expiration_date": "07-apr-2022",
         "state": "future"
     },
     "sumome.com": {
