@@ -1591,6 +1591,13 @@
             "last_retested_at_iso": "2020-04-30T11:31:34.563686",
             "status": "INACTIVE"
         },
+        "log.adsplay.net": {
+            "included_at_epoch": 1588318052.329549,
+            "included_at_iso": "2020-05-01T07:27:32.329549",
+            "last_retested_at_epoch": 1588318052.329549,
+            "last_retested_at_iso": "2020-05-01T07:27:32.329549",
+            "status": "INACTIVE"
+        },
         "mam.ad-balancer.at": {
             "included_at_epoch": 1587940381.847724,
             "included_at_iso": "2020-04-26T22:33:01.847724",
