@@ -2801,6 +2801,13 @@
             "last_retested_at_epoch": 1588365506.812688,
             "last_retested_at_iso": "2020-05-01T20:38:26.812688",
             "status": "INACTIVE"
+        },
+        "zeus.ad.intl.xiaomi.com": {
+            "included_at_epoch": 1588373184.474893,
+            "included_at_iso": "2020-05-01T22:46:24.474893",
+            "last_retested_at_epoch": 1588373184.474893,
+            "last_retested_at_iso": "2020-05-01T22:46:24.474893",
+            "status": "INACTIVE"
         }
     }
 }
