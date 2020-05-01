@@ -1549,6 +1549,48 @@
             "last_retested_at_iso": "2020-05-01T11:52:39.826822",
             "status": "INACTIVE"
         },
+        "admp-tc-digo.adtlgc.com": {
+            "included_at_epoch": 1588345424.257921,
+            "included_at_iso": "2020-05-01T15:03:44.257921",
+            "last_retested_at_epoch": 1588345424.257921,
+            "last_retested_at_iso": "2020-05-01T15:03:44.257921",
+            "status": "INACTIVE"
+        },
+        "admp-tc-hegnar.adtlgc.com": {
+            "included_at_epoch": 1588345424.266422,
+            "included_at_iso": "2020-05-01T15:03:44.266422",
+            "last_retested_at_epoch": 1588345424.266422,
+            "last_retested_at_iso": "2020-05-01T15:03:44.266422",
+            "status": "INACTIVE"
+        },
+        "admp-tc-larepublica.adtlgc.com": {
+            "included_at_epoch": 1588345424.271333,
+            "included_at_iso": "2020-05-01T15:03:44.271333",
+            "last_retested_at_epoch": 1588345424.271333,
+            "last_retested_at_iso": "2020-05-01T15:03:44.271333",
+            "status": "INACTIVE"
+        },
+        "admp-tc-lrytas.adtlgc.com": {
+            "included_at_epoch": 1588345424.277906,
+            "included_at_iso": "2020-05-01T15:03:44.277906",
+            "last_retested_at_epoch": 1588345424.277906,
+            "last_retested_at_iso": "2020-05-01T15:03:44.277906",
+            "status": "INACTIVE"
+        },
+        "admp-tc-oecd.adtlgc.com": {
+            "included_at_epoch": 1588345424.284526,
+            "included_at_iso": "2020-05-01T15:03:44.284526",
+            "last_retested_at_epoch": 1588345424.284526,
+            "last_retested_at_iso": "2020-05-01T15:03:44.284526",
+            "status": "INACTIVE"
+        },
+        "admp-tc-pmp.adtlgc.com": {
+            "included_at_epoch": 1588345424.289438,
+            "included_at_iso": "2020-05-01T15:03:44.289438",
+            "last_retested_at_epoch": 1588345424.289438,
+            "last_retested_at_iso": "2020-05-01T15:03:44.289438",
+            "status": "INACTIVE"
+        },
         "api-cache.adsnative.com": {
             "included_at_epoch": 1587940384.69548,
             "included_at_iso": "2020-04-26T22:33:04.695480",
@@ -1561,6 +1603,13 @@
             "included_at_iso": "2020-04-26T22:33:04.691201",
             "last_retested_at_epoch": 1588337791.355733,
             "last_retested_at_iso": "2020-05-01T12:56:31.355733",
+            "status": "INACTIVE"
+        },
+        "api.appfireworks.com": {
+            "included_at_epoch": 1588345426.427536,
+            "included_at_iso": "2020-05-01T15:03:46.427536",
+            "last_retested_at_epoch": 1588345426.427536,
+            "last_retested_at_iso": "2020-05-01T15:03:46.427536",
             "status": "INACTIVE"
         },
         "bevo.adsnative.com": {
@@ -1577,6 +1626,13 @@
             "last_retested_at_iso": "2020-05-01T12:56:31.375962",
             "status": "INACTIVE"
         },
+        "config.appjolt.com": {
+            "included_at_epoch": 1588345426.582295,
+            "included_at_iso": "2020-05-01T15:03:46.582295",
+            "last_retested_at_epoch": 1588345426.582295,
+            "last_retested_at_iso": "2020-05-01T15:03:46.582295",
+            "status": "INACTIVE"
+        },
         "imp.adnetwork.vn": {
             "included_at_epoch": 1588283108.770992,
             "included_at_iso": "2020-04-30T21:45:08.770992",
@@ -1589,6 +1645,13 @@
             "included_at_iso": "2020-04-18T05:20:00",
             "last_retested_at_epoch": 1588333959.708325,
             "last_retested_at_iso": "2020-05-01T11:52:39.708325",
+            "status": "INACTIVE"
+        },
+        "letv.allyes.com": {
+            "included_at_epoch": 1588345425.394015,
+            "included_at_iso": "2020-05-01T15:03:45.394015",
+            "last_retested_at_epoch": 1588345425.394015,
+            "last_retested_at_iso": "2020-05-01T15:03:45.394015",
             "status": "INACTIVE"
         },
         "log.adsplay.net": {
@@ -1638,6 +1701,13 @@
             "included_at_iso": "2020-04-26T22:33:02.209376",
             "last_retested_at_epoch": 1588333959.159856,
             "last_retested_at_iso": "2020-05-01T11:52:39.159856",
+            "status": "INACTIVE"
+        },
+        "setting.adzcore.com": {
+            "included_at_epoch": 1588345424.974669,
+            "included_at_iso": "2020-05-01T15:03:44.974669",
+            "last_retested_at_epoch": 1588345424.974669,
+            "last_retested_at_iso": "2020-05-01T15:03:44.974669",
             "status": "INACTIVE"
         },
         "stat-parser02.aatkit.com": {
