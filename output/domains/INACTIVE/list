@@ -26,6 +26,7 @@ api.deep-ad.com.edgekey.net
 api.doumob.com
 api.dsp.batmobi.net
 api.inmoji.com
+api.mobilearts.io
 api.recorder.duapps.com
 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 beacon.clickequations.net.edgekey.net
@@ -34,6 +35,7 @@ bevo.adsnative.com
 cdn.adsnative.com
 cdn-static.formisimo.com
 cmplay.did.ijinshan.com
+cm.send.microadinc.com
 collect10422hmstr.deltadna.net
 collect10776gdsnd.deltadna.net
 collect12345thldr.deltadna.net
@@ -45,12 +47,14 @@ collect13494dvntr.deltadna.net
 collect13566brrtb.deltadna.net
 collect13800frdyt.deltadna.net
 config.appjolt.com
+contextualadsorigin.media.net
 cr01.dynatrace.com
 cr02.dynatrace.com
 cws-eu-west-1.conviva.com
 cws-us-west-2.conviva.com
 dfdsseaways.blueconic.com
 dptr.areyouahuman.com
+dsp.send.microadinc.com
 engage10422hmstr.deltadna.net
 engage12678nmtnt.deltadna.net
 engage12717rnssg.deltadna.net
@@ -77,6 +81,7 @@ joneself.com
 latency.banner-server.fyber.com
 latency.interstitial-broker.fyber.com
 loadb.cint.com
+logs.locarta.co
 magnetic.t.domdex.com
 mam.ad-balancer.at
 maxis.krxd.net
@@ -86,6 +91,7 @@ mt.analytics.163.com
 n-cdn.areyouahuman.com
 ng001.batmobi.net
 node-personalization-d.elasticbeanstalk.com
+p.share.mob.com
 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 radiusnetworks.com.herokudns.com
 rg.appserver-ap.com
@@ -98,13 +104,18 @@ sdk-ads.bidmotion.com
 sdk-data.nv.prod.bidmotion.com
 sdk.kamcord.com
 search.batmobi.net
+send.microadinc.com
 sentry.fastboot.mobi
 setting.adzcore.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 stat.dsp.batmobi.net
+sysco-appstore2.madmobile.com
+sysco-cdn.madmobile.com
 thales.adsrvr.org
 tracking.admobsphere.com
 tracking.deskadsserver.com
+track.mobfox.com
+ulml.mob.com
 userdata-maxis.krxd.net
 video.batmobi.net
 vpn2.branch.io
