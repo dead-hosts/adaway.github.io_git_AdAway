@@ -2651,8 +2651,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1588370875.242316,
             "included_at_iso": "2020-05-01T22:07:55.242316",
-            "last_retested_at_epoch": 1588370875.242316,
-            "last_retested_at_iso": "2020-05-01T22:07:55.242316",
+            "last_retested_at_epoch": 1588488117.688648,
+            "last_retested_at_iso": "2020-05-03T06:41:57.688648",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -2763,8 +2763,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1588373184.474893,
-            "last_retested_at_iso": "2020-05-01T22:46:24.474893",
+            "last_retested_at_epoch": 1588488119.878648,
+            "last_retested_at_iso": "2020-05-03T06:41:59.878648",
             "status": "INACTIVE"
         }
     }
