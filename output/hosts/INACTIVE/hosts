@@ -24,6 +24,7 @@
 0.0.0.0 am.appserver-ap.com
 0.0.0.0 am.appserver-cp.com
 0.0.0.0 analytics.phoenixplatform.com.sg
+0.0.0.0 analytics.toast.com
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api-cache.adsnative.com
@@ -40,6 +41,7 @@
 0.0.0.0 b3-eu.mookie1.com
 0.0.0.0 beacon.clickequations.net.edgekey.net
 0.0.0.0 beacon-maxis.krxd.net
+0.0.0.0 be.sponsorpay.com
 0.0.0.0 bevo.adsnative.com
 0.0.0.0 br-ad.sam4m.com
 0.0.0.0 c3.myapkcdn.in
@@ -58,6 +60,7 @@
 0.0.0.0 collect13494dvntr.deltadna.net
 0.0.0.0 collect13566brrtb.deltadna.net
 0.0.0.0 collect13800frdyt.deltadna.net
+0.0.0.0 com-fluentco-main.collector.snplow.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 contextualadsorigin.media.net
 0.0.0.0 cr01.dynatrace.com
@@ -81,6 +84,7 @@
 0.0.0.0 engage13617dvntr.deltadna.net
 0.0.0.0 engage14052tnkrs.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
+0.0.0.0 engine.sponsorpay.com
 0.0.0.0 eu-adinfo.sam4m.com
 0.0.0.0 eu.cdn5.onthe.io
 0.0.0.0 fk-mtrack.rayjump.com
@@ -95,6 +99,7 @@
 0.0.0.0 img-cloudflare.haizap.com
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
+0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 i.po.st
 0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 iw3.a.mobimagic.com
@@ -109,6 +114,7 @@
 0.0.0.0 match-us-east-1.sharethrough.com
 0.0.0.0 maxis.krxd.net
 0.0.0.0 mbe-monitoring.fyber.com
+0.0.0.0 metrics.tbliab.net
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 mobsrv.in
 0.0.0.0 mprezchc.com
@@ -145,13 +151,18 @@
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 stats.unity3d.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
+0.0.0.0 t3q7af0z.com
+0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tlg.mookie1.com
+0.0.0.0 token.ad
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
+0.0.0.0 tracking.tapinfluence.com
 0.0.0.0 track.mobfox.com
 0.0.0.0 ulml.mob.com
 0.0.0.0 userdata-maxis.krxd.net
