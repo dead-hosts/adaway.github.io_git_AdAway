@@ -1706,8 +1706,8 @@
         "analytics.toast.com": {
             "included_at_epoch": 1588370869.937471,
             "included_at_iso": "2020-05-01T22:07:49.937471",
-            "last_retested_at_epoch": 1588487503.345687,
-            "last_retested_at_iso": "2020-05-03T06:31:43.345687",
+            "last_retested_at_epoch": 1588661085.325234,
+            "last_retested_at_iso": "2020-05-05T06:44:45.325234",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -1804,8 +1804,8 @@
         "be.sponsorpay.com": {
             "included_at_epoch": 1588367961.287216,
             "included_at_iso": "2020-05-01T21:19:21.287216",
-            "last_retested_at_epoch": 1588487494.619983,
-            "last_retested_at_iso": "2020-05-03T06:31:34.619983",
+            "last_retested_at_epoch": 1588661076.830751,
+            "last_retested_at_iso": "2020-05-05T06:44:36.830751",
             "status": "INACTIVE"
         },
         "beacon-maxis.krxd.net": {
@@ -1951,8 +1951,8 @@
         "com-fluentco-main.collector.snplow.net": {
             "included_at_epoch": 1588367960.131227,
             "included_at_iso": "2020-05-01T21:19:20.131227",
-            "last_retested_at_epoch": 1588487493.742814,
-            "last_retested_at_iso": "2020-05-03T06:31:33.742814",
+            "last_retested_at_epoch": 1588661076.009565,
+            "last_retested_at_iso": "2020-05-05T06:44:36.009565",
             "status": "INACTIVE"
         },
         "config.appjolt.com": {
@@ -1993,8 +1993,8 @@
         "crm.sgn.com": {
             "included_at_epoch": 1588367957.529208,
             "included_at_iso": "2020-05-01T21:19:17.529208",
-            "last_retested_at_epoch": 1588486777.413705,
-            "last_retested_at_iso": "2020-05-03T06:19:37.413705",
+            "last_retested_at_epoch": 1588661074.129153,
+            "last_retested_at_iso": "2020-05-05T06:44:34.129153",
             "status": "INACTIVE"
         },
         "cws-eu-west-1.conviva.com": {
@@ -2119,8 +2119,8 @@
         "engine.sponsorpay.com": {
             "included_at_epoch": 1588367961.354619,
             "included_at_iso": "2020-05-01T21:19:21.354619",
-            "last_retested_at_epoch": 1588487494.656656,
-            "last_retested_at_iso": "2020-05-03T06:31:34.656656",
+            "last_retested_at_epoch": 1588661076.88165,
+            "last_retested_at_iso": "2020-05-05T06:44:36.881650",
             "status": "INACTIVE"
         },
         "eu-adinfo.sam4m.com": {
@@ -2238,8 +2238,8 @@
         "influencers.tapinfluence.com": {
             "included_at_epoch": 1588370868.008178,
             "included_at_iso": "2020-05-01T22:07:48.008178",
-            "last_retested_at_epoch": 1588487501.385872,
-            "last_retested_at_iso": "2020-05-03T06:31:41.385872",
+            "last_retested_at_epoch": 1588661083.38922,
+            "last_retested_at_iso": "2020-05-05T06:44:43.389220",
             "status": "INACTIVE"
         },
         "ivid-f5-us-va.adhigh.net": {
@@ -2322,8 +2322,8 @@
         "match-us-east-1.sharethrough.com": {
             "included_at_epoch": 1588367957.915749,
             "included_at_iso": "2020-05-01T21:19:17.915749",
-            "last_retested_at_epoch": 1588486777.687784,
-            "last_retested_at_iso": "2020-05-03T06:19:37.687784",
+            "last_retested_at_epoch": 1588661074.396444,
+            "last_retested_at_iso": "2020-05-05T06:44:34.396444",
             "status": "INACTIVE"
         },
         "maxis.krxd.net": {
@@ -2343,8 +2343,8 @@
         "metrics.tbliab.net": {
             "included_at_epoch": 1588370868.687849,
             "included_at_iso": "2020-05-01T22:07:48.687849",
-            "last_retested_at_epoch": 1588487502.086232,
-            "last_retested_at_iso": "2020-05-03T06:31:42.086232",
+            "last_retested_at_epoch": 1588661084.069548,
+            "last_retested_at_iso": "2020-05-05T06:44:44.069548",
             "status": "INACTIVE"
         },
         "mobiletracker-env.us-east-1.elasticbeanstalk.com": {
@@ -2630,15 +2630,15 @@
         "t3q7af0z.com": {
             "included_at_epoch": 1588370866.595205,
             "included_at_iso": "2020-05-01T22:07:46.595205",
-            "last_retested_at_epoch": 1588487499.926046,
-            "last_retested_at_iso": "2020-05-03T06:31:39.926046",
+            "last_retested_at_epoch": 1588661082.038603,
+            "last_retested_at_iso": "2020-05-05T06:44:42.038603",
             "status": "INACTIVE"
         },
         "tag-mediation.supersonic.com": {
             "included_at_epoch": 1588370862.944834,
             "included_at_iso": "2020-05-01T22:07:42.944834",
-            "last_retested_at_epoch": 1588487496.17598,
-            "last_retested_at_iso": "2020-05-03T06:31:36.175980",
+            "last_retested_at_epoch": 1588661078.363457,
+            "last_retested_at_iso": "2020-05-05T06:44:38.363457",
             "status": "INACTIVE"
         },
         "thales.adsrvr.org": {
@@ -2658,8 +2658,8 @@
         "token.ad": {
             "included_at_epoch": 1588370870.001194,
             "included_at_iso": "2020-05-01T22:07:50.001194",
-            "last_retested_at_epoch": 1588487503.419873,
-            "last_retested_at_iso": "2020-05-03T06:31:43.419873",
+            "last_retested_at_epoch": 1588661085.400742,
+            "last_retested_at_iso": "2020-05-05T06:44:45.400742",
             "status": "INACTIVE"
         },
         "track.mobfox.com": {
@@ -2700,8 +2700,8 @@
         "tracking.tapinfluence.com": {
             "included_at_epoch": 1588370868.021092,
             "included_at_iso": "2020-05-01T22:07:48.021092",
-            "last_retested_at_epoch": 1588487501.398617,
-            "last_retested_at_iso": "2020-05-03T06:31:41.398617",
+            "last_retested_at_epoch": 1588661083.409633,
+            "last_retested_at_iso": "2020-05-05T06:44:43.409633",
             "status": "INACTIVE"
         },
         "ulml.mob.com": {
