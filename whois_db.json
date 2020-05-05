@@ -2940,8 +2940,8 @@
         "state": "future"
     },
     "gotoip55.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "gowadogo.com": {
@@ -3142,7 +3142,7 @@
     "hotchatdate.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hotwords.com": {
         "epoch": 1611878400.0,
