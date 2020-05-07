@@ -148,6 +148,7 @@ imp.accesstrade.vn
 static.accesstrade.vn
 acento.com
 ackak.com
+tags.acmeaom.com
 acsseo.com
 actionads.ru
 actionpay.ru
@@ -443,7 +444,6 @@ pool.adizio.com
 adj.st
 adjuggler.net
 adjust.com
-app.adjust.com
 app.adjust.com
 atom.adjust.com
 events.adjust.com
@@ -1762,10 +1762,14 @@ ads.altitude-arena.com
 altrooz.com
 am15.net
 amazemobilemedia.com
+aax.amazon-adsystem.com
+aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
 c.amazon-adsystem.com
 mads.amazon-adsystem.com
 s.amazon-adsystem.com
+aan.amazon.com
+aax-us-iad.amazon.com
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 fls-na.amazon.com
@@ -1827,6 +1831,7 @@ marketingkaizen.s3-eu-west-1.amazonaws.com
 sm-campaign.s3-us-west-2.amazonaws.com
 kinesis.us-east-1.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
+aa5dbe242ad94ceba164ecf25b68c84e.mediatailor.us-west-2.amazonaws.com
 global.cmcs.service.amazonsilk.com
 ambient-platform.com
 analytics.ambient-platform.com
@@ -2454,6 +2459,7 @@ ato.mx
 js-sdk.atom-data.io
 track.atom-data.io
 trk.atomex.net
+smetrics.att.com
 api.attentivemobile.com
 events.attentivemobile.com
 atti.com
@@ -2541,6 +2547,7 @@ d365portal-prod-sdk.akstd.azureedge.net
 d365portal-prod-sdk.azureedge.net
 d365prod-sdk.azureedge.net
 masdpanalytics.azureedge.net
+ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 gwmserver.b-cdn.net
 vidoplay.b-cdn.net
 b2c.com
@@ -3193,6 +3200,7 @@ pilot.civicscience.com
 tracking-ams5.cj.com
 tracking-dc6.cj.com
 tracking-sj2.cj.com
+i.clean.gg
 tool.cleverads.vn
 report.clevernt.com
 sender.clevernt.com
@@ -3381,6 +3389,7 @@ i.connectad.io
 api.connecto.io
 noclick.connexity.com
 a.consensad.com
+cookies.onetrust.mgr.consensu.org
 vendorlist.consensu.org
 sdk.consoliads.com
 files.constantcontact.com
@@ -3411,6 +3420,7 @@ tab-obj.conversantmedia.com
 vpn-europe.conversantmedia.com
 vpn-us-west.conversantmedia.com
 cws.conviva.com
+a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
 zee.cws.conviva.com
 cws-cctv.conviva.com
 cws-eu.conviva.com
@@ -3427,6 +3437,7 @@ livepassdl-global.conviva.com
 livepassdl2.conviva.com
 vrl.m.conviva.com
 pings.conviva.com
+cdn.cookielaw.org
 coremetrics.com
 data.coremetrics.com
 coretalk.co
@@ -3448,6 +3459,7 @@ crasheye.cn
 api.crashlytics.com
 cm.crashlytics.com
 e.crashlytics.com
+firebase-settings.crashlytics.com
 kits.crashlytics.com
 reports.crashlytics.com
 settings.crashlytics.com
@@ -4120,6 +4132,7 @@ creatives.doubleclick.net
 dfp.doubleclick.net
 ad.eg.doubleclick.net
 3243857.fls.doubleclick.net
+adx.g.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
 dp.g.doubleclick.net
@@ -4626,6 +4639,7 @@ ana-ing.fabric.io
 cdn-cf.fabric.io
 fastlane-metrics.fabric.io
 an.facebook.com
+pixel.facebook.com
 api.factual.com
 geopulse.factual.com
 intake.factual.com
@@ -4701,6 +4715,7 @@ fmpub.net
 auth.follow-apps.com
 sdk.follow-apps.com
 sor-sdk.follow-apps.com
+king-contenido-prod.secure2.footprint.net
 analytics.foresee.com
 bd-nplb01.foresee.com
 bd-nplb02.foresee.com
@@ -5142,6 +5157,7 @@ www1.gto-media.com
 gtop.ro
 gtsads.com
 gtsmobi.com
+phar.gu-web.net
 guile.jp
 gumgum.com
 rtb.gumgum.com
@@ -5188,6 +5204,7 @@ hastrk2.com
 hastrk3.com
 hbi-ingest.net
 cdn.hdat.xyz
+glimmer.hearstapps.com
 bannerwall.herewetest.com
 adv.herocraft.com
 gamestats.herocraft.com
@@ -6007,6 +6024,7 @@ s.jsrdn.com
 juiceadv.com
 click.e.juiceplus.com
 julysystems.com
+analytics.jumboprivacy.com
 mobile-sdk-resources.jumio.com
 nv-sdk.jumio.com
 jumptab.com
@@ -6263,6 +6281,7 @@ ladycash.ru
 api.lanistaads.com
 laohuangli365.com
 launch1.co
+mobile.launchdarkly.com
 lavanetwork.net
 ad.lavanetwork.net
 ad1.lavanetwork.net
@@ -8054,6 +8073,8 @@ wsback2c.prod.cloud.ogury.io
 consent-manager-events.ogury.io
 dsp-1.ogury.io
 wad.ojooo.com
+api2.okanjo.com
+cdn.okanjo.com
 eventtracking.omarsys.com
 track.omg543.com
 track.omgpl.com
@@ -8116,6 +8137,7 @@ foxnews.hb.omtrdc.net
 gannett.hb.omtrdc.net
 hulu.hb.omtrdc.net
 allstate.sc.omtrdc.net
+att.sc.omtrdc.net
 audible.sc.omtrdc.net
 dsg.sc.omtrdc.net
 equifaxps.sc.omtrdc.net
@@ -8150,9 +8172,12 @@ agero-sdkapi-west.onereach.com
 trueblue-sdkapi.onereach.com
 onesignal.com
 px.onespot.com
+geolocation.onetrust.com
 onewaylinkexchange.net
 display.online-adnetwork.com
 online-dn.com
+aa.online-metrix.net
+h.online-metrix.net
 h-signifyd.online-metrix.net
 onmobile.com
 cdn.onscroll.com
@@ -8822,6 +8847,7 @@ fusion-files-cf.pinsightmedia.com
 imgres.pinsightmedia.com
 intelligence-head.pinsightmedia.com
 pushpin.pinsightmedia.com
+topapps-func.pinsightmedia.com
 trackdat.pinsightmedia.com
 tradedesk-ues.pinsightmedia.com
 v8engine-qa.pinsightmedia.com
@@ -9003,6 +9029,7 @@ tri.privy.com
 tracking.prmtracking.com
 ads.pro-market.net
 sdk-vmh.prod-univision.com
+att.productmadness.com
 ads.programattik.com
 sdk.promoadx.com
 promotionengine.com
@@ -9900,6 +9927,7 @@ sitemaji.com
 sitescout.com
 p.skimresources.com
 r.skimresources.com
+s.skimresources.com
 t.skimresources.com
 analytics.slashdotmedia.com
 slickaffiliate.com
@@ -10131,6 +10159,7 @@ lbservices2.sponsorpay.com
 service.sponsorpay.com
 ak-events-collector.spot.im
 events-collector.spot.im
+metrics-logger.spot.im
 adeventtracker.spotify.com
 pixel.spotify.com
 pixel-static.spotify.com
@@ -10729,6 +10758,7 @@ content-cdn.swrve.com
 6688.eu-content.swrve.com
 6696.eu-content.swrve.com
 eu-qa-log.swrve.com
+30572.identity.swrve.com
 30747.identity.swrve.com
 insights.swrve.com
 link.swrve.com
@@ -11179,6 +11209,7 @@ ttringwall.com
 ad-mediation.tuanguwen.com
 tubedspots.com
 rtd.tubemogul.com
+analytics-ingestion.production-public.tubi.io
 lb.production-public.tubi.io
 analytics-ingestion.staging-public.tubi.io
 lb.staging-public.tubi.io
@@ -11200,6 +11231,7 @@ sr.turn.com
 api.tusdk.com
 m.tusdk.com
 srv2.tusdk.com
+hail-reporting.tutelatechnologies.com
 asdkd.tutuapp.com
 log.tutuapp.com
 appwall.tv2phone.cn
@@ -11765,6 +11797,7 @@ mobile.analytics.wildtangent.com
 api.sdk.wiman.io
 config.sdk.wiman.io
 fsuseaad1.blob.core.windows.net
+rawtelemetry-west.servicebus.windows.net
 tracker.winudf.com
 wiyun.com
 sdk.wjinfu.com
@@ -12043,6 +12076,7 @@ s.yomob.com.cn
 sgpublic.yomob.com.cn
 rg.yottos.com
 sdk.youappi.com
+infinity-c4.youboranqs01.com
 dsp.youdao.com
 union.youdao.com
 youlamedia.com
