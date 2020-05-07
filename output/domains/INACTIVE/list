@@ -25,6 +25,7 @@ affiliates-prod.us-east-1.elasticbeanstalk.com
 am.appserver-ap.com
 am.appserver-cp.com
 analytics.phoenixplatform.com.sg
+analytics.toast.com
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -41,6 +42,7 @@ aws-production-banner-server-eu-west-1.banner-server.fyber.com
 b3-eu.mookie1.com
 beacon.clickequations.net.edgekey.net
 beacon-maxis.krxd.net
+be.sponsorpay.com
 bevo.adsnative.com
 br-ad.sam4m.com
 broker.video-v2.fyber.com
@@ -60,11 +62,13 @@ collect13245rnrnd.deltadna.net
 collect13494dvntr.deltadna.net
 collect13566brrtb.deltadna.net
 collect13800frdyt.deltadna.net
+com-fluentco-main.collector.snplow.net
 config.appjolt.com
 contextualadsorigin.media.net
 cr01.dynatrace.com
 cr02.dynatrace.com
 creative-adchoices.advertise.quantcast.com
+crm.sgn.com
 cws-eu-west-1.conviva.com
 cws-us-west-2.conviva.com
 debug.aerserv.com
@@ -83,6 +87,7 @@ engage13566brrtb.deltadna.net
 engage13617dvntr.deltadna.net
 engage14052tnkrs.deltadna.net
 engage14451lghtt.deltadna.net
+engine.sponsorpay.com
 eu-adinfo.sam4m.com
 eu.cdn5.onthe.io
 files.revcontent.com
@@ -98,6 +103,7 @@ img-cloudflare-2.haizap.com
 img-cloudflare.haizap.com
 in.appserver-ap.com
 in.appserver-cp.com
+influencers.tapinfluence.com
 i.po.st
 ivid-f5-us-va.adhigh.net
 iw3.a.mobimagic.com
@@ -111,8 +117,10 @@ logs.locarta.co
 magnetic.t.domdex.com
 mam.ad-balancer.at
 maroonspider.com
+match-us-east-1.sharethrough.com
 maxis.krxd.net
 mbe-monitoring.fyber.com
+metrics.tbliab.net
 mobiletracker-env.us-east-1.elasticbeanstalk.com
 mobsrv.in
 mprezchc.com
@@ -142,6 +150,7 @@ sdk.adbuddiz.com
 sdk-ads.bidmotion.com
 sdk-data.nv.prod.bidmotion.com
 sdk.kamcord.com
+sdk.suishenz.com
 search.batmobi.net
 send.microadinc.com
 sentry.fastboot.mobi
@@ -152,11 +161,15 @@ snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 stat.dsp.batmobi.net
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
+t3q7af0z.com
+tag-mediation.supersonic.com
 thales.adsrvr.org
 tlg.mookie1.com
+token.ad
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
+tracking.tapinfluence.com
 track.mobfox.com
 t.update.ib.adnxs.com
 ulml.mob.com
