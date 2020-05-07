@@ -2448,15 +2448,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1588661804.730609,
             "included_at_iso": "2020-05-05T06:56:44.730609",
-            "last_retested_at_epoch": 1588661804.730609,
-            "last_retested_at_iso": "2020-05-05T06:56:44.730609",
-            "status": "INACTIVE"
-        },
-        "ots.optimize.webtrends.com": {
-            "included_at_epoch": 1588661804.717587,
-            "included_at_iso": "2020-05-05T06:56:44.717587",
-            "last_retested_at_epoch": 1588661804.717587,
-            "last_retested_at_iso": "2020-05-05T06:56:44.717587",
+            "last_retested_at_epoch": 1588837955.973964,
+            "last_retested_at_iso": "2020-05-07T07:52:35.973964",
             "status": "INACTIVE"
         },
         "owap.su": {
@@ -2658,8 +2651,8 @@
         "stats.unity3d.com": {
             "included_at_epoch": 1588370872.263636,
             "included_at_iso": "2020-05-01T22:07:52.263636",
-            "last_retested_at_epoch": 1588661800.538044,
-            "last_retested_at_iso": "2020-05-05T06:56:40.538044",
+            "last_retested_at_epoch": 1588837952.022329,
+            "last_retested_at_iso": "2020-05-07T07:52:32.022329",
             "status": "INACTIVE"
         },
         "sysco-appstore2.madmobile.com": {
@@ -2728,8 +2721,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1588370875.242316,
             "included_at_iso": "2020-05-01T22:07:55.242316",
-            "last_retested_at_epoch": 1588661803.568538,
-            "last_retested_at_iso": "2020-05-05T06:56:43.568538",
+            "last_retested_at_epoch": 1588837954.862363,
+            "last_retested_at_iso": "2020-05-07T07:52:34.862363",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -2833,8 +2826,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1588661805.863461,
-            "last_retested_at_iso": "2020-05-05T06:56:45.863461",
+            "last_retested_at_epoch": 1588837957.049299,
+            "last_retested_at_iso": "2020-05-07T07:52:37.049299",
             "status": "INACTIVE"
         }
     }
