@@ -1538,15 +1538,15 @@
         "ad.leadboltapps.net": {
             "included_at_epoch": 1588359724.759317,
             "included_at_iso": "2020-05-01T19:02:04.759317",
-            "last_retested_at_epoch": 1588834613.543624,
-            "last_retested_at_iso": "2020-05-07T06:56:53.543624",
+            "last_retested_at_epoch": 1588987166.295866,
+            "last_retested_at_iso": "2020-05-09T01:19:26.295866",
             "status": "INACTIVE"
         },
         "ad.leadboltmobile.net": {
             "included_at_epoch": 1588359724.772894,
             "included_at_iso": "2020-05-01T19:02:04.772894",
-            "last_retested_at_epoch": 1588834613.553107,
-            "last_retested_at_iso": "2020-05-07T06:56:53.553107",
+            "last_retested_at_epoch": 1588987166.31066,
+            "last_retested_at_iso": "2020-05-09T01:19:26.310660",
             "status": "INACTIVE"
         },
         "adbsc.mobinativeads.com": {
@@ -1748,8 +1748,8 @@
         "api.inmoji.com": {
             "included_at_epoch": 1588359721.331381,
             "included_at_iso": "2020-05-01T19:02:01.331381",
-            "last_retested_at_epoch": 1588833900.748726,
-            "last_retested_at_iso": "2020-05-07T06:45:00.748726",
+            "last_retested_at_epoch": 1588987162.742886,
+            "last_retested_at_iso": "2020-05-09T01:19:22.742886",
             "status": "INACTIVE"
         },
         "api.mobilearts.io": {
@@ -1811,8 +1811,8 @@
         "beacon-maxis.krxd.net": {
             "included_at_epoch": 1588359724.064193,
             "included_at_iso": "2020-05-01T19:02:04.064193",
-            "last_retested_at_epoch": 1588833903.333994,
-            "last_retested_at_iso": "2020-05-07T06:45:03.333994",
+            "last_retested_at_epoch": 1588987165.56279,
+            "last_retested_at_iso": "2020-05-09T01:19:25.562790",
             "status": "INACTIVE"
         },
         "beacon.clickequations.net.edgekey.net": {
@@ -2168,22 +2168,22 @@
         "foreman-a001-ash.krxd.net": {
             "included_at_epoch": 1588359724.09616,
             "included_at_iso": "2020-05-01T19:02:04.096160",
-            "last_retested_at_epoch": 1588833903.365741,
-            "last_retested_at_iso": "2020-05-07T06:45:03.365741",
+            "last_retested_at_epoch": 1588987165.601926,
+            "last_retested_at_iso": "2020-05-09T01:19:25.601926",
             "status": "INACTIVE"
         },
         "foreman-a002-ash.krxd.net": {
             "included_at_epoch": 1588359724.104906,
             "included_at_iso": "2020-05-01T19:02:04.104906",
-            "last_retested_at_epoch": 1588833903.375185,
-            "last_retested_at_iso": "2020-05-07T06:45:03.375185",
+            "last_retested_at_epoch": 1588987165.592279,
+            "last_retested_at_iso": "2020-05-09T01:19:25.592279",
             "status": "INACTIVE"
         },
         "foreman-a003-ash.krxd.net": {
             "included_at_epoch": 1588359724.113417,
             "included_at_iso": "2020-05-01T19:02:04.113417",
-            "last_retested_at_epoch": 1588833903.384562,
-            "last_retested_at_iso": "2020-05-07T06:45:03.384562",
+            "last_retested_at_epoch": 1588987165.611326,
+            "last_retested_at_iso": "2020-05-09T01:19:25.611326",
             "status": "INACTIVE"
         },
         "game.idoing3d.com": {
@@ -2273,15 +2273,15 @@
         "javacript.gq": {
             "included_at_epoch": 1588359722.853784,
             "included_at_iso": "2020-05-01T19:02:02.853784",
-            "last_retested_at_epoch": 1588833902.200688,
-            "last_retested_at_iso": "2020-05-07T06:45:02.200688",
+            "last_retested_at_epoch": 1588987164.319908,
+            "last_retested_at_iso": "2020-05-09T01:19:24.319908",
             "status": "INACTIVE"
         },
         "joneself.com": {
             "included_at_epoch": 1588359722.985805,
             "included_at_iso": "2020-05-01T19:02:02.985805",
-            "last_retested_at_epoch": 1588833902.32777,
-            "last_retested_at_iso": "2020-05-07T06:45:02.327770",
+            "last_retested_at_epoch": 1588987164.452547,
+            "last_retested_at_iso": "2020-05-09T01:19:24.452547",
             "status": "INACTIVE"
         },
         "latency.banner-server.fyber.com": {
@@ -2343,8 +2343,8 @@
         "maxis.krxd.net": {
             "included_at_epoch": 1588359724.163216,
             "included_at_iso": "2020-05-01T19:02:04.163216",
-            "last_retested_at_epoch": 1588833903.434206,
-            "last_retested_at_iso": "2020-05-07T06:45:03.434206",
+            "last_retested_at_epoch": 1588987165.660849,
+            "last_retested_at_iso": "2020-05-09T01:19:25.660849",
             "status": "INACTIVE"
         },
         "mbe-monitoring.fyber.com": {
@@ -2567,8 +2567,8 @@
         "sdk.kamcord.com": {
             "included_at_epoch": 1588359723.33395,
             "included_at_iso": "2020-05-01T19:02:03.333950",
-            "last_retested_at_epoch": 1588833902.650107,
-            "last_retested_at_iso": "2020-05-07T06:45:02.650107",
+            "last_retested_at_epoch": 1588987164.810241,
+            "last_retested_at_iso": "2020-05-09T01:19:24.810241",
             "status": "INACTIVE"
         },
         "sdk.suishenz.com": {
@@ -2749,8 +2749,8 @@
         "userdata-maxis.krxd.net": {
             "included_at_epoch": 1588359724.204406,
             "included_at_iso": "2020-05-01T19:02:04.204406",
-            "last_retested_at_epoch": 1588833903.473955,
-            "last_retested_at_iso": "2020-05-07T06:45:03.473955",
+            "last_retested_at_epoch": 1588987165.717421,
+            "last_retested_at_iso": "2020-05-09T01:19:25.717421",
             "status": "INACTIVE"
         },
         "video.batmobi.net": {
