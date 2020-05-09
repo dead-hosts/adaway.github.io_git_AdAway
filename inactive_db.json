@@ -2455,8 +2455,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1588661804.730609,
             "included_at_iso": "2020-05-05T06:56:44.730609",
-            "last_retested_at_epoch": 1588837955.973964,
-            "last_retested_at_iso": "2020-05-07T07:52:35.973964",
+            "last_retested_at_epoch": 1588994895.808394,
+            "last_retested_at_iso": "2020-05-09T03:28:15.808394",
             "status": "INACTIVE"
         },
         "owap.su": {
@@ -2735,8 +2735,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1588370875.242316,
             "included_at_iso": "2020-05-01T22:07:55.242316",
-            "last_retested_at_epoch": 1588837954.862363,
-            "last_retested_at_iso": "2020-05-07T07:52:34.862363",
+            "last_retested_at_epoch": 1588994894.64275,
+            "last_retested_at_iso": "2020-05-09T03:28:14.642750",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -2840,8 +2840,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1588837957.049299,
-            "last_retested_at_iso": "2020-05-07T07:52:37.049299",
+            "last_retested_at_epoch": 1588994896.916133,
+            "last_retested_at_iso": "2020-05-09T03:28:16.916133",
             "status": "INACTIVE"
         }
     }
