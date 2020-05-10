@@ -2368,6 +2368,13 @@
             "last_retested_at_iso": "2020-05-10T05:37:41.279357",
             "status": "INACTIVE"
         },
+        "metrics.m.ambientplatform.vn": {
+            "included_at_epoch": 1589108453.973898,
+            "included_at_iso": "2020-05-10T11:00:53.973898",
+            "last_retested_at_epoch": 1589108453.973898,
+            "last_retested_at_iso": "2020-05-10T11:00:53.973898",
+            "status": "INACTIVE"
+        },
         "metrics.tbliab.net": {
             "included_at_epoch": 1588370868.687849,
             "included_at_iso": "2020-05-01T22:07:48.687849",
