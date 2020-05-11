@@ -2476,8 +2476,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1588661804.730609,
             "included_at_iso": "2020-05-05T06:56:44.730609",
-            "last_retested_at_epoch": 1589093479.601821,
-            "last_retested_at_iso": "2020-05-10T06:51:19.601821",
+            "last_retested_at_epoch": 1589209253.96824,
+            "last_retested_at_iso": "2020-05-11T15:00:53.968240",
             "status": "INACTIVE"
         },
         "owap.su": {
@@ -2714,8 +2714,8 @@
         "tags.rtbidder.net": {
             "included_at_epoch": 1589120622.339127,
             "included_at_iso": "2020-05-10T14:23:42.339127",
-            "last_retested_at_epoch": 1589120622.339127,
-            "last_retested_at_iso": "2020-05-10T14:23:42.339127",
+            "last_retested_at_epoch": 1589209250.668594,
+            "last_retested_at_iso": "2020-05-11T15:00:50.668594",
             "status": "INACTIVE"
         },
         "thales.adsrvr.org": {
@@ -2749,8 +2749,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1588370875.242316,
             "included_at_iso": "2020-05-01T22:07:55.242316",
-            "last_retested_at_epoch": 1589093478.449748,
-            "last_retested_at_iso": "2020-05-10T06:51:18.449748",
+            "last_retested_at_epoch": 1589209252.736263,
+            "last_retested_at_iso": "2020-05-11T15:00:52.736263",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -2819,15 +2819,15 @@
         "ws-widget-lb-1.subiz.com": {
             "included_at_epoch": 1589122228.51638,
             "included_at_iso": "2020-05-10T14:50:28.516380",
-            "last_retested_at_epoch": 1589122228.51638,
-            "last_retested_at_iso": "2020-05-10T14:50:28.516380",
+            "last_retested_at_epoch": 1589209250.655436,
+            "last_retested_at_iso": "2020-05-11T15:00:50.655436",
             "status": "INACTIVE"
         },
         "ws-widget-lb-2.subiz.com": {
             "included_at_epoch": 1589122228.528919,
             "included_at_iso": "2020-05-10T14:50:28.528919",
-            "last_retested_at_epoch": 1589122228.528919,
-            "last_retested_at_iso": "2020-05-10T14:50:28.528919",
+            "last_retested_at_epoch": 1589209250.70197,
+            "last_retested_at_iso": "2020-05-11T15:00:50.701970",
             "status": "INACTIVE"
         },
         "ws.onthe.io": {
@@ -2868,8 +2868,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1589093480.704206,
-            "last_retested_at_iso": "2020-05-10T06:51:20.704206",
+            "last_retested_at_epoch": 1589209255.133028,
+            "last_retested_at_iso": "2020-05-11T15:00:55.133028",
             "status": "INACTIVE"
         }
     }
