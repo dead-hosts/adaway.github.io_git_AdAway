@@ -1615,8 +1615,8 @@
         "ads.deliverimp.com": {
             "included_at_epoch": 1588353010.384362,
             "included_at_iso": "2020-05-01T17:10:10.384362",
-            "last_retested_at_epoch": 1589088350.750797,
-            "last_retested_at_iso": "2020-05-10T05:25:50.750797",
+            "last_retested_at_epoch": 1589198896.166812,
+            "last_retested_at_iso": "2020-05-11T12:08:16.166812",
             "status": "INACTIVE"
         },
         "ads.heyzap.com": {
@@ -1636,15 +1636,15 @@
         "adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.497378,
             "included_at_iso": "2020-05-01T17:10:13.497378",
-            "last_retested_at_epoch": 1589089059.354515,
-            "last_retested_at_iso": "2020-05-10T05:37:39.354515",
+            "last_retested_at_epoch": 1589198899.458822,
+            "last_retested_at_iso": "2020-05-11T12:08:19.458822",
             "status": "INACTIVE"
         },
         "adserver-prod.i3emqmcebj.us-east-1.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.420915,
             "included_at_iso": "2020-05-01T17:10:13.420915",
-            "last_retested_at_epoch": 1589089059.272599,
-            "last_retested_at_iso": "2020-05-10T05:37:39.272599",
+            "last_retested_at_epoch": 1589198899.376713,
+            "last_retested_at_iso": "2020-05-11T12:08:19.376713",
             "status": "INACTIVE"
         },
         "adsrvr.receptiv.com": {
@@ -1678,8 +1678,8 @@
         "affiliates-prod.us-east-1.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.352936,
             "included_at_iso": "2020-05-01T17:10:13.352936",
-            "last_retested_at_epoch": 1589089059.205142,
-            "last_retested_at_iso": "2020-05-10T05:37:39.205142",
+            "last_retested_at_epoch": 1589198899.303107,
+            "last_retested_at_iso": "2020-05-11T12:08:19.303107",
             "status": "INACTIVE"
         },
         "am.appserver-ap.com": {
@@ -1694,6 +1694,13 @@
             "included_at_iso": "2020-05-01T16:06:11.636295",
             "last_retested_at_epoch": 1589196735.104507,
             "last_retested_at_iso": "2020-05-11T11:32:15.104507",
+            "status": "INACTIVE"
+        },
+        "anagog-services-prod.us-east-1.elasticbeanstalk.com": {
+            "included_at_epoch": 1589198899.312039,
+            "included_at_iso": "2020-05-11T12:08:19.312039",
+            "last_retested_at_epoch": 1589198899.312039,
+            "last_retested_at_iso": "2020-05-11T12:08:19.312039",
             "status": "INACTIVE"
         },
         "analytics.phoenixplatform.com.sg": {
@@ -1734,8 +1741,8 @@
         "api.deep-ad.com.edgekey.net": {
             "included_at_epoch": 1588353013.12161,
             "included_at_iso": "2020-05-01T17:10:13.121610",
-            "last_retested_at_epoch": 1589088353.425776,
-            "last_retested_at_iso": "2020-05-10T05:25:53.425776",
+            "last_retested_at_epoch": 1589198899.061988,
+            "last_retested_at_iso": "2020-05-11T12:08:19.061988",
             "status": "INACTIVE"
         },
         "api.dsp.batmobi.net": {
@@ -1769,8 +1776,8 @@
         "api.recorder.duapps.com": {
             "included_at_epoch": 1588353012.439806,
             "included_at_iso": "2020-05-01T17:10:12.439806",
-            "last_retested_at_epoch": 1589088352.767189,
-            "last_retested_at_iso": "2020-05-10T05:25:52.767189",
+            "last_retested_at_epoch": 1589198898.365944,
+            "last_retested_at_iso": "2020-05-11T12:08:18.365944",
             "status": "INACTIVE"
         },
         "app.roximity.com": {
@@ -1818,8 +1825,8 @@
         "beacon.clickequations.net.edgekey.net": {
             "included_at_epoch": 1588353013.226763,
             "included_at_iso": "2020-05-01T17:10:13.226763",
-            "last_retested_at_epoch": 1589088353.535544,
-            "last_retested_at_iso": "2020-05-10T05:25:53.535544",
+            "last_retested_at_epoch": 1589198899.168069,
+            "last_retested_at_iso": "2020-05-11T12:08:19.168069",
             "status": "INACTIVE"
         },
         "bevo.adsnative.com": {
@@ -1895,71 +1902,78 @@
         "collect10422hmstr.deltadna.net": {
             "included_at_epoch": 1588353010.415942,
             "included_at_iso": "2020-05-01T17:10:10.415942",
-            "last_retested_at_epoch": 1589088350.789749,
-            "last_retested_at_iso": "2020-05-10T05:25:50.789749",
+            "last_retested_at_epoch": 1589198896.203568,
+            "last_retested_at_iso": "2020-05-11T12:08:16.203568",
             "status": "INACTIVE"
         },
         "collect10776gdsnd.deltadna.net": {
             "included_at_epoch": 1588353010.43306,
             "included_at_iso": "2020-05-01T17:10:10.433060",
-            "last_retested_at_epoch": 1589088350.807449,
-            "last_retested_at_iso": "2020-05-10T05:25:50.807449",
+            "last_retested_at_epoch": 1589198896.22514,
+            "last_retested_at_iso": "2020-05-11T12:08:16.225140",
             "status": "INACTIVE"
         },
         "collect12345thldr.deltadna.net": {
             "included_at_epoch": 1588353010.521476,
             "included_at_iso": "2020-05-01T17:10:10.521476",
-            "last_retested_at_epoch": 1589088350.884161,
-            "last_retested_at_iso": "2020-05-10T05:25:50.884161",
+            "last_retested_at_epoch": 1589198896.31063,
+            "last_retested_at_iso": "2020-05-11T12:08:16.310630",
             "status": "INACTIVE"
         },
         "collect12678nmtnt.deltadna.net": {
             "included_at_epoch": 1588353010.547913,
             "included_at_iso": "2020-05-01T17:10:10.547913",
-            "last_retested_at_epoch": 1589088350.914988,
-            "last_retested_at_iso": "2020-05-10T05:25:50.914988",
+            "last_retested_at_epoch": 1589198896.35662,
+            "last_retested_at_iso": "2020-05-11T12:08:16.356620",
             "status": "INACTIVE"
         },
         "collect126842fr2h.deltadna.net": {
             "included_at_epoch": 1588353010.554767,
             "included_at_iso": "2020-05-01T17:10:10.554767",
-            "last_retested_at_epoch": 1589088350.923283,
-            "last_retested_at_iso": "2020-05-10T05:25:50.923283",
+            "last_retested_at_epoch": 1589198896.365303,
+            "last_retested_at_iso": "2020-05-11T12:08:16.365303",
             "status": "INACTIVE"
         },
         "collect12717rnssg.deltadna.net": {
             "included_at_epoch": 1588353010.561606,
             "included_at_iso": "2020-05-01T17:10:10.561606",
-            "last_retested_at_epoch": 1589088350.931401,
-            "last_retested_at_iso": "2020-05-10T05:25:50.931401",
+            "last_retested_at_epoch": 1589198896.373941,
+            "last_retested_at_iso": "2020-05-11T12:08:16.373941",
             "status": "INACTIVE"
         },
         "collect13245rnrnd.deltadna.net": {
             "included_at_epoch": 1588353010.581773,
             "included_at_iso": "2020-05-01T17:10:10.581773",
-            "last_retested_at_epoch": 1589088350.951458,
-            "last_retested_at_iso": "2020-05-10T05:25:50.951458",
+            "last_retested_at_epoch": 1589198896.396783,
+            "last_retested_at_iso": "2020-05-11T12:08:16.396783",
             "status": "INACTIVE"
         },
         "collect13494dvntr.deltadna.net": {
             "included_at_epoch": 1588353010.604525,
             "included_at_iso": "2020-05-01T17:10:10.604525",
-            "last_retested_at_epoch": 1589088350.975075,
-            "last_retested_at_iso": "2020-05-10T05:25:50.975075",
+            "last_retested_at_epoch": 1589198896.422364,
+            "last_retested_at_iso": "2020-05-11T12:08:16.422364",
             "status": "INACTIVE"
         },
         "collect13566brrtb.deltadna.net": {
             "included_at_epoch": 1588353010.611346,
             "included_at_iso": "2020-05-01T17:10:10.611346",
-            "last_retested_at_epoch": 1589088350.983607,
-            "last_retested_at_iso": "2020-05-10T05:25:50.983607",
+            "last_retested_at_epoch": 1589198896.430996,
+            "last_retested_at_iso": "2020-05-11T12:08:16.430996",
             "status": "INACTIVE"
         },
         "collect13800frdyt.deltadna.net": {
             "included_at_epoch": 1588353010.621896,
             "included_at_iso": "2020-05-01T17:10:10.621896",
-            "last_retested_at_epoch": 1589088350.997975,
-            "last_retested_at_iso": "2020-05-10T05:25:50.997975",
+            "last_retested_at_epoch": 1589198896.447016,
+            "last_retested_at_iso": "2020-05-11T12:08:16.447016",
+            "status": "INACTIVE"
+        },
+        "collect7787drtyb.deltadna.net": {
+            "included_at_epoch": 1589198896.515892,
+            "included_at_iso": "2020-05-11T12:08:16.515892",
+            "last_retested_at_epoch": 1589198896.515892,
+            "last_retested_at_iso": "2020-05-11T12:08:16.515892",
             "status": "INACTIVE"
         },
         "com-fluentco-main.collector.snplow.net": {
@@ -1986,15 +2000,15 @@
         "cr01.dynatrace.com": {
             "included_at_epoch": 1588353012.783576,
             "included_at_iso": "2020-05-01T17:10:12.783576",
-            "last_retested_at_epoch": 1589088353.109003,
-            "last_retested_at_iso": "2020-05-10T05:25:53.109003",
+            "last_retested_at_epoch": 1589198898.720559,
+            "last_retested_at_iso": "2020-05-11T12:08:18.720559",
             "status": "INACTIVE"
         },
         "cr02.dynatrace.com": {
             "included_at_epoch": 1588353012.794907,
             "included_at_iso": "2020-05-01T17:10:12.794907",
-            "last_retested_at_epoch": 1589088353.100424,
-            "last_retested_at_iso": "2020-05-10T05:25:53.100424",
+            "last_retested_at_epoch": 1589198898.711501,
+            "last_retested_at_iso": "2020-05-11T12:08:18.711501",
             "status": "INACTIVE"
         },
         "creative-adchoices.advertise.quantcast.com": {
@@ -2014,15 +2028,15 @@
         "cws-eu-west-1.conviva.com": {
             "included_at_epoch": 1588353009.082843,
             "included_at_iso": "2020-05-01T17:10:09.082843",
-            "last_retested_at_epoch": 1589088349.469498,
-            "last_retested_at_iso": "2020-05-10T05:25:49.469498",
+            "last_retested_at_epoch": 1589198894.816562,
+            "last_retested_at_iso": "2020-05-11T12:08:14.816562",
             "status": "INACTIVE"
         },
         "cws-us-west-2.conviva.com": {
             "included_at_epoch": 1588353009.105968,
             "included_at_iso": "2020-05-01T17:10:09.105968",
-            "last_retested_at_epoch": 1589088349.490257,
-            "last_retested_at_iso": "2020-05-10T05:25:49.490257",
+            "last_retested_at_epoch": 1589198894.83584,
+            "last_retested_at_iso": "2020-05-11T12:08:14.835840",
             "status": "INACTIVE"
         },
         "debug.aerserv.com": {
@@ -2070,71 +2084,71 @@
         "engage10422hmstr.deltadna.net": {
             "included_at_epoch": 1588353010.743624,
             "included_at_iso": "2020-05-01T17:10:10.743624",
-            "last_retested_at_epoch": 1589088351.106306,
-            "last_retested_at_iso": "2020-05-10T05:25:51.106306",
+            "last_retested_at_epoch": 1589198896.568213,
+            "last_retested_at_iso": "2020-05-11T12:08:16.568213",
             "status": "INACTIVE"
         },
         "engage12678nmtnt.deltadna.net": {
             "included_at_epoch": 1588353010.815219,
             "included_at_iso": "2020-05-01T17:10:10.815219",
-            "last_retested_at_epoch": 1589088351.16842,
-            "last_retested_at_iso": "2020-05-10T05:25:51.168420",
+            "last_retested_at_epoch": 1589198896.639702,
+            "last_retested_at_iso": "2020-05-11T12:08:16.639702",
             "status": "INACTIVE"
         },
         "engage12717rnssg.deltadna.net": {
             "included_at_epoch": 1588353010.825213,
             "included_at_iso": "2020-05-01T17:10:10.825213",
-            "last_retested_at_epoch": 1589088351.186686,
-            "last_retested_at_iso": "2020-05-10T05:25:51.186686",
+            "last_retested_at_epoch": 1589198896.655203,
+            "last_retested_at_iso": "2020-05-11T12:08:16.655203",
             "status": "INACTIVE"
         },
         "engage13245rnrnd.deltadna.net": {
             "included_at_epoch": 1588353010.835117,
             "included_at_iso": "2020-05-01T17:10:10.835117",
-            "last_retested_at_epoch": 1589088351.198318,
-            "last_retested_at_iso": "2020-05-10T05:25:51.198318",
+            "last_retested_at_epoch": 1589198896.667455,
+            "last_retested_at_iso": "2020-05-11T12:08:16.667455",
             "status": "INACTIVE"
         },
         "engage13494dvntr.deltadna.net": {
             "included_at_epoch": 1588353010.841922,
             "included_at_iso": "2020-05-01T17:10:10.841922",
-            "last_retested_at_epoch": 1589088351.206719,
-            "last_retested_at_iso": "2020-05-10T05:25:51.206719",
+            "last_retested_at_epoch": 1589198896.676111,
+            "last_retested_at_iso": "2020-05-11T12:08:16.676111",
             "status": "INACTIVE"
         },
         "engage13551pcktp.deltadna.net": {
             "included_at_epoch": 1588353010.848705,
             "included_at_iso": "2020-05-01T17:10:10.848705",
-            "last_retested_at_epoch": 1589088351.223703,
-            "last_retested_at_iso": "2020-05-10T05:25:51.223703",
+            "last_retested_at_epoch": 1589198896.693473,
+            "last_retested_at_iso": "2020-05-11T12:08:16.693473",
             "status": "INACTIVE"
         },
         "engage13566brrtb.deltadna.net": {
             "included_at_epoch": 1588353010.855646,
             "included_at_iso": "2020-05-01T17:10:10.855646",
-            "last_retested_at_epoch": 1589088351.215177,
-            "last_retested_at_iso": "2020-05-10T05:25:51.215177",
+            "last_retested_at_epoch": 1589198896.684725,
+            "last_retested_at_iso": "2020-05-11T12:08:16.684725",
             "status": "INACTIVE"
         },
         "engage13617dvntr.deltadna.net": {
             "included_at_epoch": 1588353010.862636,
             "included_at_iso": "2020-05-01T17:10:10.862636",
-            "last_retested_at_epoch": 1589088351.232099,
-            "last_retested_at_iso": "2020-05-10T05:25:51.232099",
+            "last_retested_at_epoch": 1589198896.702743,
+            "last_retested_at_iso": "2020-05-11T12:08:16.702743",
             "status": "INACTIVE"
         },
         "engage14052tnkrs.deltadna.net": {
             "included_at_epoch": 1588353010.886738,
             "included_at_iso": "2020-05-01T17:10:10.886738",
-            "last_retested_at_epoch": 1589088351.253461,
-            "last_retested_at_iso": "2020-05-10T05:25:51.253461",
+            "last_retested_at_epoch": 1589198896.72632,
+            "last_retested_at_iso": "2020-05-11T12:08:16.726320",
             "status": "INACTIVE"
         },
         "engage14451lghtt.deltadna.net": {
             "included_at_epoch": 1588353010.894267,
             "included_at_iso": "2020-05-01T17:10:10.894267",
-            "last_retested_at_epoch": 1589088351.265165,
-            "last_retested_at_iso": "2020-05-10T05:25:51.265165",
+            "last_retested_at_epoch": 1589198896.738664,
+            "last_retested_at_iso": "2020-05-11T12:08:16.738664",
             "status": "INACTIVE"
         },
         "engine.sponsorpay.com": {
@@ -2203,8 +2217,8 @@
         "govtech-c.clickability.com": {
             "included_at_epoch": 1588353008.227396,
             "included_at_iso": "2020-05-01T17:10:08.227396",
-            "last_retested_at_epoch": 1589088348.611218,
-            "last_retested_at_iso": "2020-05-10T05:25:48.611218",
+            "last_retested_at_epoch": 1589198893.89638,
+            "last_retested_at_iso": "2020-05-11T12:08:13.896380",
             "status": "INACTIVE"
         },
         "i.po.st": {
@@ -2329,8 +2343,8 @@
         "magnetic.t.domdex.com": {
             "included_at_epoch": 1588353011.379039,
             "included_at_iso": "2020-05-01T17:10:11.379039",
-            "last_retested_at_epoch": 1589088351.733646,
-            "last_retested_at_iso": "2020-05-10T05:25:51.733646",
+            "last_retested_at_epoch": 1589198897.248878,
+            "last_retested_at_iso": "2020-05-11T12:08:17.248878",
             "status": "INACTIVE"
         },
         "mam.ad-balancer.at": {
@@ -2378,8 +2392,8 @@
         "mobiletracker-env.us-east-1.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.435344,
             "included_at_iso": "2020-05-01T17:10:13.435344",
-            "last_retested_at_epoch": 1589089059.285714,
-            "last_retested_at_iso": "2020-05-10T05:37:39.285714",
+            "last_retested_at_epoch": 1589198899.389367,
+            "last_retested_at_iso": "2020-05-11T12:08:19.389367",
             "status": "INACTIVE"
         },
         "mobsrv.in": {
@@ -2434,8 +2448,8 @@
         "node-personalization-d.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.327257,
             "included_at_iso": "2020-05-01T17:10:13.327257",
-            "last_retested_at_epoch": 1589089059.174721,
-            "last_retested_at_iso": "2020-05-10T05:37:39.174721",
+            "last_retested_at_epoch": 1589198899.272169,
+            "last_retested_at_iso": "2020-05-11T12:08:19.272169",
             "status": "INACTIVE"
         },
         "origin-ui.revcontent.com": {
@@ -2490,8 +2504,8 @@
         "push-sdk-backend-production.ap-south-1.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.27702,
             "included_at_iso": "2020-05-01T17:10:13.277020",
-            "last_retested_at_epoch": 1589089059.13325,
-            "last_retested_at_iso": "2020-05-10T05:37:39.133250",
+            "last_retested_at_epoch": 1589198899.230847,
+            "last_retested_at_iso": "2020-05-11T12:08:19.230847",
             "status": "INACTIVE"
         },
         "radiusnetworks.com.herokudns.com": {
@@ -2609,8 +2623,8 @@
         "sentry.fastboot.mobi": {
             "included_at_epoch": 1588356579.614034,
             "included_at_iso": "2020-05-01T18:09:39.614034",
-            "last_retested_at_epoch": 1589089060.274876,
-            "last_retested_at_iso": "2020-05-10T05:37:40.274876",
+            "last_retested_at_epoch": 1589198900.429391,
+            "last_retested_at_iso": "2020-05-11T12:08:20.429391",
             "status": "INACTIVE"
         },
         "setting.adzcore.com": {
@@ -2637,8 +2651,8 @@
         "snowplowcollector-env-3.us-east-1.elasticbeanstalk.com": {
             "included_at_epoch": 1588353013.46118,
             "included_at_iso": "2020-05-01T17:10:13.461180",
-            "last_retested_at_epoch": 1589089059.323692,
-            "last_retested_at_iso": "2020-05-10T05:37:39.323692",
+            "last_retested_at_epoch": 1589198899.427648,
+            "last_retested_at_iso": "2020-05-11T12:08:19.427648",
             "status": "INACTIVE"
         },
         "stat.dsp.batmobi.net": {
@@ -2735,8 +2749,8 @@
         "tracking.deskadsserver.com": {
             "included_at_epoch": 1588353011.14842,
             "included_at_iso": "2020-05-01T17:10:11.148420",
-            "last_retested_at_epoch": 1589088351.510447,
-            "last_retested_at_iso": "2020-05-10T05:25:51.510447",
+            "last_retested_at_epoch": 1589198897.010183,
+            "last_retested_at_iso": "2020-05-11T12:08:17.010183",
             "status": "INACTIVE"
         },
         "tracking.mobinetad.com": {
