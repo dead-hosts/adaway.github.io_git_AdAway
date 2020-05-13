@@ -2452,6 +2452,13 @@
             "last_retested_at_iso": "2020-05-13T06:42:10.515319",
             "status": "INACTIVE"
         },
+        "ms-ads-events-cdn.prod.cloud.ogury.io": {
+            "included_at_epoch": 1589384469.710699,
+            "included_at_iso": "2020-05-13T15:41:09.710699",
+            "last_retested_at_epoch": 1589384469.710699,
+            "last_retested_at_iso": "2020-05-13T15:41:09.710699",
+            "status": "INACTIVE"
+        },
         "mt.analytics.163.com": {
             "included_at_epoch": 1587191595.0,
             "included_at_iso": "2020-04-18T06:33:15",
