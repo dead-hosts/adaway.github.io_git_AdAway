@@ -2669,6 +2669,13 @@
             "last_retested_at_iso": "2020-05-13T06:29:58.526562",
             "status": "INACTIVE"
         },
+        "sdk.promoadx.com": {
+            "included_at_epoch": 1589385892.792797,
+            "included_at_iso": "2020-05-13T16:04:52.792797",
+            "last_retested_at_epoch": 1589385892.792797,
+            "last_retested_at_iso": "2020-05-13T16:04:52.792797",
+            "status": "INACTIVE"
+        },
         "search.batmobi.net": {
             "included_at_epoch": 1588349173.137571,
             "included_at_iso": "2020-05-01T16:06:13.137571",
