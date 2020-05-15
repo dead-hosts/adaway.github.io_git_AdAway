@@ -1892,6 +1892,13 @@
             "last_retested_at_iso": "2020-05-15T06:17:15.582422",
             "status": "INACTIVE"
         },
+        "cks.ha1.yumenetworks.com": {
+            "included_at_epoch": 1589526352.205861,
+            "included_at_iso": "2020-05-15T07:05:52.205861",
+            "last_retested_at_epoch": 1589526352.205861,
+            "last_retested_at_iso": "2020-05-15T07:05:52.205861",
+            "status": "INACTIVE"
+        },
         "cm.revcontent.com": {
             "included_at_epoch": 1588367952.929517,
             "included_at_iso": "2020-05-01T21:19:12.929517",
