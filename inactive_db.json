@@ -1535,6 +1535,13 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
+        "access.adblox.net": {
+            "included_at_epoch": 1589797216.856156,
+            "included_at_iso": "2020-05-18T10:20:16.856156",
+            "last_retested_at_epoch": 1589797216.856156,
+            "last_retested_at_iso": "2020-05-18T10:20:16.856156",
+            "status": "INACTIVE"
+        },
         "ad.leadboltapps.net": {
             "included_at_epoch": 1588359724.759317,
             "included_at_iso": "2020-05-01T19:02:04.759317",
@@ -1561,6 +1568,13 @@
             "included_at_iso": "2020-05-16T10:16:37.932337",
             "last_retested_at_epoch": 1589712765.526548,
             "last_retested_at_iso": "2020-05-17T10:52:45.526548",
+            "status": "INACTIVE"
+        },
+        "admob.tk": {
+            "included_at_epoch": 1589797218.269864,
+            "included_at_iso": "2020-05-18T10:20:18.269864",
+            "last_retested_at_epoch": 1589797218.269864,
+            "last_retested_at_iso": "2020-05-18T10:20:18.269864",
             "status": "INACTIVE"
         },
         "admp-tc-digo.adtlgc.com": {
@@ -2737,6 +2751,20 @@
             "included_at_iso": "2020-05-01T18:09:39.614034",
             "last_retested_at_epoch": 1589717596.844557,
             "last_retested_at_iso": "2020-05-17T12:13:16.844557",
+            "status": "INACTIVE"
+        },
+        "services.adblox.net": {
+            "included_at_epoch": 1589797216.849435,
+            "included_at_iso": "2020-05-18T10:20:16.849435",
+            "last_retested_at_epoch": 1589797216.849435,
+            "last_retested_at_iso": "2020-05-18T10:20:16.849435",
+            "status": "INACTIVE"
+        },
+        "servs.adblox.net": {
+            "included_at_epoch": 1589797216.862501,
+            "included_at_iso": "2020-05-18T10:20:16.862501",
+            "last_retested_at_epoch": 1589797216.862501,
+            "last_retested_at_iso": "2020-05-18T10:20:16.862501",
             "status": "INACTIVE"
         },
         "setting.adzcore.com": {
