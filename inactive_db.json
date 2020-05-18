@@ -2242,6 +2242,13 @@
             "last_retested_at_iso": "2020-05-17T13:08:41.296354",
             "status": "INACTIVE"
         },
+        "experiment.appadhoc.com": {
+            "included_at_epoch": 1589798578.612043,
+            "included_at_iso": "2020-05-18T10:42:58.612043",
+            "last_retested_at_epoch": 1589798578.612043,
+            "last_retested_at_iso": "2020-05-18T10:42:58.612043",
+            "status": "INACTIVE"
+        },
         "files.revcontent.com": {
             "included_at_epoch": 1588660351.582046,
             "included_at_iso": "2020-05-05T06:32:31.582046",
@@ -2408,6 +2415,13 @@
             "included_at_iso": "2020-05-01T18:09:40.619630",
             "last_retested_at_epoch": 1589717597.839011,
             "last_retested_at_iso": "2020-05-17T12:13:17.839011",
+            "status": "INACTIVE"
+        },
+        "letv.allyes.com": {
+            "included_at_epoch": 1589798577.8256,
+            "included_at_iso": "2020-05-18T10:42:57.825600",
+            "last_retested_at_epoch": 1589798577.8256,
+            "last_retested_at_iso": "2020-05-18T10:42:57.825600",
             "status": "INACTIVE"
         },
         "loadb.cint.com": {
