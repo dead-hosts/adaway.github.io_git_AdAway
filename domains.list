@@ -1778,9 +1778,7 @@ appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com
 rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com
 tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com
 iotanalytics.eu-central-1.amazonaws.com
-kinesisanalytics.eu-central-1.amazonaws.com
 iotanalytics.eu-west-1.amazonaws.com
-kinesisanalytics.eu-west-1.amazonaws.com
 api.mediatailor.eu-west-1.amazonaws.com
 magnify-app.s3.eu-west-2.amazonaws.com
 admarvel.s3.amazonaws.com
@@ -1829,7 +1827,6 @@ yieldify-static-files.s3.amazonaws.com
 later-analytics-reports.s3-accelerate.amazonaws.com
 marketingkaizen.s3-eu-west-1.amazonaws.com
 sm-campaign.s3-us-west-2.amazonaws.com
-kinesis.us-east-1.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
 global.cmcs.service.amazonsilk.com
 ambient-platform.com
@@ -2542,9 +2539,6 @@ pbjs.ayads.co
 sac.ayads.co
 sentry.ayads.co
 click.aztracking.net
-d365portal-prod-sdk.akstd.azureedge.net
-d365portal-prod-sdk.azureedge.net
-d365prod-sdk.azureedge.net
 masdpanalytics.azureedge.net
 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 gwmserver.b-cdn.net
@@ -2846,9 +2840,6 @@ cdn.boomtrain.com
 p.boostads.co
 boostads.net
 banner.boostbox.com.br
-activate.boostmobile.com
-aka-apiservices.boostmobile.com
-appcontent.boostmobile.com
 metrics.boostmobile.com
 smetrics.boston.com
 api.bounceexchange.com
@@ -5857,8 +5848,6 @@ ads.iosappsworld.com
 ci-first.iovation.com
 ci-mpsnare.iovation.com
 first.iovation.com
-logservices.ipass.com
-om-datacollector.ipass.com
 4q.iperceptions.com
 active.iperceptions.com
 api.iperceptions.com
@@ -5922,8 +5911,6 @@ i-tb.isnssdk.com
 i16-tb.isnssdk.com
 ichannel.isnssdk.com
 ichannel-tb.isnssdk.com
-imapi-mu.isnssdk.com
-imapi-sg.isnssdk.com
 isub.isnssdk.com
 isub-tb.isnssdk.com
 log.isnssdk.com
@@ -6002,9 +5989,6 @@ ads.jetpackdigital.com
 wbdds.jeuxvideo.com
 ads.jianchiapp.com
 update.sdk.jiguang.cn
-as-p-e.jitterbit.com
-emea-west.jitterbit.com
-na-east.jitterbit.com
 as.jivox.com
 pxl.jivox.com
 jiwire.com
@@ -6069,7 +6053,6 @@ pa-stats.origin-cogent.kaltura.com
 images-or.ott.kaltura.com
 tvpapi-as.ott.kaltura.com
 stats.kaltura.com
-sdk.kamcord.com
 api-data.kameleoon.com
 api-product.kameleoon.com
 araman.kameleoon.com
@@ -6435,10 +6418,6 @@ self-booking.ligatus.com
 ssl.ligatus.com
 static.ligatus.com
 lightningcast.net
-api-grpc.lightstep.com
-collector.lightstep.com
-collector-grpc.lightstep.com
-collector-medium.lightstep.com
 adintegration.lijit.com
 ap.lijit.com
 apcdn.lijit.com
@@ -7154,8 +7133,6 @@ millenialmedia.com
 millennialmedia.com
 adserver.mimo.com.ng
 mindmemobile.com
-anx.mindspark.com
-eula.mindspark.com
 minimob.com
 playable-stats.mintegral.com
 mintrace.com
@@ -7201,7 +7178,6 @@ dco.mmtro.com
 err.mmtro.com
 seg.mmtro.com
 tgt.mmtro.com
-milliyetreklam-p.mncdn.com
 ads.mncmedia.co.kr
 mnectar.com
 mng-ads.com
@@ -7348,8 +7324,6 @@ mobile-ent.biz
 clickl5.mobile-greeter.com
 static.mobile-greeter.com
 srv6.mobile-srv.com
-arcgis.mobile311.com
-esri.mobile311.com
 mobile333.com
 mobileactive.com
 mobilead.vn
@@ -7473,16 +7447,13 @@ mobilebanner.ru
 d.mobilebanner.ru
 p.mobilebanner.ru
 api.mobilebridge.com
-app.mobilecause.com
 mobilecore.com
-api.mobileday.com
 client.mobilefonex.com
 push.mobilefonex.com
 mobilefuse.com
 ads.mobilefuse.com
 i.mobilefuse.com
 mobilefuse.net
-br.mobilelifeconnect.com
 clickl5.mobilemediaking.com
 mobilemessenger.com
 static.mobilemonkey.com
@@ -7508,9 +7479,6 @@ an-823-metropcs.static.mobileposse.com
 an-829-metropcs.static.mobileposse.com
 an-832-metropcs.static.mobileposse.com
 an-834-metropcs.static.mobileposse.com
-rest.mobilerealtyapps.com
-sessions.mobileroadie.com
-skin.mobilesentrix.com
 mobilestorm.com
 apps.mobilestorm.com
 mobiletheory.com
@@ -11681,7 +11649,6 @@ sdkconfig.vrvm.com
 tags.vrvm.com
 tags-prod.vrvm.com
 vsassets.com
-api.vsee.com
 vserv.mobi
 a.vserv.mobi
 ads.vserv.mobi
@@ -11812,7 +11779,6 @@ cdn-origin.woopra.com
 static.woopra.com
 api.wootric.com
 app.wootric.com
-cdn.wootric.com
 cxi-api.wootric.com
 eligibility.wootric.com
 info.wootric.com
