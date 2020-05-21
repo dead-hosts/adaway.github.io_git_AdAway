@@ -2578,6 +2578,13 @@
             "last_retested_at_iso": "2020-05-21T06:29:17.444889",
             "status": "INACTIVE"
         },
+        "plg1.ha1.yumenetworks.com": {
+            "included_at_epoch": 1590068799.49168,
+            "included_at_iso": "2020-05-21T13:46:39.491680",
+            "last_retested_at_epoch": 1590068799.49168,
+            "last_retested_at_iso": "2020-05-21T13:46:39.491680",
+            "status": "INACTIVE"
+        },
         "politads.com": {
             "included_at_epoch": 1588365515.729701,
             "included_at_iso": "2020-05-01T20:38:35.729701",
