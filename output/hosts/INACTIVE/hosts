@@ -28,6 +28,7 @@
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 api.dsp.batmobi.net
 0.0.0.0 api.inmoji.com
+0.0.0.0 api.mobilearts.io
 0.0.0.0 api.recorder.duapps.com
 0.0.0.0 aptrk5.com
 0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
@@ -37,8 +38,10 @@
 0.0.0.0 broker.video-v2.fyber.com
 0.0.0.0 cat.sv.us.criteo.com
 0.0.0.0 cdn.adsnative.com
+0.0.0.0 cdn.mobiletop.cc
 0.0.0.0 cdn-static.formisimo.com
 0.0.0.0 cmplay.did.ijinshan.com
+0.0.0.0 cm.send.microadinc.com
 0.0.0.0 collect10422hmstr.deltadna.net
 0.0.0.0 collect10776gdsnd.deltadna.net
 0.0.0.0 collect12345thldr.deltadna.net
@@ -52,6 +55,7 @@
 0.0.0.0 collect7787drtyb.deltadna.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.vip1.ams1.inmobi.com
+0.0.0.0 contextualadsorigin.media.net
 0.0.0.0 cr01.dynatrace.com
 0.0.0.0 cr02.dynatrace.com
 0.0.0.0 cws-eu-west-1.conviva.com
@@ -61,6 +65,7 @@
 0.0.0.0 dev.accengage.com
 0.0.0.0 dfdsseaways.blueconic.com
 0.0.0.0 dptr.areyouahuman.com
+0.0.0.0 dsp.send.microadinc.com
 0.0.0.0 els.a4.tl
 0.0.0.0 engage10422hmstr.deltadna.net
 0.0.0.0 engage12678nmtnt.deltadna.net
@@ -91,6 +96,8 @@
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 loadb.cint.com
+0.0.0.0 logs.locarta.co
+0.0.0.0 logs.mobiletop.cc
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 mam.ad-balancer.at
 0.0.0.0 maxis.krxd.net
@@ -101,6 +108,7 @@
 0.0.0.0 ng001.batmobi.net
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 preroll.a4.tl
+0.0.0.0 p.share.mob.com
 0.0.0.0 push1.dev.accengage.com
 0.0.0.0 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0 radiusnetworks.com.herokudns.com
@@ -116,16 +124,21 @@
 0.0.0.0 sdk-data.nv.prod.bidmotion.com
 0.0.0.0 sdkm.w.vip.ams1.inmobi.com
 0.0.0.0 search.batmobi.net
+0.0.0.0 send.microadinc.com
 0.0.0.0 sentry.fastboot.mobi
 0.0.0.0 services.adblox.net
 0.0.0.0 servs.adblox.net
 0.0.0.0 setting.adzcore.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 sysco-appstore2.madmobile.com
+0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
+0.0.0.0 track.mobfox.com
+0.0.0.0 ulml.mob.com
 0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 video.batmobi.net
 0.0.0.0 vpn2.branch.io
