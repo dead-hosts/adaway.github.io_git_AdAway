@@ -2602,8 +2602,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1588661804.730609,
             "included_at_iso": "2020-05-05T06:56:44.730609",
-            "last_retested_at_epoch": 1590043908.153834,
-            "last_retested_at_iso": "2020-05-21T06:51:48.153834",
+            "last_retested_at_epoch": 1590161673.978709,
+            "last_retested_at_iso": "2020-05-22T15:34:33.978709",
             "status": "INACTIVE"
         },
         "p.share.mob.com": {
@@ -2618,13 +2618,6 @@
             "included_at_iso": "2020-05-01T21:19:15.497884",
             "last_retested_at_epoch": 1590159008.29824,
             "last_retested_at_iso": "2020-05-22T14:50:08.298240",
-            "status": "INACTIVE"
-        },
-        "plg1.ha1.yumenetworks.com": {
-            "included_at_epoch": 1590068799.49168,
-            "included_at_iso": "2020-05-21T13:46:39.491680",
-            "last_retested_at_epoch": 1590068799.49168,
-            "last_retested_at_iso": "2020-05-21T13:46:39.491680",
             "status": "INACTIVE"
         },
         "politads.com": {
@@ -2735,8 +2728,8 @@
         "sanalytics.virginmobileusa.com": {
             "included_at_epoch": 1589526051.865291,
             "included_at_iso": "2020-05-15T07:00:51.865291",
-            "last_retested_at_epoch": 1590043302.545555,
-            "last_retested_at_iso": "2020-05-21T06:41:42.545555",
+            "last_retested_at_epoch": 1590161672.089488,
+            "last_retested_at_iso": "2020-05-22T15:34:32.089488",
             "status": "INACTIVE"
         },
         "sdk-ads.bidmotion.com": {
@@ -2952,8 +2945,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1588370875.242316,
             "included_at_iso": "2020-05-01T22:07:55.242316",
-            "last_retested_at_epoch": 1590043907.021095,
-            "last_retested_at_iso": "2020-05-21T06:51:47.021095",
+            "last_retested_at_epoch": 1590161672.869868,
+            "last_retested_at_iso": "2020-05-22T15:34:32.869868",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -3120,8 +3113,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1590043909.233735,
-            "last_retested_at_iso": "2020-05-21T06:51:49.233735",
+            "last_retested_at_epoch": 1590161675.054089,
+            "last_retested_at_iso": "2020-05-22T15:34:35.054089",
             "status": "INACTIVE"
         }
     }
