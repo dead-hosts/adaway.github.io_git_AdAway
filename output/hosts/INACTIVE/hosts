@@ -29,6 +29,7 @@
 0.0.0.0 anagog-services-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 analytics.any.do
 0.0.0.0 analytics.phoenixplatform.com.sg
+0.0.0.0 analytics.toast.com
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api-cache.adsnative.com
@@ -48,6 +49,7 @@
 0.0.0.0 b3-eu.mookie1.com
 0.0.0.0 beacon.clickequations.net.edgekey.net
 0.0.0.0 beacon-maxis.krxd.net
+0.0.0.0 be.sponsorpay.com
 0.0.0.0 bevo.adsnative.com
 0.0.0.0 br-ad.sam4m.com
 0.0.0.0 broker.video-v2.fyber.com
@@ -71,6 +73,7 @@
 0.0.0.0 collect13566brrtb.deltadna.net
 0.0.0.0 collect13800frdyt.deltadna.net
 0.0.0.0 collect7787drtyb.deltadna.net
+0.0.0.0 com-fluentco-main.collector.snplow.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.vip1.ams1.inmobi.com
 0.0.0.0 contextualadsorigin.media.net
@@ -100,6 +103,7 @@
 0.0.0.0 engage13617dvntr.deltadna.net
 0.0.0.0 engage14052tnkrs.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
+0.0.0.0 engine.sponsorpay.com
 0.0.0.0 et.w.vip.ams1.inmobi.com
 0.0.0.0 eu-adinfo.sam4m.com
 0.0.0.0 eu.cdn5.onthe.io
@@ -118,6 +122,7 @@
 0.0.0.0 img-cloudflare.haizap.com
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
+0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 info.instartlogic.com
 0.0.0.0 i.po.st
 0.0.0.0 ivid-f5-us-va.adhigh.net
@@ -136,6 +141,7 @@
 0.0.0.0 match-us-east-1.sharethrough.com
 0.0.0.0 maxis.krxd.net
 0.0.0.0 mbe-monitoring.fyber.com
+0.0.0.0 metrics.tbliab.net
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 mobsrv.in
 0.0.0.0 mprezchc.com
@@ -182,14 +188,20 @@
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 stat.dsp.batmobi.net
 0.0.0.0 stats.sapo.vn
+0.0.0.0 stats.unity3d.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
+0.0.0.0 t3q7af0z.com
+0.0.0.0 tag-mediation.supersonic.com
+0.0.0.0 tck.synerise.com
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tlg.mookie1.com
+0.0.0.0 token.ad
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
+0.0.0.0 tracking.tapinfluence.com
 0.0.0.0 track.mobfox.com
 0.0.0.0 trends-s1.revcontent.com
 0.0.0.0 ulml.mob.com
@@ -199,7 +211,11 @@
 0.0.0.0 us-west-pulsepoint-rtb.quantserve.com
 0.0.0.0 video.batmobi.net
 0.0.0.0 vpn2.branch.io
+0.0.0.0 widget-css.subiz.com
+0.0.0.0 widget.subiz.com
 0.0.0.0 ws.onthe.io
+0.0.0.0 ws-widget-lb-1.subiz.com
+0.0.0.0 ws-widget-lb-2.subiz.com
 0.0.0.0 w.vip1.ams1.inmobi.com
 0.0.0.0 www-s1.revcontent.com
 0.0.0.0 xaxis-emea.mookie1.com
