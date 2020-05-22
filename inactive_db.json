@@ -1580,43 +1580,43 @@
         "admp-tc-digo.adtlgc.com": {
             "included_at_epoch": 1588345424.257921,
             "included_at_iso": "2020-05-01T15:03:44.257921",
-            "last_retested_at_epoch": 1590037477.441023,
-            "last_retested_at_iso": "2020-05-21T05:04:37.441023",
+            "last_retested_at_epoch": 1590146083.030322,
+            "last_retested_at_iso": "2020-05-22T11:14:43.030322",
             "status": "INACTIVE"
         },
         "admp-tc-hegnar.adtlgc.com": {
             "included_at_epoch": 1588345424.266422,
             "included_at_iso": "2020-05-01T15:03:44.266422",
-            "last_retested_at_epoch": 1590037477.450317,
-            "last_retested_at_iso": "2020-05-21T05:04:37.450317",
+            "last_retested_at_epoch": 1590146083.0405,
+            "last_retested_at_iso": "2020-05-22T11:14:43.040500",
             "status": "INACTIVE"
         },
         "admp-tc-larepublica.adtlgc.com": {
             "included_at_epoch": 1588345424.271333,
             "included_at_iso": "2020-05-01T15:03:44.271333",
-            "last_retested_at_epoch": 1590037477.459654,
-            "last_retested_at_iso": "2020-05-21T05:04:37.459654",
+            "last_retested_at_epoch": 1590146083.049803,
+            "last_retested_at_iso": "2020-05-22T11:14:43.049803",
             "status": "INACTIVE"
         },
         "admp-tc-lrytas.adtlgc.com": {
             "included_at_epoch": 1588345424.277906,
             "included_at_iso": "2020-05-01T15:03:44.277906",
-            "last_retested_at_epoch": 1590037477.467111,
-            "last_retested_at_iso": "2020-05-21T05:04:37.467111",
+            "last_retested_at_epoch": 1590146083.057484,
+            "last_retested_at_iso": "2020-05-22T11:14:43.057484",
             "status": "INACTIVE"
         },
         "admp-tc-oecd.adtlgc.com": {
             "included_at_epoch": 1588345424.284526,
             "included_at_iso": "2020-05-01T15:03:44.284526",
-            "last_retested_at_epoch": 1590037477.47641,
-            "last_retested_at_iso": "2020-05-21T05:04:37.476410",
+            "last_retested_at_epoch": 1590146083.074314,
+            "last_retested_at_iso": "2020-05-22T11:14:43.074314",
             "status": "INACTIVE"
         },
         "admp-tc-pmp.adtlgc.com": {
             "included_at_epoch": 1588345424.289438,
             "included_at_iso": "2020-05-01T15:03:44.289438",
-            "last_retested_at_epoch": 1590037477.48385,
-            "last_retested_at_iso": "2020-05-21T05:04:37.483850",
+            "last_retested_at_epoch": 1590146083.066859,
+            "last_retested_at_iso": "2020-05-22T11:14:43.066859",
             "status": "INACTIVE"
         },
         "ads.bluelithium.com": {
@@ -1699,8 +1699,8 @@
         "am.appserver-ap.com": {
             "included_at_epoch": 1588349171.604412,
             "included_at_iso": "2020-05-01T16:06:11.604412",
-            "last_retested_at_epoch": 1590037480.526777,
-            "last_retested_at_iso": "2020-05-21T05:04:40.526777",
+            "last_retested_at_epoch": 1590146085.867579,
+            "last_retested_at_iso": "2020-05-22T11:14:45.867579",
             "status": "INACTIVE"
         },
         "am.appserver-cp.com": {
@@ -1715,6 +1715,13 @@
             "included_at_iso": "2020-05-11T12:08:19.312039",
             "last_retested_at_epoch": 1590038908.525174,
             "last_retested_at_iso": "2020-05-21T05:28:28.525174",
+            "status": "INACTIVE"
+        },
+        "analytics.any.do": {
+            "included_at_epoch": 1590146084.73128,
+            "included_at_iso": "2020-05-22T11:14:44.731280",
+            "last_retested_at_epoch": 1590146084.73128,
+            "last_retested_at_iso": "2020-05-22T11:14:44.731280",
             "status": "INACTIVE"
         },
         "analytics.phoenixplatform.com.sg": {
@@ -1748,8 +1755,8 @@
         "api.appfireworks.com": {
             "included_at_epoch": 1588345426.427536,
             "included_at_iso": "2020-05-01T15:03:46.427536",
-            "last_retested_at_epoch": 1590037479.862056,
-            "last_retested_at_iso": "2020-05-21T05:04:39.862056",
+            "last_retested_at_epoch": 1590146085.268893,
+            "last_retested_at_iso": "2020-05-22T11:14:45.268893",
             "status": "INACTIVE"
         },
         "api.deep-ad.com.edgekey.net": {
@@ -2035,8 +2042,8 @@
         "config.appjolt.com": {
             "included_at_epoch": 1588345426.582295,
             "included_at_iso": "2020-05-01T15:03:46.582295",
-            "last_retested_at_epoch": 1590037480.048528,
-            "last_retested_at_iso": "2020-05-21T05:04:40.048528",
+            "last_retested_at_epoch": 1590146085.457367,
+            "last_retested_at_iso": "2020-05-22T11:14:45.457367",
             "status": "INACTIVE"
         },
         "config.vip1.ams1.inmobi.com": {
@@ -2105,8 +2112,8 @@
         "debug.aerserv.com": {
             "included_at_epoch": 1588827602.337351,
             "included_at_iso": "2020-05-07T05:00:02.337351",
-            "last_retested_at_epoch": 1590037478.368449,
-            "last_retested_at_iso": "2020-05-21T05:04:38.368449",
+            "last_retested_at_epoch": 1590146083.854402,
+            "last_retested_at_iso": "2020-05-22T11:14:43.854402",
             "status": "INACTIVE"
         },
         "dev.accengage.com": {
@@ -2364,8 +2371,8 @@
         "in.appserver-ap.com": {
             "included_at_epoch": 1588349171.610804,
             "included_at_iso": "2020-05-01T16:06:11.610804",
-            "last_retested_at_epoch": 1590037480.536526,
-            "last_retested_at_iso": "2020-05-21T05:04:40.536526",
+            "last_retested_at_epoch": 1590146085.875867,
+            "last_retested_at_iso": "2020-05-22T11:14:45.875867",
             "status": "INACTIVE"
         },
         "in.appserver-cp.com": {
@@ -2422,6 +2429,13 @@
             "included_at_iso": "2020-05-01T18:09:40.619630",
             "last_retested_at_epoch": 1590039639.538325,
             "last_retested_at_iso": "2020-05-21T05:40:39.538325",
+            "status": "INACTIVE"
+        },
+        "letv.allyes.com": {
+            "included_at_epoch": 1590146084.19475,
+            "included_at_iso": "2020-05-22T11:14:44.194750",
+            "last_retested_at_epoch": 1590146084.19475,
+            "last_retested_at_iso": "2020-05-22T11:14:44.194750",
             "status": "INACTIVE"
         },
         "loadb.cint.com": {
@@ -2637,8 +2651,8 @@
         "rg.appserver-ap.com": {
             "included_at_epoch": 1588349171.630992,
             "included_at_iso": "2020-05-01T16:06:11.630992",
-            "last_retested_at_epoch": 1590037480.561682,
-            "last_retested_at_iso": "2020-05-21T05:04:40.561682",
+            "last_retested_at_epoch": 1590146085.896662,
+            "last_retested_at_iso": "2020-05-22T11:14:45.896662",
             "status": "INACTIVE"
         },
         "rg.appserver-cp.com": {
@@ -2784,8 +2798,8 @@
         "setting.adzcore.com": {
             "included_at_epoch": 1588345424.974669,
             "included_at_iso": "2020-05-01T15:03:44.974669",
-            "last_retested_at_epoch": 1590037478.272945,
-            "last_retested_at_iso": "2020-05-21T05:04:38.272945",
+            "last_retested_at_epoch": 1590146083.776694,
+            "last_retested_at_iso": "2020-05-22T11:14:43.776694",
             "status": "INACTIVE"
         },
         "sg-ma.sam4m.com": {
