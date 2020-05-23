@@ -1542,6 +1542,13 @@
             "last_retested_at_iso": "2020-05-23T10:59:00.651858",
             "status": "INACTIVE"
         },
+        "ad-l2.media6degrees.com": {
+            "included_at_epoch": 1590232990.622983,
+            "included_at_iso": "2020-05-23T11:23:10.622983",
+            "last_retested_at_epoch": 1590232990.622983,
+            "last_retested_at_iso": "2020-05-23T11:23:10.622983",
+            "status": "INACTIVE"
+        },
         "ad.leadboltapps.net": {
             "included_at_epoch": 1588359724.759317,
             "included_at_iso": "2020-05-01T19:02:04.759317",
