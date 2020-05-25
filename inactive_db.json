@@ -2403,6 +2403,13 @@
             "last_retested_at_iso": "2020-05-25T10:23:36.789994",
             "status": "INACTIVE"
         },
+        "imsapi.vnet.cn": {
+            "included_at_epoch": 1590417541.626807,
+            "included_at_iso": "2020-05-25T14:39:01.626807",
+            "last_retested_at_epoch": 1590417541.626807,
+            "last_retested_at_iso": "2020-05-25T14:39:01.626807",
+            "status": "INACTIVE"
+        },
         "in.appserver-ap.com": {
             "included_at_epoch": 1588349171.610804,
             "included_at_iso": "2020-05-01T16:06:11.610804",
