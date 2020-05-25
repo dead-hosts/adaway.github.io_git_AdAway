@@ -1570,6 +1570,13 @@
             "last_retested_at_iso": "2020-05-24T22:25:22.502898",
             "status": "INACTIVE"
         },
+        "adm.dynamicyield.com": {
+            "included_at_epoch": 1590408736.369232,
+            "included_at_iso": "2020-05-25T12:12:16.369232",
+            "last_retested_at_epoch": 1590408736.369232,
+            "last_retested_at_iso": "2020-05-25T12:12:16.369232",
+            "status": "INACTIVE"
+        },
         "admob.tk": {
             "included_at_epoch": 1589797218.269864,
             "included_at_iso": "2020-05-18T10:20:18.269864",
@@ -2107,6 +2114,13 @@
             "included_at_iso": "2020-05-01T17:10:09.105968",
             "last_retested_at_epoch": 1590363280.884874,
             "last_retested_at_iso": "2020-05-24T23:34:40.884874",
+            "status": "INACTIVE"
+        },
+        "dcem.dynamicyield.com": {
+            "included_at_epoch": 1590408736.387009,
+            "included_at_iso": "2020-05-25T12:12:16.387009",
+            "last_retested_at_epoch": 1590408736.387009,
+            "last_retested_at_iso": "2020-05-25T12:12:16.387009",
             "status": "INACTIVE"
         },
         "debug.aerserv.com": {
@@ -2648,6 +2662,13 @@
             "last_retested_at_iso": "2020-05-24T22:25:21.286217",
             "status": "INACTIVE"
         },
+        "px-eu.dynamicyield.com": {
+            "included_at_epoch": 1590408736.408414,
+            "included_at_iso": "2020-05-25T12:12:16.408414",
+            "last_retested_at_epoch": 1590408736.408414,
+            "last_retested_at_iso": "2020-05-25T12:12:16.408414",
+            "status": "INACTIVE"
+        },
         "radiusnetworks.com.herokudns.com": {
             "included_at_epoch": 1588356582.795954,
             "included_at_iso": "2020-05-01T18:09:42.795954",
@@ -2660,6 +2681,13 @@
             "included_at_iso": "2020-05-01T20:38:36.558717",
             "last_retested_at_epoch": 1590371962.119997,
             "last_retested_at_iso": "2020-05-25T01:59:22.119997",
+            "status": "INACTIVE"
+        },
+        "rest.dynamicyield.com": {
+            "included_at_epoch": 1590408736.429552,
+            "included_at_iso": "2020-05-25T12:12:16.429552",
+            "last_retested_at_epoch": 1590408736.429552,
+            "last_retested_at_iso": "2020-05-25T12:12:16.429552",
             "status": "INACTIVE"
         },
         "rg.appserver-ap.com": {
@@ -2844,11 +2872,46 @@
             "last_retested_at_iso": "2020-05-25T00:04:04.740803",
             "status": "INACTIVE"
         },
+        "st-use.dynamicyield.com": {
+            "included_at_epoch": 1590408736.450892,
+            "included_at_iso": "2020-05-25T12:12:16.450892",
+            "last_retested_at_epoch": 1590408736.450892,
+            "last_retested_at_iso": "2020-05-25T12:12:16.450892",
+            "status": "INACTIVE"
+        },
+        "st-usw2.dynamicyield.com": {
+            "included_at_epoch": 1590408736.47025,
+            "included_at_iso": "2020-05-25T12:12:16.470250",
+            "last_retested_at_epoch": 1590408736.47025,
+            "last_retested_at_iso": "2020-05-25T12:12:16.470250",
+            "status": "INACTIVE"
+        },
         "stat.dsp.batmobi.net": {
             "included_at_epoch": 1588349173.113364,
             "included_at_iso": "2020-05-01T16:06:13.113364",
             "last_retested_at_epoch": 1590363277.639267,
             "last_retested_at_iso": "2020-05-24T23:34:37.639267",
+            "status": "INACTIVE"
+        },
+        "static-euw1.dynamicyield.com": {
+            "included_at_epoch": 1590408736.479982,
+            "included_at_iso": "2020-05-25T12:12:16.479982",
+            "last_retested_at_epoch": 1590408736.479982,
+            "last_retested_at_iso": "2020-05-25T12:12:16.479982",
+            "status": "INACTIVE"
+        },
+        "static-lon1.dynamicyield.com": {
+            "included_at_epoch": 1590408736.489789,
+            "included_at_iso": "2020-05-25T12:12:16.489789",
+            "last_retested_at_epoch": 1590408736.489789,
+            "last_retested_at_iso": "2020-05-25T12:12:16.489789",
+            "status": "INACTIVE"
+        },
+        "static.dynamicyield.com": {
+            "included_at_epoch": 1590408736.460648,
+            "included_at_iso": "2020-05-25T12:12:16.460648",
+            "last_retested_at_epoch": 1590408736.460648,
+            "last_retested_at_iso": "2020-05-25T12:12:16.460648",
             "status": "INACTIVE"
         },
         "stats.unity3d.com": {
