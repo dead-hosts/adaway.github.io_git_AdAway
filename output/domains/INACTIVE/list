@@ -28,6 +28,7 @@ am.appserver-ap.com
 am.appserver-cp.com
 anagog-services-prod.us-east-1.elasticbeanstalk.com
 analytics.phoenixplatform.com.sg
+analytics.toast.com
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -120,6 +121,7 @@ img-cloudflare-2.haizap.com
 img-cloudflare.haizap.com
 in.appserver-ap.com
 in.appserver-cp.com
+influencers.tapinfluence.com
 info.instartlogic.com
 i.po.st
 ivid-f5-us-va.adhigh.net
@@ -138,6 +140,7 @@ mam.ad-balancer.at
 match-us-east-1.sharethrough.com
 maxis.krxd.net
 mbe-monitoring.fyber.com
+metrics.tbliab.net
 mobiletracker-env.us-east-1.elasticbeanstalk.com
 mobsrv.in
 mrp.rubiconproject.com
@@ -148,6 +151,7 @@ n-cdn.areyouahuman.com
 ng001.batmobi.net
 node-personalization-d.elasticbeanstalk.com
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 ping.xlmc.sandai.net
 politads.com
 preroll.a4.tl
@@ -165,6 +169,7 @@ rubick.gameanalytics.com
 rubicon-tagan.adlightning.com
 ru.cdn5.onthe.io
 rudy.adsnative.com
+sanalytics.virginmobileusa.com
 sdk.adbuddiz.com
 sdk-ads.bidmotion.com
 sdk-data.nv.prod.bidmotion.com
@@ -181,6 +186,7 @@ sg-ma.sam4m.com
 sg-mtrack.rayjump.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 stat.dsp.batmobi.net
+stats.unity3d.com
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
 t3q7af0z.com
@@ -189,9 +195,12 @@ tck.synerise.com
 telemetry.sdk.vip.ams1.inmobi.com
 thales.adsrvr.org
 tlg.mookie1.com
+token.ad
+trackers.voodoo-analytics.io
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
+tracking.tapinfluence.com
 track.mobfox.com
 trends-s1.revcontent.com
 ulml.mob.com
