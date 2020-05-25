@@ -2494,6 +2494,13 @@
             "last_retested_at_iso": "2020-05-24T23:34:39.888529",
             "status": "INACTIVE"
         },
+        "logging.admicro.vn": {
+            "included_at_epoch": 1590446067.936443,
+            "included_at_iso": "2020-05-25T22:34:27.936443",
+            "last_retested_at_epoch": 1590446067.936443,
+            "last_retested_at_iso": "2020-05-25T22:34:27.936443",
+            "status": "INACTIVE"
+        },
         "logs.locarta.co": {
             "included_at_epoch": 1588362488.86346,
             "included_at_iso": "2020-05-01T19:48:08.863460",
