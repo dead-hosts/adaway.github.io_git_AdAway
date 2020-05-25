@@ -2686,8 +2686,8 @@
         "sdk.kamcord.com": {
             "included_at_epoch": 1588359723.33395,
             "included_at_iso": "2020-05-01T19:02:03.333950",
-            "last_retested_at_epoch": 1590162712.381775,
-            "last_retested_at_iso": "2020-05-22T15:51:52.381775",
+            "last_retested_at_epoch": 1590376036.751735,
+            "last_retested_at_iso": "2020-05-25T03:07:16.751735",
             "status": "INACTIVE"
         },
         "sdk.native123.com": {
@@ -3022,8 +3022,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1588373184.474893,
             "included_at_iso": "2020-05-01T22:46:24.474893",
-            "last_retested_at_epoch": 1590161675.054089,
-            "last_retested_at_iso": "2020-05-22T15:34:35.054089",
+            "last_retested_at_epoch": 1590376032.945636,
+            "last_retested_at_iso": "2020-05-25T03:07:12.945636",
             "status": "INACTIVE"
         }
     }
