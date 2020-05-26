@@ -3,6 +3,8 @@
 
 0.0.0.0 access.adblox.net
 0.0.0.0 adizer.ru
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.leadboltmobile.net
 0.0.0.0 admob.tk
 0.0.0.0 admp-tc-digo.adtlgc.com
 0.0.0.0 admp-tc-hegnar.adtlgc.com
@@ -23,10 +25,14 @@
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 api.dsp.batmobi.net
+0.0.0.0 api.inmoji.com
+0.0.0.0 api.instartlogic.com
 0.0.0.0 api.recorder.duapps.com
+0.0.0.0 app.instartlogic.com
 0.0.0.0 aptrk5.com
 0.0.0.0 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 0.0.0.0 beacon.clickequations.net.edgekey.net
+0.0.0.0 beacon-maxis.krxd.net
 0.0.0.0 broker.video-v2.fyber.com
 0.0.0.0 cat.sv.us.criteo.com
 0.0.0.0 cdn-static.formisimo.com
@@ -65,6 +71,9 @@
 0.0.0.0 engage14052tnkrs.deltadna.net
 0.0.0.0 engage14451lghtt.deltadna.net
 0.0.0.0 et.w.vip.ams1.inmobi.com
+0.0.0.0 foreman-a001-ash.krxd.net
+0.0.0.0 foreman-a002-ash.krxd.net
+0.0.0.0 foreman-a003-ash.krxd.net
 0.0.0.0 game.idoing3d.com
 0.0.0.0 govtech-c.clickability.com
 0.0.0.0 iamediaserve.com
@@ -73,14 +82,18 @@
 0.0.0.0 img-cloudflare.haizap.com
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
+0.0.0.0 info.instartlogic.com
 0.0.0.0 ivid-f5-us-va.adhigh.net
 0.0.0.0 i.w.vip.ams1.inmobi.com
+0.0.0.0 javacript.gq
+0.0.0.0 joneself.com
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 letv.allyes.com
 0.0.0.0 loadb.cint.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 maxis.krxd.net
 0.0.0.0 mbe-monitoring.fyber.com
 0.0.0.0 mobiletracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0 mt.analytics.163.com
@@ -101,6 +114,7 @@
 0.0.0.0 sdk-data.nv.prod.bidmotion.com
 0.0.0.0 sdkm.w.vip.ams1.inmobi.com
 0.0.0.0 search.batmobi.net
+0.0.0.0 security.instartlogic.com
 0.0.0.0 sentry.fastboot.mobi
 0.0.0.0 services.adblox.net
 0.0.0.0 servs.adblox.net
@@ -110,6 +124,7 @@
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
+0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 video.batmobi.net
 0.0.0.0 vpn2.branch.io
 0.0.0.0 w.vip1.ams1.inmobi.com
