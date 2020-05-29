@@ -5052,7 +5052,7 @@
     "placeplay.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "planetactive.com": {
         "epoch": 1610496000.0,
@@ -5070,8 +5070,8 @@
         "state": "future"
     },
     "playtomic.com": {
-        "epoch": 1590624000.0,
-        "expiration_date": "28-may-2020",
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "plethoramobile.com": {
