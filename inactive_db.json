@@ -1755,8 +1755,8 @@
         "analytics.vancms.net": {
             "included_at_epoch": 1590562044.130372,
             "included_at_iso": "2020-05-27T06:47:24.130372",
-            "last_retested_at_epoch": 1590735469.387439,
-            "last_retested_at_iso": "2020-05-29T06:57:49.387439",
+            "last_retested_at_epoch": 1590848681.746714,
+            "last_retested_at_iso": "2020-05-30T14:24:41.746714",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -2368,13 +2368,6 @@
             "last_retested_at_iso": "2020-05-29T23:52:53.218240",
             "status": "INACTIVE"
         },
-        "h5.wannaplay.cn": {
-            "included_at_epoch": 1590736187.177494,
-            "included_at_iso": "2020-05-29T07:09:47.177494",
-            "last_retested_at_epoch": 1590736187.177494,
-            "last_retested_at_iso": "2020-05-29T07:09:47.177494",
-            "status": "INACTIVE"
-        },
         "i.po.st": {
             "included_at_epoch": 1590804877.922446,
             "included_at_iso": "2020-05-30T02:14:37.922446",
@@ -2651,8 +2644,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1588661804.730609,
             "included_at_iso": "2020-05-05T06:56:44.730609",
-            "last_retested_at_epoch": 1590736187.630587,
-            "last_retested_at_iso": "2020-05-29T07:09:47.630587",
+            "last_retested_at_epoch": 1590848684.777489,
+            "last_retested_at_iso": "2020-05-30T14:24:44.777489",
             "status": "INACTIVE"
         },
         "p.share.mob.com": {
@@ -2763,8 +2756,8 @@
         "rainmaker.tiny.cloud": {
             "included_at_epoch": 1590463302.27053,
             "included_at_iso": "2020-05-26T03:21:42.270530",
-            "last_retested_at_epoch": 1590735465.426105,
-            "last_retested_at_iso": "2020-05-29T06:57:45.426105",
+            "last_retested_at_epoch": 1590848677.794642,
+            "last_retested_at_iso": "2020-05-30T14:24:37.794642",
             "status": "INACTIVE"
         },
         "redirect.privateadtracking.com": {
@@ -2847,8 +2840,8 @@
         "sanalytics.virginmobileusa.com": {
             "included_at_epoch": 1589526051.865291,
             "included_at_iso": "2020-05-15T07:00:51.865291",
-            "last_retested_at_epoch": 1590736185.673916,
-            "last_retested_at_iso": "2020-05-29T07:09:45.673916",
+            "last_retested_at_epoch": 1590848682.755348,
+            "last_retested_at_iso": "2020-05-30T14:24:42.755348",
             "status": "INACTIVE"
         },
         "scout.scoutanalytics.net": {
@@ -3057,8 +3050,8 @@
         "tongqing2015.com": {
             "included_at_epoch": 1590735465.769832,
             "included_at_iso": "2020-05-29T06:57:45.769832",
-            "last_retested_at_epoch": 1590735465.769832,
-            "last_retested_at_iso": "2020-05-29T06:57:45.769832",
+            "last_retested_at_epoch": 1590848678.141899,
+            "last_retested_at_iso": "2020-05-30T14:24:38.141899",
             "status": "INACTIVE"
         },
         "track.mobfox.com": {
