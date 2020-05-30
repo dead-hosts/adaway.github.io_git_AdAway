@@ -22,6 +22,7 @@ adx-dot.a.mobimagic.com
 affiliates-prod.us-east-1.elasticbeanstalk.com
 am.appserver-ap.com
 am.appserver-cp.com
+analytics.phoenixplatform.com.sg
 api.appfireworks.com
 api.deep-ad.com.edgekey.net
 api.dsp.batmobi.net
@@ -29,6 +30,7 @@ api.inmoji.com
 api.mobilearts.io
 api.nrelate.com
 api.recorder.duapps.com
+as.cdn5.onthe.io
 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 b3-eu.mookie1.com
 beacon.clickequations.net.edgekey.net
@@ -51,10 +53,12 @@ config.appjolt.com
 contextualadsorigin.media.net
 cr01.dynatrace.com
 cr02.dynatrace.com
+creative-adchoices.advertise.quantcast.com
 cws-eu-west-1.conviva.com
 cws-us-west-2.conviva.com
 dfdsseaways.blueconic.com
 dna2.mookie1.com
+do.onthe.io
 dptr.areyouahuman.com
 dsp.send.microadinc.com
 engage10422hmstr.deltadna.net
@@ -67,6 +71,7 @@ engage13566brrtb.deltadna.net
 engage13617dvntr.deltadna.net
 engage14052tnkrs.deltadna.net
 engage14451lghtt.deltadna.net
+eu.cdn5.onthe.io
 foreman-a001-ash.krxd.net
 foreman-a002-ash.krxd.net
 foreman-a003-ash.krxd.net
@@ -78,6 +83,7 @@ img-cloudflare-2.haizap.com
 img-cloudflare.haizap.com
 in.appserver-ap.com
 in.appserver-cp.com
+i.po.st
 iw3.a.mobimagic.com
 javacript.gq
 joneself.com
@@ -90,17 +96,22 @@ maxis.krxd.net
 mbe-monitoring.fyber.com
 mobiletracker-env.us-east-1.elasticbeanstalk.com
 mobsrv.in
+na.cdn5.onthe.io
 n-cdn.areyouahuman.com
 ng001.batmobi.net
 node-personalization-d.elasticbeanstalk.com
 phabricator.leanplum.com
+politads.com
 p.share.mob.com
 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 radiusnetworks.com.herokudns.com
+redirect.privateadtracking.com
 rg.appserver-ap.com
 rg.appserver-cp.com
 rj.baidu.com
+rtb.persona.ly
 rubick.gameanalytics.com
+ru.cdn5.onthe.io
 sdk-ads.bidmotion.com
 sdk-data.nv.prod.bidmotion.com
 search.batmobi.net
@@ -120,6 +131,7 @@ ulml.mob.com
 userdata-maxis.krxd.net
 video.batmobi.net
 vpn2.branch.io
+ws.onthe.io
 xaxis-emea.mookie1.com
 xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
