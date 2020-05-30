@@ -1853,8 +1853,8 @@
         "aptrk5.com": {
             "included_at_epoch": 1589519675.238749,
             "included_at_iso": "2020-05-15T05:14:35.238749",
-            "last_retested_at_epoch": 1590730334.787159,
-            "last_retested_at_iso": "2020-05-29T05:32:14.787159",
+            "last_retested_at_epoch": 1590836270.125646,
+            "last_retested_at_iso": "2020-05-30T10:57:50.125646",
             "status": "INACTIVE"
         },
         "as.cdn5.onthe.io": {
@@ -2154,8 +2154,8 @@
         "debug.aerserv.com": {
             "included_at_epoch": 1588827602.337351,
             "included_at_iso": "2020-05-07T05:00:02.337351",
-            "last_retested_at_epoch": 1590729613.51343,
-            "last_retested_at_iso": "2020-05-29T05:20:13.513430",
+            "last_retested_at_epoch": 1590836267.53951,
+            "last_retested_at_iso": "2020-05-30T10:57:47.539510",
             "status": "INACTIVE"
         },
         "dev.accengage.com": {
@@ -2641,13 +2641,6 @@
             "last_retested_at_iso": "2020-05-30T00:32:39.245887",
             "status": "INACTIVE"
         },
-        "oascentral.advanstar.com": {
-            "included_at_epoch": 1590729612.94876,
-            "included_at_iso": "2020-05-29T05:20:12.948760",
-            "last_retested_at_epoch": 1590729612.94876,
-            "last_retested_at_iso": "2020-05-29T05:20:12.948760",
-            "status": "INACTIVE"
-        },
         "origin-ui.revcontent.com": {
             "included_at_epoch": 1590806276.975178,
             "included_at_iso": "2020-05-30T02:37:56.975178",
@@ -3036,8 +3029,8 @@
         "thales.adsrvr.org": {
             "included_at_epoch": 1590402218.173526,
             "included_at_iso": "2020-05-25T10:23:38.173526",
-            "last_retested_at_epoch": 1590729612.135784,
-            "last_retested_at_iso": "2020-05-29T05:20:12.135784",
+            "last_retested_at_epoch": 1590836266.14959,
+            "last_retested_at_iso": "2020-05-30T10:57:46.149590",
             "status": "INACTIVE"
         },
         "tlg.mookie1.com": {
