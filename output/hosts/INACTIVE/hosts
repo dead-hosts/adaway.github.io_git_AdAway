@@ -23,6 +23,7 @@
 0.0.0.0 am.appserver-ap.com
 0.0.0.0 am.appserver-cp.com
 0.0.0.0 analytics.phoenixplatform.com.sg
+0.0.0.0 analytics.toast.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.deep-ad.com.edgekey.net
 0.0.0.0 api.dsp.batmobi.net
@@ -137,11 +138,14 @@
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 stats.unity3d.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 t3q7af0z.com
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 tlg.mookie1.com
+0.0.0.0 token.ad
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracking.autoads.asia
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
@@ -157,3 +161,4 @@
 0.0.0.0 xaxis-it.mookie1.com
 0.0.0.0 xclub.app.infinixmobility.com
 0.0.0.0 zap.mookie1.com
+0.0.0.0 zeus.ad.intl.xiaomi.com

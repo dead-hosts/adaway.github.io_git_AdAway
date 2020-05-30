@@ -1745,6 +1745,13 @@
             "last_retested_at_iso": "2020-05-30T02:14:37.247472",
             "status": "INACTIVE"
         },
+        "analytics.toast.com": {
+            "included_at_epoch": 1590807612.706607,
+            "included_at_iso": "2020-05-30T03:00:12.706607",
+            "last_retested_at_epoch": 1590807612.706607,
+            "last_retested_at_iso": "2020-05-30T03:00:12.706607",
+            "status": "INACTIVE"
+        },
         "analytics.vancms.net": {
             "included_at_epoch": 1590562044.130372,
             "included_at_iso": "2020-05-27T06:47:24.130372",
@@ -2977,6 +2984,13 @@
             "last_retested_at_iso": "2020-05-29T23:52:50.808596",
             "status": "INACTIVE"
         },
+        "stats.unity3d.com": {
+            "included_at_epoch": 1590807615.110291,
+            "included_at_iso": "2020-05-30T03:00:15.110291",
+            "last_retested_at_epoch": 1590807615.110291,
+            "last_retested_at_iso": "2020-05-30T03:00:15.110291",
+            "status": "INACTIVE"
+        },
         "sysco-appstore2.madmobile.com": {
             "included_at_epoch": 1590801967.600302,
             "included_at_iso": "2020-05-30T01:26:07.600302",
@@ -3033,6 +3047,13 @@
             "last_retested_at_iso": "2020-05-30T01:48:41.860874",
             "status": "INACTIVE"
         },
+        "token.ad": {
+            "included_at_epoch": 1590807612.773495,
+            "included_at_iso": "2020-05-30T03:00:12.773495",
+            "last_retested_at_epoch": 1590807612.773495,
+            "last_retested_at_iso": "2020-05-30T03:00:12.773495",
+            "status": "INACTIVE"
+        },
         "tongqing2015.com": {
             "included_at_epoch": 1590735465.769832,
             "included_at_iso": "2020-05-29T06:57:45.769832",
@@ -3045,6 +3066,13 @@
             "included_at_iso": "2020-05-30T01:48:39.098395",
             "last_retested_at_epoch": 1590803319.098395,
             "last_retested_at_iso": "2020-05-30T01:48:39.098395",
+            "status": "INACTIVE"
+        },
+        "trackers.voodoo-analytics.io": {
+            "included_at_epoch": 1590807618.185194,
+            "included_at_iso": "2020-05-30T03:00:18.185194",
+            "last_retested_at_epoch": 1590807618.185194,
+            "last_retested_at_iso": "2020-05-30T03:00:18.185194",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -3213,6 +3241,13 @@
             "included_at_iso": "2020-05-30T01:48:41.938651",
             "last_retested_at_epoch": 1590803321.938651,
             "last_retested_at_iso": "2020-05-30T01:48:41.938651",
+            "status": "INACTIVE"
+        },
+        "zeus.ad.intl.xiaomi.com": {
+            "included_at_epoch": 1590807620.481185,
+            "included_at_iso": "2020-05-30T03:00:20.481185",
+            "last_retested_at_epoch": 1590807620.481185,
+            "last_retested_at_iso": "2020-05-30T03:00:20.481185",
             "status": "INACTIVE"
         }
     }

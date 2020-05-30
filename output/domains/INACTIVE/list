@@ -23,6 +23,7 @@ affiliates-prod.us-east-1.elasticbeanstalk.com
 am.appserver-ap.com
 am.appserver-cp.com
 analytics.phoenixplatform.com.sg
+analytics.toast.com
 api.appfireworks.com
 api.deep-ad.com.edgekey.net
 api.dsp.batmobi.net
@@ -137,11 +138,14 @@ sg-ma.sam4m.com
 sg-mtrack.rayjump.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 stat.dsp.batmobi.net
+stats.unity3d.com
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
 t3q7af0z.com
 tag-mediation.supersonic.com
 tlg.mookie1.com
+token.ad
+trackers.voodoo-analytics.io
 tracking.autoads.asia
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -157,3 +161,4 @@ xaxis-emea.mookie1.com
 xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
 zap.mookie1.com
+zeus.ad.intl.xiaomi.com
