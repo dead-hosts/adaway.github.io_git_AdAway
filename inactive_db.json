@@ -1626,6 +1626,13 @@
             "last_retested_at_iso": "2020-05-30T00:32:35.875542",
             "status": "INACTIVE"
         },
+        "ads.heyzap.com": {
+            "included_at_epoch": 1590800539.118381,
+            "included_at_iso": "2020-05-30T01:02:19.118381",
+            "last_retested_at_epoch": 1590800539.118381,
+            "last_retested_at_iso": "2020-05-30T01:02:19.118381",
+            "status": "INACTIVE"
+        },
         "adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com": {
             "included_at_epoch": 1590798759.441062,
             "included_at_iso": "2020-05-30T00:32:39.441062",
@@ -1729,6 +1736,13 @@
             "included_at_iso": "2020-05-29T23:52:50.815559",
             "last_retested_at_epoch": 1590796370.815559,
             "last_retested_at_iso": "2020-05-29T23:52:50.815559",
+            "status": "INACTIVE"
+        },
+        "api.inmoji.com": {
+            "included_at_epoch": 1590800541.700042,
+            "included_at_iso": "2020-05-30T01:02:21.700042",
+            "last_retested_at_epoch": 1590800541.700042,
+            "last_retested_at_iso": "2020-05-30T01:02:21.700042",
             "status": "INACTIVE"
         },
         "api.instartlogic.com": {
@@ -1841,6 +1855,13 @@
             "included_at_iso": "2020-05-16T12:15:42.263481",
             "last_retested_at_epoch": 1590734731.502046,
             "last_retested_at_iso": "2020-05-29T06:45:31.502046",
+            "status": "INACTIVE"
+        },
+        "cmplay.did.ijinshan.com": {
+            "included_at_epoch": 1590800540.25465,
+            "included_at_iso": "2020-05-30T01:02:20.254650",
+            "last_retested_at_epoch": 1590800540.25465,
+            "last_retested_at_iso": "2020-05-30T01:02:20.254650",
             "status": "INACTIVE"
         },
         "collect10422hmstr.deltadna.net": {
@@ -2102,6 +2123,13 @@
             "last_retested_at_iso": "2020-05-29T06:45:31.530561",
             "status": "INACTIVE"
         },
+        "game.idoing3d.com": {
+            "included_at_epoch": 1590800540.038884,
+            "included_at_iso": "2020-05-30T01:02:20.038884",
+            "last_retested_at_epoch": 1590800540.038884,
+            "last_retested_at_iso": "2020-05-30T01:02:20.038884",
+            "status": "INACTIVE"
+        },
         "govtech-c.clickability.com": {
             "included_at_epoch": 1590796373.21824,
             "included_at_iso": "2020-05-29T23:52:53.218240",
@@ -2123,11 +2151,32 @@
             "last_retested_at_iso": "2020-05-29T06:08:21.272647",
             "status": "INACTIVE"
         },
+        "iamediaserve.com": {
+            "included_at_epoch": 1590800539.773383,
+            "included_at_iso": "2020-05-30T01:02:19.773383",
+            "last_retested_at_epoch": 1590800539.773383,
+            "last_retested_at_iso": "2020-05-30T01:02:19.773383",
+            "status": "INACTIVE"
+        },
         "iapclick.wadogo.avi.ams1.inmobi.com": {
             "included_at_epoch": 1589629076.491814,
             "included_at_iso": "2020-05-16T11:37:56.491814",
             "last_retested_at_epoch": 1590731784.871364,
             "last_retested_at_iso": "2020-05-29T05:56:24.871364",
+            "status": "INACTIVE"
+        },
+        "img-cloudflare-2.haizap.com": {
+            "included_at_epoch": 1590800538.719285,
+            "included_at_iso": "2020-05-30T01:02:18.719285",
+            "last_retested_at_epoch": 1590800538.719285,
+            "last_retested_at_iso": "2020-05-30T01:02:18.719285",
+            "status": "INACTIVE"
+        },
+        "img-cloudflare.haizap.com": {
+            "included_at_epoch": 1590800538.70624,
+            "included_at_iso": "2020-05-30T01:02:18.706240",
+            "last_retested_at_epoch": 1590800538.70624,
+            "last_retested_at_iso": "2020-05-30T01:02:18.706240",
             "status": "INACTIVE"
         },
         "imptrack.adnexus.mobi": {
@@ -2354,6 +2403,13 @@
             "last_retested_at_iso": "2020-05-29T05:08:13.426408",
             "status": "INACTIVE"
         },
+        "radiusnetworks.com.herokudns.com": {
+            "included_at_epoch": 1590800538.970305,
+            "included_at_iso": "2020-05-30T01:02:18.970305",
+            "last_retested_at_epoch": 1590800538.970305,
+            "last_retested_at_iso": "2020-05-30T01:02:18.970305",
+            "status": "INACTIVE"
+        },
         "rainmaker.tiny.cloud": {
             "included_at_epoch": 1590463302.27053,
             "included_at_iso": "2020-05-26T03:21:42.270530",
@@ -2394,6 +2450,13 @@
             "included_at_iso": "2020-05-13T05:33:20.441987",
             "last_retested_at_epoch": 1590731050.015382,
             "last_retested_at_iso": "2020-05-29T05:44:10.015382",
+            "status": "INACTIVE"
+        },
+        "rubick.gameanalytics.com": {
+            "included_at_epoch": 1590800536.991978,
+            "included_at_iso": "2020-05-30T01:02:16.991978",
+            "last_retested_at_epoch": 1590800536.991978,
+            "last_retested_at_iso": "2020-05-30T01:02:16.991978",
             "status": "INACTIVE"
         },
         "rubicon-tagan.adlightning.com": {
@@ -2646,6 +2709,13 @@
             "included_at_iso": "2020-05-16T12:15:42.393177",
             "last_retested_at_epoch": 1590734731.637574,
             "last_retested_at_iso": "2020-05-29T06:45:31.637574",
+            "status": "INACTIVE"
+        },
+        "xclub.app.infinixmobility.com": {
+            "included_at_epoch": 1590800541.065324,
+            "included_at_iso": "2020-05-30T01:02:21.065324",
+            "last_retested_at_epoch": 1590800541.065324,
+            "last_retested_at_iso": "2020-05-30T01:02:21.065324",
             "status": "INACTIVE"
         }
     }
