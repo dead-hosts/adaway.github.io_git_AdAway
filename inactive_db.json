@@ -1535,6 +1535,13 @@
         }
     },
     "/home/travis/build/dead-hosts/adaway.github.io_git_AdAway/domains.list": {
+        "a.stun.kaptcha.com": {
+            "included_at_epoch": 1590843414.772485,
+            "included_at_iso": "2020-05-30T12:56:54.772485",
+            "last_retested_at_epoch": 1590843414.772485,
+            "last_retested_at_iso": "2020-05-30T12:56:54.772485",
+            "status": "INACTIVE"
+        },
         "access.adblox.net": {
             "included_at_epoch": 1589797216.856156,
             "included_at_iso": "2020-05-18T10:20:16.856156",
@@ -1542,18 +1549,11 @@
             "last_retested_at_iso": "2020-05-30T10:26:02.764466",
             "status": "INACTIVE"
         },
-        "ad-l2.media6degrees.com": {
-            "included_at_epoch": 1590733287.412061,
-            "included_at_iso": "2020-05-29T06:21:27.412061",
-            "last_retested_at_epoch": 1590733287.412061,
-            "last_retested_at_iso": "2020-05-29T06:21:27.412061",
-            "status": "INACTIVE"
-        },
         "ad.jedimobi.com": {
             "included_at_epoch": 1590732503.426264,
             "included_at_iso": "2020-05-29T06:08:23.426264",
-            "last_retested_at_epoch": 1590732503.426264,
-            "last_retested_at_iso": "2020-05-29T06:08:23.426264",
+            "last_retested_at_epoch": 1590843414.153427,
+            "last_retested_at_iso": "2020-05-30T12:56:54.153427",
             "status": "INACTIVE"
         },
         "ad.leadboltapps.net": {
@@ -1734,8 +1734,8 @@
         "analysis.jedimobi.com": {
             "included_at_epoch": 1590732503.436696,
             "included_at_iso": "2020-05-29T06:08:23.436696",
-            "last_retested_at_epoch": 1590732503.436696,
-            "last_retested_at_iso": "2020-05-29T06:08:23.436696",
+            "last_retested_at_epoch": 1590843414.164104,
+            "last_retested_at_iso": "2020-05-30T12:56:54.164104",
             "status": "INACTIVE"
         },
         "analytics.phoenixplatform.com.sg": {
@@ -2462,8 +2462,8 @@
         "iosapi.jedimobi.com": {
             "included_at_epoch": 1590732503.447422,
             "included_at_iso": "2020-05-29T06:08:23.447422",
-            "last_retested_at_epoch": 1590732503.447422,
-            "last_retested_at_iso": "2020-05-29T06:08:23.447422",
+            "last_retested_at_epoch": 1590843414.174526,
+            "last_retested_at_iso": "2020-05-30T12:56:54.174526",
             "status": "INACTIVE"
         },
         "ivid-f5-us-va.adhigh.net": {
@@ -2553,8 +2553,8 @@
         "material.jedimobi.com": {
             "included_at_epoch": 1590732503.458373,
             "included_at_iso": "2020-05-29T06:08:23.458373",
-            "last_retested_at_epoch": 1590732503.458373,
-            "last_retested_at_iso": "2020-05-29T06:08:23.458373",
+            "last_retested_at_epoch": 1590843414.184666,
+            "last_retested_at_iso": "2020-05-30T12:56:54.184666",
             "status": "INACTIVE"
         },
         "maxis.krxd.net": {
@@ -2665,8 +2665,8 @@
         "parameter.jedimobi.com": {
             "included_at_epoch": 1590732503.469226,
             "included_at_iso": "2020-05-29T06:08:23.469226",
-            "last_retested_at_epoch": 1590732503.469226,
-            "last_retested_at_iso": "2020-05-29T06:08:23.469226",
+            "last_retested_at_epoch": 1590843414.194941,
+            "last_retested_at_iso": "2020-05-30T12:56:54.194941",
             "status": "INACTIVE"
         },
         "pc1.ha1.yumenetworks.com": {
