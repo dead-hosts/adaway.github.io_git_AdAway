@@ -4,6 +4,9 @@
 0.0.0.0 access.adblox.net
 0.0.0.0 adizer.ru
 0.0.0.0 ad.jedimobi.com
+0.0.0.0 ad-l1.media6degrees.com
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.leadboltmobile.net
 0.0.0.0 admob.tk
 0.0.0.0 admp-tc-digo.adtlgc.com
 0.0.0.0 admp-tc-hegnar.adtlgc.com
@@ -54,11 +57,13 @@
 0.0.0.0 collect7787drtyb.deltadna.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.vip1.ams1.inmobi.com
+0.0.0.0 contextualadsorigin.media.net
 0.0.0.0 cr01.dynatrace.com
 0.0.0.0 cr02.dynatrace.com
 0.0.0.0 cws-eu-west-1.conviva.com
 0.0.0.0 cws-us-west-2.conviva.com
 0.0.0.0 c.w.vip1.ams1.inmobi.com
+0.0.0.0 dating.mgid.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 dev.accengage.com
 0.0.0.0 dfdsseaways.blueconic.com
@@ -99,6 +104,7 @@
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 letv.allyes.com
 0.0.0.0 loadb.cint.com
+0.0.0.0 logs.locarta.co
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 mam.ad-balancer.at
 0.0.0.0 material.jedimobi.com
@@ -110,6 +116,7 @@
 0.0.0.0 ng001.batmobi.net
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 parameter.jedimobi.com
+0.0.0.0 phabricator.leanplum.com
 0.0.0.0 preroll.a4.tl
 0.0.0.0 push1.dev.accengage.com
 0.0.0.0 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
@@ -134,6 +141,8 @@
 0.0.0.0 setting.adzcore.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 sysco-appstore2.madmobile.com
+0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tracking.admobsphere.com

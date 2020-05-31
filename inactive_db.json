@@ -1542,6 +1542,13 @@
             "last_retested_at_iso": "2020-05-31T11:07:53.624640",
             "status": "INACTIVE"
         },
+        "ad-l1.media6degrees.com": {
+            "included_at_epoch": 1590932535.664762,
+            "included_at_iso": "2020-05-31T13:42:15.664762",
+            "last_retested_at_epoch": 1590932535.664762,
+            "last_retested_at_iso": "2020-05-31T13:42:15.664762",
+            "status": "INACTIVE"
+        },
         "ad.jedimobi.com": {
             "included_at_epoch": 1590732503.426264,
             "included_at_iso": "2020-05-29T06:08:23.426264",
@@ -1552,15 +1559,15 @@
         "ad.leadboltapps.net": {
             "included_at_epoch": 1590801965.492297,
             "included_at_iso": "2020-05-30T01:26:05.492297",
-            "last_retested_at_epoch": 1590801965.492297,
-            "last_retested_at_iso": "2020-05-30T01:26:05.492297",
+            "last_retested_at_epoch": 1590932531.655275,
+            "last_retested_at_iso": "2020-05-31T13:42:11.655275",
             "status": "INACTIVE"
         },
         "ad.leadboltmobile.net": {
             "included_at_epoch": 1590801965.501932,
             "included_at_iso": "2020-05-30T01:26:05.501932",
-            "last_retested_at_epoch": 1590801965.501932,
-            "last_retested_at_iso": "2020-05-30T01:26:05.501932",
+            "last_retested_at_epoch": 1590932531.671226,
+            "last_retested_at_iso": "2020-05-31T13:42:11.671226",
             "status": "INACTIVE"
         },
         "adbsc.mobinativeads.com": {
@@ -2091,8 +2098,8 @@
         "contextualadsorigin.media.net": {
             "included_at_epoch": 1590803316.107068,
             "included_at_iso": "2020-05-30T01:48:36.107068",
-            "last_retested_at_epoch": 1590803316.107068,
-            "last_retested_at_iso": "2020-05-30T01:48:36.107068",
+            "last_retested_at_epoch": 1590932535.49144,
+            "last_retested_at_iso": "2020-05-31T13:42:15.491440",
             "status": "INACTIVE"
         },
         "cr01.dynatrace.com": {
@@ -2140,8 +2147,8 @@
         "dating.mgid.com": {
             "included_at_epoch": 1590559861.788996,
             "included_at_iso": "2020-05-27T06:11:01.788996",
-            "last_retested_at_epoch": 1590845077.267961,
-            "last_retested_at_iso": "2020-05-30T13:24:37.267961",
+            "last_retested_at_epoch": 1590932536.825777,
+            "last_retested_at_iso": "2020-05-31T13:42:16.825777",
             "status": "INACTIVE"
         },
         "debug.aerserv.com": {
@@ -2518,8 +2525,8 @@
         "logs.locarta.co": {
             "included_at_epoch": 1590801966.996495,
             "included_at_iso": "2020-05-30T01:26:06.996495",
-            "last_retested_at_epoch": 1590801966.996495,
-            "last_retested_at_iso": "2020-05-30T01:26:06.996495",
+            "last_retested_at_epoch": 1590932533.092025,
+            "last_retested_at_iso": "2020-05-31T13:42:13.092025",
             "status": "INACTIVE"
         },
         "logs.mobiletop.cc": {
@@ -2679,8 +2686,8 @@
         "phabricator.leanplum.com": {
             "included_at_epoch": 1590801965.727028,
             "included_at_iso": "2020-05-30T01:26:05.727028",
-            "last_retested_at_epoch": 1590801965.727028,
-            "last_retested_at_iso": "2020-05-30T01:26:05.727028",
+            "last_retested_at_epoch": 1590932531.88362,
+            "last_retested_at_iso": "2020-05-31T13:42:11.883620",
             "status": "INACTIVE"
         },
         "ping.xlmc.sandai.net": {
@@ -2987,15 +2994,15 @@
         "sysco-appstore2.madmobile.com": {
             "included_at_epoch": 1590801967.600302,
             "included_at_iso": "2020-05-30T01:26:07.600302",
-            "last_retested_at_epoch": 1590801967.600302,
-            "last_retested_at_iso": "2020-05-30T01:26:07.600302",
+            "last_retested_at_epoch": 1590932533.656262,
+            "last_retested_at_iso": "2020-05-31T13:42:13.656262",
             "status": "INACTIVE"
         },
         "sysco-cdn.madmobile.com": {
             "included_at_epoch": 1590801967.590292,
             "included_at_iso": "2020-05-30T01:26:07.590292",
-            "last_retested_at_epoch": 1590801967.590292,
-            "last_retested_at_iso": "2020-05-30T01:26:07.590292",
+            "last_retested_at_epoch": 1590932533.683304,
+            "last_retested_at_iso": "2020-05-31T13:42:13.683304",
             "status": "INACTIVE"
         },
         "t3q7af0z.com": {
