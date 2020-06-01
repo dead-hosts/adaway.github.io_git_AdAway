@@ -5695,8 +5695,8 @@
         "state": "future"
     },
     "sessionm.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "sezwho.com": {
@@ -5742,7 +5742,7 @@
     "sistacked.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitemaji.com": {
         "epoch": 1743292800.0,
