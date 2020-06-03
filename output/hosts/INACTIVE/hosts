@@ -2,8 +2,11 @@
 # Date of generation: 2020-06-03T04:52:48.004926
 
 0.0.0.0 access.adblox.net
+0.0.0.0 ade-beta.media6degrees.com
 0.0.0.0 adizer.ru
 0.0.0.0 ad.jedimobi.com
+0.0.0.0 ad.leadboltapps.net
+0.0.0.0 ad.leadboltmobile.net
 0.0.0.0 admob.tk
 0.0.0.0 admp-tc-digo.adtlgc.com
 0.0.0.0 admp-tc-hegnar.adtlgc.com
@@ -11,6 +14,7 @@
 0.0.0.0 admp-tc-lrytas.adtlgc.com
 0.0.0.0 admp-tc-oecd.adtlgc.com
 0.0.0.0 admp-tc-pmp.adtlgc.com
+0.0.0.0 ad-s1.media6degrees.com
 0.0.0.0 ads.bluelithium.com
 0.0.0.0 ads.deliverimp.com
 0.0.0.0 adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com
@@ -41,6 +45,7 @@
 0.0.0.0 cdn.adsnative.com
 0.0.0.0 cdn-static.formisimo.com
 0.0.0.0 cmplay.did.ijinshan.com
+0.0.0.0 cm.send.microadinc.com
 0.0.0.0 collect10422hmstr.deltadna.net
 0.0.0.0 collect10776gdsnd.deltadna.net
 0.0.0.0 collect12345thldr.deltadna.net
@@ -54,15 +59,18 @@
 0.0.0.0 collect7787drtyb.deltadna.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.vip1.ams1.inmobi.com
+0.0.0.0 contextualadsorigin.media.net
 0.0.0.0 cr01.dynatrace.com
 0.0.0.0 cr02.dynatrace.com
 0.0.0.0 cws-eu-west-1.conviva.com
 0.0.0.0 cws-us-west-2.conviva.com
 0.0.0.0 c.w.vip1.ams1.inmobi.com
+0.0.0.0 dating.mgid.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 dev.accengage.com
 0.0.0.0 dfdsseaways.blueconic.com
 0.0.0.0 dptr.areyouahuman.com
+0.0.0.0 dsp.send.microadinc.com
 0.0.0.0 els.a4.tl
 0.0.0.0 engage10422hmstr.deltadna.net
 0.0.0.0 engage12678nmtnt.deltadna.net
@@ -97,6 +105,7 @@
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latency.interstitial-broker.fyber.com
 0.0.0.0 loadb.cint.com
+0.0.0.0 logs.locarta.co
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 mam.ad-balancer.at
 0.0.0.0 material.jedimobi.com
@@ -108,6 +117,7 @@
 0.0.0.0 ng001.batmobi.net
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 parameter.jedimobi.com
+0.0.0.0 phabricator.leanplum.com
 0.0.0.0 preroll.a4.tl
 0.0.0.0 push1.dev.accengage.com
 0.0.0.0 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
@@ -126,6 +136,7 @@
 0.0.0.0 sdkm.w.vip.ams1.inmobi.com
 0.0.0.0 search.batmobi.net
 0.0.0.0 security.instartlogic.com
+0.0.0.0 send.microadinc.com
 0.0.0.0 sentry.fastboot.mobi
 0.0.0.0 services.adblox.net
 0.0.0.0 servs.adblox.net
@@ -133,6 +144,9 @@
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 ssp.deployads.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 sysco-appstore2.madmobile.com
+0.0.0.0 sysco-cdn.madmobile.com
+0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 telemetry.sdk.vip.ams1.inmobi.com
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tracking.admobsphere.com
