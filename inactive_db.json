@@ -2714,15 +2714,15 @@
         "plg16.ha1.yumenetworks.com": {
             "included_at_epoch": 1590419026.153858,
             "included_at_iso": "2020-05-25T15:03:46.153858",
-            "last_retested_at_epoch": 1591167808.106491,
-            "last_retested_at_iso": "2020-06-03T07:03:28.106491",
+            "last_retested_at_epoch": 1591340691.653378,
+            "last_retested_at_iso": "2020-06-05T07:04:51.653378",
             "status": "INACTIVE"
         },
         "plg2.ha1.yumenetworks.com": {
             "included_at_epoch": 1590562842.500812,
             "included_at_iso": "2020-05-27T07:00:42.500812",
-            "last_retested_at_epoch": 1591168012.014271,
-            "last_retested_at_iso": "2020-06-03T07:06:52.014271",
+            "last_retested_at_epoch": 1591340691.63905,
+            "last_retested_at_iso": "2020-06-05T07:04:51.639050",
             "status": "INACTIVE"
         },
         "politads.com": {
@@ -2973,8 +2973,8 @@
         "spl1.ha1.yumenetworks.com": {
             "included_at_epoch": 1590562842.522726,
             "included_at_iso": "2020-05-27T07:00:42.522726",
-            "last_retested_at_epoch": 1591168012.028918,
-            "last_retested_at_iso": "2020-06-03T07:06:52.028918",
+            "last_retested_at_epoch": 1591340691.676897,
+            "last_retested_at_iso": "2020-06-05T07:04:51.676897",
             "status": "INACTIVE"
         },
         "ssp.deployads.com": {
