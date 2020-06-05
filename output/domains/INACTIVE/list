@@ -30,6 +30,7 @@ am.appserver-cp.com
 anagog-services-prod.us-east-1.elasticbeanstalk.com
 analysis.jedimobi.com
 analytics.phoenixplatform.com.sg
+analytics.toast.com
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -49,6 +50,7 @@ aws-production-banner-server-eu-west-1.banner-server.fyber.com
 b3-eu.mookie1.com
 beacon.clickequations.net.edgekey.net
 beacon-maxis.krxd.net
+be.sponsorpay.com
 bevo.adsnative.com
 br-ad.sam4m.com
 broker.video-v2.fyber.com
@@ -72,6 +74,7 @@ collect13494dvntr.deltadna.net
 collect13566brrtb.deltadna.net
 collect13800frdyt.deltadna.net
 collect7787drtyb.deltadna.net
+com-fluentco-main.collector.snplow.net
 config.appjolt.com
 config.vip1.ams1.inmobi.com
 contextualadsorigin.media.net
@@ -101,6 +104,7 @@ engage13566brrtb.deltadna.net
 engage13617dvntr.deltadna.net
 engage14052tnkrs.deltadna.net
 engage14451lghtt.deltadna.net
+engine.sponsorpay.com
 et.w.vip.ams1.inmobi.com
 eu-adinfo.sam4m.com
 eu.cdn5.onthe.io
@@ -122,6 +126,7 @@ img-cloudflare.haizap.com
 imptrack.adnexus.mobi
 in.appserver-ap.com
 in.appserver-cp.com
+influencers.tapinfluence.com
 info.instartlogic.com
 iosapi.jedimobi.com
 i.po.st
@@ -141,6 +146,7 @@ match-us-east-1.sharethrough.com
 material.jedimobi.com
 maxis.krxd.net
 mbe-monitoring.fyber.com
+metrics.tbliab.net
 mobiletracker-env.us-east-1.elasticbeanstalk.com
 mobsrv.in
 mrp.rubiconproject.com
@@ -161,7 +167,9 @@ p.share.mob.com
 push1.dev.accengage.com
 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 radiusnetworks.com.herokudns.com
+rainmaker.tiny.cloud
 redirect.privateadtracking.com
+res.tdxio.com
 rg.appserver-ap.com
 rg.appserver-cp.com
 rj.baidu.com
@@ -192,15 +200,21 @@ ssp.deployads.com
 stat.dsp.batmobi.net
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
+t3q7af0z.com
+tag-mediation.supersonic.com
 tealium.hs.llnwd.net
 telemetry.sdk.vip.ams1.inmobi.com
 thales.adsrvr.org
 tlg.mookie1.com
+token.ad
+tongqing2015.com
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
+tracking.tapinfluence.com
 track.mobfox.com
 trends-s1.revcontent.com
+ts.tdxio.com
 t.update.ib.adnxs.com
 ulml.mob.com
 us-east-pulsepoint-rtb.quantserve.com
@@ -209,7 +223,11 @@ us-ma.sam4m.com
 us-west-pulsepoint-rtb.quantserve.com
 video.batmobi.net
 vpn2.branch.io
+widget-css.subiz.com
+widget.subiz.com
 ws.onthe.io
+ws-widget-lb-1.subiz.com
+ws-widget-lb-2.subiz.com
 w.vip1.ams1.inmobi.com
 www-s1.revcontent.com
 xaxis-emea.mookie1.com
