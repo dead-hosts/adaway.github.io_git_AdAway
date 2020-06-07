@@ -31,6 +31,7 @@ anagog-services-prod.us-east-1.elasticbeanstalk.com
 analysis.jedimobi.com
 analytics.phoenixplatform.com.sg
 analytics.toast.com
+analytics.vancms.net
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -60,6 +61,7 @@ cdn.adsnative.com
 cdn.mediabrix.com
 cdn.mobiletop.cc
 cdn-static.formisimo.com
+cks.ha1.yumenetworks.com
 cmplay.did.ijinshan.com
 cm.revcontent.com
 cm-s1.revcontent.com
@@ -162,10 +164,17 @@ n-cdn.areyouahuman.com
 ng001.batmobi.net
 node-personalization-d.elasticbeanstalk.com
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 overlay-track-prod01.sailthru.cloud
 parameter.jedimobi.com
+pc1.ha1.yumenetworks.com
 phabricator.leanplum.com
 ping.xlmc.sandai.net
+pl1.ha1.yumenetworks.com
+plg16.ha1.yumenetworks.com
+plg1.ha1.yumenetworks.com
+plg2.ha1.yumenetworks.com
+pl.ha1.yumenetworks.com
 politads.com
 preroll.a4.tl
 p.share.mob.com
@@ -185,6 +194,7 @@ rubick.gameanalytics.com
 rubicon-tagan.adlightning.com
 ru.cdn5.onthe.io
 rudy.adsnative.com
+sanalytics.virginmobileusa.com
 scout.scoutanalytics.net
 sdk.adbuddiz.com
 sdk-ads.bidmotion.com
@@ -201,6 +211,7 @@ setting.adzcore.com
 sg-ma.sam4m.com
 sg-mtrack.rayjump.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
+spl1.ha1.yumenetworks.com
 ssp.deployads.com
 stat.dsp.batmobi.net
 stats.unity3d.com
@@ -214,6 +225,7 @@ thales.adsrvr.org
 tlg.mookie1.com
 token.ad
 tongqing2015.com
+trackers.voodoo-analytics.io
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -240,4 +252,5 @@ xaxis-emea.mookie1.com
 xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
 zap.mookie1.com
+zeus.ad.intl.xiaomi.com
 zone.uniad.vn
