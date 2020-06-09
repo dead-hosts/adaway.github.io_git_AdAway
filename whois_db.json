@@ -5220,8 +5220,8 @@
         "state": "future"
     },
     "prre.ru": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "prugskh.com": {
@@ -5707,7 +5707,7 @@
     "signalhq.com": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "silvermob.com": {
         "epoch": 1598313600.0,
