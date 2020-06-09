@@ -1755,8 +1755,8 @@
         "analytics.vancms.net": {
             "included_at_epoch": 1590562044.130372,
             "included_at_iso": "2020-05-27T06:47:24.130372",
-            "last_retested_at_epoch": 1591513324.377513,
-            "last_retested_at_iso": "2020-06-07T07:02:04.377513",
+            "last_retested_at_epoch": 1591688330.73578,
+            "last_retested_at_iso": "2020-06-09T07:38:50.735780",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -2679,8 +2679,8 @@
         "osc.optimize.webtrends.com": {
             "included_at_epoch": 1591167804.552736,
             "included_at_iso": "2020-06-03T07:03:24.552736",
-            "last_retested_at_epoch": 1591513327.371217,
-            "last_retested_at_iso": "2020-06-07T07:02:07.371217",
+            "last_retested_at_epoch": 1591688333.826703,
+            "last_retested_at_iso": "2020-06-09T07:38:53.826703",
             "status": "INACTIVE"
         },
         "overlay-track-prod01.sailthru.cloud": {
@@ -2917,8 +2917,8 @@
         "sanalytics.virginmobileusa.com": {
             "included_at_epoch": 1589526051.865291,
             "included_at_iso": "2020-05-15T07:00:51.865291",
-            "last_retested_at_epoch": 1591513325.387663,
-            "last_retested_at_iso": "2020-06-07T07:02:05.387663",
+            "last_retested_at_epoch": 1591688331.764631,
+            "last_retested_at_iso": "2020-06-09T07:38:51.764631",
             "status": "INACTIVE"
         },
         "scout.scoutanalytics.net": {
@@ -3064,8 +3064,8 @@
         "stats.unity3d.com": {
             "included_at_epoch": 1590807615.110291,
             "included_at_iso": "2020-05-30T03:00:15.110291",
-            "last_retested_at_epoch": 1591512609.985346,
-            "last_retested_at_iso": "2020-06-07T06:50:09.985346",
+            "last_retested_at_epoch": 1591688329.447139,
+            "last_retested_at_iso": "2020-06-09T07:38:49.447139",
             "status": "INACTIVE"
         },
         "sysco-appstore2.madmobile.com": {
@@ -3155,8 +3155,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1590807618.185194,
             "included_at_iso": "2020-05-30T03:00:18.185194",
-            "last_retested_at_epoch": 1591513326.196892,
-            "last_retested_at_iso": "2020-06-07T07:02:06.196892",
+            "last_retested_at_epoch": 1591688332.590294,
+            "last_retested_at_iso": "2020-06-09T07:38:52.590294",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -3211,8 +3211,8 @@
         "uniad.vn": {
             "included_at_epoch": 1591512609.769144,
             "included_at_iso": "2020-06-07T06:50:09.769144",
-            "last_retested_at_epoch": 1591512609.769144,
-            "last_retested_at_iso": "2020-06-07T06:50:09.769144",
+            "last_retested_at_epoch": 1591688329.201643,
+            "last_retested_at_iso": "2020-06-09T07:38:49.201643",
             "status": "INACTIVE"
         },
         "us-east-pulsepoint-rtb.quantserve.com": {
@@ -3344,8 +3344,8 @@
         "zone.uniad.vn": {
             "included_at_epoch": 1591512609.755983,
             "included_at_iso": "2020-06-07T06:50:09.755983",
-            "last_retested_at_epoch": 1591512609.755983,
-            "last_retested_at_iso": "2020-06-07T06:50:09.755983",
+            "last_retested_at_epoch": 1591688329.216139,
+            "last_retested_at_iso": "2020-06-09T07:38:49.216139",
             "status": "INACTIVE"
         }
     }
