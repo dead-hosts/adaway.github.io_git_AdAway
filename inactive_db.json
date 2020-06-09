@@ -1706,15 +1706,15 @@
         "am.appserver-ap.com": {
             "included_at_epoch": 1590793856.55088,
             "included_at_iso": "2020-05-29T23:10:56.550880",
-            "last_retested_at_epoch": 1591506830.293452,
-            "last_retested_at_iso": "2020-06-07T05:13:50.293452",
+            "last_retested_at_epoch": 1591680418.477583,
+            "last_retested_at_iso": "2020-06-09T05:26:58.477583",
             "status": "INACTIVE"
         },
         "am.appserver-cp.com": {
             "included_at_epoch": 1590793856.5873,
             "included_at_iso": "2020-05-29T23:10:56.587300",
-            "last_retested_at_epoch": 1591507548.903736,
-            "last_retested_at_iso": "2020-06-07T05:25:48.903736",
+            "last_retested_at_epoch": 1591680418.518041,
+            "last_retested_at_iso": "2020-06-09T05:26:58.518041",
             "status": "INACTIVE"
         },
         "analysis.jedimobi.com": {
@@ -1762,8 +1762,8 @@
         "api.appfireworks.com": {
             "included_at_epoch": 1590793855.89557,
             "included_at_iso": "2020-05-29T23:10:55.895570",
-            "last_retested_at_epoch": 1591506829.674418,
-            "last_retested_at_iso": "2020-06-07T05:13:49.674418",
+            "last_retested_at_epoch": 1591680417.86858,
+            "last_retested_at_iso": "2020-06-09T05:26:57.868580",
             "status": "INACTIVE"
         },
         "api.deep-ad.com.edgekey.net": {
@@ -2070,8 +2070,8 @@
         "config.appjolt.com": {
             "included_at_epoch": 1590793856.093385,
             "included_at_iso": "2020-05-29T23:10:56.093385",
-            "last_retested_at_epoch": 1591506829.860066,
-            "last_retested_at_iso": "2020-06-07T05:13:49.860066",
+            "last_retested_at_epoch": 1591680418.054245,
+            "last_retested_at_iso": "2020-06-09T05:26:58.054245",
             "status": "INACTIVE"
         },
         "config.vip1.ams1.inmobi.com": {
@@ -2413,15 +2413,15 @@
         "in.appserver-ap.com": {
             "included_at_epoch": 1590793856.558328,
             "included_at_iso": "2020-05-29T23:10:56.558328",
-            "last_retested_at_epoch": 1591506830.302185,
-            "last_retested_at_iso": "2020-06-07T05:13:50.302185",
+            "last_retested_at_epoch": 1591680418.486504,
+            "last_retested_at_iso": "2020-06-09T05:26:58.486504",
             "status": "INACTIVE"
         },
         "in.appserver-cp.com": {
             "included_at_epoch": 1590793856.594755,
             "included_at_iso": "2020-05-29T23:10:56.594755",
-            "last_retested_at_epoch": 1591507548.912265,
-            "last_retested_at_iso": "2020-06-07T05:25:48.912265",
+            "last_retested_at_epoch": 1591680418.526807,
+            "last_retested_at_iso": "2020-06-09T05:26:58.526807",
             "status": "INACTIVE"
         },
         "influencers.tapinfluence.com": {
@@ -2805,15 +2805,15 @@
         "rg.appserver-ap.com": {
             "included_at_epoch": 1590793856.579768,
             "included_at_iso": "2020-05-29T23:10:56.579768",
-            "last_retested_at_epoch": 1591507548.895026,
-            "last_retested_at_iso": "2020-06-07T05:25:48.895026",
+            "last_retested_at_epoch": 1591680418.509107,
+            "last_retested_at_iso": "2020-06-09T05:26:58.509107",
             "status": "INACTIVE"
         },
         "rg.appserver-cp.com": {
             "included_at_epoch": 1590793856.615958,
             "included_at_iso": "2020-05-29T23:10:56.615958",
-            "last_retested_at_epoch": 1591507548.934683,
-            "last_retested_at_iso": "2020-06-07T05:25:48.934683",
+            "last_retested_at_epoch": 1591680418.549574,
+            "last_retested_at_iso": "2020-06-09T05:26:58.549574",
             "status": "INACTIVE"
         },
         "rj.baidu.com": {
