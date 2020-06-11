@@ -1734,8 +1734,8 @@
         "analytics.phoenixplatform.com.sg": {
             "included_at_epoch": 1590804877.247472,
             "included_at_iso": "2020-05-30T02:14:37.247472",
-            "last_retested_at_epoch": 1591686168.77412,
-            "last_retested_at_iso": "2020-06-09T07:02:48.774120",
+            "last_retested_at_epoch": 1591859031.621965,
+            "last_retested_at_iso": "2020-06-11T07:03:51.621965",
             "status": "INACTIVE"
         },
         "analytics.toast.com": {
@@ -2378,8 +2378,8 @@
         "i.po.st": {
             "included_at_epoch": 1590804877.922446,
             "included_at_iso": "2020-05-30T02:14:37.922446",
-            "last_retested_at_epoch": 1591686169.417387,
-            "last_retested_at_iso": "2020-06-09T07:02:49.417387",
+            "last_retested_at_epoch": 1591859032.265701,
+            "last_retested_at_iso": "2020-06-11T07:03:52.265701",
             "status": "INACTIVE"
         },
         "i.w.vip.ams1.inmobi.com": {
@@ -2770,15 +2770,15 @@
         "politads.com": {
             "included_at_epoch": 1590804878.105311,
             "included_at_iso": "2020-05-30T02:14:38.105311",
-            "last_retested_at_epoch": 1591686169.598277,
-            "last_retested_at_iso": "2020-06-09T07:02:49.598277",
+            "last_retested_at_epoch": 1591859032.451306,
+            "last_retested_at_iso": "2020-06-11T07:03:52.451306",
             "status": "INACTIVE"
         },
         "postback.pointwise.co": {
             "included_at_epoch": 1591686169.499381,
             "included_at_iso": "2020-06-09T07:02:49.499381",
-            "last_retested_at_epoch": 1591686169.499381,
-            "last_retested_at_iso": "2020-06-09T07:02:49.499381",
+            "last_retested_at_epoch": 1591859032.350373,
+            "last_retested_at_iso": "2020-06-11T07:03:52.350373",
             "status": "INACTIVE"
         },
         "preroll.a4.tl": {
@@ -2826,8 +2826,8 @@
         "redirect.privateadtracking.com": {
             "included_at_epoch": 1590804878.972262,
             "included_at_iso": "2020-05-30T02:14:38.972262",
-            "last_retested_at_epoch": 1591686170.431327,
-            "last_retested_at_iso": "2020-06-09T07:02:50.431327",
+            "last_retested_at_epoch": 1591859033.322819,
+            "last_retested_at_iso": "2020-06-11T07:03:53.322819",
             "status": "INACTIVE"
         },
         "res.tdxio.com": {
@@ -2868,8 +2868,8 @@
         "rtb.persona.ly": {
             "included_at_epoch": 1590804876.974919,
             "included_at_iso": "2020-05-30T02:14:36.974919",
-            "last_retested_at_epoch": 1591686168.491972,
-            "last_retested_at_iso": "2020-06-09T07:02:48.491972",
+            "last_retested_at_epoch": 1591859031.325671,
+            "last_retested_at_iso": "2020-06-11T07:03:51.325671",
             "status": "INACTIVE"
         },
         "rtb.sv.us.criteo.com": {
@@ -2905,6 +2905,34 @@
             "included_at_iso": "2020-05-25T10:23:37.902067",
             "last_retested_at_epoch": 1591852573.134152,
             "last_retested_at_iso": "2020-06-11T05:16:13.134152",
+            "status": "INACTIVE"
+        },
+        "s-61.predictvideo.com": {
+            "included_at_epoch": 1591859032.90384,
+            "included_at_iso": "2020-06-11T07:03:52.903840",
+            "last_retested_at_epoch": 1591859032.90384,
+            "last_retested_at_iso": "2020-06-11T07:03:52.903840",
+            "status": "INACTIVE"
+        },
+        "s-65.predictvideo.com": {
+            "included_at_epoch": 1591859032.916277,
+            "included_at_iso": "2020-06-11T07:03:52.916277",
+            "last_retested_at_epoch": 1591859032.916277,
+            "last_retested_at_iso": "2020-06-11T07:03:52.916277",
+            "status": "INACTIVE"
+        },
+        "s-72.predictvideo.com": {
+            "included_at_epoch": 1591859032.928822,
+            "included_at_iso": "2020-06-11T07:03:52.928822",
+            "last_retested_at_epoch": 1591859032.928822,
+            "last_retested_at_iso": "2020-06-11T07:03:52.928822",
+            "status": "INACTIVE"
+        },
+        "s-80.predictvideo.com": {
+            "included_at_epoch": 1591859032.941043,
+            "included_at_iso": "2020-06-11T07:03:52.941043",
+            "last_retested_at_epoch": 1591859032.941043,
+            "last_retested_at_iso": "2020-06-11T07:03:52.941043",
             "status": "INACTIVE"
         },
         "sanalytics.virginmobileusa.com": {
