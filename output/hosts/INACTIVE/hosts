@@ -32,6 +32,7 @@
 0.0.0.0 analysis.jedimobi.com
 0.0.0.0 analytics.phoenixplatform.com.sg
 0.0.0.0 analytics.toast.com
+0.0.0.0 analytics.vancms.net
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api-cache.adsnative.com
@@ -63,6 +64,7 @@
 0.0.0.0 cdn.mediabrix.com
 0.0.0.0 cdn.mobiletop.cc
 0.0.0.0 cdn-static.formisimo.com
+0.0.0.0 cks.ha1.yumenetworks.com
 0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cm-s1.revcontent.com
@@ -166,11 +168,18 @@
 0.0.0.0 ng001.batmobi.net
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 origin-ui.revcontent.com
+0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 overlay-track-prod01.sailthru.cloud
 0.0.0.0 parameter.jedimobi.com
+0.0.0.0 pc1.ha1.yumenetworks.com
 0.0.0.0 phabricator.leanplum.com
 0.0.0.0 ping.xlmc.sandai.net
+0.0.0.0 pl1.ha1.yumenetworks.com
 0.0.0.0 platform.ifc.inmobi.com
+0.0.0.0 plg16.ha1.yumenetworks.com
+0.0.0.0 plg1.ha1.yumenetworks.com
+0.0.0.0 plg2.ha1.yumenetworks.com
+0.0.0.0 pl.ha1.yumenetworks.com
 0.0.0.0 politads.com
 0.0.0.0 postback.pointwise.co
 0.0.0.0 preroll.a4.tl
@@ -196,6 +205,7 @@
 0.0.0.0 s-65.predictvideo.com
 0.0.0.0 s-72.predictvideo.com
 0.0.0.0 s-80.predictvideo.com
+0.0.0.0 sanalytics.virginmobileusa.com
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk-ads.bidmotion.com
@@ -212,9 +222,11 @@
 0.0.0.0 sg-ma.sam4m.com
 0.0.0.0 sg-mtrack.rayjump.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
+0.0.0.0 spl1.ha1.yumenetworks.com
 0.0.0.0 sslcdn.adstudiomobile.com
 0.0.0.0 ssp.deployads.com
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 stats.unity3d.com
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
 0.0.0.0 t3q7af0z.com
@@ -225,6 +237,7 @@
 0.0.0.0 tlg.mookie1.com
 0.0.0.0 token.ad
 0.0.0.0 tongqing2015.com
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
@@ -234,6 +247,7 @@
 0.0.0.0 ts.tdxio.com
 0.0.0.0 udata.inlocomedia.com
 0.0.0.0 ulml.mob.com
+0.0.0.0 uniad.vn
 0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
 0.0.0.0 userdata-maxis.krxd.net
 0.0.0.0 us-ma.sam4m.com
@@ -247,3 +261,5 @@
 0.0.0.0 xaxis-it.mookie1.com
 0.0.0.0 xclub.app.infinixmobility.com
 0.0.0.0 zap.mookie1.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 zone.uniad.vn
