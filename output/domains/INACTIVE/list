@@ -17,6 +17,7 @@ admp-tc-pmp.adtlgc.com
 ads.adand.co.kr
 ads.bluelithium.com
 ads.deliverimp.com
+ad-sdk.altamob.xiaoying.co
 adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com
 adserver-prod.i3emqmcebj.us-east-1.elasticbeanstalk.com
 ads.heyzap.com
@@ -27,6 +28,7 @@ adx-api.a.mobimagic.com
 adx.callback.batmobi.net
 adx-dot.a.mobimagic.com
 affiliates-prod.us-east-1.elasticbeanstalk.com
+all.unrulyx.unrulymedia.com
 am.appserver-ap.com
 am.appserver-cp.com
 anagog-services-prod.us-east-1.elasticbeanstalk.com
@@ -34,6 +36,7 @@ analysis.jedimobi.com
 analytics.phoenixplatform.com.sg
 analytics.po.st
 analytics.toast.com
+analytics.vancms.net
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -45,6 +48,7 @@ api.mobilearts.io
 api.nrelate.com
 api.rec.mob.com
 api.recorder.duapps.com
+api.voiceads.cn
 app.instartlogic.com
 app.roximity.com
 aptrk5.com
@@ -63,6 +67,7 @@ cdn.adsnative.com
 cdn.mediabrix.com
 cdn.mobiletop.cc
 cdn-static.formisimo.com
+cks.ha1.yumenetworks.com
 cmplay.did.ijinshan.com
 cm.revcontent.com
 cm-s1.revcontent.com
@@ -177,12 +182,19 @@ n-cdn.areyouahuman.com
 ng001.batmobi.net
 node-personalization-d.elasticbeanstalk.com
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 overlay-track-prod01.sailthru.cloud
 parameter.jedimobi.com
+pc1.ha1.yumenetworks.com
 phabricator.leanplum.com
 ping.xlmc.sandai.net
+pl1.ha1.yumenetworks.com
 platform.ifc.inmobi.com
 platform.openx.com
+plg16.ha1.yumenetworks.com
+plg1.ha1.yumenetworks.com
+plg2.ha1.yumenetworks.com
+pl.ha1.yumenetworks.com
 politads.com
 postback.pointwise.co
 p.po.st
@@ -211,6 +223,7 @@ s-65.predictvideo.com
 s-72.predictvideo.com
 s-74.hiimps.com
 s-80.predictvideo.com
+sanalytics.virginmobileusa.com
 scout.scoutanalytics.net
 sdk.adbuddiz.com
 sdk-ads.bidmotion.com
@@ -228,9 +241,11 @@ sg-ma.sam4m.com
 sg-mtrack.rayjump.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 soju.openx.net
+spl1.ha1.yumenetworks.com
 s.po.st
 ssp.deployads.com
 stat.dsp.batmobi.net
+stats.unity3d.com
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
 t3q7af0z.com
@@ -242,6 +257,7 @@ thales.adsrvr.org
 tlg.mookie1.com
 token.ad
 tongqing2015.com
+trackers.voodoo-analytics.io
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -251,6 +267,7 @@ trends-s1.revcontent.com
 ts.tdxio.com
 udata.inlocomedia.com
 ulml.mob.com
+uniad.vn
 us-east-pulsepoint-rtb.quantserve.com
 userdata-maxis.krxd.net
 us-ma.sam4m.com
@@ -264,3 +281,5 @@ xaxis-emea.mookie1.com
 xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
 zap.mookie1.com
+zeus.ad.intl.xiaomi.com
+zone.uniad.vn
