@@ -2133,15 +2133,15 @@
         "cr01.dynatrace.com": {
             "included_at_epoch": 1590798758.629597,
             "included_at_iso": "2020-05-30T00:32:38.629597",
-            "last_retested_at_epoch": 1592551034.368108,
-            "last_retested_at_iso": "2020-06-19T07:17:14.368108",
+            "last_retested_at_epoch": 1592724799.147407,
+            "last_retested_at_iso": "2020-06-21T07:33:19.147407",
             "status": "INACTIVE"
         },
         "cr02.dynatrace.com": {
             "included_at_epoch": 1590798758.638232,
             "included_at_iso": "2020-05-30T00:32:38.638232",
-            "last_retested_at_epoch": 1592551034.353718,
-            "last_retested_at_iso": "2020-06-19T07:17:14.353718",
+            "last_retested_at_epoch": 1592724799.161675,
+            "last_retested_at_iso": "2020-06-21T07:33:19.161675",
             "status": "INACTIVE"
         },
         "creative-adchoices.advertise.quantcast.com": {
