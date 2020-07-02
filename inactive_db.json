@@ -1797,8 +1797,8 @@
         "analytics.vancms.net": {
             "included_at_epoch": 1592982856.896669,
             "included_at_iso": "2020-06-24T07:14:16.896669",
-            "last_retested_at_epoch": 1593525988.633755,
-            "last_retested_at_iso": "2020-06-30T14:06:28.633755",
+            "last_retested_at_epoch": 1593652033.372358,
+            "last_retested_at_iso": "2020-07-02T01:07:13.372358",
             "status": "INACTIVE"
         },
         "api-cache.adsnative.com": {
@@ -2028,8 +2028,8 @@
         "cks.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.089342,
             "included_at_iso": "2020-06-24T07:27:59.089342",
-            "last_retested_at_epoch": 1593527832.583626,
-            "last_retested_at_iso": "2020-06-30T14:37:12.583626",
+            "last_retested_at_epoch": 1593652039.987561,
+            "last_retested_at_iso": "2020-07-02T01:07:19.987561",
             "status": "INACTIVE"
         },
         "cm-s1.revcontent.com": {
@@ -2280,8 +2280,8 @@
         "delivery.vungtv.com": {
             "included_at_epoch": 1592837997.687186,
             "included_at_iso": "2020-06-22T14:59:57.687186",
-            "last_retested_at_epoch": 1593527828.13715,
-            "last_retested_at_iso": "2020-06-30T14:37:08.137150",
+            "last_retested_at_epoch": 1593652035.801997,
+            "last_retested_at_iso": "2020-07-02T01:07:15.801997",
             "status": "INACTIVE"
         },
         "dev.accengage.com": {
@@ -2455,15 +2455,15 @@
         "events.vungtv.com": {
             "included_at_epoch": 1592837997.710553,
             "included_at_iso": "2020-06-22T14:59:57.710553",
-            "last_retested_at_epoch": 1593527828.151652,
-            "last_retested_at_iso": "2020-06-30T14:37:08.151652",
+            "last_retested_at_epoch": 1593652035.816244,
+            "last_retested_at_iso": "2020-07-02T01:07:15.816244",
             "status": "INACTIVE"
         },
         "events.vungtv.net": {
             "included_at_epoch": 1592837997.724413,
             "included_at_iso": "2020-06-22T14:59:57.724413",
-            "last_retested_at_epoch": 1593527828.176297,
-            "last_retested_at_iso": "2020-06-30T14:37:08.176297",
+            "last_retested_at_epoch": 1593652035.839313,
+            "last_retested_at_iso": "2020-07-02T01:07:15.839313",
             "status": "INACTIVE"
         },
         "exchange.adnexus.mobi": {
@@ -2879,6 +2879,13 @@
             "last_retested_at_iso": "2020-07-02T00:12:46.173710",
             "status": "INACTIVE"
         },
+        "osc.optimize.webtrends.com": {
+            "included_at_epoch": 1593652036.421316,
+            "included_at_iso": "2020-07-02T01:07:16.421316",
+            "last_retested_at_epoch": 1593652036.421316,
+            "last_retested_at_iso": "2020-07-02T01:07:16.421316",
+            "status": "INACTIVE"
+        },
         "overlay-track-prod01.sailthru.cloud": {
             "included_at_epoch": 1593650186.63958,
             "included_at_iso": "2020-07-02T00:36:26.639580",
@@ -2910,8 +2917,8 @@
         "pc1.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.102862,
             "included_at_iso": "2020-06-24T07:27:59.102862",
-            "last_retested_at_epoch": 1593527832.598653,
-            "last_retested_at_iso": "2020-06-30T14:37:12.598653",
+            "last_retested_at_epoch": 1593652040.002368,
+            "last_retested_at_iso": "2020-07-02T01:07:20.002368",
             "status": "INACTIVE"
         },
         "phabricator.leanplum.com": {
@@ -2931,15 +2938,15 @@
         "pl.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.116278,
             "included_at_iso": "2020-06-24T07:27:59.116278",
-            "last_retested_at_epoch": 1593527832.613366,
-            "last_retested_at_iso": "2020-06-30T14:37:12.613366",
+            "last_retested_at_epoch": 1593652040.016664,
+            "last_retested_at_iso": "2020-07-02T01:07:20.016664",
             "status": "INACTIVE"
         },
         "pl1.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.130261,
             "included_at_iso": "2020-06-24T07:27:59.130261",
-            "last_retested_at_epoch": 1593527832.628065,
-            "last_retested_at_iso": "2020-06-30T14:37:12.628065",
+            "last_retested_at_epoch": 1593652040.030895,
+            "last_retested_at_iso": "2020-07-02T01:07:20.030895",
             "status": "INACTIVE"
         },
         "platform.ifc.inmobi.com": {
@@ -2959,22 +2966,22 @@
         "plg1.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.144008,
             "included_at_iso": "2020-06-24T07:27:59.144008",
-            "last_retested_at_epoch": 1593527832.64327,
-            "last_retested_at_iso": "2020-06-30T14:37:12.643270",
+            "last_retested_at_epoch": 1593652040.045663,
+            "last_retested_at_iso": "2020-07-02T01:07:20.045663",
             "status": "INACTIVE"
         },
         "plg16.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.157432,
             "included_at_iso": "2020-06-24T07:27:59.157432",
-            "last_retested_at_epoch": 1593527832.658197,
-            "last_retested_at_iso": "2020-06-30T14:37:12.658197",
+            "last_retested_at_epoch": 1593652040.060233,
+            "last_retested_at_iso": "2020-07-02T01:07:20.060233",
             "status": "INACTIVE"
         },
         "plg2.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.171113,
             "included_at_iso": "2020-06-24T07:27:59.171113",
-            "last_retested_at_epoch": 1593527832.672872,
-            "last_retested_at_iso": "2020-06-30T14:37:12.672872",
+            "last_retested_at_epoch": 1593652040.074771,
+            "last_retested_at_iso": "2020-07-02T01:07:20.074771",
             "status": "INACTIVE"
         },
         "politads.com": {
@@ -3211,8 +3218,8 @@
         "sanalytics.virginmobileusa.com": {
             "included_at_epoch": 1591969970.490648,
             "included_at_iso": "2020-06-12T13:52:50.490648",
-            "last_retested_at_epoch": 1593525989.610278,
-            "last_retested_at_iso": "2020-06-30T14:06:29.610278",
+            "last_retested_at_epoch": 1593652034.362796,
+            "last_retested_at_iso": "2020-07-02T01:07:14.362796",
             "status": "INACTIVE"
         },
         "scout.scoutanalytics.net": {
@@ -3330,8 +3337,8 @@
         "spl1.ha1.yumenetworks.com": {
             "included_at_epoch": 1592983679.184623,
             "included_at_iso": "2020-06-24T07:27:59.184623",
-            "last_retested_at_epoch": 1593527832.698236,
-            "last_retested_at_iso": "2020-06-30T14:37:12.698236",
+            "last_retested_at_epoch": 1593652040.089177,
+            "last_retested_at_iso": "2020-07-02T01:07:20.089177",
             "status": "INACTIVE"
         },
         "ssl-i.xx.openx.com": {
@@ -3442,8 +3449,8 @@
         "trackers.voodoo-analytics.io": {
             "included_at_epoch": 1593310116.280609,
             "included_at_iso": "2020-06-28T02:08:36.280609",
-            "last_retested_at_epoch": 1593527827.493121,
-            "last_retested_at_iso": "2020-06-30T14:37:07.493121",
+            "last_retested_at_epoch": 1593652035.197178,
+            "last_retested_at_iso": "2020-07-02T01:07:15.197178",
             "status": "INACTIVE"
         },
         "tracking.admobsphere.com": {
@@ -3500,6 +3507,13 @@
             "included_at_iso": "2020-06-28T01:25:04.881782",
             "last_retested_at_epoch": 1593647023.357864,
             "last_retested_at_iso": "2020-07-01T23:43:43.357864",
+            "status": "INACTIVE"
+        },
+        "um.videmob.com": {
+            "included_at_epoch": 1593652033.875004,
+            "included_at_iso": "2020-07-02T01:07:13.875004",
+            "last_retested_at_epoch": 1593652033.875004,
+            "last_retested_at_iso": "2020-07-02T01:07:13.875004",
             "status": "INACTIVE"
         },
         "uniad.vn": {
@@ -3610,8 +3624,8 @@
         "zeus.ad.intl.xiaomi.com": {
             "included_at_epoch": 1593311949.803478,
             "included_at_iso": "2020-06-28T02:39:09.803478",
-            "last_retested_at_epoch": 1593527830.025321,
-            "last_retested_at_iso": "2020-06-30T14:37:10.025321",
+            "last_retested_at_epoch": 1593652037.56243,
+            "last_retested_at_iso": "2020-07-02T01:07:17.562430",
             "status": "INACTIVE"
         },
         "zone.uniad.vn": {

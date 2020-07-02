@@ -38,6 +38,7 @@ analysis.jedimobi.com
 analytics.phoenixplatform.com.sg
 analytics.po.st
 analytics.toast.com
+analytics.vancms.net
 api.adsnative.com
 api.appfireworks.com
 api-cache.adsnative.com
@@ -69,6 +70,7 @@ cdn.adsnative.com
 cdn.mediabrix.com
 cdn.mobiletop.cc
 cdn-static.formisimo.com
+cks.ha1.yumenetworks.com
 cmplay.did.ijinshan.com
 cm.revcontent.com
 cm-s1.revcontent.com
@@ -105,6 +107,7 @@ delivery-us-east-1.openx.net
 delivery-us-east-1.servedbyopenx.com
 delivery-us-west-1.openx.net
 delivery-us-west-1.servedbyopenx.com
+delivery.vungtv.com
 dev.accengage.com
 dfdsseaways.blueconic.com
 dmp.ivitrack.com
@@ -129,6 +132,8 @@ eu-adinfo.sam4m.com
 eu.cdn5.onthe.io
 eu-pulsepoint-rtb.quantserve.com
 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
+events.vungtv.com
+events.vungtv.net
 exchange.adnexus.mobi
 files.revcontent.com
 fk-mtrack.rayjump.com
@@ -188,12 +193,19 @@ nj1-api.sail-personalize.com
 node-personalization-d.elasticbeanstalk.com
 optimizedby.openx.com
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 overlay-track-prod01.sailthru.cloud
 parameter.jedimobi.com
+pc1.ha1.yumenetworks.com
 phabricator.leanplum.com
 ping.xlmc.sandai.net
+pl1.ha1.yumenetworks.com
 platform.ifc.inmobi.com
 platform.openx.com
+plg16.ha1.yumenetworks.com
+plg1.ha1.yumenetworks.com
+plg2.ha1.yumenetworks.com
+pl.ha1.yumenetworks.com
 politads.com
 postback.pointwise.co
 p.po.st
@@ -226,6 +238,7 @@ s-72.predictvideo.com
 s-74.hiimps.com
 s-77.algovid.com
 s-80.predictvideo.com
+sanalytics.virginmobileusa.com
 s-cm.send.adnetwork.vn
 scout.scoutanalytics.net
 sdk.adbuddiz.com
@@ -244,6 +257,7 @@ sg-mtrack.rayjump.com
 s.mobclix.com
 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 soju.openx.net
+spl1.ha1.yumenetworks.com
 s.po.st
 ssl-i.xx.openx.com
 ssp.deployads.com
@@ -259,6 +273,7 @@ telemetry.sdk.vip.ams1.inmobi.com
 thales.adsrvr.org
 tlg.mookie1.com
 token.ad
+trackers.voodoo-analytics.io
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -268,6 +283,7 @@ trends-s1.revcontent.com
 ts.tdxio.com
 udata.inlocomedia.com
 ulml.mob.com
+um.videmob.com
 uniad.vn
 us-east-pulsepoint-rtb.quantserve.com
 userdata-maxis.krxd.net
@@ -283,4 +299,5 @@ xaxis-it.mookie1.com
 xclub.app.infinixmobility.com
 yellow.soju.openx.net
 zap.mookie1.com
+zeus.ad.intl.xiaomi.com
 zone.uniad.vn
