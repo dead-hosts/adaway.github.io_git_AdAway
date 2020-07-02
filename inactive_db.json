@@ -1647,6 +1647,13 @@
             "last_retested_at_iso": "2020-07-01T22:19:13.848462",
             "status": "INACTIVE"
         },
+        "adoramatracksdk.optimove.net": {
+            "included_at_epoch": 1593693757.750512,
+            "included_at_iso": "2020-07-02T12:42:37.750512",
+            "last_retested_at_epoch": 1593693757.750512,
+            "last_retested_at_iso": "2020-07-02T12:42:37.750512",
+            "status": "INACTIVE"
+        },
         "ads.androworks.org": {
             "included_at_epoch": 1593642980.16745,
             "included_at_iso": "2020-07-01T22:36:20.167450",
@@ -2674,6 +2681,13 @@
             "included_at_iso": "2020-06-11T07:15:52.934137",
             "last_retested_at_epoch": 1593648766.153921,
             "last_retested_at_iso": "2020-07-02T00:12:46.153921",
+            "status": "INACTIVE"
+        },
+        "lampenwelttracksdk.optimove.net": {
+            "included_at_epoch": 1593693757.794388,
+            "included_at_iso": "2020-07-02T12:42:37.794388",
+            "last_retested_at_epoch": 1593693757.794388,
+            "last_retested_at_iso": "2020-07-02T12:42:37.794388",
             "status": "INACTIVE"
         },
         "latency.banner-server.fyber.com": {
