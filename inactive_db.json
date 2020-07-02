@@ -2697,6 +2697,13 @@
             "last_retested_at_iso": "2020-07-01T23:09:21.290846",
             "status": "INACTIVE"
         },
+        "log.adsplay.net": {
+            "included_at_epoch": 1593685188.688673,
+            "included_at_iso": "2020-07-02T10:19:48.688673",
+            "last_retested_at_epoch": 1593685188.688673,
+            "last_retested_at_iso": "2020-07-02T10:19:48.688673",
+            "status": "INACTIVE"
+        },
         "logs.locarta.co": {
             "included_at_epoch": 1593307499.811057,
             "included_at_iso": "2020-06-28T01:24:59.811057",
@@ -3381,6 +3388,13 @@
             "included_at_iso": "2020-06-28T01:25:00.359243",
             "last_retested_at_epoch": 1593647018.443031,
             "last_retested_at_iso": "2020-07-01T23:43:38.443031",
+            "status": "INACTIVE"
+        },
+        "t.update.ib.adnxs.com": {
+            "included_at_epoch": 1593685187.531243,
+            "included_at_iso": "2020-07-02T10:19:47.531243",
+            "last_retested_at_epoch": 1593685187.531243,
+            "last_retested_at_iso": "2020-07-02T10:19:47.531243",
             "status": "INACTIVE"
         },
         "t3q7af0z.com": {
