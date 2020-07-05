@@ -70,6 +70,7 @@
 0.0.0.0 cdn.mediabrix.com
 0.0.0.0 cdn.mobiletop.cc
 0.0.0.0 cdn-static.formisimo.com
+0.0.0.0 cks.ha1.yumenetworks.com
 0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cm-s1.revcontent.com
@@ -85,6 +86,7 @@
 0.0.0.0 collect13566brrtb.deltadna.net
 0.0.0.0 collect13800frdyt.deltadna.net
 0.0.0.0 collect7787drtyb.deltadna.net
+0.0.0.0 collectorbs.ctc.ximalaya.com
 0.0.0.0 com-fluentco-main.collector.snplow.net
 0.0.0.0 config.appjolt.com
 0.0.0.0 config.vip1.ams1.inmobi.com
@@ -106,6 +108,7 @@
 0.0.0.0 delivery-us-east-1.servedbyopenx.com
 0.0.0.0 delivery-us-west-1.openx.net
 0.0.0.0 delivery-us-west-1.servedbyopenx.com
+0.0.0.0 delivery.vungtv.com
 0.0.0.0 dev.accengage.com
 0.0.0.0 dfdsseaways.blueconic.com
 0.0.0.0 dmp.ivitrack.com
@@ -130,6 +133,8 @@
 0.0.0.0 eu.cdn5.onthe.io
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
+0.0.0.0 events.vungtv.com
+0.0.0.0 events.vungtv.net
 0.0.0.0 exchange.adnexus.mobi
 0.0.0.0 files.revcontent.com
 0.0.0.0 fk-mtrack.rayjump.com
@@ -191,12 +196,19 @@
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 optimizedby.openx.com
 0.0.0.0 origin-ui.revcontent.com
+0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 overlay-track-prod01.sailthru.cloud
 0.0.0.0 parameter.jedimobi.com
+0.0.0.0 pc1.ha1.yumenetworks.com
 0.0.0.0 phabricator.leanplum.com
 0.0.0.0 ping.xlmc.sandai.net
+0.0.0.0 pl1.ha1.yumenetworks.com
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.openx.com
+0.0.0.0 plg16.ha1.yumenetworks.com
+0.0.0.0 plg1.ha1.yumenetworks.com
+0.0.0.0 plg2.ha1.yumenetworks.com
+0.0.0.0 pl.ha1.yumenetworks.com
 0.0.0.0 politads.com
 0.0.0.0 postback.pointwise.co
 0.0.0.0 p.po.st
@@ -249,6 +261,7 @@
 0.0.0.0 s.mobclix.com
 0.0.0.0 snowplowcollector-env-3.us-east-1.elasticbeanstalk.com
 0.0.0.0 soju.openx.net
+0.0.0.0 spl1.ha1.yumenetworks.com
 0.0.0.0 s.po.st
 0.0.0.0 ssl-i.xx.openx.com
 0.0.0.0 ssp.deployads.com
@@ -263,6 +276,7 @@
 0.0.0.0 thales.adsrvr.org
 0.0.0.0 tlg.mookie1.com
 0.0.0.0 token.ad
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
@@ -289,4 +303,5 @@
 0.0.0.0 xclub.app.infinixmobility.com
 0.0.0.0 yellow.soju.openx.net
 0.0.0.0 zap.mookie1.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zone.uniad.vn
