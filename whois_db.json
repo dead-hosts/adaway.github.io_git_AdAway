@@ -6360,8 +6360,8 @@
         "state": "future"
     },
     "umengcloud.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1657756800.0,
+        "expiration_date": "14-jul-2022",
         "state": "future"
     },
     "umtrack.com": {
@@ -6837,7 +6837,7 @@
     "yeabble.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "yeahmobi.com": {
         "epoch": 1619308800.0,
