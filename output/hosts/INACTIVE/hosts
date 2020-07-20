@@ -39,6 +39,7 @@
 0.0.0.0 aeg-d.openx.net
 0.0.0.0 affiliates-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 ak.p.openx.net
+0.0.0.0 all.unrulyx.unrulymedia.com
 0.0.0.0 allmedia-d.openx.net
 0.0.0.0 am.appserver-ap.com
 0.0.0.0 am.appserver-cp.com
@@ -46,6 +47,8 @@
 0.0.0.0 analysis.jedimobi.com
 0.0.0.0 analytics.phoenixplatform.com.sg
 0.0.0.0 analytics.po.st
+0.0.0.0 analytics.toast.com
+0.0.0.0 analytics.vancms.net
 0.0.0.0 aopa-d.openx.net
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.appfireworks.com
@@ -122,6 +125,7 @@
 0.0.0.0 dating.mgid.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 defymedia-d.openx.net
+0.0.0.0 delivery.vungtv.com
 0.0.0.0 delivery-asia-northeast-1.openx.net
 0.0.0.0 delivery-asia-northeast-1.servedbyopenx.com
 0.0.0.0 delivery-europe-west-1.openx.net
@@ -161,6 +165,9 @@
 0.0.0.0 eu-adinfo.sam4m.com
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
+0.0.0.0 events.urbanairship.com
+0.0.0.0 events.vungtv.com
+0.0.0.0 events.vungtv.net
 0.0.0.0 exchange.adnexus.mobi
 0.0.0.0 files.revcontent.com
 0.0.0.0 fk-mtrack.rayjump.com
@@ -189,6 +196,7 @@
 0.0.0.0 imptrack.adnexus.mobi
 0.0.0.0 in.appserver-ap.com
 0.0.0.0 in.appserver-cp.com
+0.0.0.0 influencers.tapinfluence.com
 0.0.0.0 info.instartlogic.com
 0.0.0.0 iosapi.jedimobi.com
 0.0.0.0 issuu-d.openx.net
@@ -216,6 +224,7 @@
 0.0.0.0 mediate.mediabrix.com
 0.0.0.0 meta.openx.net
 0.0.0.0 metrics.bestbuy.com
+0.0.0.0 metrics.tbliab.net
 0.0.0.0 mirrordigital-d.openx.net
 0.0.0.0 mlg-d.openx.net
 0.0.0.0 mm1x-d.openx.net
@@ -236,6 +245,7 @@
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 optimizedby.openx.com
 0.0.0.0 origin-ui.revcontent.com
+0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 overdrive-d.openx.net
 0.0.0.0 overlay-track-prod01.sailthru.cloud
 0.0.0.0 ox-d.247wallst.servedbyopenx.com
@@ -295,10 +305,12 @@
 0.0.0.0 q1-media-d.openx.net
 0.0.0.0 qlink.fusion.pinsightmedia.com
 0.0.0.0 radiusnetworks.com.herokudns.com
+0.0.0.0 rainmaker.tiny.cloud
 0.0.0.0 raiseit-d.openx.net
 0.0.0.0 redirect.privateadtracking.com
 0.0.0.0 registerguard-d.openx.net
 0.0.0.0 rendermedia-d.openx.net
+0.0.0.0 res.tdxio.com
 0.0.0.0 rg.appserver-ap.com
 0.0.0.0 rg.appserver-cp.com
 0.0.0.0 rj.baidu.com
@@ -318,6 +330,7 @@
 0.0.0.0 s-80.predictvideo.com
 0.0.0.0 s.mobclix.com
 0.0.0.0 s.po.st
+0.0.0.0 sanalytics.virginmobileusa.com
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk-ads.bidmotion.com
@@ -348,9 +361,11 @@
 0.0.0.0 ssp.deployads.com
 0.0.0.0 stanza-d.openx.net
 0.0.0.0 stat.dsp.batmobi.net
+0.0.0.0 stats.unity3d.com
 0.0.0.0 stmediagroup-d.openx.net
 0.0.0.0 sysco-appstore2.madmobile.com
 0.0.0.0 sysco-cdn.madmobile.com
+0.0.0.0 t3q7af0z.com
 0.0.0.0 tacticalrepublic-d.openx.net
 0.0.0.0 tag-mediation.supersonic.com
 0.0.0.0 tags.rtbidder.net
@@ -363,20 +378,25 @@
 0.0.0.0 titangate-d.openx.net
 0.0.0.0 tlg.mookie1.com
 0.0.0.0 todaymediainc-d.openx.net
+0.0.0.0 token.ad
 0.0.0.0 tpa-d.openx.net
 0.0.0.0 track.clickworkzmedia.com
 0.0.0.0 track.mobfox.com
+0.0.0.0 trackers.voodoo-analytics.io
 0.0.0.0 tracking.admobsphere.com
 0.0.0.0 tracking.deskadsserver.com
 0.0.0.0 tracking.mobinetad.com
+0.0.0.0 tracking.tapinfluence.com
 0.0.0.0 tradex-d.openx.net
 0.0.0.0 trends-s1.revcontent.com
 0.0.0.0 trion-d.openx.net
 0.0.0.0 trk-assets.serving-technology003.com
+0.0.0.0 ts.tdxio.com
 0.0.0.0 twentyfourhourcampfire-d.openx.net
 0.0.0.0 udata.inlocomedia.com
 0.0.0.0 ul.a.mobimagic.com
 0.0.0.0 ulml.mob.com
+0.0.0.0 um.videmob.com
 0.0.0.0 universal-d.openx.net
 0.0.0.0 uol-i3.servedbyopenx.com
 0.0.0.0 update.aubemobile.com
