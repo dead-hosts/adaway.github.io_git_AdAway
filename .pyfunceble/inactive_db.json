@@ -2725,6 +2725,20 @@
             "last_retested_at_iso": "2020-07-22T00:19:40.271765",
             "status": "INACTIVE"
         },
+        "flapi1.rubiconproject.com": {
+            "included_at_epoch": 1595421313.422732,
+            "included_at_iso": "2020-07-22T12:35:13.422732",
+            "last_retested_at_epoch": 1595421313.422732,
+            "last_retested_at_iso": "2020-07-22T12:35:13.422732",
+            "status": "INACTIVE"
+        },
+        "flapi2.rubiconproject.com": {
+            "included_at_epoch": 1595421313.437885,
+            "included_at_iso": "2020-07-22T12:35:13.437885",
+            "last_retested_at_epoch": 1595421313.437885,
+            "last_retested_at_iso": "2020-07-22T12:35:13.437885",
+            "status": "INACTIVE"
+        },
         "foreman-a001-ash.krxd.net": {
             "included_at_epoch": 1593305215.07321,
             "included_at_iso": "2020-06-28T00:46:55.073210",
@@ -3668,6 +3682,13 @@
             "included_at_iso": "2020-06-28T00:08:44.431728",
             "last_retested_at_epoch": 1595373352.923695,
             "last_retested_at_iso": "2020-07-21T23:15:52.923695",
+            "status": "INACTIVE"
+        },
+        "rainmaker.tiny.cloud": {
+            "included_at_epoch": 1595421326.693423,
+            "included_at_iso": "2020-07-22T12:35:26.693423",
+            "last_retested_at_epoch": 1595421326.693423,
+            "last_retested_at_iso": "2020-07-22T12:35:26.693423",
             "status": "INACTIVE"
         },
         "raiseit-d.openx.net": {
