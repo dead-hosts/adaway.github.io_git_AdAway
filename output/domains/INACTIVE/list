@@ -39,6 +39,7 @@ adx-dot.a.mobimagic.com
 aeg-d.openx.net
 affiliates-prod.us-east-1.elasticbeanstalk.com
 ak.p.openx.net
+all.unrulyx.unrulymedia.com
 allmedia-d.openx.net
 am.appserver-ap.com
 am.appserver-cp.com
@@ -46,7 +47,10 @@ anagog-services-prod.us-east-1.elasticbeanstalk.com
 analysis.jedimobi.com
 analytics.phoenixplatform.com.sg
 analytics.po.st
+analytics.toast.com
+analytics.vancms.net
 aopa-d.openx.net
+api.admob.xiaomi.com
 api.adsnative.com
 api.appfireworks.com
 api.deep-ad.com.edgekey.net
@@ -89,6 +93,7 @@ cdn-static.formisimo.com
 cesarmillan-d.openx.net
 charisma-d.openx.net
 cheetah-d.openx.net
+cks.ha1.yumenetworks.com
 cm.revcontent.com
 cm.send.microadinc.com
 cmci-d.openx.net
@@ -122,6 +127,7 @@ data.mobclix.com
 dating.mgid.com
 debug.aerserv.com
 defymedia-d.openx.net
+delivery.vungtv.com
 delivery-asia-northeast-1.openx.net
 delivery-asia-northeast-1.servedbyopenx.com
 delivery-europe-west-1.openx.net
@@ -161,6 +167,9 @@ eu.cdn5.onthe.io
 eu-adinfo.sam4m.com
 eu-pulsepoint-rtb.quantserve.com
 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
+events.urbanairship.com
+events.vungtv.com
+events.vungtv.net
 exchange.adnexus.mobi
 files.revcontent.com
 fk-mtrack.rayjump.com
@@ -239,6 +248,7 @@ nj1-api.sail-personalize.com
 node-personalization-d.elasticbeanstalk.com
 optimizedby.openx.com
 origin-ui.revcontent.com
+osc.optimize.webtrends.com
 overdrive-d.openx.net
 overlay-track-prod01.sailthru.cloud
 ox-d.247wallst.servedbyopenx.com
@@ -277,6 +287,7 @@ p.po.st
 p.share.mob.com
 parameter.jedimobi.com
 paste-d.openx.net
+pc1.ha1.yumenetworks.com
 perfmedia-d.openx.net
 phabricator.leanplum.com
 philly-d.openx.net
@@ -284,9 +295,14 @@ ping.xlmc.sandai.net
 pixfuture-d.openx.net
 p-jp-cci-dps.cinarra.com
 p-jp-elb-inmobi.cinarra.com
+pl1.ha1.yumenetworks.com
+pl.ha1.yumenetworks.com
 platform.ifc.inmobi.com
 platform.openx.com
 playbill-d.openx.net
+plg1.ha1.yumenetworks.com
+plg2.ha1.yumenetworks.com
+plg16.ha1.yumenetworks.com
 politads.com
 postback.pointwise.co
 preroll.a4.tl
@@ -300,6 +316,7 @@ push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
 q1-media-d.openx.net
 qlink.fusion.pinsightmedia.com
 radiusnetworks.com.herokudns.com
+rainmaker.tiny.cloud
 raiseit-d.openx.net
 redirect.privateadtracking.com
 registerguard-d.openx.net
@@ -324,6 +341,7 @@ s-77.algovid.com
 s-80.predictvideo.com
 s.mobclix.com
 s.po.st
+sanalytics.virginmobileusa.com
 scout.scoutanalytics.net
 sdk.adbuddiz.com
 sdk-ads.bidmotion.com
@@ -349,11 +367,13 @@ soju.openx.net
 solutionswide2-d.openx.net
 sourcemedia-d.openx.net
 spinmedia-d.openx.net
+spl1.ha1.yumenetworks.com
 spotxchange-d.openx.net
 ssl-i.xx.openx.com
 ssp.deployads.com
 stanza-d.openx.net
 stat.dsp.batmobi.net
+stats.unity3d.com
 stmediagroup-d.openx.net
 sysco-appstore2.madmobile.com
 sysco-cdn.madmobile.com
@@ -369,9 +389,11 @@ timera-d.openx.net
 titangate-d.openx.net
 tlg.mookie1.com
 todaymediainc-d.openx.net
+token.ad
 tpa-d.openx.net
 track.clickworkzmedia.com
 track.mobfox.com
+trackers.voodoo-analytics.io
 tracking.admobsphere.com
 tracking.deskadsserver.com
 tracking.mobinetad.com
@@ -385,6 +407,7 @@ twentyfourhourcampfire-d.openx.net
 udata.inlocomedia.com
 ul.a.mobimagic.com
 ulml.mob.com
+um.videmob.com
 universal-d.openx.net
 uol-i3.servedbyopenx.com
 update.aubemobile.com
@@ -411,3 +434,4 @@ xclub.app.infinixmobility.com
 yellow.soju.openx.net
 zap.mookie1.com
 zealotnetworks-d.openx.net
+zeus.ad.intl.xiaomi.com
