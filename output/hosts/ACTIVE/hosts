@@ -231,6 +231,7 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.ximalaya.com
+0.0.0.0 ad.zing.vn
 0.0.0.0 adacus.placelocal.com
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 adamatic-pixels.elasticbeanstalk.com
@@ -274,8 +275,8 @@
 0.0.0.0 adcito.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclix.org
-0.0.0.0 ad-cloud.jp
 0.0.0.0 adcloud.jp
+0.0.0.0 ad-cloud.jp
 0.0.0.0 adcloud.net
 0.0.0.0 adcolony-east-bidder.manage.com
 0.0.0.0 adcome.cn
@@ -1313,6 +1314,7 @@
 0.0.0.0 analytics.youramigo.com
 0.0.0.0 analytics.zendesk.com
 0.0.0.0 analytics.zg-api.com
+0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analytics-api.phunware.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -1724,11 +1726,13 @@
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.yieldmagic.com
 0.0.0.0 api.zcoup.com
+0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-bts.logsss.com
 0.0.0.0 api-cdn.mypoints.com
 0.0.0.0 apicdn.viglink.com
+0.0.0.0 apicdn.zoomanalytics.co
 0.0.0.0 api-compatible.mixpanel.com
 0.0.0.0 apicosdk.onemt.co
 0.0.0.0 apicssdk.onemt.co
@@ -2383,6 +2387,7 @@
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.zeroidtech.com
+0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-eu2.rubiconproject.com
@@ -2767,6 +2772,7 @@
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn1.stickyadstv.com
 0.0.0.0 cdn1.vntsm.com
+0.0.0.0 cdn1.zoomanalytics.co
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1-creatives.adswizz.com
 0.0.0.0 cdn2.admatic.com.tr
@@ -3041,6 +3047,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 ceg.g5e.com
 0.0.0.0 celebslam.tags.crwdcntrl.net
+0.0.0.0 cell.zhybzp.cn
 0.0.0.0 celltick.com
 0.0.0.0 celtra.com
 0.0.0.0 centerpointmedia.com
@@ -4185,6 +4192,7 @@
 0.0.0.0 e.predictvideo.com
 0.0.0.0 e.qq.com
 0.0.0.0 e.usa.events.netseer.com
+0.0.0.0 e.zg-api.com
 0.0.0.0 eacdn.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 eapik.anagog.com
@@ -4820,6 +4828,7 @@
 0.0.0.0 geo.startappservice.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geo.yieldify.com
+0.0.0.0 geo.zoomboya.com
 0.0.0.0 geoapi123.appspot.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
@@ -6018,6 +6027,7 @@
 0.0.0.0 log.loveota.net
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.mobpowertech.com
+0.0.0.0 log.news.zing.vn
 0.0.0.0 log.nexgen.neustar.biz
 0.0.0.0 log.opentracker.net
 0.0.0.0 log.optimizely.com
@@ -6041,6 +6051,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 logc169.xiti.com
+0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -6073,6 +6084,7 @@
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 logtest.moatads.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lon.rtb.adsrvr.org
 0.0.0.0 longcodes.protexting.com
@@ -8632,6 +8644,8 @@
 0.0.0.0 segment.a3cloud.net
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 segment.prod.bidr.io
+0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segments.adap.tv
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segments.company-target.com
@@ -9075,6 +9089,7 @@
 0.0.0.0 ssl.quantserve.com
 0.0.0.0 ssl.supersonicads.com
 0.0.0.0 ssl.vungle.com
+0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 ssl-avd.innity.net
 0.0.0.0 sslcdn.adstudiomobile.com
 0.0.0.0 ssl-cdn.media.innity.net
@@ -9346,6 +9361,8 @@
 0.0.0.0 stats.web1tv.de
 0.0.0.0 stats.webleads-tracker.com
 0.0.0.0 stats.zaloapp.com
+0.0.0.0 stats.zmags.com
+0.0.0.0 stats.zotabox.com
 0.0.0.0 stats-collector-int.socialquantum.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsonline.pushct.baidu.com
@@ -9944,6 +9961,7 @@
 0.0.0.0 track.volo-mobile.com
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.zorkanetwork.com
 0.0.0.0 trackclick.mobaffili.com
 0.0.0.0 track-core.bncnt.com
 0.0.0.0 trackdat.pinsightmedia.com
@@ -10661,6 +10679,7 @@
 0.0.0.0 wbdds.jeuxvideo.com
 0.0.0.0 wbn.su
 0.0.0.0 wbpctips.mobile.sina.cn
+0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.sharethis.com
@@ -10961,8 +10980,13 @@
 0.0.0.0 zestads.com
 0.0.0.0 zestadz.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zgsdk.zhugeio.com
 0.0.0.0 zhcn.admob.com
+0.0.0.0 zhihu-analytics.zhihu.com
+0.0.0.0 zhiziyun.com
+0.0.0.0 ziffdavis.com
 0.0.0.0 ziffdavis-d.openx.net
+0.0.0.0 zintext.com
 0.0.0.0 zlifestyle-d.openx.net
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 zone.uniad.vn
@@ -10970,7 +10994,11 @@
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 zucks.co.jp
+0.0.0.0 zucks.net
+0.0.0.0 zumobi.com
 0.0.0.0 zumobi-d.openx.net
+0.0.0.0 zwaar.org
 0.0.0.0 zynga-d.openx.net
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzxd.mediav.com
