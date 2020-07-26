@@ -1563,6 +1563,27 @@
             "last_retested_at_iso": "2020-07-24T06:38:01.594930",
             "status": "INACTIVE"
         },
+        "ad.jedimobi.com": {
+            "included_at_epoch": 1595744545.531818,
+            "included_at_iso": "2020-07-26T06:22:25.531818",
+            "last_retested_at_epoch": 1595744545.531818,
+            "last_retested_at_iso": "2020-07-26T06:22:25.531818",
+            "status": "INACTIVE"
+        },
+        "ad.leadboltapps.net": {
+            "included_at_epoch": 1595744547.515367,
+            "included_at_iso": "2020-07-26T06:22:27.515367",
+            "last_retested_at_epoch": 1595744547.515367,
+            "last_retested_at_iso": "2020-07-26T06:22:27.515367",
+            "status": "INACTIVE"
+        },
+        "ad.leadboltmobile.net": {
+            "included_at_epoch": 1595744547.527573,
+            "included_at_iso": "2020-07-26T06:22:27.527573",
+            "last_retested_at_epoch": 1595744547.527573,
+            "last_retested_at_iso": "2020-07-26T06:22:27.527573",
+            "status": "INACTIVE"
+        },
         "adizer.ru": {
             "included_at_epoch": 1594531423.262,
             "included_at_iso": "2020-07-12T05:23:43.262000",
@@ -1808,6 +1829,13 @@
             "last_retested_at_iso": "2020-07-26T06:05:16.592432",
             "status": "INACTIVE"
         },
+        "analysis.jedimobi.com": {
+            "included_at_epoch": 1595744545.548379,
+            "included_at_iso": "2020-07-26T06:22:25.548379",
+            "last_retested_at_epoch": 1595744545.548379,
+            "last_retested_at_iso": "2020-07-26T06:22:25.548379",
+            "status": "INACTIVE"
+        },
         "analytics.po.st": {
             "included_at_epoch": 1594883254.312211,
             "included_at_iso": "2020-07-16T07:07:34.312211",
@@ -1871,18 +1899,25 @@
             "last_retested_at_iso": "2020-07-26T05:48:16.804358",
             "status": "INACTIVE"
         },
+        "api.inmoji.com": {
+            "included_at_epoch": 1595744543.920279,
+            "included_at_iso": "2020-07-26T06:22:23.920279",
+            "last_retested_at_epoch": 1595744543.920279,
+            "last_retested_at_iso": "2020-07-26T06:22:23.920279",
+            "status": "INACTIVE"
+        },
         "api.instartlogic.com": {
             "included_at_epoch": 1595140355.698522,
             "included_at_iso": "2020-07-19T06:32:35.698522",
-            "last_retested_at_epoch": 1595571644.147142,
-            "last_retested_at_iso": "2020-07-24T06:20:44.147142",
+            "last_retested_at_epoch": 1595744544.447263,
+            "last_retested_at_iso": "2020-07-26T06:22:24.447263",
             "status": "INACTIVE"
         },
         "api.life.lovetapmobile.com": {
             "included_at_epoch": 1595571648.910165,
             "included_at_iso": "2020-07-24T06:20:48.910165",
-            "last_retested_at_epoch": 1595571648.910165,
-            "last_retested_at_iso": "2020-07-24T06:20:48.910165",
+            "last_retested_at_epoch": 1595744549.243674,
+            "last_retested_at_iso": "2020-07-26T06:22:29.243674",
             "status": "INACTIVE"
         },
         "api.nrelate.com": {
@@ -1909,8 +1944,8 @@
         "app.instartlogic.com": {
             "included_at_epoch": 1595140355.711525,
             "included_at_iso": "2020-07-19T06:32:35.711525",
-            "last_retested_at_epoch": 1595571644.160422,
-            "last_retested_at_iso": "2020-07-24T06:20:44.160422",
+            "last_retested_at_epoch": 1595744544.458873,
+            "last_retested_at_iso": "2020-07-26T06:22:24.458873",
             "status": "INACTIVE"
         },
         "aptrk5.com": {
@@ -1930,8 +1965,8 @@
         "asth.innity.com": {
             "included_at_epoch": 1595417147.481008,
             "included_at_iso": "2020-07-22T11:25:47.481008",
-            "last_retested_at_epoch": 1595571643.779097,
-            "last_retested_at_iso": "2020-07-24T06:20:43.779097",
+            "last_retested_at_epoch": 1595744544.076524,
+            "last_retested_at_iso": "2020-07-26T06:22:24.076524",
             "status": "INACTIVE"
         },
         "aufeminin-g-d.openx.net": {
@@ -1967,6 +2002,13 @@
             "included_at_iso": "2020-07-16T07:07:28.796908",
             "last_retested_at_epoch": 1595572681.874908,
             "last_retested_at_iso": "2020-07-24T06:38:01.874908",
+            "status": "INACTIVE"
+        },
+        "beacon-maxis.krxd.net": {
+            "included_at_epoch": 1595744546.760458,
+            "included_at_iso": "2020-07-26T06:22:26.760458",
+            "last_retested_at_epoch": 1595744546.760458,
+            "last_retested_at_iso": "2020-07-26T06:22:26.760458",
             "status": "INACTIVE"
         },
         "beacon.clickequations.net.edgekey.net": {
@@ -2028,8 +2070,8 @@
         "c.w.vip1.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.185826,
             "included_at_iso": "2020-07-12T06:31:54.185826",
-            "last_retested_at_epoch": 1595571643.167808,
-            "last_retested_at_iso": "2020-07-24T06:20:43.167808",
+            "last_retested_at_epoch": 1595744543.443586,
+            "last_retested_at_iso": "2020-07-26T06:22:23.443586",
             "status": "INACTIVE"
         },
         "cat.sv.us.criteo.com": {
@@ -2114,6 +2156,13 @@
             "included_at_iso": "2020-07-16T07:07:29.028822",
             "last_retested_at_epoch": 1595572682.12077,
             "last_retested_at_iso": "2020-07-24T06:38:02.120770",
+            "status": "INACTIVE"
+        },
+        "cmplay.did.ijinshan.com": {
+            "included_at_epoch": 1595744542.371067,
+            "included_at_iso": "2020-07-26T06:22:22.371067",
+            "last_retested_at_epoch": 1595744542.371067,
+            "last_retested_at_iso": "2020-07-26T06:22:22.371067",
             "status": "INACTIVE"
         },
         "collect10422hmstr.deltadna.net": {
@@ -2210,8 +2259,15 @@
         "config.vip1.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.175284,
             "included_at_iso": "2020-07-12T06:31:54.175284",
-            "last_retested_at_epoch": 1595571643.150987,
-            "last_retested_at_iso": "2020-07-24T06:20:43.150987",
+            "last_retested_at_epoch": 1595744543.420053,
+            "last_retested_at_iso": "2020-07-26T06:22:23.420053",
+            "status": "INACTIVE"
+        },
+        "contextualadsorigin.media.net": {
+            "included_at_epoch": 1595744551.297248,
+            "included_at_iso": "2020-07-26T06:22:31.297248",
+            "last_retested_at_epoch": 1595744551.297248,
+            "last_retested_at_iso": "2020-07-26T06:22:31.297248",
             "status": "INACTIVE"
         },
         "coolmath-d.openx.net": {
@@ -2385,8 +2441,8 @@
         "dmp.ivitrack.com": {
             "included_at_epoch": 1595140356.560575,
             "included_at_iso": "2020-07-19T06:32:36.560575",
-            "last_retested_at_epoch": 1595571644.974116,
-            "last_retested_at_iso": "2020-07-24T06:20:44.974116",
+            "last_retested_at_epoch": 1595744545.266663,
+            "last_retested_at_iso": "2020-07-26T06:22:25.266663",
             "status": "INACTIVE"
         },
         "dot.a.mobimagic.com": {
@@ -2511,8 +2567,8 @@
         "et.w.vip.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.142311,
             "included_at_iso": "2020-07-12T06:31:54.142311",
-            "last_retested_at_epoch": 1595571643.088686,
-            "last_retested_at_iso": "2020-07-24T06:20:43.088686",
+            "last_retested_at_epoch": 1595744543.408226,
+            "last_retested_at_iso": "2020-07-26T06:22:23.408226",
             "status": "INACTIVE"
         },
         "eu-pulsepoint-rtb.quantserve.com": {
@@ -2576,6 +2632,27 @@
             "included_at_iso": "2020-07-22T12:35:13.437885",
             "last_retested_at_epoch": 1595573718.554096,
             "last_retested_at_iso": "2020-07-24T06:55:18.554096",
+            "status": "INACTIVE"
+        },
+        "foreman-a001-ash.krxd.net": {
+            "included_at_epoch": 1595744546.798749,
+            "included_at_iso": "2020-07-26T06:22:26.798749",
+            "last_retested_at_epoch": 1595744546.798749,
+            "last_retested_at_iso": "2020-07-26T06:22:26.798749",
+            "status": "INACTIVE"
+        },
+        "foreman-a002-ash.krxd.net": {
+            "included_at_epoch": 1595744546.810987,
+            "included_at_iso": "2020-07-26T06:22:26.810987",
+            "last_retested_at_epoch": 1595744546.810987,
+            "last_retested_at_iso": "2020-07-26T06:22:26.810987",
+            "status": "INACTIVE"
+        },
+        "foreman-a003-ash.krxd.net": {
+            "included_at_epoch": 1595744546.823113,
+            "included_at_iso": "2020-07-26T06:22:26.823113",
+            "last_retested_at_epoch": 1595744546.823113,
+            "last_retested_at_iso": "2020-07-26T06:22:26.823113",
             "status": "INACTIVE"
         },
         "fyc.heyzap.com": {
@@ -2651,8 +2728,8 @@
         "i.w.vip.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.153137,
             "included_at_iso": "2020-07-12T06:31:54.153137",
-            "last_retested_at_epoch": 1595571643.113594,
-            "last_retested_at_iso": "2020-07-24T06:20:43.113594",
+            "last_retested_at_epoch": 1595744543.39663,
+            "last_retested_at_iso": "2020-07-26T06:22:23.396630",
             "status": "INACTIVE"
         },
         "iamediaserve.com": {
@@ -2665,8 +2742,8 @@
         "iapclick.wadogo.avi.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.120592,
             "included_at_iso": "2020-07-12T06:31:54.120592",
-            "last_retested_at_epoch": 1595571643.076269,
-            "last_retested_at_iso": "2020-07-24T06:20:43.076269",
+            "last_retested_at_epoch": 1595744543.373112,
+            "last_retested_at_iso": "2020-07-26T06:22:23.373112",
             "status": "INACTIVE"
         },
         "ibtuk-d.openx.net": {
@@ -2721,8 +2798,15 @@
         "info.instartlogic.com": {
             "included_at_epoch": 1595140355.724364,
             "included_at_iso": "2020-07-19T06:32:35.724364",
-            "last_retested_at_epoch": 1595571644.173157,
-            "last_retested_at_iso": "2020-07-24T06:20:44.173157",
+            "last_retested_at_epoch": 1595744544.470525,
+            "last_retested_at_iso": "2020-07-26T06:22:24.470525",
+            "status": "INACTIVE"
+        },
+        "iosapi.jedimobi.com": {
+            "included_at_epoch": 1595744545.560158,
+            "included_at_iso": "2020-07-26T06:22:25.560158",
+            "last_retested_at_epoch": 1595744545.560158,
+            "last_retested_at_iso": "2020-07-26T06:22:25.560158",
             "status": "INACTIVE"
         },
         "issuu-d.openx.net": {
@@ -2744,6 +2828,20 @@
             "included_at_iso": "2020-07-06T12:34:59.548240",
             "last_retested_at_epoch": 1595572675.670757,
             "last_retested_at_iso": "2020-07-24T06:37:55.670757",
+            "status": "INACTIVE"
+        },
+        "javacript.gq": {
+            "included_at_epoch": 1595744545.519843,
+            "included_at_iso": "2020-07-26T06:22:25.519843",
+            "last_retested_at_epoch": 1595744545.519843,
+            "last_retested_at_iso": "2020-07-26T06:22:25.519843",
+            "status": "INACTIVE"
+        },
+        "joneself.com": {
+            "included_at_epoch": 1595744545.675827,
+            "included_at_iso": "2020-07-26T06:22:25.675827",
+            "last_retested_at_epoch": 1595744545.675827,
+            "last_retested_at_iso": "2020-07-26T06:22:25.675827",
             "status": "INACTIVE"
         },
         "labs-s1.revcontent.com": {
@@ -2788,6 +2886,13 @@
             "last_retested_at_iso": "2020-07-26T05:48:19.004788",
             "status": "INACTIVE"
         },
+        "logs.locarta.co": {
+            "included_at_epoch": 1595744548.959169,
+            "included_at_iso": "2020-07-26T06:22:28.959169",
+            "last_retested_at_epoch": 1595744548.959169,
+            "last_retested_at_iso": "2020-07-26T06:22:28.959169",
+            "status": "INACTIVE"
+        },
         "logs.mobiletop.cc": {
             "included_at_epoch": 1593931293.735926,
             "included_at_iso": "2020-07-05T06:41:33.735926",
@@ -2821,6 +2926,20 @@
             "included_at_iso": "2020-07-24T05:29:35.467550",
             "last_retested_at_epoch": 1595741478.796974,
             "last_retested_at_iso": "2020-07-26T05:31:18.796974",
+            "status": "INACTIVE"
+        },
+        "material.jedimobi.com": {
+            "included_at_epoch": 1595744545.572047,
+            "included_at_iso": "2020-07-26T06:22:25.572047",
+            "last_retested_at_epoch": 1595744545.572047,
+            "last_retested_at_iso": "2020-07-26T06:22:25.572047",
+            "status": "INACTIVE"
+        },
+        "maxis.krxd.net": {
+            "included_at_epoch": 1595744546.878403,
+            "included_at_iso": "2020-07-26T06:22:26.878403",
+            "last_retested_at_epoch": 1595744546.878403,
+            "last_retested_at_iso": "2020-07-26T06:22:26.878403",
             "status": "INACTIVE"
         },
         "mbe-monitoring.fyber.com": {
@@ -3243,6 +3362,13 @@
             "last_retested_at_iso": "2020-07-24T06:55:13.157224",
             "status": "INACTIVE"
         },
+        "parameter.jedimobi.com": {
+            "included_at_epoch": 1595744545.583925,
+            "included_at_iso": "2020-07-26T06:22:25.583925",
+            "last_retested_at_epoch": 1595744545.583925,
+            "last_retested_at_iso": "2020-07-26T06:22:25.583925",
+            "status": "INACTIVE"
+        },
         "paste-d.openx.net": {
             "included_at_epoch": 1594883249.982716,
             "included_at_iso": "2020-07-16T07:07:29.982716",
@@ -3262,6 +3388,13 @@
             "included_at_iso": "2020-07-16T07:07:30.023426",
             "last_retested_at_epoch": 1595572683.101806,
             "last_retested_at_iso": "2020-07-24T06:38:03.101806",
+            "status": "INACTIVE"
+        },
+        "phabricator.leanplum.com": {
+            "included_at_epoch": 1595744547.747841,
+            "included_at_iso": "2020-07-26T06:22:27.747841",
+            "last_retested_at_epoch": 1595744547.747841,
+            "last_retested_at_iso": "2020-07-26T06:22:27.747841",
             "status": "INACTIVE"
         },
         "philly-d.openx.net": {
@@ -3295,8 +3428,8 @@
         "platform.ifc.inmobi.com": {
             "included_at_epoch": 1594189543.636166,
             "included_at_iso": "2020-07-08T06:25:43.636166",
-            "last_retested_at_epoch": 1595571643.337795,
-            "last_retested_at_iso": "2020-07-24T06:20:43.337795",
+            "last_retested_at_epoch": 1595744543.623456,
+            "last_retested_at_iso": "2020-07-26T06:22:23.623456",
             "status": "INACTIVE"
         },
         "platform.openx.com": {
@@ -3365,8 +3498,8 @@
         "ps.cname2.igexin.com": {
             "included_at_epoch": 1594189542.42003,
             "included_at_iso": "2020-07-08T06:25:42.420030",
-            "last_retested_at_epoch": 1595570623.829253,
-            "last_retested_at_iso": "2020-07-24T06:03:43.829253",
+            "last_retested_at_epoch": 1595744542.284484,
+            "last_retested_at_iso": "2020-07-26T06:22:22.284484",
             "status": "INACTIVE"
         },
         "psa-d.openx.com": {
@@ -3610,8 +3743,8 @@
         "sdkm.w.vip.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.163795,
             "included_at_iso": "2020-07-12T06:31:54.163795",
-            "last_retested_at_epoch": 1595571643.125997,
-            "last_retested_at_iso": "2020-07-24T06:20:43.125997",
+            "last_retested_at_epoch": 1595744543.431859,
+            "last_retested_at_iso": "2020-07-26T06:22:23.431859",
             "status": "INACTIVE"
         },
         "search.batmobi.net": {
@@ -3638,8 +3771,8 @@
         "security.instartlogic.com": {
             "included_at_epoch": 1595140355.752606,
             "included_at_iso": "2020-07-19T06:32:35.752606",
-            "last_retested_at_epoch": 1595571644.200899,
-            "last_retested_at_iso": "2020-07-24T06:20:44.200899",
+            "last_retested_at_epoch": 1595744544.482364,
+            "last_retested_at_iso": "2020-07-26T06:22:24.482364",
             "status": "INACTIVE"
         },
         "sekindo-d.openx.net": {
@@ -3789,6 +3922,20 @@
             "last_retested_at_iso": "2020-07-24T06:38:03.781117",
             "status": "INACTIVE"
         },
+        "sysco-appstore2.madmobile.com": {
+            "included_at_epoch": 1595744549.524038,
+            "included_at_iso": "2020-07-26T06:22:29.524038",
+            "last_retested_at_epoch": 1595744549.524038,
+            "last_retested_at_iso": "2020-07-26T06:22:29.524038",
+            "status": "INACTIVE"
+        },
+        "sysco-cdn.madmobile.com": {
+            "included_at_epoch": 1595744549.536145,
+            "included_at_iso": "2020-07-26T06:22:29.536145",
+            "last_retested_at_epoch": 1595744549.536145,
+            "last_retested_at_iso": "2020-07-26T06:22:29.536145",
+            "status": "INACTIVE"
+        },
         "tacticalrepublic-d.openx.net": {
             "included_at_epoch": 1594883250.755422,
             "included_at_iso": "2020-07-16T07:07:30.755422",
@@ -3806,15 +3953,15 @@
         "tealium.hs.llnwd.net": {
             "included_at_epoch": 1593522980.422814,
             "included_at_iso": "2020-06-30T13:16:20.422814",
-            "last_retested_at_epoch": 1595571648.381102,
-            "last_retested_at_iso": "2020-07-24T06:20:48.381102",
+            "last_retested_at_epoch": 1595744548.729961,
+            "last_retested_at_iso": "2020-07-26T06:22:28.729961",
             "status": "INACTIVE"
         },
         "telemetry.sdk.vip.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.131678,
             "included_at_iso": "2020-07-12T06:31:54.131678",
-            "last_retested_at_epoch": 1595571643.101202,
-            "last_retested_at_iso": "2020-07-24T06:20:43.101202",
+            "last_retested_at_epoch": 1595744543.384922,
+            "last_retested_at_iso": "2020-07-26T06:22:23.384922",
             "status": "INACTIVE"
         },
         "thales.adsrvr.org": {
@@ -3925,8 +4072,8 @@
         "udata.inlocomedia.com": {
             "included_at_epoch": 1594535514.016619,
             "included_at_iso": "2020-07-12T06:31:54.016619",
-            "last_retested_at_epoch": 1595571642.964981,
-            "last_retested_at_iso": "2020-07-24T06:20:42.964981",
+            "last_retested_at_epoch": 1595744543.267542,
+            "last_retested_at_iso": "2020-07-26T06:22:23.267542",
             "status": "INACTIVE"
         },
         "ul.a.mobimagic.com": {
@@ -3985,11 +4132,18 @@
             "last_retested_at_iso": "2020-07-26T06:05:18.244299",
             "status": "INACTIVE"
         },
+        "userdata-maxis.krxd.net": {
+            "included_at_epoch": 1595744546.927038,
+            "included_at_iso": "2020-07-26T06:22:26.927038",
+            "last_retested_at_epoch": 1595744546.927038,
+            "last_retested_at_iso": "2020-07-26T06:22:26.927038",
+            "status": "INACTIVE"
+        },
         "vast-pop-ewr.mathtag.com": {
             "included_at_epoch": 1594363386.807515,
             "included_at_iso": "2020-07-10T06:43:06.807515",
-            "last_retested_at_epoch": 1595571650.648375,
-            "last_retested_at_iso": "2020-07-24T06:20:50.648375",
+            "last_retested_at_epoch": 1595744550.995889,
+            "last_retested_at_iso": "2020-07-26T06:22:30.995889",
             "status": "INACTIVE"
         },
         "veuhub-d.openx.net": {
@@ -4016,8 +4170,8 @@
         "w.vip1.ams1.inmobi.com": {
             "included_at_epoch": 1594535514.19666,
             "included_at_iso": "2020-07-12T06:31:54.196660",
-            "last_retested_at_epoch": 1595571643.138744,
-            "last_retested_at_iso": "2020-07-24T06:20:43.138744",
+            "last_retested_at_epoch": 1595744543.455406,
+            "last_retested_at_iso": "2020-07-26T06:22:23.455406",
             "status": "INACTIVE"
         },
         "wetpaint-d.openx.net": {
@@ -4067,6 +4221,13 @@
             "included_at_iso": "2020-07-26T06:05:19.931469",
             "last_retested_at_epoch": 1595743519.931469,
             "last_retested_at_iso": "2020-07-26T06:05:19.931469",
+            "status": "INACTIVE"
+        },
+        "xclub.app.infinixmobility.com": {
+            "included_at_epoch": 1595744543.198951,
+            "included_at_iso": "2020-07-26T06:22:23.198951",
+            "last_retested_at_epoch": 1595744543.198951,
+            "last_retested_at_iso": "2020-07-26T06:22:23.198951",
             "status": "INACTIVE"
         },
         "yellow.soju.openx.net": {
