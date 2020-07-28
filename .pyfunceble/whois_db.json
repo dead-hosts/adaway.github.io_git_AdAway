@@ -132,7 +132,7 @@
     "actionteaser.ru": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ad-delivery.net": {
         "epoch": 1620000000.0,
@@ -682,7 +682,7 @@
     "adprimemedia.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adpro.com.ua": {
         "epoch": 1610409600.0,
@@ -830,8 +830,8 @@
         "state": "future"
     },
     "adskape.ru": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "adsmart.co.uk": {
