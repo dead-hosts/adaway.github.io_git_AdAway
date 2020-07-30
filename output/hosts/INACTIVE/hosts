@@ -51,6 +51,7 @@
 0.0.0.0 analytics.toast.com
 0.0.0.0 analytics.vancms.net
 0.0.0.0 aopa-d.openx.net
+0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.deep-ad.com.edgekey.net
@@ -98,6 +99,7 @@
 0.0.0.0 cesarmillan-d.openx.net
 0.0.0.0 charisma-d.openx.net
 0.0.0.0 cheetah-d.openx.net
+0.0.0.0 cks.ha1.yumenetworks.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cm.send.microadinc.com
 0.0.0.0 cmci-d.openx.net
@@ -132,6 +134,7 @@
 0.0.0.0 dating.mgid.com
 0.0.0.0 debug.aerserv.com
 0.0.0.0 defymedia-d.openx.net
+0.0.0.0 delivery.vungtv.com
 0.0.0.0 delivery-asia-northeast-1.openx.net
 0.0.0.0 delivery-asia-northeast-1.servedbyopenx.com
 0.0.0.0 delivery-europe-west-1.openx.net
@@ -173,6 +176,8 @@
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com
 0.0.0.0 events.urbanairship.com
+0.0.0.0 events.vungtv.com
+0.0.0.0 events.vungtv.net
 0.0.0.0 exchange.adnexus.mobi
 0.0.0.0 files.revcontent.com
 0.0.0.0 fk-mtrack.rayjump.com
@@ -251,6 +256,7 @@
 0.0.0.0 node-personalization-d.elasticbeanstalk.com
 0.0.0.0 optimizedby.openx.com
 0.0.0.0 origin-ui.revcontent.com
+0.0.0.0 osc.optimize.webtrends.com
 0.0.0.0 overdrive-d.openx.net
 0.0.0.0 overlay-track-prod01.sailthru.cloud
 0.0.0.0 ox-d.247wallst.servedbyopenx.com
@@ -290,6 +296,7 @@
 0.0.0.0 p.share.mob.com
 0.0.0.0 parameter.jedimobi.com
 0.0.0.0 paste-d.openx.net
+0.0.0.0 pc1.ha1.yumenetworks.com
 0.0.0.0 perfmedia-d.openx.net
 0.0.0.0 phabricator.leanplum.com
 0.0.0.0 philly-d.openx.net
@@ -297,9 +304,14 @@
 0.0.0.0 pixfuture-d.openx.net
 0.0.0.0 p-jp-cci-dps.cinarra.com
 0.0.0.0 p-jp-elb-inmobi.cinarra.com
+0.0.0.0 pl1.ha1.yumenetworks.com
+0.0.0.0 pl.ha1.yumenetworks.com
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 platform.openx.com
 0.0.0.0 playbill-d.openx.net
+0.0.0.0 plg1.ha1.yumenetworks.com
+0.0.0.0 plg2.ha1.yumenetworks.com
+0.0.0.0 plg16.ha1.yumenetworks.com
 0.0.0.0 politads.com
 0.0.0.0 postback.pointwise.co
 0.0.0.0 preroll.a4.tl
@@ -343,6 +355,7 @@
 0.0.0.0 sanalytics.virginmobileusa.com
 0.0.0.0 scout.scoutanalytics.net
 0.0.0.0 sdk.adbuddiz.com
+0.0.0.0 sdk.wjinfu.com
 0.0.0.0 sdk-ads.bidmotion.com
 0.0.0.0 sdk-data.nv.prod.bidmotion.com
 0.0.0.0 sdkm.w.vip.ams1.inmobi.com
@@ -367,7 +380,9 @@
 0.0.0.0 solutionswide2-d.openx.net
 0.0.0.0 sourcemedia-d.openx.net
 0.0.0.0 spinmedia-d.openx.net
+0.0.0.0 spl1.ha1.yumenetworks.com
 0.0.0.0 spotxchange-d.openx.net
+0.0.0.0 ssl.vungle.com
 0.0.0.0 ssl-i.xx.openx.com
 0.0.0.0 ssp.deployads.com
 0.0.0.0 stanza-d.openx.net
@@ -436,3 +451,4 @@
 0.0.0.0 yellow.soju.openx.net
 0.0.0.0 zap.mookie1.com
 0.0.0.0 zealotnetworks-d.openx.net
+0.0.0.0 zeus.ad.intl.xiaomi.com
