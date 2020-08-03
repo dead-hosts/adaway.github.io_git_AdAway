@@ -1402,7 +1402,7 @@
     "appclick.co": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "appclick.net": {
         "epoch": 1613520000.0,
@@ -1712,7 +1712,7 @@
     "behaviad.net": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "besguses.pro": {
         "epoch": 1622246400.0,
