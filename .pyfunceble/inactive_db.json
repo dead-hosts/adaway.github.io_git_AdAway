@@ -2606,13 +2606,6 @@
             "last_retested_at_iso": "2020-08-03T07:06:03.597306",
             "status": "INACTIVE"
         },
-        "dot.a.mobimagic.com": {
-            "included_at_epoch": 1594038899.523967,
-            "included_at_iso": "2020-07-06T12:34:59.523967",
-            "last_retested_at_epoch": 1596438358.055933,
-            "last_retested_at_iso": "2020-08-03T07:05:58.055933",
-            "status": "INACTIVE"
-        },
         "dptr.areyouahuman.com": {
             "included_at_epoch": 1595742495.783755,
             "included_at_iso": "2020-07-26T05:48:15.783755",
@@ -3038,13 +3031,6 @@
             "included_at_iso": "2020-07-12T05:23:43.147490",
             "last_retested_at_epoch": 1596432924.05752,
             "last_retested_at_iso": "2020-08-03T05:35:24.057520",
-            "status": "INACTIVE"
-        },
-        "iw.a.mobimagic.com": {
-            "included_at_epoch": 1594038899.54824,
-            "included_at_iso": "2020-07-06T12:34:59.548240",
-            "last_retested_at_epoch": 1596438358.083607,
-            "last_retested_at_iso": "2020-08-03T07:05:58.083607",
             "status": "INACTIVE"
         },
         "iw3.a.mobimagic.com": {
@@ -4543,13 +4529,6 @@
             "included_at_iso": "2020-07-12T06:31:54.016619",
             "last_retested_at_epoch": 1596435666.514272,
             "last_retested_at_iso": "2020-08-03T06:21:06.514272",
-            "status": "INACTIVE"
-        },
-        "ul.a.mobimagic.com": {
-            "included_at_epoch": 1594038899.585024,
-            "included_at_iso": "2020-07-06T12:34:59.585024",
-            "last_retested_at_epoch": 1596438358.124345,
-            "last_retested_at_iso": "2020-08-03T07:05:58.124345",
             "status": "INACTIVE"
         },
         "ulml.mob.com": {
