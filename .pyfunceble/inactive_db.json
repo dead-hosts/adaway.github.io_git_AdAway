@@ -2606,6 +2606,13 @@
             "last_retested_at_iso": "2020-08-03T07:06:03.597306",
             "status": "INACTIVE"
         },
+        "dot.a.mobimagic.com": {
+            "included_at_epoch": 1596460908.982235,
+            "included_at_iso": "2020-08-03T13:21:48.982235",
+            "last_retested_at_epoch": 1596460908.982235,
+            "last_retested_at_iso": "2020-08-03T13:21:48.982235",
+            "status": "INACTIVE"
+        },
         "dptr.areyouahuman.com": {
             "included_at_epoch": 1595742495.783755,
             "included_at_iso": "2020-07-26T05:48:15.783755",
@@ -2793,6 +2800,20 @@
             "included_at_iso": "2020-07-22T10:17:20.586557",
             "last_retested_at_epoch": 1596432925.231307,
             "last_retested_at_iso": "2020-08-03T05:35:25.231307",
+            "status": "INACTIVE"
+        },
+        "f1.p0y.cn": {
+            "included_at_epoch": 1596460917.235606,
+            "included_at_iso": "2020-08-03T13:21:57.235606",
+            "last_retested_at_epoch": 1596460917.235606,
+            "last_retested_at_iso": "2020-08-03T13:21:57.235606",
+            "status": "INACTIVE"
+        },
+        "f2.p0y.cn": {
+            "included_at_epoch": 1596460917.220838,
+            "included_at_iso": "2020-08-03T13:21:57.220838",
+            "last_retested_at_epoch": 1596460917.220838,
+            "last_retested_at_iso": "2020-08-03T13:21:57.220838",
             "status": "INACTIVE"
         },
         "files.revcontent.com": {
@@ -3031,6 +3052,13 @@
             "included_at_iso": "2020-07-12T05:23:43.147490",
             "last_retested_at_epoch": 1596432924.05752,
             "last_retested_at_iso": "2020-08-03T05:35:24.057520",
+            "status": "INACTIVE"
+        },
+        "iw.a.mobimagic.com": {
+            "included_at_epoch": 1596460908.996514,
+            "included_at_iso": "2020-08-03T13:21:48.996514",
+            "last_retested_at_epoch": 1596460908.996514,
+            "last_retested_at_iso": "2020-08-03T13:21:48.996514",
             "status": "INACTIVE"
         },
         "iw3.a.mobimagic.com": {
@@ -4529,6 +4557,13 @@
             "included_at_iso": "2020-07-12T06:31:54.016619",
             "last_retested_at_epoch": 1596435666.514272,
             "last_retested_at_iso": "2020-08-03T06:21:06.514272",
+            "status": "INACTIVE"
+        },
+        "ul.a.mobimagic.com": {
+            "included_at_epoch": 1596460909.024143,
+            "included_at_iso": "2020-08-03T13:21:49.024143",
+            "last_retested_at_epoch": 1596460909.024143,
+            "last_retested_at_iso": "2020-08-03T13:21:49.024143",
             "status": "INACTIVE"
         },
         "ulml.mob.com": {
