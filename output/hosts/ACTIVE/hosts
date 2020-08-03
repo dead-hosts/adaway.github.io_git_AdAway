@@ -230,6 +230,7 @@
 0.0.0.0 ad.vrvm.com
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 ad.ximalaya.com
+0.0.0.0 ad.zing.vn
 0.0.0.0 adacus.placelocal.com
 0.0.0.0 adacus-cdn.placelocal.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
@@ -271,8 +272,8 @@
 0.0.0.0 adcito.com
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adclix.org
-0.0.0.0 ad-cloud.jp
 0.0.0.0 adcloud.jp
+0.0.0.0 ad-cloud.jp
 0.0.0.0 adcloud.net
 0.0.0.0 adcolony-east-bidder.manage.com
 0.0.0.0 adcome.cn
@@ -701,6 +702,8 @@
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads.yimg.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 ads.zaloapp.com
 0.0.0.0 adsage.cn
 0.0.0.0 adsage.com
 0.0.0.0 adsame.cm.admaster.com.cn
@@ -896,7 +899,9 @@
 0.0.0.0 adtheorent.com
 0.0.0.0 adthor.com
 0.0.0.0 adtima.vn
+0.0.0.0 adtima-media-td.zadn.vn
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 adtime.ru
 0.0.0.0 adtimes.admicro.vn
 0.0.0.0 adtng.com
@@ -1300,7 +1305,13 @@
 0.0.0.0 analytics.webads.eu
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.yahoo.com
+0.0.0.0 analytics.yolacdn.net
+0.0.0.0 analytics.yomedia.vn
 0.0.0.0 analytics.yopify.com.herokudns.com
+0.0.0.0 analytics.youramigo.com
+0.0.0.0 analytics.zendesk.com
+0.0.0.0 analytics.zg-api.com
+0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analytics-api.phunware.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -1386,6 +1397,7 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos.gop1.co
 0.0.0.0 aos.opt8.co
+0.0.0.0 aos.wall.youmi.net
 0.0.0.0 ap.adups.com
 0.0.0.0 ap.event.cmp.advertising.com
 0.0.0.0 ap.immomo.com
@@ -1650,6 +1662,7 @@
 0.0.0.0 api.saypromo.net
 0.0.0.0 api.sdk.fmobi.cn
 0.0.0.0 api.sdk.wiman.io
+0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 api.sdkbox.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
@@ -1707,11 +1720,14 @@
 0.0.0.0 api.xdirectx.com
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.yieldmagic.com
+0.0.0.0 api.zcoup.com
+0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-bts.logsss.com
 0.0.0.0 api-cdn.mypoints.com
 0.0.0.0 apicdn.viglink.com
+0.0.0.0 apicdn.zoomanalytics.co
 0.0.0.0 api-compatible.mixpanel.com
 0.0.0.0 apicosdk.onemt.co
 0.0.0.0 apicssdk.onemt.co
@@ -1726,6 +1742,7 @@
 0.0.0.0 api-gdpr.voodoo-tech.io
 0.0.0.0 api-log.immomo.com
 0.0.0.0 api-log-analytics.cloud.toast.com
+0.0.0.0 api-logsink-prod.zedge.io
 0.0.0.0 api-master.netsparkmobile.com
 0.0.0.0 apinas.nct.vn
 0.0.0.0 api-owr-bootstrap.metaps.net
@@ -2166,6 +2183,7 @@
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 au.res.keymedia.com
 0.0.0.0 au.w.inmobi.com
+0.0.0.0 au.youmi.net
 0.0.0.0 aucollector.tealeaf.ibmcloud.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 aud.pubmatic.com
@@ -2216,6 +2234,7 @@
 0.0.0.0 axonix.com
 0.0.0.0 az-ue2.atemda.com
 0.0.0.0 b1.ads.oppomobile.com
+0.0.0.0 b1-apac1.zemanta.com
 0.0.0.0 b2c.com
 0.0.0.0 b2c-mlm.marketo.com
 0.0.0.0 b2c-msm.marketo.com
@@ -2358,6 +2377,8 @@
 0.0.0.0 beacon.us-east-1.prodaa.netflix.com
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 beacon.viewlift.com
+0.0.0.0 beacon.zeroidtech.com
+0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-eu2.rubiconproject.com
@@ -2483,6 +2504,7 @@
 0.0.0.0 bm.adentifi.com
 0.0.0.0 bm.moatads.com
 0.0.0.0 bmedia.justservingfiles.net
+0.0.0.0 bms.zeptolab.com
 0.0.0.0 bn.imguol.com
 0.0.0.0 bnmla.com
 0.0.0.0 bo.goadservices.com
@@ -2738,6 +2760,7 @@
 0.0.0.0 cdn01.static.adfalcon.com
 0.0.0.0 cdn1.stickyadstv.com
 0.0.0.0 cdn1.vntsm.com
+0.0.0.0 cdn1.zoomanalytics.co
 0.0.0.0 cdn1-analytics.ladmedia.fr
 0.0.0.0 cdn1-creatives.adswizz.com
 0.0.0.0 cdn2.admatic.com.tr
@@ -2930,6 +2953,7 @@
 0.0.0.0 cdn.vdopia.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.wpm.neustar.biz
+0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn-a2-ncl.optimizely.com
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 cdn-adn.smardroid.com
@@ -2993,6 +3017,7 @@
 0.0.0.0 cdnsonata.taptapnetworks.com
 0.0.0.0 cdn-s-optional.optimizely.com
 0.0.0.0 cdnssl.clicktale.net
+0.0.0.0 cdn-static.yumenetworks.com
 0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdnstoremedia.com
 0.0.0.0 cdn-traffic-director.krxd.net
@@ -3010,6 +3035,7 @@
 0.0.0.0 cedexis-radar.net
 0.0.0.0 ceg.g5e.com
 0.0.0.0 celebslam.tags.crwdcntrl.net
+0.0.0.0 cell.zhybzp.cn
 0.0.0.0 celltick.com
 0.0.0.0 celtra.com
 0.0.0.0 centerpointmedia.com
@@ -3017,6 +3043,7 @@
 0.0.0.0 cerberus.production.us-east-1.kops.kargo.com
 0.0.0.0 ceres.iad-03.braze.com
 0.0.0.0 certify.alexametrics.com
+0.0.0.0 certify.zendesk.com
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 certify-stage.alexametrics.com
@@ -3080,6 +3107,7 @@
 0.0.0.0 ckmap.adsame.com
 0.0.0.0 ckmap.mediav.com
 0.0.0.0 cks.mynativeplatform.com
+0.0.0.0 cks.yumenetworks.com
 0.0.0.0 cl1.fidelizador.com
 0.0.0.0 clad.perfectcorp.com
 0.0.0.0 clair.iad-03.braze.com
@@ -3590,6 +3618,7 @@
 0.0.0.0 crosspromo.hutchgames.io
 0.0.0.0 cross-promo.mwx.ext.mobilityware.com
 0.0.0.0 crosspromo.voodoo.io
+0.0.0.0 crosspromo.zeptolab.com
 0.0.0.0 crosspromo-cdn.gamecircus.com
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -3904,6 +3933,7 @@
 0.0.0.0 delivery.senvangvn.com
 0.0.0.0 delivery.supersonicads.com
 0.0.0.0 delivery.tf-con.com
+0.0.0.0 delivery.yomedia.vn
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 deliveryengine.synchroscript.adswizz.com
 0.0.0.0 deliveryengine.tunein.adswizz.com
@@ -4084,6 +4114,7 @@
 0.0.0.0 dsp.mobvista.com
 0.0.0.0 dsp.persona.ly
 0.0.0.0 dsp.simba.taobao.com
+0.0.0.0 dsp.youdao.com
 0.0.0.0 dspcluster.adfarm1.adition.com
 0.0.0.0 dsp-creative.demandbase.com
 0.0.0.0 dsp-d.ants.vn
@@ -4147,6 +4178,7 @@
 0.0.0.0 e.logrocket.com
 0.0.0.0 e.qq.com
 0.0.0.0 e.usa.events.netseer.com
+0.0.0.0 e.zg-api.com
 0.0.0.0 eacdn.com
 0.0.0.0 e-adimages.scrippsnetworks.com
 0.0.0.0 eapik.anagog.com
@@ -4437,6 +4469,7 @@
 0.0.0.0 events.uber.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.xg4ken.com
+0.0.0.0 events.zaloapp.com
 0.0.0.0 events-api.otherlevels.com
 0.0.0.0 events-api.outfit7.com
 0.0.0.0 events-collector.spot.im
@@ -4549,6 +4582,7 @@
 0.0.0.0 feed.adnow.com
 0.0.0.0 feed.baidu.com
 0.0.0.0 feedfetch.c.appier.net
+0.0.0.0 fetch.yourblocksite.com
 0.0.0.0 fexclick.baidu.com
 0.0.0.0 ffcdn3.featureforward.com
 0.0.0.0 ffcdn4.featureforward.com
@@ -4774,6 +4808,7 @@
 0.0.0.0 geo.startappservice.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geo.yieldify.com
+0.0.0.0 geo.zoomboya.com
 0.0.0.0 geoapi123.appspot.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
@@ -4830,6 +4865,8 @@
 0.0.0.0 global.appsflyer.com
 0.0.0.0 global.cmcs.service.amazonsilk.com
 0.0.0.0 global.px.quantserve.com
+0.0.0.0 global.ymtracking.com
+0.0.0.0 global.yyapi.net
 0.0.0.0 globaladmedia.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globes.pushwoosh.com
@@ -4958,6 +4995,7 @@
 0.0.0.0 guomob.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 guppymedia.com
+0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gusabid.adview.com
 0.0.0.0 gv1.xdrig.com
 0.0.0.0 gvcdachtracksdk.optimove.net
@@ -5299,12 +5337,14 @@
 0.0.0.0 image.mediabong.com
 0.0.0.0 image.moengage.com
 0.0.0.0 image.richrelevance.com
+0.0.0.0 image.zcoup.com
 0.0.0.0 image-int.richrelevance.com
 0.0.0.0 imageplus.baidu.com
 0.0.0.0 images1.lavanetwork.net
 0.0.0.0 images1.taboola.com
 0.0.0.0 images2.advanstar.com
 0.0.0.0 images2.taboola.com
+0.0.0.0 images2.zemanta.com
 0.0.0.0 images3.taboola.com
 0.0.0.0 images4.taboola.com
 0.0.0.0 images5.taboola.com
@@ -5446,6 +5486,7 @@
 0.0.0.0 indus.iad-01.braze.com
 0.0.0.0 inferna.iad-03.braze.com
 0.0.0.0 infinite-mobility.g2afse.com
+0.0.0.0 infinity-c4.youboranqs01.com
 0.0.0.0 info.adacado.com
 0.0.0.0 info.adspruce.com
 0.0.0.0 info.amplitude.com
@@ -5939,6 +5980,7 @@
 0.0.0.0 log.advalue.com.vn
 0.0.0.0 log.adywind.com
 0.0.0.0 log.agoop.net
+0.0.0.0 log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
 0.0.0.0 log.appchina.com
 0.0.0.0 log.appscomeon.com
@@ -5963,6 +6005,7 @@
 0.0.0.0 log.loveota.net
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.mobpowertech.com
+0.0.0.0 log.news.zing.vn
 0.0.0.0 log.nexgen.neustar.biz
 0.0.0.0 log.opentracker.net
 0.0.0.0 log.optimizely.com
@@ -5971,6 +6014,7 @@
 0.0.0.0 log.outbrain.org
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.snssdk.com.bytedns.net
@@ -5985,6 +6029,7 @@
 0.0.0.0 log.umsns.com
 0.0.0.0 log.wtlogin.qq.com
 0.0.0.0 logc169.xiti.com
+0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -5992,6 +6037,7 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.ntracecloud.com
+0.0.0.0 logger.zcoup.com
 0.0.0.0 logging.admicro.vn
 0.0.0.0 logging.fishsticksgames.com
 0.0.0.0 logging.galaxypub.vn
@@ -6016,6 +6062,7 @@
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 logtest.moatads.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lon.rtb.adsrvr.org
 0.0.0.0 longcodes.protexting.com
@@ -6385,6 +6432,7 @@
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 metrics.vodafone.co.uk
 0.0.0.0 metrics.wpm.neustar.biz
+0.0.0.0 metrics.yoc.com
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
 0.0.0.0 metrics-collector.onscroll.com
 0.0.0.0 metrics-collector.s-onetag.com
@@ -6707,6 +6755,8 @@
 0.0.0.0 mxtads.com
 0.0.0.0 mxtsr.com
 0.0.0.0 mxttrf.com
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 my.aip.insightexpressai.com
 0.0.0.0 my.comscore.com
 0.0.0.0 my.rtmark.net
@@ -6854,6 +6904,7 @@
 0.0.0.0 nj-ec.startappservice.com
 0.0.0.0 njinmobirtb.lfstmedia.com
 0.0.0.0 njmta-173.sailthru.com
+0.0.0.0 njpl.yumenetworks.com
 0.0.0.0 njunityrtb.lfstmedia.com
 0.0.0.0 nkredir.com
 0.0.0.0 nl-gmtdmp.mookie1.com
@@ -6957,6 +7008,7 @@
 0.0.0.0 ns5.viglink.com
 0.0.0.0 ns6.viglink.com
 0.0.0.0 ns.mgid.com
+0.0.0.0 ns.zdbb.net
 0.0.0.0 nsapi.admicro.vn
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nsclickvideo.baidu.com
@@ -7045,6 +7097,7 @@
 0.0.0.0 online.rayjump.com
 0.0.0.0 online.slb.lfengmobile.com
 0.0.0.0 online-dn.com
+0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 on-mobi.com
 0.0.0.0 onmobile.com
 0.0.0.0 on-prem.kampyle.com
@@ -7116,6 +7169,7 @@
 0.0.0.0 opx-winners-us-east-1-rtb.adroll.com
 0.0.0.0 opx-winners-us-west-2-rtb.adroll.com
 0.0.0.0 ord-ae.conversantmedia.com
+0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 origin.optimost.io
 0.0.0.0 origin.tapjoy.com
 0.0.0.0 origin-ads.undertone.com
@@ -7283,6 +7337,7 @@
 0.0.0.0 pba.aws.lijit.com
 0.0.0.0 p-behacdn.ksmobile.net
 0.0.0.0 pbjs.ayads.co
+0.0.0.0 pc1.yumenetworks.com
 0.0.0.0 pc2-collect.tealiumiq.com
 0.0.0.0 pc.videoclick.baidu.com
 0.0.0.0 pca.admarketplace.net
@@ -7434,6 +7489,8 @@
 0.0.0.0 playwire-d.openx.net
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 plethoramobile.com
+0.0.0.0 plg1.yumenetworks.com
+0.0.0.0 plg2.yumenetworks.com
 0.0.0.0 pl-gmtdmp.mookie1.com
 0.0.0.0 ploy.batmobi.net
 0.0.0.0 pls.crispadvertising.com
@@ -7605,6 +7662,7 @@
 0.0.0.0 prov5.alphonso.tv
 0.0.0.0 provider.ad360.vn
 0.0.0.0 proximiio-bus.firebaseio.com
+0.0.0.0 proximity.zendesk.com
 0.0.0.0 proximitykit.radiusnetworks.com
 0.0.0.0 proximitykit.radiusnetworks.com.herokudns.com
 0.0.0.0 proxy.adnxs.com
@@ -7968,6 +8026,7 @@
 0.0.0.0 rewarded-video.fyber.com
 0.0.0.0 rfihub.com
 0.0.0.0 rg.yieldoptimizer.com
+0.0.0.0 rg.yottos.com
 0.0.0.0 rge.pushwoosh.com
 0.0.0.0 rh.qq.com
 0.0.0.0 rhea.iad-03.braze.com
@@ -8190,6 +8249,8 @@
 0.0.0.0 s.vertamedia.com
 0.0.0.0 s.vi-serve.com
 0.0.0.0 s.webtrends.com
+0.0.0.0 s.yomob.com.cn
+0.0.0.0 s.youmi.net
 0.0.0.0 sa.entireweb.com
 0.0.0.0 s-a.innovid.com
 0.0.0.0 sa.outbrain.com
@@ -8407,6 +8468,10 @@
 0.0.0.0 sdk.wappier.com
 0.0.0.0 sdk.wesdk.co
 0.0.0.0 sdk.wjinfu.com
+0.0.0.0 sdk.yolanda.hk
+0.0.0.0 sdk.youappi.com
+0.0.0.0 sdk.zadn.vn
+0.0.0.0 sdk.zapr.in
 0.0.0.0 sdk-analytics.inlocoengage.com
 0.0.0.0 sdk-analytics.inlocomedia.com
 0.0.0.0 sdk-android.ad.smaato.net
@@ -8415,6 +8480,7 @@
 0.0.0.0 sdkapi.netmera.com
 0.0.0.0 sdk-api.prod.veep.io
 0.0.0.0 sdkapi.webeyemob.com
+0.0.0.0 sdk-api.yozio.com
 0.0.0.0 sdkapicdn.applanga.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdkapp.mobile.sina.cn
@@ -8435,6 +8501,7 @@
 0.0.0.0 sdk-data.bidmotion.com
 0.0.0.0 sdk-endpoint.prod.tda.link
 0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 sdkevents.zapr.in
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdk-h5-cdn.rayjoy.com
 0.0.0.0 sdk-hb-cfg.smaato.net
@@ -8547,6 +8614,8 @@
 0.0.0.0 segment.a3cloud.net
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 segment.prod.bidr.io
+0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segments.adap.tv
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segments.company-target.com
@@ -8670,6 +8739,7 @@
 0.0.0.0 sg-gmtdmp.gd2.mookie1.com
 0.0.0.0 sg-gmtdmp.mookie1.com
 0.0.0.0 sgp.smartadserver.com
+0.0.0.0 sgpublic.yomob.com.cn
 0.0.0.0 sg-setting.rayjump.com
 0.0.0.0 sg-tk.mobpowertech.com
 0.0.0.0 sh.adingo.jp
@@ -8921,6 +8991,8 @@
 0.0.0.0 spica.iad-03.braze.com
 0.0.0.0 spikemedia-d.openx.net
 0.0.0.0 spixel.adsafeprotected.com
+0.0.0.0 spl1.yumenetworks.com
+0.0.0.0 spl2.yumenetworks.com
 0.0.0.0 splash.appsgeyser.com
 0.0.0.0 splash-screen.voodoo-ads.io
 0.0.0.0 splicky.com
@@ -8969,6 +9041,7 @@
 0.0.0.0 ss.c.appier.net
 0.0.0.0 ss.linksynergy.com
 0.0.0.0 ss.servedby-buysellads.com
+0.0.0.0 ss.yomedia.vn
 0.0.0.0 sscefsol.com
 0.0.0.0 ssdk.adkmob.com
 0.0.0.0 sshowads.pubmatic.com
@@ -8983,6 +9056,7 @@
 0.0.0.0 ssl.msdk.qq.com
 0.0.0.0 ssl.quantserve.com
 0.0.0.0 ssl.supersonicads.com
+0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 ssl-avd.innity.net
 0.0.0.0 sslcdn.adstudiomobile.com
 0.0.0.0 ssl-cdn.media.innity.net
@@ -9177,7 +9251,9 @@
 0.0.0.0 static.woopra.com
 0.0.0.0 static.wpm.neustar.biz
 0.0.0.0 static.yieldmo.com
+0.0.0.0 static.yomedia.vn
 0.0.0.0 static-ads.akamaized.net
+0.0.0.0 static-ads.zaloapp.com
 0.0.0.0 static-analytics.nativeads.com
 0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static-content-1.smadex.com
@@ -9250,6 +9326,9 @@
 0.0.0.0 stats.vocento.com.edgekey.net
 0.0.0.0 stats.web1tv.de
 0.0.0.0 stats.webleads-tracker.com
+0.0.0.0 stats.zaloapp.com
+0.0.0.0 stats.zmags.com
+0.0.0.0 stats.zotabox.com
 0.0.0.0 stats-collector-int.socialquantum.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsonline.pushct.baidu.com
@@ -9288,6 +9367,7 @@
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 storage.kameleoon.com
 0.0.0.0 storage.mobiniti.com
+0.0.0.0 storage.yogavpn.com
 0.0.0.0 storefront.nr-assets.net
 0.0.0.0 storm.applifier.com
 0.0.0.0 storyboard.adxcel-ec2.com
@@ -9844,6 +9924,7 @@
 0.0.0.0 track.volo-mobile.com
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.zorkanetwork.com
 0.0.0.0 trackclick.mobaffili.com
 0.0.0.0 track-core.bncnt.com
 0.0.0.0 trackdat.pinsightmedia.com
@@ -9930,8 +10011,10 @@
 0.0.0.0 tracking.volo-mobile.com
 0.0.0.0 tracking.xapads.com
 0.0.0.0 tracking.yieldlove-ad-serving.net
+0.0.0.0 tracking.yomedia.vn
 0.0.0.0 tracking-ams5.cj.com
 0.0.0.0 tracking-dc6.cj.com
+0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 tracking-sj2.cj.com
 0.0.0.0 tracking-stvde.adsafety.net
 0.0.0.0 track-ipv4.earnify.com
@@ -10112,6 +10195,7 @@
 0.0.0.0 unimhk.com
 0.0.0.0 union.baidu.com
 0.0.0.0 union.m.jd.com
+0.0.0.0 union.youdao.com
 0.0.0.0 unitedblades.co.jp
 0.0.0.0 unity.fyber.com
 0.0.0.0 unityads.co.com
@@ -10303,6 +10387,7 @@
 0.0.0.0 v.vsimasd.pw
 0.0.0.0 v.vungle.com
 0.0.0.0 v.w-x.co
+0.0.0.0 v.zcoup.com
 0.0.0.0 va.ec.startappservice.com
 0.0.0.0 va.origin.startappservice.com
 0.0.0.0 va-adimpression-alb.startappnetwork.com
@@ -10557,6 +10642,7 @@
 0.0.0.0 wbdds.jeuxvideo.com
 0.0.0.0 wbn.su
 0.0.0.0 wbpctips.mobile.sina.cn
+0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.sharethis.com
@@ -10814,15 +10900,28 @@
 0.0.0.0 ymcdn.ymtrack6.co
 0.0.0.0 ym-default.adnxs.com
 0.0.0.0 ymsdk.apkcar.com
+0.0.0.0 ymtracking.com
+0.0.0.0 yoc-performance.com
+0.0.0.0 yoggrt.com
+0.0.0.0 yomedia.vn
+0.0.0.0 youlamedia.com
+0.0.0.0 youmi.net
+0.0.0.0 youradexchange.com
+0.0.0.0 yourblocksite.com
 0.0.0.0 your-surveys.insightexpressai.com
 0.0.0.0 youtrack.mgid.com
 0.0.0.0 youtu.cm.admaster.com.cn
 0.0.0.0 yoyi-cm.admaster.com.cn
+0.0.0.0 ysc.yumenetworks.com
 0.0.0.0 ysdk.qq.com
 0.0.0.0 yt.mmstat.com
 0.0.0.0 yt.moatads.com
 0.0.0.0 yt.motoads.com
 0.0.0.0 yts.moatads.com
+0.0.0.0 yuhuads.com
+0.0.0.0 yuilop.com
+0.0.0.0 yume.com
+0.0.0.0 yumenetworks.com
 0.0.0.0 yun.tuitiger.com
 0.0.0.0 yun-static.soperson.com
 0.0.0.0 z.moatads.com
@@ -10831,19 +10930,37 @@
 0.0.0.0 z.optmnstr.com
 0.0.0.0 zabbix.appodeal.com
 0.0.0.0 za-gmtdmp.mookie1.com
+0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zam-tagan.adlightning.com
 0.0.0.0 zapp-client.applicaster.com
+0.0.0.0 zarget.com
 0.0.0.0 zc.adswizz.com
+0.0.0.0 zcoup.com
 0.0.0.0 zedo-d.openx.net
 0.0.0.0 zee.cws.conviva.com
+0.0.0.0 zeepmedia.com
+0.0.0.0 zestads.com
+0.0.0.0 zestadz.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zgsdk.zhugeio.com
 0.0.0.0 zhcn.admob.com
+0.0.0.0 zhihu-analytics.zhihu.com
+0.0.0.0 zhiziyun.com
+0.0.0.0 ziffdavis.com
 0.0.0.0 ziffdavis-d.openx.net
+0.0.0.0 zintext.com
 0.0.0.0 zlifestyle-d.openx.net
+0.0.0.0 zminer.zaloapp.com
 0.0.0.0 zone.uniad.vn
 0.0.0.0 zookeeper01.aatkit.com
 0.0.0.0 zoopla-d.openx.net
+0.0.0.0 zplayer.trk.zapps.vn
+0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 zucks.co.jp
+0.0.0.0 zucks.net
+0.0.0.0 zumobi.com
 0.0.0.0 zumobi-d.openx.net
+0.0.0.0 zwaar.org
 0.0.0.0 zynga-d.openx.net
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 zzxd.mediav.com
