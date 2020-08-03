@@ -3327,6 +3327,13 @@
             "last_retested_at_iso": "2020-08-03T06:03:52.657482",
             "status": "INACTIVE"
         },
+        "na-gateway.supersonicads.com": {
+            "included_at_epoch": 1596462660.613653,
+            "included_at_iso": "2020-08-03T13:51:00.613653",
+            "last_retested_at_epoch": 1596462660.613653,
+            "last_retested_at_iso": "2020-08-03T13:51:00.613653",
+            "status": "INACTIVE"
+        },
         "na.cdn5.onthe.io": {
             "included_at_epoch": 1595745584.935228,
             "included_at_iso": "2020-07-26T06:39:44.935228",
