@@ -2144,6 +2144,13 @@
             "last_retested_at_iso": "2020-08-03T06:21:02.159477",
             "status": "INACTIVE"
         },
+        "btlaunch.baidu.com": {
+            "included_at_epoch": 1596452797.129246,
+            "included_at_iso": "2020-08-03T11:06:37.129246",
+            "last_retested_at_epoch": 1596452797.129246,
+            "last_retested_at_iso": "2020-08-03T11:06:37.129246",
+            "status": "INACTIVE"
+        },
         "bumpclick-d.openx.net": {
             "included_at_epoch": 1594883248.915606,
             "included_at_iso": "2020-07-16T07:07:28.915606",
@@ -3913,6 +3920,13 @@
             "included_at_iso": "2020-07-30T05:33:07.319739",
             "last_retested_at_epoch": 1596432923.639004,
             "last_retested_at_iso": "2020-08-03T05:35:23.639004",
+            "status": "INACTIVE"
+        },
+        "rplog.baidu.com": {
+            "included_at_epoch": 1596452797.309642,
+            "included_at_iso": "2020-08-03T11:06:37.309642",
+            "last_retested_at_epoch": 1596452797.309642,
+            "last_retested_at_iso": "2020-08-03T11:06:37.309642",
             "status": "INACTIVE"
         },
         "rtb.persona.ly": {
