@@ -1731,6 +1731,20 @@
             "last_retested_at_iso": "2020-08-04T13:18:37.895178",
             "status": "INACTIVE"
         },
+        "ads.us-east-1.prodaa.netflix.com": {
+            "included_at_epoch": 1596631483.934442,
+            "included_at_iso": "2020-08-05T12:44:43.934442",
+            "last_retested_at_epoch": 1596631483.934442,
+            "last_retested_at_iso": "2020-08-05T12:44:43.934442",
+            "status": "INACTIVE"
+        },
+        "ads.us-west-2.prodaa.netflix.com": {
+            "included_at_epoch": 1596631483.954998,
+            "included_at_iso": "2020-08-05T12:44:43.954998",
+            "last_retested_at_epoch": 1596631483.954998,
+            "last_retested_at_iso": "2020-08-05T12:44:43.954998",
+            "status": "INACTIVE"
+        },
         "adserver-prod.gra5phdxha.us-west-2.elasticbeanstalk.com": {
             "included_at_epoch": 1595743516.754718,
             "included_at_iso": "2020-07-26T06:05:16.754718",
