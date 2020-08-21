@@ -745,6 +745,7 @@ ads.yahoo.com
 ads.yap.yahoo.com
 ads.yieldmo.com
 ads.yimg.com
+ads.youtube.com
 adsage.com
 adsame.cm.admaster.com.cn
 adsame.com
@@ -854,7 +855,9 @@ adtech.com
 adtheorent.com
 adthor.com
 adtima.vn
+adtima-media-td.zadn.vn
 adtimaserver.vn
+adtima-static.zadn.vn
 adtng.com
 adtrack1.midasplayer.com
 adtrack.adleadevent.com
@@ -1127,6 +1130,10 @@ analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yomedia.vn
 analytics.yopify.com.herokudns.com
+analytics.youramigo.com
+analytics.zendesk.com
+analytics.zg-api.com
+analytics.ziftsolutions.com
 analyticsapi.bsbportal.com
 analytics-api.phunware.com
 analytics-au.clickdimensions.com
@@ -1385,6 +1392,7 @@ api.salmonads.com
 api.saypromo.net
 api.sdk.fmobi.cn
 api.sdk.wiman.io
+api.sdk.zadn.vn
 api.sdkbox.com
 api.sec.miui.com
 api.segment.io
@@ -1431,10 +1439,13 @@ api.wootric.com
 api.wootric.com.herokudns.com
 api.yieldlove-ad-serving.net
 api.yieldmagic.com
+api.zcoup.com
+api.zwizzarmyknife.com
 api-analytics.metaps.com
 api-analytics-bootstrap.metaps.com
 api-bts.logsss.com
 api-cdn.mypoints.com
+apicdn.zoomanalytics.co
 api-compatible.mixpanel.com
 apicosdk.onemt.co
 apicssdk.onemt.co
@@ -1852,6 +1863,7 @@ b.scorecardresearch.com
 b.sharethrough.com
 b.stats.paypal.com
 babel.innertrends.com
+backend.passivemonetizer.com
 backstage.taboola.com
 baidustatic.com
 balanced-clk.taptica.com
@@ -1932,6 +1944,7 @@ beacon.tru.am
 beacon.us-east-1.prodaa.netflix.com
 beacon.us-west-2.prodaa.netflix.com
 beacon.viewlift.com
+beacon.ztgame.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-api.aliyuncs.com
 beacon-eu2.rubiconproject.com
@@ -2014,6 +2027,7 @@ bluelithium.com
 blueserving.com
 bm.adentifi.com
 bmedia.justservingfiles.net
+bms.zeptolab.com
 bn.imguol.com
 bnmla.com
 bo.goadservices.com
@@ -2356,6 +2370,7 @@ cdn.thumbs.glispa.com
 cdn.tremorhub.com
 cdn.unityads.unity3d.com
 cdn.viglink.com
+cdn.zarget.com
 cdn-a2-ncl.optimizely.com
 cdn-adn.rayjump.com
 cdn-adn-https-baidu.rayjump.com
@@ -2429,6 +2444,7 @@ cepheus.iad.appboy.com
 cerberus.production.us-east-1.kops.kargo.com
 ceres.iad-03.braze.com
 certify.alexametrics.com
+certify.zendesk.com
 certify-amp.alexametrics.com
 certify-js.alexametrics.com
 cetus.iad-03.braze.com
@@ -3155,6 +3171,7 @@ dsp.fout.jp
 dsp.logly.co.jp
 dsp.mobvista.com
 dsp.simba.taobao.com
+dsp.youdao.com
 dspcluster.adfarm1.adition.com
 dsp-creative.demandbase.com
 dsp-d.ants.vn
@@ -3197,6 +3214,7 @@ e.jp.miaozhen.com
 e.logrocket.com
 e.qq.com
 e.usa.events.netseer.com
+e.zg-api.com
 eacdn.com
 eapik.anagog.com
 eapip.anagog.com
@@ -3394,6 +3412,7 @@ events.tremorhub.com
 events.uber.com
 events.whisk.com
 events.xg4ken.com
+events.zaloapp.com
 events-api.otherlevels.com
 events-api.outfit7.com
 events-collector.spot.im
@@ -3465,6 +3484,7 @@ fcd.autoads.asia
 featured.perfectionholic.com
 feed.baidu.com
 feedfetch.c.appier.net
+fetch.yourblocksite.com
 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 fidelity-media.com
 fidelity-media-ssp.rtb.adx1.com
@@ -3670,6 +3690,7 @@ global.appnext.com
 global.cmcs.service.amazonsilk.com
 global.px.quantserve.com
 global.ymtracking.com
+global.yyapi.net
 glsdk.logsss.com
 gm.mmstat.com
 gma.alicdn.com
@@ -3744,6 +3765,7 @@ gudja.iad-02.braze.com
 guess.mediav.com
 gum.criteo.com
 gumgum.com
+gurgle.zdbb.net
 gusabid.adview.com
 gv1.xdrig.com
 gvctracksdk.optimove.net
@@ -3998,6 +4020,7 @@ imageplus.baidu.com
 images1.taboola.com
 images2.advanstar.com
 images2.taboola.com
+images2.zemanta.com
 images3.taboola.com
 images4.taboola.com
 images5.taboola.com
@@ -4102,6 +4125,7 @@ index-winners-us-east-1-rtb.adroll.com
 index-winners-us-west-2-rtb.adroll.com
 indus.iad-01.braze.com
 inferna.iad-03.braze.com
+infinity-c4.youboranqs01.com
 info.adacado.com
 info.adspruce.com
 info.amplitude.com
@@ -4418,6 +4442,7 @@ log.adsplay.net
 log.adtimaserver.vn
 log.adywind.com
 log.agoop.net
+log.api.zaloapp.com
 log.apk.v-mate.mobi
 log.appchina.com
 log.byteoversea.com.edgekey.net
@@ -4438,6 +4463,7 @@ log.leadboxer.com
 log.lemonpi.io
 log.mmstat.com
 log.mobpowertech.com
+log.news.zing.vn
 log.opentracker.net
 log.optimizely.com
 log.oto.com.vn
@@ -4445,6 +4471,7 @@ log.outbrain.com
 log.outbrain.org
 log.outbrainimg.com
 log.pinterest.com
+log.sdk.zadn.vn
 log.sina.cn
 log.snapdeal.com
 log.snssdk.com.bytedns.net
@@ -4456,12 +4483,14 @@ log.tbs.qq.com
 log.trackingio.com
 log.umsns.com
 log.wtlogin.qq.com
+log-collector.svctr.zynga.com
 logconfig.polarisoffice.com
 log-config.samsungacr.com
 log-dbff2e04.us.v2.we-stats.com
 logger.adthor.com
 logger.cloudmobi.net
 logger.foxitcloud.com
+logger.zcoup.com
 logging.admicro.vn
 logging.fishsticksgames.com
 login.dotomi.com
@@ -4482,6 +4511,7 @@ logsdk.qq.com
 logserver.insight.ucweb.com
 log-tb.isnssdk.com
 logupdate.avlyun.sec.miui.com
+logv2.mp3.zing.vn
 logx.optimizely.com
 longcodes.protexting.com
 lon-mknodepub.marketo.com
@@ -4897,6 +4927,8 @@ mv.outbrain.com
 mxpnl.com
 mxtads.com
 mxttrf.com
+mxvp-ad-config-prod-1.zenmxapps.com
+mxvp-feature-toggle-prod-1.zenmxapps.com
 my.rtmark.net
 mybuys.com
 mycdn.media.net
@@ -5060,6 +5092,7 @@ nrc.tapas.net
 nrcapi.ssl2.duapps.com
 nr-data.net
 nrk.tns-cs.net
+ns.zdbb.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
 nspmotion.com
@@ -5121,6 +5154,7 @@ online5.slb.lfengmobile.com
 online.mobify.net
 online.rayjump.com
 online.slb.lfengmobile.com
+online-prod.zenmxapps.com
 on-prem.kampyle.com
 onrt.stsdk.vivo.com.cn
 onrt.stsdk.vivoglobal.com
@@ -5730,6 +5764,7 @@ revrtb.com
 rewarded-video.fyber.com
 rfihub.com
 rg.yieldoptimizer.com
+rg.yottos.com
 rge.pushwoosh.com
 rhea.iad-03.braze.com
 rich.otherlevels.com
@@ -5898,6 +5933,7 @@ s.vertamedia.com
 s.vi-serve.com
 s.webtrends.com
 s.yomob.com.cn
+s.youmi.net
 sa.entireweb.com
 s-a.innovid.com
 sa.outbrain.com
@@ -6072,6 +6108,9 @@ sdk.vl1.mobi
 sdk.wappier.com
 sdk.wesdk.co
 sdk.yolanda.hk
+sdk.youappi.com
+sdk.zadn.vn
+sdk.zapr.in
 sdk-analytics.inlocoengage.com
 sdk-analytics.inlocomedia.com
 sdk-android.ad.smaato.net
@@ -6180,6 +6219,8 @@ seginus.iad-03.braze.com
 segment.a3cloud.net
 segment.api.useinsider.com
 segment.prod.bidr.io
+segment-data.zqtk.net
+segment-data-us-east.zqtk.net
 segments.adap.tv
 segments.adaptv.advertising.com
 segments.company-target.com
@@ -6239,6 +6280,7 @@ sgbid.prod.sift.co
 sg-gmtdmp.gd2.mookie1.com
 sg-gmtdmp.mookie1.com
 sgp.smartadserver.com
+sgpublic.yomob.com.cn
 sg-setting.rayjump.com
 sg-tk.mobpowertech.com
 sh.adingo.jp
@@ -6471,6 +6513,7 @@ ssl.ligatus.com
 ssl.lomadee.com
 ssl.msdk.qq.com
 ssl.quantserve.com
+ssl.zoomanalytics.co
 ssl-avd.innity.net
 ssl-cdn.media.innity.net
 ssl-i.cdn.openx.com
@@ -6599,6 +6642,7 @@ static.vilynx.com
 static.woopra.com
 static.yieldmo.com
 static.yomedia.vn
+static-ads.zaloapp.com
 static-analytics.nativeads.com
 static-cdn.adblade.com
 static-content-1.smadex.com
@@ -6655,6 +6699,8 @@ stats.sxp.smartclip.net
 stats.unibiller.com
 stats.vocento.com.edgekey.net
 stats.webleads-tracker.com
+stats.zmags.com
+stats.zotabox.com
 statsgoogle.appsflyer.com
 statsonline.pushct.baidu.com
 st-au.ants.vn
@@ -7078,6 +7124,7 @@ track.uc.cn
 track.viewdeos.com
 track.wesdk.co
 track.wesell.co.il
+track.zorkanetwork.com
 track-core.bncnt.com
 trackdat.pinsightmedia.com
 track-east.mobileadtrading.com
@@ -7141,6 +7188,7 @@ tracking.vcommission.com
 tracking.xapads.com
 tracking.yieldlove-ad-serving.net
 tracking.yomedia.vn
+tracking-server-prod-1.zenmxapps.com
 tracking-stvde.adsafety.net
 track-west.mobileadtrading.com
 tradedesk-ues.pinsightmedia.com
@@ -7194,8 +7242,8 @@ tui.taobao.com
 tuiguang.meitu.com
 tunein.adswizz.com
 tunein.deliveryengine.adswizz.com
-tune-in-d.openx.net
 tunein-d.openx.net
+tune-in-d.openx.net
 tunion-api.m.taobao.com
 turbo2sdk-push.oupeng.com
 turbo.engageclick.com
@@ -7475,6 +7523,7 @@ videology-partners.tremorhub.com
 videoplaza.tv
 video-stats.video.google.com
 vid-io.springserve.com
+vid-io.springserve.net
 vidora.com
 vidout.net
 vidstat.taboola.com
@@ -7551,6 +7600,7 @@ waz.cleverpush.com
 wazimo-d.openx.net
 wb.110.taobao.com
 wbapp.mobile.sina.cn
+wcdn.zoomanalytics.co
 wc-tracking.lavasoft.com
 wd.adcolony.com
 wd.sharethis.com
@@ -7724,12 +7774,17 @@ ymcdn.ymtrack6.co
 ymsdk.apkcar.com
 ymtracking.com
 yomedia.vn
+youmi.net
+youradexchange.com
+yourblocksite.com
 youtu.cm.admaster.com.cn
 yoyi-cm.admaster.com.cn
 ysdk.qq.com
 yt.mmstat.com
 yt.moatads.com
 yts.moatads.com
+yume.com
+yumenetworks.com
 yun.tuitiger.com
 z.moatads.com
 z.nomobileads.com
@@ -7738,13 +7793,23 @@ zabbix.appodeal.com
 za-gmtdmp.mookie1.com
 zam-tagan.adlightning.com
 zapp-client.applicaster.com
+zarget.com
 zc.adswizz.com
+zcoup.com
 zedo-d.openx.net
 zee.cws.conviva.com
 zeus.ad.xiaomi.com
+zgsdk.zhugeio.com
+zhiziyun.com
+ziffdavis.com
 ziffdavis-d.openx.net
 zlifestyle-d.openx.net
 zone.uniad.vn
 zoopla-d.openx.net
+zplayer.trk.zapps.vn
+zplayer-trk.zdn.vn
+zucks.co.jp
+zucks.net
+zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn
