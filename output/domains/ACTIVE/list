@@ -1135,6 +1135,7 @@ analytics.yopify.com.herokudns.com
 analytics.youramigo.com
 analytics.zendesk.com
 analytics.zg-api.com
+analytics.ziftsolutions.com
 analyticsapi.bsbportal.com
 analytics-api.phunware.com
 analytics-au.clickdimensions.com
@@ -1441,10 +1442,12 @@ api.wootric.com.herokudns.com
 api.yieldlove-ad-serving.net
 api.yieldmagic.com
 api.zcoup.com
+api.zwizzarmyknife.com
 api-analytics.metaps.com
 api-analytics-bootstrap.metaps.com
 api-bts.logsss.com
 api-cdn.mypoints.com
+apicdn.zoomanalytics.co
 api-compatible.mixpanel.com
 apicosdk.onemt.co
 apicssdk.onemt.co
@@ -1942,6 +1945,7 @@ beacon.tru.am
 beacon.us-east-1.prodaa.netflix.com
 beacon.us-west-2.prodaa.netflix.com
 beacon.viewlift.com
+beacon.ztgame.com
 beacon-apac-hkg1.rubiconproject.com
 beacon-api.aliyuncs.com
 beacon-eu2.rubiconproject.com
@@ -3210,6 +3214,7 @@ e.jp.miaozhen.com
 e.logrocket.com
 e.qq.com
 e.usa.events.netseer.com
+e.zg-api.com
 eacdn.com
 eapik.anagog.com
 eapip.anagog.com
@@ -4458,6 +4463,7 @@ log.leadboxer.com
 log.lemonpi.io
 log.mmstat.com
 log.mobpowertech.com
+log.news.zing.vn
 log.opentracker.net
 log.optimizely.com
 log.oto.com.vn
@@ -4477,6 +4483,7 @@ log.tbs.qq.com
 log.trackingio.com
 log.umsns.com
 log.wtlogin.qq.com
+log-collector.svctr.zynga.com
 logconfig.polarisoffice.com
 log-config.samsungacr.com
 log-dbff2e04.us.v2.we-stats.com
@@ -4504,6 +4511,7 @@ logsdk.qq.com
 logserver.insight.ucweb.com
 log-tb.isnssdk.com
 logupdate.avlyun.sec.miui.com
+logv2.mp3.zing.vn
 logx.optimizely.com
 longcodes.protexting.com
 lon-mknodepub.marketo.com
@@ -6200,6 +6208,8 @@ seginus.iad-03.braze.com
 segment.a3cloud.net
 segment.api.useinsider.com
 segment.prod.bidr.io
+segment-data.zqtk.net
+segment-data-us-east.zqtk.net
 segments.adap.tv
 segments.adaptv.advertising.com
 segments.company-target.com
@@ -6492,6 +6502,7 @@ ssl.ligatus.com
 ssl.lomadee.com
 ssl.msdk.qq.com
 ssl.quantserve.com
+ssl.zoomanalytics.co
 ssl-avd.innity.net
 ssl-cdn.media.innity.net
 ssl-i.cdn.openx.com
@@ -6676,6 +6687,8 @@ stats.sxp.smartclip.net
 stats.unibiller.com
 stats.vocento.com.edgekey.net
 stats.webleads-tracker.com
+stats.zmags.com
+stats.zotabox.com
 statsgoogle.appsflyer.com
 statsonline.pushct.baidu.com
 st-au.ants.vn
@@ -7099,6 +7112,7 @@ track.uc.cn
 track.viewdeos.com
 track.wesdk.co
 track.wesell.co.il
+track.zorkanetwork.com
 track-core.bncnt.com
 trackdat.pinsightmedia.com
 track-east.mobileadtrading.com
@@ -7216,8 +7230,8 @@ tui.taobao.com
 tuiguang.meitu.com
 tunein.adswizz.com
 tunein.deliveryengine.adswizz.com
-tunein-d.openx.net
 tune-in-d.openx.net
+tunein-d.openx.net
 tunion-api.m.taobao.com
 turbo2sdk-push.oupeng.com
 turbo.engageclick.com
@@ -7574,6 +7588,7 @@ waz.cleverpush.com
 wazimo-d.openx.net
 wb.110.taobao.com
 wbapp.mobile.sina.cn
+wcdn.zoomanalytics.co
 wc-tracking.lavasoft.com
 wd.adcolony.com
 wd.sharethis.com
@@ -7772,11 +7787,17 @@ zcoup.com
 zedo-d.openx.net
 zee.cws.conviva.com
 zeus.ad.xiaomi.com
+zgsdk.zhugeio.com
+zhiziyun.com
+ziffdavis.com
 ziffdavis-d.openx.net
 zlifestyle-d.openx.net
 zone.uniad.vn
 zoopla-d.openx.net
 zplayer.trk.zapps.vn
 zplayer-trk.zdn.vn
+zucks.co.jp
+zucks.net
+zwaar.org
 zynga-d.openx.net
 zzhc.vnet.cn

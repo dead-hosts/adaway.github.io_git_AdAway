@@ -835,6 +835,7 @@
 0.0.0.0 analytics.youramigo.com
 0.0.0.0 analytics.zendesk.com
 0.0.0.0 analytics.zg-api.com
+0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 analytics-api.phunware.com
 0.0.0.0 analytics-au.clickdimensions.com
@@ -1141,10 +1142,12 @@
 0.0.0.0 api.yieldlove-ad-serving.net
 0.0.0.0 api.yieldmagic.com
 0.0.0.0 api.zcoup.com
+0.0.0.0 api.zwizzarmyknife.com
 0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-bts.logsss.com
 0.0.0.0 api-cdn.mypoints.com
+0.0.0.0 apicdn.zoomanalytics.co
 0.0.0.0 api-compatible.mixpanel.com
 0.0.0.0 apicosdk.onemt.co
 0.0.0.0 apicssdk.onemt.co
@@ -1642,6 +1645,7 @@
 0.0.0.0 beacon.us-east-1.prodaa.netflix.com
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 beacon.viewlift.com
+0.0.0.0 beacon.ztgame.com
 0.0.0.0 beacon-apac-hkg1.rubiconproject.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-eu2.rubiconproject.com
@@ -2911,6 +2915,7 @@
 0.0.0.0 e.logrocket.com
 0.0.0.0 e.qq.com
 0.0.0.0 e.usa.events.netseer.com
+0.0.0.0 e.zg-api.com
 0.0.0.0 eacdn.com
 0.0.0.0 eapik.anagog.com
 0.0.0.0 eapip.anagog.com
@@ -4159,6 +4164,7 @@
 0.0.0.0 log.lemonpi.io
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.mobpowertech.com
+0.0.0.0 log.news.zing.vn
 0.0.0.0 log.opentracker.net
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.oto.com.vn
@@ -4178,6 +4184,7 @@
 0.0.0.0 log.trackingio.com
 0.0.0.0 log.umsns.com
 0.0.0.0 log.wtlogin.qq.com
+0.0.0.0 log-collector.svctr.zynga.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 log-config.samsungacr.com
 0.0.0.0 log-dbff2e04.us.v2.we-stats.com
@@ -4205,6 +4212,7 @@
 0.0.0.0 logserver.insight.ucweb.com
 0.0.0.0 log-tb.isnssdk.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 logv2.mp3.zing.vn
 0.0.0.0 logx.optimizely.com
 0.0.0.0 longcodes.protexting.com
 0.0.0.0 lon-mknodepub.marketo.com
@@ -5901,6 +5909,8 @@
 0.0.0.0 segment.a3cloud.net
 0.0.0.0 segment.api.useinsider.com
 0.0.0.0 segment.prod.bidr.io
+0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment-data-us-east.zqtk.net
 0.0.0.0 segments.adap.tv
 0.0.0.0 segments.adaptv.advertising.com
 0.0.0.0 segments.company-target.com
@@ -6193,6 +6203,7 @@
 0.0.0.0 ssl.lomadee.com
 0.0.0.0 ssl.msdk.qq.com
 0.0.0.0 ssl.quantserve.com
+0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 ssl-avd.innity.net
 0.0.0.0 ssl-cdn.media.innity.net
 0.0.0.0 ssl-i.cdn.openx.com
@@ -6377,6 +6388,8 @@
 0.0.0.0 stats.unibiller.com
 0.0.0.0 stats.vocento.com.edgekey.net
 0.0.0.0 stats.webleads-tracker.com
+0.0.0.0 stats.zmags.com
+0.0.0.0 stats.zotabox.com
 0.0.0.0 statsgoogle.appsflyer.com
 0.0.0.0 statsonline.pushct.baidu.com
 0.0.0.0 st-au.ants.vn
@@ -6800,6 +6813,7 @@
 0.0.0.0 track.viewdeos.com
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.zorkanetwork.com
 0.0.0.0 track-core.bncnt.com
 0.0.0.0 trackdat.pinsightmedia.com
 0.0.0.0 track-east.mobileadtrading.com
@@ -6917,8 +6931,8 @@
 0.0.0.0 tuiguang.meitu.com
 0.0.0.0 tunein.adswizz.com
 0.0.0.0 tunein.deliveryengine.adswizz.com
-0.0.0.0 tunein-d.openx.net
 0.0.0.0 tune-in-d.openx.net
+0.0.0.0 tunein-d.openx.net
 0.0.0.0 tunion-api.m.taobao.com
 0.0.0.0 turbo2sdk-push.oupeng.com
 0.0.0.0 turbo.engageclick.com
@@ -7275,6 +7289,7 @@
 0.0.0.0 wazimo-d.openx.net
 0.0.0.0 wb.110.taobao.com
 0.0.0.0 wbapp.mobile.sina.cn
+0.0.0.0 wcdn.zoomanalytics.co
 0.0.0.0 wc-tracking.lavasoft.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 wd.sharethis.com
@@ -7473,12 +7488,18 @@
 0.0.0.0 zedo-d.openx.net
 0.0.0.0 zee.cws.conviva.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zgsdk.zhugeio.com
+0.0.0.0 zhiziyun.com
+0.0.0.0 ziffdavis.com
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zlifestyle-d.openx.net
 0.0.0.0 zone.uniad.vn
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 zucks.co.jp
+0.0.0.0 zucks.net
+0.0.0.0 zwaar.org
 0.0.0.0 zynga-d.openx.net
 0.0.0.0 zzhc.vnet.cn
 0.0.0.0 2kpixel.quantserve.com
