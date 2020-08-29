@@ -1577,13 +1577,6 @@
             "last_retested_at_iso": "2020-08-27T06:04:48.654129",
             "status": "INACTIVE"
         },
-        "adamatic-pixels.elasticbeanstalk.com": {
-            "included_at_epoch": 1596262351.954759,
-            "included_at_iso": "2020-08-01T06:12:31.954759",
-            "last_retested_at_epoch": 1598508283.522085,
-            "last_retested_at_iso": "2020-08-27T06:04:43.522085",
-            "status": "INACTIVE"
-        },
         "adbetnet.advertserve.com": {
             "included_at_epoch": 1596432927.788504,
             "included_at_iso": "2020-08-03T05:35:27.788504",
@@ -1960,13 +1953,6 @@
             "included_at_iso": "2020-08-15T07:06:36.509453",
             "last_retested_at_epoch": 1598511487.178137,
             "last_retested_at_iso": "2020-08-27T06:58:07.178137",
-            "status": "INACTIVE"
-        },
-        "broker.video-v2.fyber.com": {
-            "included_at_epoch": 1596262354.193085,
-            "included_at_iso": "2020-08-01T06:12:34.193085",
-            "last_retested_at_epoch": 1598511486.59899,
-            "last_retested_at_iso": "2020-08-27T06:58:06.598990",
             "status": "INACTIVE"
         },
         "btlaunch.baidu.com": {
@@ -2506,6 +2492,13 @@
             "included_at_iso": "2020-08-21T06:51:44.032474",
             "last_retested_at_epoch": 1598511144.15784,
             "last_retested_at_iso": "2020-08-27T06:52:24.157840",
+            "status": "INACTIVE"
+        },
+        "fls.unrulymedia.com": {
+            "included_at_epoch": 1598683093.405228,
+            "included_at_iso": "2020-08-29T06:38:13.405228",
+            "last_retested_at_epoch": 1598683093.405228,
+            "last_retested_at_iso": "2020-08-29T06:38:13.405228",
             "status": "INACTIVE"
         },
         "fyc.heyzap.com": {
@@ -3815,6 +3808,13 @@
             "included_at_iso": "2020-08-25T06:30:11.578043",
             "last_retested_at_epoch": 1598510031.859825,
             "last_retested_at_iso": "2020-08-27T06:33:51.859825",
+            "status": "INACTIVE"
+        },
+        "um.videmob.com": {
+            "included_at_epoch": 1598683094.004934,
+            "included_at_iso": "2020-08-29T06:38:14.004934",
+            "last_retested_at_epoch": 1598683094.004934,
+            "last_retested_at_iso": "2020-08-29T06:38:14.004934",
             "status": "INACTIVE"
         },
         "universal-d.openx.net": {
