@@ -2235,13 +2235,6 @@
             "last_retested_at_iso": "2020-08-27T06:04:44.451535",
             "status": "INACTIVE"
         },
-        "debug.aerserv.com": {
-            "included_at_epoch": 1596260169.696199,
-            "included_at_iso": "2020-08-01T05:36:09.696199",
-            "last_retested_at_epoch": 1598507240.13129,
-            "last_retested_at_iso": "2020-08-27T05:47:20.131290",
-            "status": "INACTIVE"
-        },
         "defymedia-d.openx.net": {
             "included_at_epoch": 1597475196.788649,
             "included_at_iso": "2020-08-15T07:06:36.788649",
@@ -3640,6 +3633,13 @@
             "included_at_iso": "2020-08-15T07:06:38.501300",
             "last_retested_at_epoch": 1598511488.302744,
             "last_retested_at_iso": "2020-08-27T06:58:08.302744",
+            "status": "INACTIVE"
+        },
+        "tealium.hs.llnwd.net": {
+            "included_at_epoch": 1598681141.208166,
+            "included_at_iso": "2020-08-29T06:05:41.208166",
+            "last_retested_at_epoch": 1598681141.208166,
+            "last_retested_at_iso": "2020-08-29T06:05:41.208166",
             "status": "INACTIVE"
         },
         "telemetry.sdk.vip.ams1.inmobi.com": {
