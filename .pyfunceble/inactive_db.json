@@ -1717,6 +1717,13 @@
             "last_retested_at_iso": "2020-08-27T06:04:43.624083",
             "status": "INACTIVE"
         },
+        "adsrvr.receptiv.com": {
+            "included_at_epoch": 1598682328.588783,
+            "included_at_iso": "2020-08-29T06:25:28.588783",
+            "last_retested_at_epoch": 1598682328.588783,
+            "last_retested_at_iso": "2020-08-29T06:25:28.588783",
+            "status": "INACTIVE"
+        },
         "adthrive-d.openx.net": {
             "included_at_epoch": 1597475196.222049,
             "included_at_iso": "2020-08-15T07:06:36.222049",
@@ -2128,6 +2135,13 @@
             "included_at_iso": "2020-08-05T11:47:03.302470",
             "last_retested_at_epoch": 1598511487.548749,
             "last_retested_at_iso": "2020-08-27T06:58:07.548749",
+            "status": "INACTIVE"
+        },
+        "com-lifecake-main.collector.snplow.net": {
+            "included_at_epoch": 1598682330.873998,
+            "included_at_iso": "2020-08-29T06:25:30.873998",
+            "last_retested_at_epoch": 1598682330.873998,
+            "last_retested_at_iso": "2020-08-29T06:25:30.873998",
             "status": "INACTIVE"
         },
         "condenast-d.openx.net": {
@@ -2795,6 +2809,13 @@
             "last_retested_at_iso": "2020-08-27T06:33:55.624797",
             "status": "INACTIVE"
         },
+        "nj1-api.sail-personalize.com": {
+            "included_at_epoch": 1598682329.318384,
+            "included_at_iso": "2020-08-29T06:25:29.318384",
+            "last_retested_at_epoch": 1598682329.318384,
+            "last_retested_at_iso": "2020-08-29T06:25:29.318384",
+            "status": "INACTIVE"
+        },
         "node-personalization-d.elasticbeanstalk.com": {
             "included_at_epoch": 1598335509.035474,
             "included_at_iso": "2020-08-25T06:05:09.035474",
@@ -2884,6 +2905,13 @@
             "included_at_iso": "2020-08-15T07:06:37.616480",
             "last_retested_at_epoch": 1598510035.685956,
             "last_retested_at_iso": "2020-08-27T06:33:55.685956",
+            "status": "INACTIVE"
+        },
+        "overlay-track-prod01.sailthru.cloud": {
+            "included_at_epoch": 1598682329.330071,
+            "included_at_iso": "2020-08-29T06:25:29.330071",
+            "last_retested_at_epoch": 1598682329.330071,
+            "last_retested_at_iso": "2020-08-29T06:25:29.330071",
             "status": "INACTIVE"
         },
         "ox-d.247wallst.servedbyopenx.com": {

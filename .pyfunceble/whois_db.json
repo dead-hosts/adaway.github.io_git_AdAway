@@ -5012,7 +5012,8 @@
     "phizzle.com": {
         "epoch": 1598572800.0,
         "expiration_date": "28-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "phluant.com": {
         "epoch": 1626048000.0,
@@ -5610,8 +5611,9 @@
         "state": "future"
     },
     "sascdn.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "saspreview.com": {
