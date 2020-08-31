@@ -3320,6 +3320,13 @@
             "last_retested_at_iso": "2020-08-27T06:33:55.789912",
             "status": "INACTIVE"
         },
+        "res.tdxio.com": {
+            "included_at_epoch": 1598855918.266678,
+            "included_at_iso": "2020-08-31T06:38:38.266678",
+            "last_retested_at_epoch": 1598855918.266678,
+            "last_retested_at_iso": "2020-08-31T06:38:38.266678",
+            "status": "INACTIVE"
+        },
         "rest.segmentify.com": {
             "included_at_epoch": 1597992705.018119,
             "included_at_iso": "2020-08-21T06:51:45.018119",
@@ -3481,13 +3488,6 @@
             "last_retested_at_iso": "2020-08-27T06:33:51.307200",
             "status": "INACTIVE"
         },
-        "sense360eng.com.herokudns.com": {
-            "included_at_epoch": 1596435664.329543,
-            "included_at_iso": "2020-08-03T06:21:04.329543",
-            "last_retested_at_epoch": 1598508285.699619,
-            "last_retested_at_iso": "2020-08-27T06:04:45.699619",
-            "status": "INACTIVE"
-        },
         "services.adblox.net": {
             "included_at_epoch": 1597470221.924245,
             "included_at_iso": "2020-08-15T05:43:41.924245",
@@ -3642,6 +3642,13 @@
             "last_retested_at_iso": "2020-08-27T06:58:08.302744",
             "status": "INACTIVE"
         },
+        "tck.synerise.com": {
+            "included_at_epoch": 1598855917.295594,
+            "included_at_iso": "2020-08-31T06:38:37.295594",
+            "last_retested_at_epoch": 1598855917.295594,
+            "last_retested_at_iso": "2020-08-31T06:38:37.295594",
+            "status": "INACTIVE"
+        },
         "tealium.hs.llnwd.net": {
             "included_at_epoch": 1598681141.208166,
             "included_at_iso": "2020-08-29T06:05:41.208166",
@@ -3759,6 +3766,13 @@
             "included_at_iso": "2020-08-15T07:23:45.014072",
             "last_retested_at_epoch": 1598511145.293184,
             "last_retested_at_iso": "2020-08-27T06:52:25.293184",
+            "status": "INACTIVE"
+        },
+        "ts.tdxio.com": {
+            "included_at_epoch": 1598855918.278704,
+            "included_at_iso": "2020-08-31T06:38:38.278704",
+            "last_retested_at_epoch": 1598855918.278704,
+            "last_retested_at_iso": "2020-08-31T06:38:38.278704",
             "status": "INACTIVE"
         },
         "twentyfourhourcampfire-d.openx.net": {
