@@ -1654,13 +1654,6 @@
             "last_retested_at_iso": "2020-08-27T06:33:55.233558",
             "status": "INACTIVE"
         },
-        "adoramatracksdk.optimove.net": {
-            "included_at_epoch": 1596264406.832246,
-            "included_at_iso": "2020-08-01T06:46:46.832246",
-            "last_retested_at_epoch": 1598510036.517023,
-            "last_retested_at_iso": "2020-08-27T06:33:56.517023",
-            "status": "INACTIVE"
-        },
         "ads.bluelithium.com": {
             "included_at_epoch": 1598334409.570326,
             "included_at_iso": "2020-08-25T05:46:49.570326",
@@ -2235,6 +2228,13 @@
             "last_retested_at_iso": "2020-08-27T06:04:44.451535",
             "status": "INACTIVE"
         },
+        "debug.aerserv.com": {
+            "included_at_epoch": 1598852965.650144,
+            "included_at_iso": "2020-08-31T05:49:25.650144",
+            "last_retested_at_epoch": 1598852965.650144,
+            "last_retested_at_iso": "2020-08-31T05:49:25.650144",
+            "status": "INACTIVE"
+        },
         "defymedia-d.openx.net": {
             "included_at_epoch": 1597475196.788649,
             "included_at_iso": "2020-08-15T07:06:36.788649",
@@ -2648,13 +2648,6 @@
             "last_retested_at_iso": "2020-08-27T06:58:06.855301",
             "status": "INACTIVE"
         },
-        "lampenwelttracksdk.optimove.net": {
-            "included_at_epoch": 1596264406.879351,
-            "included_at_iso": "2020-08-01T06:46:46.879351",
-            "last_retested_at_epoch": 1598510036.542929,
-            "last_retested_at_iso": "2020-08-27T06:33:56.542929",
-            "status": "INACTIVE"
-        },
         "logs.locarta.co": {
             "included_at_epoch": 1598337008.873286,
             "included_at_iso": "2020-08-25T06:30:08.873286",
@@ -2667,13 +2660,6 @@
             "included_at_iso": "2020-08-03T07:05:57.912103",
             "last_retested_at_epoch": 1598511487.668253,
             "last_retested_at_iso": "2020-08-27T06:58:07.668253",
-            "status": "INACTIVE"
-        },
-        "madamenoire.moengage.com": {
-            "included_at_epoch": 1596264398.75091,
-            "included_at_iso": "2020-08-01T06:46:38.750910",
-            "last_retested_at_epoch": 1598510032.893216,
-            "last_retested_at_iso": "2020-08-27T06:33:52.893216",
             "status": "INACTIVE"
         },
         "magnetic.t.domdex.com": {
@@ -3278,13 +3264,6 @@
             "last_retested_at_iso": "2020-08-27T06:58:08.363018",
             "status": "INACTIVE"
         },
-        "pushsdk-images-dxbflwlregyfwcs9jnqt.stackpathdns.com": {
-            "included_at_epoch": 1596265446.817922,
-            "included_at_iso": "2020-08-01T07:04:06.817922",
-            "last_retested_at_epoch": 1598511486.966541,
-            "last_retested_at_iso": "2020-08-27T06:58:06.966541",
-            "status": "INACTIVE"
-        },
         "q1-media-d.openx.net": {
             "included_at_epoch": 1597475197.854237,
             "included_at_iso": "2020-08-15T07:06:37.854237",
@@ -3318,13 +3297,6 @@
             "included_at_iso": "2020-08-15T07:06:37.933952",
             "last_retested_at_epoch": 1598510035.789912,
             "last_retested_at_iso": "2020-08-27T06:33:55.789912",
-            "status": "INACTIVE"
-        },
-        "res.tdxio.com": {
-            "included_at_epoch": 1596266473.989517,
-            "included_at_iso": "2020-08-01T07:21:13.989517",
-            "last_retested_at_epoch": 1598511149.654731,
-            "last_retested_at_iso": "2020-08-27T06:52:29.654731",
             "status": "INACTIVE"
         },
         "rest.segmentify.com": {
@@ -3773,13 +3745,6 @@
             "included_at_iso": "2020-08-15T07:23:45.014072",
             "last_retested_at_epoch": 1598511145.293184,
             "last_retested_at_iso": "2020-08-27T06:52:25.293184",
-            "status": "INACTIVE"
-        },
-        "ts.tdxio.com": {
-            "included_at_epoch": 1596266474.01451,
-            "included_at_iso": "2020-08-01T07:21:14.014510",
-            "last_retested_at_epoch": 1598511149.666977,
-            "last_retested_at_iso": "2020-08-27T06:52:29.666977",
             "status": "INACTIVE"
         },
         "twentyfourhourcampfire-d.openx.net": {
