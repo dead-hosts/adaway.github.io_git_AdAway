@@ -1654,6 +1654,13 @@
             "last_retested_at_iso": "2020-08-27T06:33:55.233558",
             "status": "INACTIVE"
         },
+        "adoramatracksdk.optimove.net": {
+            "included_at_epoch": 1598855081.051772,
+            "included_at_iso": "2020-08-31T06:24:41.051772",
+            "last_retested_at_epoch": 1598855081.051772,
+            "last_retested_at_iso": "2020-08-31T06:24:41.051772",
+            "status": "INACTIVE"
+        },
         "ads.bluelithium.com": {
             "included_at_epoch": 1598334409.570326,
             "included_at_iso": "2020-08-25T05:46:49.570326",
@@ -2648,6 +2655,13 @@
             "last_retested_at_iso": "2020-08-27T06:58:06.855301",
             "status": "INACTIVE"
         },
+        "lampenwelttracksdk.optimove.net": {
+            "included_at_epoch": 1598855081.075937,
+            "included_at_iso": "2020-08-31T06:24:41.075937",
+            "last_retested_at_epoch": 1598855081.075937,
+            "last_retested_at_iso": "2020-08-31T06:24:41.075937",
+            "status": "INACTIVE"
+        },
         "logs.locarta.co": {
             "included_at_epoch": 1598337008.873286,
             "included_at_iso": "2020-08-25T06:30:08.873286",
@@ -2660,6 +2674,13 @@
             "included_at_iso": "2020-08-03T07:05:57.912103",
             "last_retested_at_epoch": 1598511487.668253,
             "last_retested_at_iso": "2020-08-27T06:58:07.668253",
+            "status": "INACTIVE"
+        },
+        "madamenoire.moengage.com": {
+            "included_at_epoch": 1598855078.292362,
+            "included_at_iso": "2020-08-31T06:24:38.292362",
+            "last_retested_at_epoch": 1598855078.292362,
+            "last_retested_at_iso": "2020-08-31T06:24:38.292362",
             "status": "INACTIVE"
         },
         "magnetic.t.domdex.com": {
@@ -3430,13 +3451,6 @@
             "included_at_iso": "2020-08-11T06:47:39.543683",
             "last_retested_at_epoch": 1598511486.365912,
             "last_retested_at_iso": "2020-08-27T06:58:06.365912",
-            "status": "INACTIVE"
-        },
-        "sec-ads.bridgetrack.com": {
-            "included_at_epoch": 1596434634.875809,
-            "included_at_iso": "2020-08-03T06:03:54.875809",
-            "last_retested_at_epoch": 1598507242.931974,
-            "last_retested_at_iso": "2020-08-27T05:47:22.931974",
             "status": "INACTIVE"
         },
         "secondmedia-d.openx.net": {
