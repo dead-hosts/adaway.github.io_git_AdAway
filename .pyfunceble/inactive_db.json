@@ -1829,6 +1829,13 @@
             "last_retested_at_iso": "2020-08-29T05:48:34.194118",
             "status": "INACTIVE"
         },
+        "api.admob.xiaomi.com": {
+            "included_at_epoch": 1599201857.579958,
+            "included_at_iso": "2020-09-04T06:44:17.579958",
+            "last_retested_at_epoch": 1599201857.579958,
+            "last_retested_at_iso": "2020-09-04T06:44:17.579958",
+            "status": "INACTIVE"
+        },
         "api.adsnative.com": {
             "included_at_epoch": 1597988616.593577,
             "included_at_iso": "2020-08-21T05:43:36.593577",
@@ -1974,13 +1981,6 @@
             "included_at_iso": "2020-08-11T06:47:39.579900",
             "last_retested_at_epoch": 1598511486.978691,
             "last_retested_at_iso": "2020-08-27T06:58:06.978691",
-            "status": "INACTIVE"
-        },
-        "cat.sv.us.criteo.com": {
-            "included_at_epoch": 1596781942.488474,
-            "included_at_iso": "2020-08-07T06:32:22.488474",
-            "last_retested_at_epoch": 1598508281.589014,
-            "last_retested_at_iso": "2020-08-27T06:04:41.589014",
             "status": "INACTIVE"
         },
         "cdm-d.openx.net": {
@@ -2464,13 +2464,6 @@
             "included_at_iso": "2020-08-15T07:23:40.309895",
             "last_retested_at_epoch": 1598510039.421465,
             "last_retested_at_iso": "2020-08-27T06:33:59.421465",
-            "status": "INACTIVE"
-        },
-        "eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com": {
-            "included_at_epoch": 1596781946.602259,
-            "included_at_iso": "2020-08-07T06:32:26.602259",
-            "last_retested_at_epoch": 1598508283.614122,
-            "last_retested_at_iso": "2020-08-27T06:04:43.614122",
             "status": "INACTIVE"
         },
         "events.urbanairship.com": {
@@ -3355,13 +3348,6 @@
             "last_retested_at_iso": "2020-08-27T05:47:22.079831",
             "status": "INACTIVE"
         },
-        "rtb.sv.us.criteo.com": {
-            "included_at_epoch": 1596781942.50337,
-            "included_at_iso": "2020-08-07T06:32:22.503370",
-            "last_retested_at_epoch": 1598508281.579408,
-            "last_retested_at_iso": "2020-08-27T06:04:41.579408",
-            "status": "INACTIVE"
-        },
         "rubick.gameanalytics.com": {
             "included_at_epoch": 1598335510.307712,
             "included_at_iso": "2020-08-25T06:05:10.307712",
@@ -3598,13 +3584,6 @@
             "included_at_iso": "2020-08-11T06:30:36.270783",
             "last_retested_at_epoch": 1598508283.256263,
             "last_retested_at_iso": "2020-08-27T06:04:43.256263",
-            "status": "INACTIVE"
-        },
-        "static.dynamicyield.com": {
-            "included_at_epoch": 1596781945.891692,
-            "included_at_iso": "2020-08-07T06:32:25.891692",
-            "last_retested_at_epoch": 1598508283.246608,
-            "last_retested_at_iso": "2020-08-27T06:04:43.246608",
             "status": "INACTIVE"
         },
         "stats.bidgear.com": {
