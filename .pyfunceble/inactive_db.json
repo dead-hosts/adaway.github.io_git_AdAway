@@ -3243,6 +3243,13 @@
             "last_retested_at_iso": "2020-08-27T06:33:55.728099",
             "status": "INACTIVE"
         },
+        "postback.pointwise.co": {
+            "included_at_epoch": 1599201018.147913,
+            "included_at_iso": "2020-09-04T06:30:18.147913",
+            "last_retested_at_epoch": 1599201018.147913,
+            "last_retested_at_iso": "2020-09-04T06:30:18.147913",
+            "status": "INACTIVE"
+        },
         "preroll.a4.tl": {
             "included_at_epoch": 1596951435.334714,
             "included_at_iso": "2020-08-09T05:37:15.334714",
