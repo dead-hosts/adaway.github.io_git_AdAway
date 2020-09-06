@@ -1983,6 +1983,13 @@
             "last_retested_at_iso": "2020-08-27T06:58:06.978691",
             "status": "INACTIVE"
         },
+        "cat.sv.us.criteo.com": {
+            "included_at_epoch": 1599372608.324761,
+            "included_at_iso": "2020-09-06T06:10:08.324761",
+            "last_retested_at_epoch": 1599372608.324761,
+            "last_retested_at_iso": "2020-09-06T06:10:08.324761",
+            "status": "INACTIVE"
+        },
         "cdm-d.openx.net": {
             "included_at_epoch": 1597475196.607977,
             "included_at_iso": "2020-08-15T07:06:36.607977",
@@ -2450,6 +2457,13 @@
             "included_at_iso": "2020-08-15T07:23:40.309895",
             "last_retested_at_epoch": 1598510039.421465,
             "last_retested_at_iso": "2020-08-27T06:33:59.421465",
+            "status": "INACTIVE"
+        },
+        "eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com": {
+            "included_at_epoch": 1599372609.964924,
+            "included_at_iso": "2020-09-06T06:10:09.964924",
+            "last_retested_at_epoch": 1599372609.964924,
+            "last_retested_at_iso": "2020-09-06T06:10:09.964924",
             "status": "INACTIVE"
         },
         "events.vungtv.com": {
@@ -3299,6 +3313,13 @@
             "last_retested_at_iso": "2020-08-27T05:47:22.079831",
             "status": "INACTIVE"
         },
+        "rtb.sv.us.criteo.com": {
+            "included_at_epoch": 1599372608.338177,
+            "included_at_iso": "2020-09-06T06:10:08.338177",
+            "last_retested_at_epoch": 1599372608.338177,
+            "last_retested_at_iso": "2020-09-06T06:10:08.338177",
+            "status": "INACTIVE"
+        },
         "rubick.gameanalytics.com": {
             "included_at_epoch": 1598335510.307712,
             "included_at_iso": "2020-08-25T06:05:10.307712",
@@ -3507,6 +3528,13 @@
             "included_at_iso": "2020-08-11T06:30:36.270783",
             "last_retested_at_epoch": 1598508283.256263,
             "last_retested_at_iso": "2020-08-27T06:04:43.256263",
+            "status": "INACTIVE"
+        },
+        "static.dynamicyield.com": {
+            "included_at_epoch": 1599372609.652776,
+            "included_at_iso": "2020-09-06T06:10:09.652776",
+            "last_retested_at_epoch": 1599372609.652776,
+            "last_retested_at_iso": "2020-09-06T06:10:09.652776",
             "status": "INACTIVE"
         },
         "stats.bidgear.com": {
