@@ -3481,13 +3481,6 @@
             "last_retested_at_iso": "2020-08-27T06:58:07.775968",
             "status": "INACTIVE"
         },
-        "static-lon1.dynamicyield.com": {
-            "included_at_epoch": 1597127436.270783,
-            "included_at_iso": "2020-08-11T06:30:36.270783",
-            "last_retested_at_epoch": 1598508283.256263,
-            "last_retested_at_iso": "2020-08-27T06:04:43.256263",
-            "status": "INACTIVE"
-        },
         "static.dynamicyield.com": {
             "included_at_epoch": 1599372609.652776,
             "included_at_iso": "2020-09-06T06:10:09.652776",
