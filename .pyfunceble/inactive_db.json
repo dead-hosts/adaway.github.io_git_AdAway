@@ -1591,13 +1591,6 @@
             "last_retested_at_iso": "2020-09-02T05:50:42.828204",
             "status": "INACTIVE"
         },
-        "adizer.ru": {
-            "included_at_epoch": 1597124301.643611,
-            "included_at_iso": "2020-08-11T05:38:21.643611",
-            "last_retested_at_epoch": 1598511487.003134,
-            "last_retested_at_iso": "2020-08-27T06:58:07.003134",
-            "status": "INACTIVE"
-        },
         "admarvel-d.openx.net": {
             "included_at_epoch": 1597475196.152686,
             "included_at_iso": "2020-08-15T07:06:36.152686",
@@ -2037,13 +2030,6 @@
             "included_at_iso": "2020-09-04T06:08:38.993380",
             "last_retested_at_epoch": 1599199718.99338,
             "last_retested_at_iso": "2020-09-04T06:08:38.993380",
-            "status": "INACTIVE"
-        },
-        "cm-s1.revcontent.com": {
-            "included_at_epoch": 1596958384.780234,
-            "included_at_iso": "2020-08-09T07:33:04.780234",
-            "last_retested_at_epoch": 1598511487.847612,
-            "last_retested_at_iso": "2020-08-27T06:58:07.847612",
             "status": "INACTIVE"
         },
         "cm.masky.biddingx.com": {
@@ -2620,13 +2606,6 @@
             "last_retested_at_iso": "2020-08-27T06:58:07.871491",
             "status": "INACTIVE"
         },
-        "ivid-f5-us-va.adhigh.net": {
-            "included_at_epoch": 1597124301.523443,
-            "included_at_iso": "2020-08-11T05:38:21.523443",
-            "last_retested_at_epoch": 1598511487.835692,
-            "last_retested_at_iso": "2020-08-27T06:58:07.835692",
-            "status": "INACTIVE"
-        },
         "iw.a.mobimagic.com": {
             "included_at_epoch": 1599027936.787852,
             "included_at_iso": "2020-09-02T06:25:36.787852",
@@ -2751,20 +2730,6 @@
             "included_at_iso": "2020-08-25T06:47:22.347139",
             "last_retested_at_epoch": 1598511144.170167,
             "last_retested_at_iso": "2020-08-27T06:52:24.170167",
-            "status": "INACTIVE"
-        },
-        "ms-ads-events-cdn.prod.cloud.ogury.io": {
-            "included_at_epoch": 1596957357.033383,
-            "included_at_iso": "2020-08-09T07:15:57.033383",
-            "last_retested_at_epoch": 1598511486.904197,
-            "last_retested_at_iso": "2020-08-27T06:58:06.904197",
-            "status": "INACTIVE"
-        },
-        "mt.analytics.163.com": {
-            "included_at_epoch": 1597124299.930726,
-            "included_at_iso": "2020-08-11T05:38:19.930726",
-            "last_retested_at_epoch": 1598511486.586844,
-            "last_retested_at_iso": "2020-08-27T06:58:06.586844",
             "status": "INACTIVE"
         },
         "n-cdn.areyouahuman.com": {
@@ -3677,13 +3642,6 @@
             "last_retested_at_iso": "2020-08-27T06:52:33.091866",
             "status": "INACTIVE"
         },
-        "tracking.admobsphere.com": {
-            "included_at_epoch": 1597124302.515083,
-            "included_at_iso": "2020-08-11T05:38:22.515083",
-            "last_retested_at_epoch": 1598511488.631067,
-            "last_retested_at_iso": "2020-08-27T06:58:08.631067",
-            "status": "INACTIVE"
-        },
         "tracking.tapinfluence.com": {
             "included_at_epoch": 1598338047.951539,
             "included_at_iso": "2020-08-25T06:47:27.951539",
@@ -3696,13 +3654,6 @@
             "included_at_iso": "2020-08-15T07:06:38.694717",
             "last_retested_at_epoch": 1598510036.046732,
             "last_retested_at_iso": "2020-08-27T06:33:56.046732",
-            "status": "INACTIVE"
-        },
-        "trends-s1.revcontent.com": {
-            "included_at_epoch": 1596958384.916468,
-            "included_at_iso": "2020-08-09T07:33:04.916468",
-            "last_retested_at_epoch": 1598511487.153868,
-            "last_retested_at_iso": "2020-08-27T06:58:07.153868",
             "status": "INACTIVE"
         },
         "trion-d.openx.net": {
@@ -3871,13 +3822,6 @@
             "included_at_iso": "2020-08-15T07:06:39.067982",
             "last_retested_at_epoch": 1598511488.098869,
             "last_retested_at_iso": "2020-08-27T06:58:08.098869",
-            "status": "INACTIVE"
-        },
-        "www-s1.revcontent.com": {
-            "included_at_epoch": 1596958384.938446,
-            "included_at_iso": "2020-08-09T07:33:04.938446",
-            "last_retested_at_epoch": 1598511488.266486,
-            "last_retested_at_iso": "2020-08-27T06:58:08.266486",
             "status": "INACTIVE"
         },
         "zealotnetworks-d.openx.net": {
