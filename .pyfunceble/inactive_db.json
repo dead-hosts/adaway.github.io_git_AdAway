@@ -3320,6 +3320,13 @@
             "last_retested_at_iso": "2020-08-27T06:33:57.697998",
             "status": "INACTIVE"
         },
+        "sanalytics.virginmobileusa.com": {
+            "included_at_epoch": 1599720155.758739,
+            "included_at_iso": "2020-09-10T06:42:35.758739",
+            "last_retested_at_epoch": 1599720155.758739,
+            "last_retested_at_iso": "2020-09-10T06:42:35.758739",
+            "status": "INACTIVE"
+        },
         "sdk-ads.bidmotion.com": {
             "included_at_epoch": 1598334409.38571,
             "included_at_iso": "2020-08-25T05:46:49.385710",
@@ -3668,6 +3675,13 @@
             "included_at_iso": "2020-08-15T07:06:38.770704",
             "last_retested_at_epoch": 1598511488.11085,
             "last_retested_at_iso": "2020-08-27T06:58:08.110850",
+            "status": "INACTIVE"
+        },
+        "u-ad.info": {
+            "included_at_epoch": 1599720154.284733,
+            "included_at_iso": "2020-09-10T06:42:34.284733",
+            "last_retested_at_epoch": 1599720154.284733,
+            "last_retested_at_iso": "2020-09-10T06:42:34.284733",
             "status": "INACTIVE"
         },
         "ul.a.mobimagic.com": {
