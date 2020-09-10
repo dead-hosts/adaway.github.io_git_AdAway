@@ -2540,7 +2540,8 @@
     "dyntrk.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "eacdn.com": {
         "epoch": 1618185600.0,

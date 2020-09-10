@@ -1563,6 +1563,27 @@
             "last_retested_at_iso": "2020-08-27T06:58:07.129248",
             "status": "INACTIVE"
         },
+        "ad.adapter.kaffnet.com": {
+            "included_at_epoch": 1599718299.079731,
+            "included_at_iso": "2020-09-10T06:11:39.079731",
+            "last_retested_at_epoch": 1599718299.079731,
+            "last_retested_at_iso": "2020-09-10T06:11:39.079731",
+            "status": "INACTIVE"
+        },
+        "ad.api.kaffnet.com": {
+            "included_at_epoch": 1599718299.089966,
+            "included_at_iso": "2020-09-10T06:11:39.089966",
+            "last_retested_at_epoch": 1599718299.089966,
+            "last_retested_at_iso": "2020-09-10T06:11:39.089966",
+            "status": "INACTIVE"
+        },
+        "ad.click.kaffnet.com": {
+            "included_at_epoch": 1599718299.114215,
+            "included_at_iso": "2020-09-10T06:11:39.114215",
+            "last_retested_at_epoch": 1599718299.114215,
+            "last_retested_at_iso": "2020-09-10T06:11:39.114215",
+            "status": "INACTIVE"
+        },
         "ad.leadboltapps.net": {
             "included_at_epoch": 1598337008.088212,
             "included_at_iso": "2020-08-25T06:30:08.088212",
@@ -3313,6 +3334,13 @@
             "last_retested_at_iso": "2020-08-27T05:47:17.882023",
             "status": "INACTIVE"
         },
+        "sdk.api.kaffnet.com": {
+            "included_at_epoch": 1599718299.100248,
+            "included_at_iso": "2020-09-10T06:11:39.100248",
+            "last_retested_at_epoch": 1599718299.100248,
+            "last_retested_at_iso": "2020-09-10T06:11:39.100248",
+            "status": "INACTIVE"
+        },
         "sec-ads.bridgetrack.com": {
             "included_at_epoch": 1599025844.669088,
             "included_at_iso": "2020-09-02T05:50:44.669088",
@@ -3444,6 +3472,13 @@
             "included_at_iso": "2020-08-15T07:06:38.374473",
             "last_retested_at_epoch": 1598511487.775968,
             "last_retested_at_iso": "2020-08-27T06:58:07.775968",
+            "status": "INACTIVE"
+        },
+        "static-lon1.dynamicyield.com": {
+            "included_at_epoch": 1599718295.64357,
+            "included_at_iso": "2020-09-10T06:11:35.643570",
+            "last_retested_at_epoch": 1599718295.64357,
+            "last_retested_at_iso": "2020-09-10T06:11:35.643570",
             "status": "INACTIVE"
         },
         "static.dynamicyield.com": {
