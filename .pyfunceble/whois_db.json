@@ -6826,7 +6826,8 @@
     "ximad.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "xiti.com": {
         "epoch": 1614556800.0,
