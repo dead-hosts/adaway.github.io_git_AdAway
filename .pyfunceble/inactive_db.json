@@ -1549,13 +1549,6 @@
             "last_retested_at_iso": "2020-08-27T06:58:08.134753",
             "status": "INACTIVE"
         },
-        "access.adblox.net": {
-            "included_at_epoch": 1597470221.933367,
-            "included_at_iso": "2020-08-15T05:43:41.933367",
-            "last_retested_at_epoch": 1598511487.027478,
-            "last_retested_at_iso": "2020-08-27T06:58:07.027478",
-            "status": "INACTIVE"
-        },
         "activenetwork-d.openx.net": {
             "included_at_epoch": 1597475196.127029,
             "included_at_iso": "2020-08-15T07:06:36.127029",
@@ -1624,13 +1617,6 @@
             "included_at_iso": "2020-08-15T07:06:36.165470",
             "last_retested_at_epoch": 1598511487.680126,
             "last_retested_at_iso": "2020-08-27T06:58:07.680126",
-            "status": "INACTIVE"
-        },
-        "admob.tk": {
-            "included_at_epoch": 1597470223.822302,
-            "included_at_iso": "2020-08-15T05:43:43.822302",
-            "last_retested_at_epoch": 1598511487.141491,
-            "last_retested_at_iso": "2020-08-27T06:58:07.141491",
             "status": "INACTIVE"
         },
         "admp-tc-digo.adtlgc.com": {
@@ -3367,20 +3353,6 @@
             "included_at_iso": "2020-09-02T06:08:26.419473",
             "last_retested_at_epoch": 1599026906.419473,
             "last_retested_at_iso": "2020-09-02T06:08:26.419473",
-            "status": "INACTIVE"
-        },
-        "services.adblox.net": {
-            "included_at_epoch": 1597470221.924245,
-            "included_at_iso": "2020-08-15T05:43:41.924245",
-            "last_retested_at_epoch": 1598511487.405201,
-            "last_retested_at_iso": "2020-08-27T06:58:07.405201",
-            "status": "INACTIVE"
-        },
-        "servs.adblox.net": {
-            "included_at_epoch": 1597470221.942223,
-            "included_at_iso": "2020-08-15T05:43:41.942223",
-            "last_retested_at_epoch": 1598511486.83093,
-            "last_retested_at_iso": "2020-08-27T06:58:06.830930",
             "status": "INACTIVE"
         },
         "setting.adzcore.com": {
