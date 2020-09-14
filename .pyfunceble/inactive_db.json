@@ -2137,6 +2137,13 @@
             "last_retested_at_iso": "2020-08-29T06:38:13.405228",
             "status": "INACTIVE"
         },
+        "fyc.heyzap.com": {
+            "included_at_epoch": 1600064014.563383,
+            "included_at_iso": "2020-09-14T06:13:34.563383",
+            "last_retested_at_epoch": 1600064014.563383,
+            "last_retested_at_iso": "2020-09-14T06:13:34.563383",
+            "status": "INACTIVE"
+        },
         "game.idoing3d.com": {
             "included_at_epoch": 1598335511.882256,
             "included_at_iso": "2020-08-25T06:05:11.882256",
@@ -2233,6 +2240,13 @@
             "included_at_iso": "2020-08-25T06:47:23.695496",
             "last_retested_at_epoch": 1598511145.472153,
             "last_retested_at_iso": "2020-08-27T06:52:25.472153",
+            "status": "INACTIVE"
+        },
+        "med.heyzap.com": {
+            "included_at_epoch": 1600064014.554658,
+            "included_at_iso": "2020-09-14T06:13:34.554658",
+            "last_retested_at_epoch": 1600064014.554658,
+            "last_retested_at_iso": "2020-09-14T06:13:34.554658",
             "status": "INACTIVE"
         },
         "mediate.mediabrix.com": {
