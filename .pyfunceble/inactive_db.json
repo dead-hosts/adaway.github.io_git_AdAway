@@ -1808,13 +1808,6 @@
             "last_retested_at_iso": "2020-08-27T06:04:46.888912",
             "status": "INACTIVE"
         },
-        "api.instartlogic.com": {
-            "included_at_epoch": 1597646665.240058,
-            "included_at_iso": "2020-08-17T06:44:25.240058",
-            "last_retested_at_epoch": 1598511488.218636,
-            "last_retested_at_iso": "2020-08-27T06:58:08.218636",
-            "status": "INACTIVE"
-        },
         "api.life.lovetapmobile.com": {
             "included_at_epoch": 1598164313.310451,
             "included_at_iso": "2020-08-23T06:31:53.310451",
@@ -1834,13 +1827,6 @@
             "included_at_iso": "2020-08-19T06:51:14.413058",
             "last_retested_at_epoch": 1598510034.392591,
             "last_retested_at_iso": "2020-08-27T06:33:54.392591",
-            "status": "INACTIVE"
-        },
-        "app.instartlogic.com": {
-            "included_at_epoch": 1597646665.253814,
-            "included_at_iso": "2020-08-17T06:44:25.253814",
-            "last_retested_at_epoch": 1598511487.051761,
-            "last_retested_at_iso": "2020-08-27T06:58:07.051761",
             "status": "INACTIVE"
         },
         "app.roximity.com": {
@@ -1997,13 +1983,6 @@
             "last_retested_at_iso": "2020-09-14T06:33:38.910885",
             "status": "INACTIVE"
         },
-        "data.mobclix.com": {
-            "included_at_epoch": 1597648577.374381,
-            "included_at_iso": "2020-08-17T07:16:17.374381",
-            "last_retested_at_epoch": 1598510031.956212,
-            "last_retested_at_iso": "2020-08-27T06:33:51.956212",
-            "status": "INACTIVE"
-        },
         "dcetr10.segmentify.com": {
             "included_at_epoch": 1597820899.029834,
             "included_at_iso": "2020-08-19T07:08:19.029834",
@@ -2058,13 +2037,6 @@
             "included_at_iso": "2020-09-04T05:51:27.783456",
             "last_retested_at_epoch": 1599198687.783456,
             "last_retested_at_iso": "2020-09-04T05:51:27.783456",
-            "status": "INACTIVE"
-        },
-        "dmp.ivitrack.com": {
-            "included_at_epoch": 1597646666.100594,
-            "included_at_iso": "2020-08-17T06:44:26.100594",
-            "last_retested_at_epoch": 1598511486.341341,
-            "last_retested_at_iso": "2020-08-27T06:58:06.341341",
             "status": "INACTIVE"
         },
         "dot.a.mobimagic.com": {
@@ -2233,13 +2205,6 @@
             "included_at_iso": "2020-08-25T06:47:27.926311",
             "last_retested_at_epoch": 1598511149.363627,
             "last_retested_at_iso": "2020-08-27T06:52:29.363627",
-            "status": "INACTIVE"
-        },
-        "info.instartlogic.com": {
-            "included_at_epoch": 1597646665.267969,
-            "included_at_iso": "2020-08-17T06:44:25.267969",
-            "last_retested_at_epoch": 1598511488.655306,
-            "last_retested_at_iso": "2020-08-27T06:58:08.655306",
             "status": "INACTIVE"
         },
         "iw.a.mobimagic.com": {
@@ -2620,13 +2585,6 @@
             "last_retested_at_iso": "2020-08-27T05:47:19.176340",
             "status": "INACTIVE"
         },
-        "s.mobclix.com": {
-            "included_at_epoch": 1597648577.388816,
-            "included_at_iso": "2020-08-17T07:16:17.388816",
-            "last_retested_at_epoch": 1598511488.314794,
-            "last_retested_at_iso": "2020-08-27T06:58:08.314794",
-            "status": "INACTIVE"
-        },
         "s.po.st": {
             "included_at_epoch": 1599892210.311654,
             "included_at_iso": "2020-09-12T06:30:10.311654",
@@ -2674,13 +2632,6 @@
             "included_at_iso": "2020-09-14T06:33:39.336687",
             "last_retested_at_epoch": 1600065219.336687,
             "last_retested_at_iso": "2020-09-14T06:33:39.336687",
-            "status": "INACTIVE"
-        },
-        "security.instartlogic.com": {
-            "included_at_epoch": 1597646665.281957,
-            "included_at_iso": "2020-08-17T06:44:25.281957",
-            "last_retested_at_epoch": 1598511487.716077,
-            "last_retested_at_iso": "2020-08-27T06:58:07.716077",
             "status": "INACTIVE"
         },
         "send.microadinc.com": {
