@@ -1983,6 +1983,13 @@
             "last_retested_at_iso": "2020-09-14T06:33:38.910885",
             "status": "INACTIVE"
         },
+        "data.mobclix.com": {
+            "included_at_epoch": 1600237919.592715,
+            "included_at_iso": "2020-09-16T06:31:59.592715",
+            "last_retested_at_epoch": 1600237919.592715,
+            "last_retested_at_iso": "2020-09-16T06:31:59.592715",
+            "status": "INACTIVE"
+        },
         "dcetr10.segmentify.com": {
             "included_at_epoch": 1597820899.029834,
             "included_at_iso": "2020-08-19T07:08:19.029834",
@@ -2438,20 +2445,6 @@
             "last_retested_at_iso": "2020-09-14T06:33:43.691146",
             "status": "INACTIVE"
         },
-        "p-jp-cci-dps.cinarra.com": {
-            "included_at_epoch": 1597817790.675262,
-            "included_at_iso": "2020-08-19T06:16:30.675262",
-            "last_retested_at_epoch": 1598507243.481703,
-            "last_retested_at_iso": "2020-08-27T05:47:23.481703",
-            "status": "INACTIVE"
-        },
-        "p-jp-elb-inmobi.cinarra.com": {
-            "included_at_epoch": 1597817790.6912,
-            "included_at_iso": "2020-08-19T06:16:30.691200",
-            "last_retested_at_epoch": 1598507243.494342,
-            "last_retested_at_iso": "2020-08-27T05:47:23.494342",
-            "status": "INACTIVE"
-        },
         "p.po.st": {
             "included_at_epoch": 1599892210.32317,
             "included_at_iso": "2020-09-12T06:30:10.323170",
@@ -2737,13 +2730,6 @@
             "included_at_iso": "2020-08-25T06:30:12.913442",
             "last_retested_at_epoch": 1598510033.190921,
             "last_retested_at_iso": "2020-08-27T06:33:53.190921",
-            "status": "INACTIVE"
-        },
-        "track.eyeviewads.com": {
-            "included_at_epoch": 1597817794.87837,
-            "included_at_iso": "2020-08-19T06:16:34.878370",
-            "last_retested_at_epoch": 1598508284.066805,
-            "last_retested_at_iso": "2020-08-27T06:04:44.066805",
             "status": "INACTIVE"
         },
         "trackers.voodoo-analytics.io": {
