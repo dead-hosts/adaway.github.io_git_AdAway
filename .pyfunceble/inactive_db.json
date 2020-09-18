@@ -1822,18 +1822,18 @@
             "last_retested_at_iso": "2020-08-27T06:33:52.354739",
             "status": "INACTIVE"
         },
+        "api.nrelate.com": {
+            "included_at_epoch": 1600410785.922847,
+            "included_at_iso": "2020-09-18T06:33:05.922847",
+            "last_retested_at_epoch": 1600410785.922847,
+            "last_retested_at_iso": "2020-09-18T06:33:05.922847",
+            "status": "INACTIVE"
+        },
         "app.roximity.com": {
             "included_at_epoch": 1598338042.135739,
             "included_at_iso": "2020-08-25T06:47:22.135739",
             "last_retested_at_epoch": 1598511143.956806,
             "last_retested_at_iso": "2020-08-27T06:52:23.956806",
-            "status": "INACTIVE"
-        },
-        "asth.innity.com": {
-            "included_at_epoch": 1597990644.878098,
-            "included_at_iso": "2020-08-21T06:17:24.878098",
-            "last_retested_at_epoch": 1598508286.994561,
-            "last_retested_at_iso": "2020-08-27T06:04:46.994561",
             "status": "INACTIVE"
         },
         "aufeminin-g-d.openx.net": {
@@ -1918,13 +1918,6 @@
             "included_at_iso": "2020-08-25T06:05:07.349104",
             "last_retested_at_epoch": 1598508282.048721,
             "last_retested_at_iso": "2020-08-27T06:04:42.048721",
-            "status": "INACTIVE"
-        },
-        "collect13446fpcqz.deltadna.net": {
-            "included_at_epoch": 1597990639.932362,
-            "included_at_iso": "2020-08-21T06:17:19.932362",
-            "last_retested_at_epoch": 1598508282.060806,
-            "last_retested_at_iso": "2020-08-27T06:04:42.060806",
             "status": "INACTIVE"
         },
         "collect13494dvntr.deltadna.net": {
@@ -2240,6 +2233,13 @@
             "included_at_iso": "2020-09-02T06:25:35.319475",
             "last_retested_at_epoch": 1599027935.319475,
             "last_retested_at_iso": "2020-09-02T06:25:35.319475",
+            "status": "INACTIVE"
+        },
+        "metrics.macys.net": {
+            "included_at_epoch": 1600410782.248466,
+            "included_at_iso": "2020-09-18T06:33:02.248466",
+            "last_retested_at_epoch": 1600410782.248466,
+            "last_retested_at_iso": "2020-09-18T06:33:02.248466",
             "status": "INACTIVE"
         },
         "metrics.tbliab.net": {
