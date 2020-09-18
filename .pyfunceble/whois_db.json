@@ -2739,7 +2739,8 @@
     "firstimpression.io": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "fluentmobile.com": {
         "epoch": 1629158400.0,
@@ -3172,8 +3173,9 @@
         "state": "future"
     },
     "hs-analytics.net": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hs-scripts.com": {
