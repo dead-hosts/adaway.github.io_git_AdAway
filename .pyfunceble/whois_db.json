@@ -4746,8 +4746,9 @@
         "state": "future"
     },
     "networld.hk": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1695168000.0,
+        "expiration_date": "20-sep-2023",
+        "server": "whois.hkirc.hk",
         "state": "future"
     },
     "newonads.com": {
@@ -5062,10 +5063,10 @@
         "state": "future"
     },
     "pixel.watch": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
         "server": "whois.nic.watch",
-        "state": "past"
+        "state": "future"
     },
     "pixels.asia": {
         "epoch": 1659312000.0,
@@ -5620,8 +5621,9 @@
         "state": "future"
     },
     "sam4m.com": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "samsungacr.com": {

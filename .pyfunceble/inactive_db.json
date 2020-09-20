@@ -2109,6 +2109,20 @@
             "last_retested_at_iso": "2020-09-06T06:10:09.964924",
             "status": "INACTIVE"
         },
+        "flapi1.rubiconproject.com": {
+            "included_at_epoch": 1600583679.857586,
+            "included_at_iso": "2020-09-20T06:34:39.857586",
+            "last_retested_at_epoch": 1600583679.857586,
+            "last_retested_at_iso": "2020-09-20T06:34:39.857586",
+            "status": "INACTIVE"
+        },
+        "flapi2.rubiconproject.com": {
+            "included_at_epoch": 1600583679.867549,
+            "included_at_iso": "2020-09-20T06:34:39.867549",
+            "last_retested_at_epoch": 1600583679.867549,
+            "last_retested_at_iso": "2020-09-20T06:34:39.867549",
+            "status": "INACTIVE"
+        },
         "fls.unrulymedia.com": {
             "included_at_epoch": 1598683093.405228,
             "included_at_iso": "2020-08-29T06:38:13.405228",
@@ -2261,6 +2275,13 @@
             "included_at_iso": "2020-09-14T06:33:39.088375",
             "last_retested_at_epoch": 1600065219.088375,
             "last_retested_at_iso": "2020-09-14T06:33:39.088375",
+            "status": "INACTIVE"
+        },
+        "mobile-service.segment.com": {
+            "included_at_epoch": 1600583680.493109,
+            "included_at_iso": "2020-09-20T06:34:40.493109",
+            "last_retested_at_epoch": 1600583680.493109,
+            "last_retested_at_iso": "2020-09-20T06:34:40.493109",
             "status": "INACTIVE"
         },
         "mobile.mediabrix.com": {
@@ -2520,6 +2541,13 @@
             "included_at_iso": "2020-08-31T06:38:38.266678",
             "last_retested_at_epoch": 1598855918.266678,
             "last_retested_at_iso": "2020-08-31T06:38:38.266678",
+            "status": "INACTIVE"
+        },
+        "rest.segmentify.com": {
+            "included_at_epoch": 1600583680.567119,
+            "included_at_iso": "2020-09-20T06:34:40.567119",
+            "last_retested_at_epoch": 1600583680.567119,
+            "last_retested_at_iso": "2020-09-20T06:34:40.567119",
             "status": "INACTIVE"
         },
         "rg.appserver-ap.com": {
