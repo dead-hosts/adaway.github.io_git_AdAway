@@ -1843,6 +1843,13 @@
             "last_retested_at_iso": "2020-08-27T06:52:23.956806",
             "status": "INACTIVE"
         },
+        "asth.innity.com": {
+            "included_at_epoch": 1600582648.270175,
+            "included_at_iso": "2020-09-20T06:17:28.270175",
+            "last_retested_at_epoch": 1600582648.270175,
+            "last_retested_at_iso": "2020-09-20T06:17:28.270175",
+            "status": "INACTIVE"
+        },
         "aufeminin-g-d.openx.net": {
             "included_at_epoch": 1600065218.816834,
             "included_at_iso": "2020-09-14T06:33:38.816834",
@@ -1925,6 +1932,13 @@
             "included_at_iso": "2020-08-25T06:05:07.349104",
             "last_retested_at_epoch": 1598508282.048721,
             "last_retested_at_iso": "2020-08-27T06:04:42.048721",
+            "status": "INACTIVE"
+        },
+        "collect13446fpcqz.deltadna.net": {
+            "included_at_epoch": 1600582644.760877,
+            "included_at_iso": "2020-09-20T06:17:24.760877",
+            "last_retested_at_epoch": 1600582644.760877,
+            "last_retested_at_iso": "2020-09-20T06:17:24.760877",
             "status": "INACTIVE"
         },
         "collect13494dvntr.deltadna.net": {
