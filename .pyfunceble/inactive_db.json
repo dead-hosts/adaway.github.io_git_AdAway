@@ -1815,13 +1815,6 @@
             "last_retested_at_iso": "2020-09-18T06:15:56.919317",
             "status": "INACTIVE"
         },
-        "api.life.lovetapmobile.com": {
-            "included_at_epoch": 1598164313.310451,
-            "included_at_iso": "2020-08-23T06:31:53.310451",
-            "last_retested_at_epoch": 1598510029.421395,
-            "last_retested_at_iso": "2020-08-27T06:33:49.421395",
-            "status": "INACTIVE"
-        },
         "api.mobilearts.io": {
             "included_at_epoch": 1598337012.059249,
             "included_at_iso": "2020-08-25T06:30:12.059249",
@@ -2683,6 +2676,13 @@
             "last_retested_at_iso": "2020-09-06T06:10:09.652776",
             "status": "INACTIVE"
         },
+        "static.vilynx.com": {
+            "included_at_epoch": 1600584327.818712,
+            "included_at_iso": "2020-09-20T06:45:27.818712",
+            "last_retested_at_epoch": 1600584327.818712,
+            "last_retested_at_iso": "2020-09-20T06:45:27.818712",
+            "status": "INACTIVE"
+        },
         "stats.gioneemobile.net": {
             "included_at_epoch": 1599026905.977632,
             "included_at_iso": "2020-09-02T06:08:25.977632",
@@ -2695,6 +2695,13 @@
             "included_at_iso": "2020-08-25T06:47:30.251458",
             "last_retested_at_epoch": 1598511151.45039,
             "last_retested_at_iso": "2020-08-27T06:52:31.450390",
+            "status": "INACTIVE"
+        },
+        "stats3.r53.unrulymedia.com": {
+            "included_at_epoch": 1600584327.107575,
+            "included_at_iso": "2020-09-20T06:45:27.107575",
+            "last_retested_at_epoch": 1600584327.107575,
+            "last_retested_at_iso": "2020-09-20T06:45:27.107575",
             "status": "INACTIVE"
         },
         "stuff.cdn.biddingx.com": {
