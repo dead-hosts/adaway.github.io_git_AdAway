@@ -5764,7 +5764,8 @@
     "simplycast.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "singular.net": {
         "epoch": 1691539200.0,
