@@ -1850,6 +1850,13 @@
             "last_retested_at_iso": "2020-09-14T06:33:38.816834",
             "status": "INACTIVE"
         },
+        "be.sponsorpay.com": {
+            "included_at_epoch": 1600930185.563635,
+            "included_at_iso": "2020-09-24T06:49:45.563635",
+            "last_retested_at_epoch": 1600930185.563635,
+            "last_retested_at_iso": "2020-09-24T06:49:45.563635",
+            "status": "INACTIVE"
+        },
         "behacdn.ksmobile.net": {
             "included_at_epoch": 1600929399.944307,
             "included_at_iso": "2020-09-24T06:36:39.944307",
@@ -2081,6 +2088,13 @@
             "last_retested_at_iso": "2020-09-24T06:19:26.198156",
             "status": "INACTIVE"
         },
+        "engine.sponsorpay.com": {
+            "included_at_epoch": 1600930185.578856,
+            "included_at_iso": "2020-09-24T06:49:45.578856",
+            "last_retested_at_epoch": 1600930185.578856,
+            "last_retested_at_iso": "2020-09-24T06:49:45.578856",
+            "status": "INACTIVE"
+        },
         "eu-adinfo.sam4m.com": {
             "included_at_epoch": 1600929409.010936,
             "included_at_iso": "2020-09-24T06:36:49.010936",
@@ -2172,6 +2186,13 @@
             "last_retested_at_iso": "2020-09-02T06:25:38.138962",
             "status": "INACTIVE"
         },
+        "influencers.tapinfluence.com": {
+            "included_at_epoch": 1600930187.853913,
+            "included_at_iso": "2020-09-24T06:49:47.853913",
+            "last_retested_at_epoch": 1600930187.853913,
+            "last_retested_at_iso": "2020-09-24T06:49:47.853913",
+            "status": "INACTIVE"
+        },
         "iw.a.mobimagic.com": {
             "included_at_epoch": 1599027936.787852,
             "included_at_iso": "2020-09-02T06:25:36.787852",
@@ -2247,6 +2268,13 @@
             "included_at_iso": "2020-09-18T06:33:02.248466",
             "last_retested_at_epoch": 1600410782.248466,
             "last_retested_at_iso": "2020-09-18T06:33:02.248466",
+            "status": "INACTIVE"
+        },
+        "metrics.tbliab.net": {
+            "included_at_epoch": 1600930188.053705,
+            "included_at_iso": "2020-09-24T06:49:48.053705",
+            "last_retested_at_epoch": 1600930188.053705,
+            "last_retested_at_iso": "2020-09-24T06:49:48.053705",
             "status": "INACTIVE"
         },
         "mirrordigital-d.openx.net": {
@@ -2613,6 +2641,13 @@
             "last_retested_at_iso": "2020-09-02T06:08:25.977632",
             "status": "INACTIVE"
         },
+        "stats.unity3d.com": {
+            "included_at_epoch": 1600930189.592688,
+            "included_at_iso": "2020-09-24T06:49:49.592688",
+            "last_retested_at_epoch": 1600930189.592688,
+            "last_retested_at_iso": "2020-09-24T06:49:49.592688",
+            "status": "INACTIVE"
+        },
         "stats3.r53.unrulymedia.com": {
             "included_at_epoch": 1600584327.107575,
             "included_at_iso": "2020-09-20T06:45:27.107575",
@@ -2674,6 +2709,20 @@
             "included_at_iso": "2020-09-18T06:15:54.613526",
             "last_retested_at_epoch": 1600409754.613526,
             "last_retested_at_iso": "2020-09-18T06:15:54.613526",
+            "status": "INACTIVE"
+        },
+        "trackers.voodoo-analytics.io": {
+            "included_at_epoch": 1600930190.86709,
+            "included_at_iso": "2020-09-24T06:49:50.867090",
+            "last_retested_at_epoch": 1600930190.86709,
+            "last_retested_at_iso": "2020-09-24T06:49:50.867090",
+            "status": "INACTIVE"
+        },
+        "tracking.tapinfluence.com": {
+            "included_at_epoch": 1600930187.87579,
+            "included_at_iso": "2020-09-24T06:49:47.875790",
+            "last_retested_at_epoch": 1600930187.87579,
+            "last_retested_at_iso": "2020-09-24T06:49:47.875790",
             "status": "INACTIVE"
         },
         "tradex-d.openx.net": {
@@ -2772,6 +2821,13 @@
             "included_at_iso": "2020-09-02T05:50:44.257088",
             "last_retested_at_epoch": 1599025844.257088,
             "last_retested_at_iso": "2020-09-02T05:50:44.257088",
+            "status": "INACTIVE"
+        },
+        "zeus.ad.intl.xiaomi.com": {
+            "included_at_epoch": 1600930191.847959,
+            "included_at_iso": "2020-09-24T06:49:51.847959",
+            "last_retested_at_epoch": 1600930191.847959,
+            "last_retested_at_iso": "2020-09-24T06:49:51.847959",
             "status": "INACTIVE"
         }
     }

@@ -5907,7 +5907,8 @@
     "sponsorpay.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "spotlight.ee": {
         "epoch": 1617062400.0,
