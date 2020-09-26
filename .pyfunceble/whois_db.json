@@ -448,8 +448,9 @@
         "state": "future"
     },
     "adjust.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adjust.io": {
@@ -488,10 +489,10 @@
         "state": "future"
     },
     "admitad.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "admixer.co.kr": {
         "epoch": 1619222400.0,
@@ -1434,7 +1435,8 @@
     "appfireworks.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "appflood.com": {
         "epoch": 1601424000.0,
