@@ -393,8 +393,9 @@
         "state": "future"
     },
     "adgrx.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adhands.ru": {
@@ -815,8 +816,9 @@
         "state": "future"
     },
     "adservme.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adservone.com": {
@@ -1408,8 +1410,9 @@
         "state": "future"
     },
     "appboy.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appclick.co": {
@@ -1433,14 +1436,15 @@
         "state": "future"
     },
     "appfireworks.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "appflood.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appia.com": {
@@ -1561,8 +1565,9 @@
         "state": "future"
     },
     "apptornado.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appular.com": {
