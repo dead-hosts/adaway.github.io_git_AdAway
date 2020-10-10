@@ -10453,6 +10453,13 @@
             "last_retested_at_iso": "2020-10-08T06:09:28.524793",
             "status": "ACTIVE"
         },
+        "api.altamob.com": {
+            "included_at_epoch": 1602309344.243953,
+            "included_at_iso": "2020-10-10T05:55:44.243953",
+            "last_retested_at_epoch": 1602309344.243953,
+            "last_retested_at_iso": "2020-10-10T05:55:44.243953",
+            "status": "INACTIVE"
+        },
         "api.ampiri.com": {
             "included_at_epoch": 1601100179.491814,
             "included_at_iso": "2020-09-26T06:02:59.491814",
@@ -39825,6 +39832,13 @@
             "last_retested_at_iso": "2020-10-08T06:08:22.505766",
             "status": "ACTIVE"
         },
+        "pixel.admobclick.com": {
+            "included_at_epoch": 1602309344.114141,
+            "included_at_iso": "2020-10-10T05:55:44.114141",
+            "last_retested_at_epoch": 1602309344.114141,
+            "last_retested_at_iso": "2020-10-10T05:55:44.114141",
+            "status": "INACTIVE"
+        },
         "pixel.adsafeprotected.com": {
             "included_at_epoch": 1601100169.759447,
             "included_at_iso": "2020-09-26T06:02:49.759447",
@@ -44068,10 +44082,10 @@
             "status": "ACTIVE"
         },
         "sanalytics.virginmobileusa.com": {
-            "included_at_epoch": 1599720155.758739,
-            "included_at_iso": "2020-09-10T06:42:35.758739",
-            "last_retested_at_epoch": 1599720155.758739,
-            "last_retested_at_iso": "2020-09-10T06:42:35.758739",
+            "included_at_epoch": 1602309344.481516,
+            "included_at_iso": "2020-10-10T05:55:44.481516",
+            "last_retested_at_epoch": 1602309344.481516,
+            "last_retested_at_iso": "2020-10-10T05:55:44.481516",
             "status": "INACTIVE"
         },
         "sandbox.duapps.com": {
@@ -53273,11 +53287,11 @@
             "status": "ACTIVE"
         },
         "u-ad.info": {
-            "included_at_epoch": 1599720154.284733,
-            "included_at_iso": "2020-09-10T06:42:34.284733",
-            "last_retested_at_epoch": 1599720154.284733,
-            "last_retested_at_iso": "2020-09-10T06:42:34.284733",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602309344.354653,
+            "included_at_iso": "2020-10-10T05:55:44.354653",
+            "last_retested_at_epoch": 1602309344.354653,
+            "last_retested_at_iso": "2020-10-10T05:55:44.354653",
+            "status": "ACTIVE"
         },
         "u.cdnwidget.com": {
             "included_at_epoch": 1601100202.32482,
