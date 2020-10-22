@@ -11090,13 +11090,6 @@
             "last_retested_at_iso": "2020-09-26T06:21:58.359693",
             "status": "ACTIVE"
         },
-        "api.life.lovetapmobile.com": {
-            "included_at_epoch": 1600756502.642939,
-            "included_at_iso": "2020-09-22T06:35:02.642939",
-            "last_retested_at_epoch": 1600756502.642939,
-            "last_retested_at_iso": "2020-09-22T06:35:02.642939",
-            "status": "INACTIVE"
-        },
         "api.localytics.com": {
             "included_at_epoch": 1601102349.928212,
             "included_at_iso": "2020-09-26T06:39:09.928212",
@@ -19904,24 +19897,17 @@
             "status": "ACTIVE"
         },
         "cname1.igexin.com": {
-            "included_at_epoch": 1600755485.288223,
-            "included_at_iso": "2020-09-22T06:18:05.288223",
-            "last_retested_at_epoch": 1600755485.288223,
-            "last_retested_at_iso": "2020-09-22T06:18:05.288223",
-            "status": "INACTIVE"
-        },
-        "cname2.igexin.com": {
-            "included_at_epoch": 1600755485.305537,
-            "included_at_iso": "2020-09-22T06:18:05.305537",
-            "last_retested_at_epoch": 1600755485.305537,
-            "last_retested_at_iso": "2020-09-22T06:18:05.305537",
+            "included_at_epoch": 1603346496.913693,
+            "included_at_iso": "2020-10-22T06:01:36.913693",
+            "last_retested_at_epoch": 1603346496.913693,
+            "last_retested_at_iso": "2020-10-22T06:01:36.913693",
             "status": "INACTIVE"
         },
         "cname3.igexin.com": {
-            "included_at_epoch": 1600755485.317356,
-            "included_at_iso": "2020-09-22T06:18:05.317356",
-            "last_retested_at_epoch": 1600755485.317356,
-            "last_retested_at_iso": "2020-09-22T06:18:05.317356",
+            "included_at_epoch": 1603346497.196848,
+            "included_at_iso": "2020-10-22T06:01:37.196848",
+            "last_retested_at_epoch": 1603346497.196848,
+            "last_retested_at_iso": "2020-10-22T06:01:37.196848",
             "status": "INACTIVE"
         },
         "cnn.bounceexchange.com": {
@@ -40974,10 +40960,10 @@
             "status": "ACTIVE"
         },
         "ps.cname1.igexin.com": {
-            "included_at_epoch": 1600755485.297105,
-            "included_at_iso": "2020-09-22T06:18:05.297105",
-            "last_retested_at_epoch": 1600755485.297105,
-            "last_retested_at_iso": "2020-09-22T06:18:05.297105",
+            "included_at_epoch": 1603346497.0871,
+            "included_at_iso": "2020-10-22T06:01:37.087100",
+            "last_retested_at_epoch": 1603346497.0871,
+            "last_retested_at_iso": "2020-10-22T06:01:37.087100",
             "status": "INACTIVE"
         },
         "ps.cname2.igexin.com": {
@@ -44437,13 +44423,6 @@
             "last_retested_at_epoch": 1601101285.091687,
             "last_retested_at_iso": "2020-09-26T06:21:25.091687",
             "status": "ACTIVE"
-        },
-        "sd.cname6.igexin.com": {
-            "included_at_epoch": 1600755485.332668,
-            "included_at_iso": "2020-09-22T06:18:05.332668",
-            "last_retested_at_epoch": 1600755485.332668,
-            "last_retested_at_iso": "2020-09-22T06:18:05.332668",
-            "status": "INACTIVE"
         },
         "sd.iperceptions.com": {
             "included_at_epoch": 1601101299.028756,
@@ -50914,10 +50893,10 @@
             "status": "ACTIVE"
         },
         "talk.igexin.com": {
-            "included_at_epoch": 1600755485.351032,
-            "included_at_iso": "2020-09-22T06:18:05.351032",
-            "last_retested_at_epoch": 1600755485.351032,
-            "last_retested_at_iso": "2020-09-22T06:18:05.351032",
+            "included_at_epoch": 1603346497.310271,
+            "included_at_iso": "2020-10-22T06:01:37.310271",
+            "last_retested_at_epoch": 1603346497.310271,
+            "last_retested_at_iso": "2020-10-22T06:01:37.310271",
             "status": "INACTIVE"
         },
         "talk.nz4.igexin.com": {
