@@ -6004,13 +6004,15 @@
         "state": "future"
     },
     "startapp.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "startappservice.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stat.su": {
@@ -6029,8 +6031,9 @@
         "state": "future"
     },
     "strikead.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "strikeiron.com": {
@@ -6741,13 +6744,15 @@
         "state": "future"
     },
     "vserv.mobi": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1887408000.0,
+        "expiration_date": "23-oct-2029",
+        "server": "whois.nic.mobi",
         "state": "future"
     },
     "w3i.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wafmedia3.com": {
