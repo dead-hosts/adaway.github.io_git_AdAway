@@ -3921,10 +3921,10 @@
         "state": "future"
     },
     "mastermind.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "matheranalytics.com": {
         "epoch": 1666483200.0,
@@ -4166,8 +4166,9 @@
         "state": "future"
     },
     "minimob.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mintrace.com": {
@@ -4186,8 +4187,9 @@
         "state": "future"
     },
     "miva.com": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mixadvert.com": {
@@ -4587,8 +4589,9 @@
         "state": "future"
     },
     "mpnrs.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mprezchc.com": {
@@ -4612,8 +4615,9 @@
         "state": "future"
     },
     "mtrcss.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mxpnl.com": {
@@ -4850,8 +4854,9 @@
         "state": "future"
     },
     "oclaserver.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oconner.biz": {
@@ -5148,8 +5153,9 @@
         "state": "future"
     },
     "pocketmath.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1666224000.0,
+        "expiration_date": "20-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "polarcdn-pentos.com": {
@@ -5318,8 +5324,9 @@
         "state": "future"
     },
     "pub2srv.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pubnative.info": {
@@ -5496,8 +5503,9 @@
         "state": "future"
     },
     "remarketingpixel.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "remox.com": {
@@ -5623,7 +5631,8 @@
     "run-syndicate.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "runads.com": {
         "epoch": 1701820800.0,
