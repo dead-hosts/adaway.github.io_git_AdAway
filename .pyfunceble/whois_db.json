@@ -155,6 +155,12 @@
         "expiration_date": "08-may-2022",
         "state": "future"
     },
+    "ad-x.co.uk": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
     "ad1.ru": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
@@ -997,6 +1003,12 @@
         "expiration_date": "04-apr-2021",
         "state": "future"
     },
+    "adtarget.com.tr": {
+        "epoch": 1727568000.0,
+        "expiration_date": "29-sep-2024",
+        "server": "whois.nic.tr",
+        "state": "future"
+    },
     "adtaxinetworks.com": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
@@ -1198,6 +1210,12 @@
         "epoch": 1630195200.0,
         "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "adzuna.co.uk": {
+        "epoch": 1660780800.0,
+        "expiration_date": "18-aug-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "affiliatetrading.net": {
@@ -6049,6 +6067,12 @@
     "sumome.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "superad2.com.sg": {
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.sgnic.sg",
         "state": "future"
     },
     "supersonicads.com": {
