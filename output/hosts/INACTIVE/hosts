@@ -14,18 +14,22 @@
 0.0.0.0 adobetag.com.edgekey.net
 0.0.0.0 adroll.com.edgekey.net
 0.0.0.0 ads.aws.fwmrm.net
+0.0.0.0 ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.stickyadstv.com.akadns.net
 0.0.0.0 advertisement.tanx.com
 0.0.0.0 adx.admaster.com.cn
 0.0.0.0 ag.innovid.com.akadns.net
 0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 alibaba.tanx.com
+0.0.0.0 alog.umeng.co
 0.0.0.0 am5.vip.prod.criteo.com
 0.0.0.0 am5.vip.prod.criteo.net
 0.0.0.0 analytics.bestbuy.com
 0.0.0.0 analytics.edgekey.net
+0.0.0.0 analytics.ma.tune.com
 0.0.0.0 aniview.com.edgekey.net
 0.0.0.0 apdc3n.adpushup.com
+0.0.0.0 api.admob.xiaomi.com
 0.0.0.0 api.appdynamics.com
 0.0.0.0 api.jeeng.com
 0.0.0.0 api.kaffnet.com
@@ -41,6 +45,7 @@
 0.0.0.0 as.criteo.com
 0.0.0.0 as.criteo.net
 0.0.0.0 asvn.innity.com
+0.0.0.0 au.umeng.co
 0.0.0.0 betrad.com.edgekey.net
 0.0.0.0 bidder.owneriq.net
 0.0.0.0 bidi-geo.mythings.com
@@ -55,6 +60,7 @@
 0.0.0.0 cdn.responsys.net
 0.0.0.0 cdn.stickyadstv.com.akadns.net
 0.0.0.0 cdne.cpmstar.com
+0.0.0.0 cdns.turn.com
 0.0.0.0 cl6.perimeterx.net
 0.0.0.0 clicktale.net.edgekey.net
 0.0.0.0 client.optimizely.com
@@ -71,6 +77,7 @@
 0.0.0.0 cookiebot.com.edgekey.net
 0.0.0.0 cookiebot.com-v1.edgekey.net
 0.0.0.0 cs.nex8.net
+0.0.0.0 cs.vdopia.com
 0.0.0.0 ct.impactradius.com
 0.0.0.0 cxense.com.edgekey.net
 0.0.0.0 da1.vip.prod.criteo.com
@@ -93,6 +100,8 @@
 0.0.0.0 dvgtm.akadns.net
 0.0.0.0 eastus.trafficmanager.inmobi.com
 0.0.0.0 eastus-ssp.appgwv2.inmobi.com
+0.0.0.0 eks-prod-1b.vungle.com
+0.0.0.0 eks-prod-1c.vungle.com
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 eqv-rtb1.rfihub.com
 0.0.0.0 eu.criteo.com
@@ -143,11 +152,13 @@
 0.0.0.0 kaltura.com.edgekey.net
 0.0.0.0 kaltura.perf.akadns.net
 0.0.0.0 kpns.ijinshan.com
+0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l.admedo.com
 0.0.0.0 l.inmobicdn.cn
 0.0.0.0 l.inmobicdn.net
 0.0.0.0 legacy.dotomi.weighted.com.akadns.net
 0.0.0.0 liehu.ijinshan.com
+0.0.0.0 log.umtrack.com
 0.0.0.0 marketo.com.edgekey.net
 0.0.0.0 marketo.net.edgekey.net
 0.0.0.0 mathtag.com.edgekey.net
@@ -163,6 +174,7 @@
 0.0.0.0 nl.eu.criteo.com
 0.0.0.0 nl.eu.criteo.net
 0.0.0.0 ntv.io.edgekey.net
+0.0.0.0 oc.umeng.co
 0.0.0.0 onetag.io.edgekey.net
 0.0.0.0 open.inc2.igexin.com
 0.0.0.0 open.phone.igexin.com
@@ -174,6 +186,7 @@
 0.0.0.0 origin.kaltura.com
 0.0.0.0 origin.kaltura.perf.akadns.net
 0.0.0.0 ott.kaltura.com
+0.0.0.0 out.usbla.net
 0.0.0.0 outbrain.com.edgekey.net
 0.0.0.0 outbrainimg.com.edgekey.net
 0.0.0.0 owneriq.net.edgekey.net
@@ -181,6 +194,7 @@
 0.0.0.0 par.vip.prod.criteo.com
 0.0.0.0 par.vip.prod.criteo.net
 0.0.0.0 personalization.centech.glulive.com
+0.0.0.0 post1.voiceads.cn
 0.0.0.0 postimp-ofw.fyber.com
 0.0.0.0 pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.cloud.ogury.io
@@ -189,6 +203,7 @@
 0.0.0.0 prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 prod.pw.analytics.console.aws.a2z.com
 0.0.0.0 pub.local.emxdgt.com
+0.0.0.0 publishers.tremorhub.com
 0.0.0.0 push.io.edgekey.net
 0.0.0.0 push.mob.com
 0.0.0.0 pw.analytics.console.aws.a2z.com
@@ -203,6 +218,7 @@
 0.0.0.0 rubiconproject.net.akadns.net
 0.0.0.0 rum.logsss.com
 0.0.0.0 s.innovid.com.akadns.net
+0.0.0.0 s.yieldmo.com
 0.0.0.0 scorecardresearch.com.edgekey.net
 0.0.0.0 sdk.batmobi.net
 0.0.0.0 sdk.eastus-ssp.appgwv2.inmobi.com
@@ -211,6 +227,8 @@
 0.0.0.0 sdk.jiguang.cn
 0.0.0.0 sdk.open.inc2.igexin.com
 0.0.0.0 sdk.scopely.io
+0.0.0.0 sdk.voiceads.cn
+0.0.0.0 sdkconfig.voiceads.cn
 0.0.0.0 search.deployads.com
 0.0.0.0 sentinel.mob.com
 0.0.0.0 serving-sys.com.edgekey.net
@@ -230,11 +248,14 @@
 0.0.0.0 static.ad.atdmt.com
 0.0.0.0 static.startappservice.com
 0.0.0.0 static.track.omguk.com
+0.0.0.0 stats.umsns.com
 0.0.0.0 stickyadstv.com.akadns.net
 0.0.0.0 stinger-ad.bidr.io
 0.0.0.0 sync.ad.cpe.dotomi.com
 0.0.0.0 t.domdex.com
+0.0.0.0 t.global.yyapi.net
 0.0.0.0 tacoda.at.atwola.com
+0.0.0.0 tas.yieldmo.com
 0.0.0.0 tcp.push.mob.com
 0.0.0.0 teads.tv.edgekey.net
 0.0.0.0 teads.tv-v1.edgekey.net
@@ -270,6 +291,7 @@
 0.0.0.0 us-west-2.stinger-ad.bidr.io
 0.0.0.0 utag.ijinshan.com
 0.0.0.0 u-us.openx.net
+0.0.0.0 v2.yieldlove-ad-serving.net
 0.0.0.0 va1.vip.prod.criteo.com
 0.0.0.0 va1.vip.prod.criteo.net
 0.0.0.0 va.us.criteo.com
