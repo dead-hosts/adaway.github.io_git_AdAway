@@ -16467,10 +16467,10 @@
             "status": "ACTIVE"
         },
         "beacon.s-onetag.com": {
-            "included_at_epoch": 1601963665.264602,
-            "included_at_iso": "2020-10-06T05:54:25.264602",
-            "last_retested_at_epoch": 1601963665.264602,
-            "last_retested_at_iso": "2020-10-06T05:54:25.264602",
+            "included_at_epoch": 1604384416.599816,
+            "included_at_iso": "2020-11-03T06:20:16.599816",
+            "last_retested_at_epoch": 1604384416.599816,
+            "last_retested_at_iso": "2020-11-03T06:20:16.599816",
             "status": "ACTIVE"
         },
         "beacon.scorecardresearch.com.edgekey.net": {
@@ -18509,13 +18509,6 @@
             "last_retested_at_epoch": 1603694039.861872,
             "last_retested_at_iso": "2020-10-26T06:33:59.861872",
             "status": "ACTIVE"
-        },
-        "cat.sv.us.criteo.com": {
-            "included_at_epoch": 1601963664.793734,
-            "included_at_iso": "2020-10-06T05:54:24.793734",
-            "last_retested_at_epoch": 1601963664.793734,
-            "last_retested_at_iso": "2020-10-06T05:54:24.793734",
-            "status": "INACTIVE"
         },
         "cat.ty5.vip.prod.criteo.com": {
             "included_at_epoch": 1604211587.180953,
@@ -23145,10 +23138,10 @@
             "status": "ACTIVE"
         },
         "connect-metrics-collector.s-onetag.com": {
-            "included_at_epoch": 1601963665.375824,
-            "included_at_iso": "2020-10-06T05:54:25.375824",
-            "last_retested_at_epoch": 1601963665.375824,
-            "last_retested_at_iso": "2020-10-06T05:54:25.375824",
+            "included_at_epoch": 1604384416.723918,
+            "included_at_iso": "2020-11-03T06:20:16.723918",
+            "last_retested_at_epoch": 1604384416.723918,
+            "last_retested_at_iso": "2020-11-03T06:20:16.723918",
             "status": "ACTIVE"
         },
         "connect.scroll.com": {
@@ -28842,13 +28835,6 @@
             "last_retested_at_iso": "2020-11-01T06:22:19.877050",
             "status": "ACTIVE"
         },
-        "eventcollectorws-prod-1.us-east-1.elasticbeanstalk.com": {
-            "included_at_epoch": 1601963665.1541,
-            "included_at_iso": "2020-10-06T05:54:25.154100",
-            "last_retested_at_epoch": 1601963665.1541,
-            "last_retested_at_iso": "2020-10-06T05:54:25.154100",
-            "status": "INACTIVE"
-        },
         "eventlog.outbrain.com": {
             "included_at_epoch": 1603695223.89936,
             "included_at_iso": "2020-10-26T06:53:43.899360",
@@ -31160,10 +31146,10 @@
             "status": "ACTIVE"
         },
         "geo-location.s-onetag.com": {
-            "included_at_epoch": 1601963665.596045,
-            "included_at_iso": "2020-10-06T05:54:25.596045",
-            "last_retested_at_epoch": 1601963665.596045,
-            "last_retested_at_iso": "2020-10-06T05:54:25.596045",
+            "included_at_epoch": 1604384416.974799,
+            "included_at_iso": "2020-11-03T06:20:16.974799",
+            "last_retested_at_epoch": 1604384416.974799,
+            "last_retested_at_iso": "2020-11-03T06:20:16.974799",
             "status": "ACTIVE"
         },
         "geo-tracker.smadex.com": {
@@ -31342,10 +31328,10 @@
             "status": "ACTIVE"
         },
         "get.s-onetag.com": {
-            "included_at_epoch": 1601963665.486888,
-            "included_at_iso": "2020-10-06T05:54:25.486888",
-            "last_retested_at_epoch": 1601963665.486888,
-            "last_retested_at_iso": "2020-10-06T05:54:25.486888",
+            "included_at_epoch": 1604384416.850313,
+            "included_at_iso": "2020-11-03T06:20:16.850313",
+            "last_retested_at_epoch": 1604384416.850313,
+            "last_retested_at_iso": "2020-11-03T06:20:16.850313",
             "status": "ACTIVE"
         },
         "getwisdom.io": {
@@ -43319,10 +43305,10 @@
             "status": "ACTIVE"
         },
         "onetag-geo-grouping.s-onetag.com": {
-            "included_at_epoch": 1601963665.705408,
-            "included_at_iso": "2020-10-06T05:54:25.705408",
-            "last_retested_at_epoch": 1601963665.705408,
-            "last_retested_at_iso": "2020-10-06T05:54:25.705408",
+            "included_at_epoch": 1604384417.225821,
+            "included_at_iso": "2020-11-03T06:20:17.225821",
+            "last_retested_at_epoch": 1604384417.225821,
+            "last_retested_at_iso": "2020-11-03T06:20:17.225821",
             "status": "ACTIVE"
         },
         "onetag-geo.onscroll.com": {
@@ -43333,10 +43319,10 @@
             "status": "ACTIVE"
         },
         "onetag-geo.s-onetag.com": {
-            "included_at_epoch": 1601963665.815702,
-            "included_at_iso": "2020-10-06T05:54:25.815702",
-            "last_retested_at_epoch": 1601963665.815702,
-            "last_retested_at_iso": "2020-10-06T05:54:25.815702",
+            "included_at_epoch": 1604384417.100112,
+            "included_at_iso": "2020-11-03T06:20:17.100112",
+            "last_retested_at_epoch": 1604384417.100112,
+            "last_retested_at_iso": "2020-11-03T06:20:17.100112",
             "status": "ACTIVE"
         },
         "onetag.io.edgekey.net": {
@@ -49814,13 +49800,6 @@
             "last_retested_at_iso": "2020-10-26T06:53:33.409467",
             "status": "ACTIVE"
         },
-        "rtb.sv.us.criteo.com": {
-            "included_at_epoch": 1601963664.931188,
-            "included_at_iso": "2020-10-06T05:54:24.931188",
-            "last_retested_at_epoch": 1601963664.931188,
-            "last_retested_at_iso": "2020-10-06T05:54:24.931188",
-            "status": "INACTIVE"
-        },
         "rtb.va.us.criteo.com": {
             "included_at_epoch": 1603694040.353213,
             "included_at_iso": "2020-10-26T06:34:00.353213",
@@ -53812,10 +53791,10 @@
             "status": "ACTIVE"
         },
         "signal-metrics-collector-beta.s-onetag.com": {
-            "included_at_epoch": 1601963665.92518,
-            "included_at_iso": "2020-10-06T05:54:25.925180",
-            "last_retested_at_epoch": 1601963665.92518,
-            "last_retested_at_iso": "2020-10-06T05:54:25.925180",
+            "included_at_epoch": 1604384417.350012,
+            "included_at_iso": "2020-11-03T06:20:17.350012",
+            "last_retested_at_epoch": 1604384417.350012,
+            "last_retested_at_iso": "2020-11-03T06:20:17.350012",
             "status": "ACTIVE"
         },
         "signal-sdk-service-production.ap-south-1.elasticbeanstalk.com": {
@@ -56360,10 +56339,10 @@
             "status": "ACTIVE"
         },
         "static.dynamicyield.com": {
-            "included_at_epoch": 1601963665.043138,
-            "included_at_iso": "2020-10-06T05:54:25.043138",
-            "last_retested_at_epoch": 1601963665.043138,
-            "last_retested_at_iso": "2020-10-06T05:54:25.043138",
+            "included_at_epoch": 1604384416.432458,
+            "included_at_iso": "2020-11-03T06:20:16.432458",
+            "last_retested_at_epoch": 1604384416.432458,
+            "last_retested_at_iso": "2020-11-03T06:20:16.432458",
             "status": "INACTIVE"
         },
         "static.earnify.com": {
