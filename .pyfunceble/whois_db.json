@@ -715,7 +715,8 @@
     "adpxl.co": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "adquota.com": {
         "epoch": 1614211200.0,
