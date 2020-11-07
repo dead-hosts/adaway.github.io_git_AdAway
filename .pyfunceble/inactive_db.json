@@ -11077,10 +11077,10 @@
             "status": "ACTIVE"
         },
         "api.altamob.com": {
-            "included_at_epoch": 1602309344.243953,
-            "included_at_iso": "2020-10-10T05:55:44.243953",
-            "last_retested_at_epoch": 1602309344.243953,
-            "last_retested_at_iso": "2020-10-10T05:55:44.243953",
+            "included_at_epoch": 1604729386.882425,
+            "included_at_iso": "2020-11-07T06:09:46.882425",
+            "last_retested_at_epoch": 1604729386.882425,
+            "last_retested_at_iso": "2020-11-07T06:09:46.882425",
             "status": "INACTIVE"
         },
         "api.ampiri.com": {
@@ -45538,10 +45538,10 @@
             "status": "ACTIVE"
         },
         "pixel.admobclick.com": {
-            "included_at_epoch": 1602309344.114141,
-            "included_at_iso": "2020-10-10T05:55:44.114141",
-            "last_retested_at_epoch": 1604557497.926443,
-            "last_retested_at_iso": "2020-11-05T06:24:57.926443",
+            "included_at_epoch": 1604729386.738859,
+            "included_at_iso": "2020-11-07T06:09:46.738859",
+            "last_retested_at_epoch": 1604729386.738859,
+            "last_retested_at_iso": "2020-11-07T06:09:46.738859",
             "status": "INACTIVE"
         },
         "pixel.adsafeprotected.com": {
@@ -51031,13 +51031,6 @@
             "last_retested_at_epoch": 1603696038.283162,
             "last_retested_at_iso": "2020-10-26T07:07:18.283162",
             "status": "ACTIVE"
-        },
-        "sanalytics.virginmobileusa.com": {
-            "included_at_epoch": 1602309344.481516,
-            "included_at_iso": "2020-10-10T05:55:44.481516",
-            "last_retested_at_epoch": 1602309344.481516,
-            "last_retested_at_iso": "2020-10-10T05:55:44.481516",
-            "status": "INACTIVE"
         },
         "sandbox.duapps.com": {
             "included_at_epoch": 1603694054.825001,
@@ -61652,10 +61645,10 @@
             "status": "INACTIVE"
         },
         "u-ad.info": {
-            "included_at_epoch": 1602309344.354653,
-            "included_at_iso": "2020-10-10T05:55:44.354653",
-            "last_retested_at_epoch": 1602309344.354653,
-            "last_retested_at_iso": "2020-10-10T05:55:44.354653",
+            "included_at_epoch": 1604729387.005567,
+            "included_at_iso": "2020-11-07T06:09:47.005567",
+            "last_retested_at_epoch": 1604729387.005567,
+            "last_retested_at_iso": "2020-11-07T06:09:47.005567",
             "status": "ACTIVE"
         },
         "u-us.openx.net": {
