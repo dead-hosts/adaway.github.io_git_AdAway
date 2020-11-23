@@ -6535,8 +6535,9 @@
         "state": "future"
     },
     "unimhk.com": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unityads.com": {
@@ -6829,8 +6830,9 @@
         "state": "future"
     },
     "wapstart.ru": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "warp.ly": {
@@ -6874,8 +6876,9 @@
         "state": "future"
     },
     "wigetmedia.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wiyun.com": {
@@ -6906,7 +6909,8 @@
     "wowanalytics.co.uk": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "wqmobile.com": {
         "epoch": 1604620800.0,
@@ -7061,8 +7065,9 @@
         "state": "future"
     },
     "youradexchange.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yourblocksite.com": {
