@@ -1639,7 +1639,8 @@
     "ato.mx": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
-        "state": "future"
+        "server": "whois.mx",
+        "state": "past"
     },
     "atti.com": {
         "epoch": 1614038400.0,
@@ -1652,8 +1653,9 @@
         "state": "future"
     },
     "augur.io": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "authorne.info": {
@@ -1907,8 +1909,9 @@
         "state": "future"
     },
     "brainient.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "branch.io": {
@@ -2089,13 +2092,15 @@
         "state": "future"
     },
     "celltick.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1667606400.0,
+        "expiration_date": "05-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "celtra.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "centerpointmedia.com": {
@@ -2199,8 +2204,9 @@
         "state": "future"
     },
     "clkdeals.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cloudmobi.net": {
@@ -2694,8 +2700,9 @@
         "state": "future"
     },
     "etahub.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etcodes.com": {
@@ -2709,8 +2716,9 @@
         "state": "future"
     },
     "everestads.net": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "everesttech.net": {
@@ -2771,8 +2779,9 @@
         "state": "future"
     },
     "fiksu.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fimc.net": {
