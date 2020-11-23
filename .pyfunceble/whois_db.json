@@ -197,8 +197,9 @@
         "state": "future"
     },
     "ad4push.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1699315200.0,
+        "expiration_date": "07-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad6media.fr": {
@@ -708,15 +709,16 @@
         "state": "future"
     },
     "adprotected.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adpxl.co": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "adquota.com": {
         "epoch": 1614211200.0,
@@ -1291,8 +1293,9 @@
         "state": "future"
     },
     "am15.net": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amazemobilemedia.com": {
