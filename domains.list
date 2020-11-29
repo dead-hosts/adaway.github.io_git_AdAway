@@ -1338,18 +1338,6 @@ fls-eu.amazon.com
 fls-fe.amazon.com
 fls-na.amazon.com
 mads.amazon.com
-fls-fe.amazon.com.au
-fls-na.amazon.com.br
-fls-na.amazon.com.mx
-fls-eu.amazon.de
-fls-eu.amazon.es
-fls-eu.amazon.fr
-fls-eu.amazon.in
-fls-eu.amazon.it
-fls-eu.amazon.nl
-fls-eu.amazon.sa
-fls-eu.amazon.se
-fls-fe.amazon.sg
 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
 adserver-1277986481.ap-northeast-1.elb.amazonaws.com
 adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com
@@ -3405,8 +3393,6 @@ ssum.casalemedia.com.edgekey.net
 ssum-sec.casalemedia.com.edgekey.net
 convertexperiments.com.edgekey.net
 cdn-3.convertexperiments.com.edgekey.net
-cookiebot.com.edgekey.net
-consent.cookiebot.com.edgekey.net
 cxense.com.edgekey.net
 cdn.cxense.com.edgekey.net
 doubleverify.com.edgekey.net
@@ -3489,7 +3475,6 @@ pangle.io.edgekey.net
 push.io.edgekey.net
 san.push.io.edgekey.net
 moatpixel1.edgekey.net
-mobi.edgekey.net
 tracking.admarketplace.net.edgekey.net
 tag.aticdn.net.edgekey.net
 mobilepartner.avcdn.net.edgekey.net
