@@ -1949,13 +1949,15 @@
         "state": "future"
     },
     "btrll.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bttn.io": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "bubblesmedia.ru": {
@@ -2004,8 +2006,9 @@
         "state": "future"
     },
     "c8.net.ua": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "capacitly.com": {
@@ -2163,8 +2166,9 @@
         "state": "future"
     },
     "clickfuse.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickhubs.com": {
@@ -2295,8 +2299,9 @@
         "state": "future"
     },
     "count.ly": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1670716800.0,
+        "expiration_date": "11-dec-2022",
+        "server": "whois.nic.ly",
         "state": "future"
     },
     "cpmrocket.com": {
@@ -2522,8 +2527,9 @@
         "state": "future"
     },
     "dotandad.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dotomi.com": {
@@ -3001,8 +3007,9 @@
         "state": "future"
     },
     "googletagservices.com": {
-        "epoch": 1608163200.0,
-        "expiration_date": "17-dec-2020",
+        "epoch": 1639699200.0,
+        "expiration_date": "17-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gop1.co": {
@@ -3022,8 +3029,9 @@
         "state": "future"
     },
     "gowadogo.com": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1764201600.0,
+        "expiration_date": "27-nov-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gowide.com": {
@@ -3315,8 +3323,9 @@
         "state": "future"
     },
     "id1.cn": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "idcounter.com": {
