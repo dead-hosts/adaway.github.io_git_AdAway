@@ -1724,7 +1724,8 @@
         "user.party.eus"
     ],
     "events": [
-        "co.events"
+        "co.events",
+        "noop.app"
     ],
     "faith": [
         "ybo.faith"
