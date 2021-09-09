@@ -146,3 +146,13 @@ user_agent:
     custom: null
     platform: linux
 verify_ssl_certificate: false
+reputation: false
+    special: true
+    timeout: 5
+    whois: true
+share_logs: false
+user_agent:
+    browser: chrome
+    custom: null
+    platform: linux
+verify_ssl_certificate: false
