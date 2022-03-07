@@ -5,7 +5,7 @@
         "CloudFlare, Inc.": 1,
         "DYNADOT, LLC": 2,
         "Gandi SAS": 3,
-        "GoDaddy.com, LLC": 11,
+        "GoDaddy.com, LLC": 12,
         "IONOS SE": 1,
         "Instra Corporation Pty Ltd.": 1,
         "MarkMonitor Inc.": 4,
@@ -13,22 +13,22 @@
         "NameCheap, Inc.": 2,
         "OVH sas": 1,
         "Whois Corp.": 1,
-        "total": 31
+        "total": 32
     },
     "percentage": {
-        "1API GmbH": 3.225806451612903,
-        "Amazon Registrar, Inc.": 6.451612903225806,
-        "CloudFlare, Inc.": 3.225806451612903,
-        "DYNADOT, LLC": 6.451612903225806,
-        "Gandi SAS": 9.67741935483871,
-        "GoDaddy.com, LLC": 35.483870967741936,
-        "IONOS SE": 3.225806451612903,
-        "Instra Corporation Pty Ltd.": 3.225806451612903,
-        "MarkMonitor Inc.": 12.903225806451612,
-        "NETIM sarl": 3.225806451612903,
-        "NameCheap, Inc.": 6.451612903225806,
-        "OVH sas": 3.225806451612903,
-        "Whois Corp.": 3.225806451612903,
-        "total": 99.99999999999997
+        "1API GmbH": 3.125,
+        "Amazon Registrar, Inc.": 6.25,
+        "CloudFlare, Inc.": 3.125,
+        "DYNADOT, LLC": 6.25,
+        "Gandi SAS": 9.375,
+        "GoDaddy.com, LLC": 37.5,
+        "IONOS SE": 3.125,
+        "Instra Corporation Pty Ltd.": 3.125,
+        "MarkMonitor Inc.": 12.5,
+        "NETIM sarl": 3.125,
+        "NameCheap, Inc.": 6.25,
+        "OVH sas": 3.125,
+        "Whois Corp.": 3.125,
+        "total": 100.0
     }
 }
