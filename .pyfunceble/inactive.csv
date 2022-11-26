@@ -1,12 +1,5 @@
 idna_subject,checker_type,destination,tested_at
-config.88-f.net,AVAILABILITY,origin.list,2022-11-01 06:39:23.825010
-cdn.88-f.net,AVAILABILITY,origin.list,2022-11-01 06:39:24.055922
-fl.a.ki,AVAILABILITY,origin.list,2022-11-01 06:39:24.534861
-rs2.adledge.com,AVAILABILITY,origin.list,2022-11-01 06:39:25.017480
-epn.adledge.com,AVAILABILITY,origin.list,2022-11-01 06:39:25.476525
-datam16.adlooxtracking.com,AVAILABILITY,origin.list,2022-11-01 06:39:26.436186
 rs.adledge.com,AVAILABILITY,origin.list,2022-11-01 06:39:26.533618
-certify-amp.alexametrics.com,AVAILABILITY,origin.list,2022-11-01 06:39:27.068651
 ser.adledge.com,AVAILABILITY,origin.list,2022-11-01 06:39:27.256364
 adserver-vpc-alb-1-769379334.ap-northeast-1.elb.amazonaws.com,AVAILABILITY,origin.list,2022-11-01 06:39:27.830494
 adserver-vpc-alb-0-649637586.ap-northeast-1.elb.amazonaws.com,AVAILABILITY,origin.list,2022-11-01 06:39:27.958635
@@ -678,3 +671,10 @@ sms.mob.com,AVAILABILITY,origin.list,2022-11-01 06:42:08.429753
 app.roximity.com,AVAILABILITY,origin.list,2022-11-01 06:42:08.519015
 certify.alexametrics.com,AVAILABILITY,origin.list,2022-11-26 05:14:30.289258
 x.fidelity-media.com,AVAILABILITY,origin.list,2022-11-26 05:40:16.227071
+cdn.88-f.net,AVAILABILITY,origin.list,2022-11-26 06:31:29.588543
+config.88-f.net,AVAILABILITY,origin.list,2022-11-26 06:31:29.673265
+fl.a.ki,AVAILABILITY,origin.list,2022-11-26 06:31:30.637700
+rs2.adledge.com,AVAILABILITY,origin.list,2022-11-26 06:31:30.831776
+datam16.adlooxtracking.com,AVAILABILITY,origin.list,2022-11-26 06:31:30.978407
+epn.adledge.com,AVAILABILITY,origin.list,2022-11-26 06:31:31.334834
+certify-amp.alexametrics.com,AVAILABILITY,origin.list,2022-11-26 06:31:32.348069
